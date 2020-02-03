@@ -1,0 +1,14 @@
+Choose your keyboard layout = us.dvorak
+System hostname = new_workstation
+Password for root = *************
+# Do you expect to run the X Windows System = no
+# Change the default console to com0 = yes
+# Which speed should com0 use = 19200
+Allow root ssh login = yes
+Which disk is the root disk = sd2
+What timezone are you in = US/Pacific
+Location of sets = http
+HTTP Server = ftp.openbsd.org
+Set name(s) = *
+URL to autopartitioning template for disklabel = https://ggr.com/workstation.disk
+Public ssh key for root account = ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDA5RVhrECeORM6VHJfqmrYNQZZmyt5oOieNSpo7djwh+PpEkzgQ6ltDDHfkfFd8gx7k082ng40OpDWF3kSk0/w6AwIEhHydoJ3PIHx1WmV7Meo4EF9rWXOlY9is8g4A50r26O42KtfEB//+RFHN8NSLSQm3P/4PSsoInqDNXc6U/14dWGBbkuNkJT+ZndILlzvU25qdbJTMq2JO/o8BWAaxdkCii+0pLPEdINlpT6w0Elm71BhFa4lE+TjhdOoywVHgyBleQh1io9jMjS+rUkZ0419n2XEYQHrEp4/6ua8FUGR9xc7JEaMEswUGdYCyUGn2NpdWqoSE4wYgL8F9LCs3xn8Jga8klIlvuyg0Qpo3S2kmyp4WFw2OL0ulq2xnhr33BxzCjAbNv9o7kcP88xx9y+n3vGSqn4B0xmzD83zfPn6/juuVR2nf8IDjuXhb2JFvk9OrxSo9di0l0OjsGaF4ZvGSiRUP1grElWKSzV7n45FztBzXqv5eY2UeAkFUno2RQ+wsW4mhNyZX+at0AGcFZqD2B3zHB0vHYPBdiKyL9TCuKvkt3/ISx+j3B3NkgZga/eE6kaD6w/XsLhfgVyPqDyHko6sD8MsxNgOKqkIXj5Gftk0MH5cXT/oEFYjoug81Gi1UhAKPQxvHE2AN+snF9w0zBCg3HRACug8g/GmRQ== cardno:000500005581

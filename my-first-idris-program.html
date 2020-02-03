@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            game, game. repeat. - My First Idris Program
+        </title>
+        <link rel="stylesheet" href="./css/default.css">
+        <link href="./atom.xml" type="application/atom+xml" rel="alternate" title="Full Atom Feed">
+        <meta charset="utf-8" />
+    </head>
+
+    <body class="home" id="index">
+        <div id="sitename">
+            <div class="sitename_char"><a href="./">g</a></div>
+            <div class="sitename_char">ame, g</div>
+            <div class="sitename_char"><a href="./about.html">a</a></div>
+            <div class="sitename_char">me. repea</div>
+            <div class="sitename_char"><a href="./tags/">t</a></div>
+            <div class="sitename_char">.</div>
+        </div>
+        <div id="content">
+            <div id="header">
+    <h2 class="entry-title">
+        My First Idris Program
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Tue 15 August 2017
+            <a href="./tags/code.html">#code</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p><a href="http://www.idris-lang.org/">Idris</a> is sort of ‘Haskell 2.0’, where the authors got to apply the lessons learned from the creation and evolution of Haskell, but leave behind all the baggage embedded in existing, in use libraries, since, you know, they don’t have any of those yet. With the recent release of <a href="https://www.manning.com/books/type-driven-development-with-idris">the book</a> I was inspired to take Idris for a spin and see for myself just how lacking of <a href="https://www.idris-lang.org/idris-1-0-released/">‘production readiness’</a> it is.</p>
+<p>One of my favorite ways to try a new language is to use it for scripting. I write and run small scripts a lot, and the combination of the scripts being small+simple and part of my day-to-day make them a great tool for learning in bite-sized increments all the time. Before I know it, I’ve got the hang of the new language…</p>
+<p>Alright, enough talk, here’s my first Idris program–it’s a script for searching for an OpenBSD package by name:</p>
+<pre><code>#!/usr/bin/env runidris
+-- vim:ft=idris:
+
+import System
+
+partial
+main : IO ()
+main = do
+    args &lt;- getArgs
+    case args of
+        (_::terms) =&gt; do
+            let query = unwords terms
+            ec &lt;- system $
+                    &quot;/usr/local/bin/sqlite3 /usr/local/share/sqlports &quot;
+                  ++ &quot;\&quot;SELECT DISTINCT pkgname || ': ' || comment AS result &quot;
+                  ++ &quot;FROM ports &quot;
+                  ++ &quot;WHERE pkgname LIKE '%&quot; ++ query ++ &quot;%' &quot;
+                  ++ &quot;OR comment LIKE '%&quot; ++ query ++ &quot;%' &quot;
+                  ++ &quot;ORDER BY 1\&quot;&quot;
+                  ++ &quot; | ag -i \&quot;&quot; ++ query ++ &quot;\&quot;&quot;
+            pure ()
+        _ =&gt; pure ()</code></pre>
+<p><code>runidris</code> is a recent addition to Idris, not yet tauted, and not yet installed for you, but you can find it in the <a href="https://github.com/idris-lang/Idris-dev/blob/master/scripts/runidris">scripts</a> directory if you install Idris from source. You’ll need to move it to a directory on your PATH and then you’re ready to go. If you use Vim+<a href="https://github.com/w0rp/ale">Ale</a> as your editor and linter combo, there’s some basic support for flagging errors inline…doesn’t work perfectly yet, but its a start.</p>
+</div>
+
+        </div>
+    </body>
+</html>
+

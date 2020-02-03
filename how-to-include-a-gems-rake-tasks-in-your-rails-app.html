@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            game, game. repeat. - How To Include a Gem's Rake Tasks in Your Rails App
+        </title>
+        <link rel="stylesheet" href="./css/default.css">
+        <link href="./atom.xml" type="application/atom+xml" rel="alternate" title="Full Atom Feed">
+        <meta charset="utf-8" />
+    </head>
+
+    <body class="home" id="index">
+        <div id="sitename">
+            <div class="sitename_char"><a href="./">g</a></div>
+            <div class="sitename_char">ame, g</div>
+            <div class="sitename_char"><a href="./about.html">a</a></div>
+            <div class="sitename_char">me. repea</div>
+            <div class="sitename_char"><a href="./tags/">t</a></div>
+            <div class="sitename_char">.</div>
+        </div>
+        <div id="content">
+            <div id="header">
+    <h2 class="entry-title">
+        How To Include a Gem's Rake Tasks in Your Rails App
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Mon 14 September 2009
+            <a href="./tags/code.html">#code</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p>Rake tasks contained in a gem are not automatically available to a rails app that requires the gem. Whether that’s the right way to do things is <a href="https://rails.lighthouseapp.com/projects/8994/tickets/59">under debate</a>, but in the mean time there are a couple workarounds.</p>
+<p><strong>Option #1</strong>: Use the gem as a plugin instead. Files that match the following pattern are automatically pulled in, so you’re good to go:</p>
+<blockquote>
+<div>
+<p>
+#{RAILS_ROOT}/vendor/plugins/<em>/<strong>/tasks/</strong>/</em>.rake
+</p>
+</div>
+</blockquote>
+<p><strong>Option #2</strong>: Create a ruby file that loads the gem’s tasks, then require the ruby file you made in your rail app’s Rakefile. For example, if you’ve installed the Facebooker gem and you want to use its rake tasks, you might create a file called ‘facebooker.rb’ and save it to your <em><railsapproot>/tasks</em> directory with these contents:</p>
+<blockquote>
+<div>
+<p>
+$VERBOSE = nil<br />Dir["#{Gem.searcher.find(‘facebooker’).full_gem_path}/lib/tasks/*.rake"].each { |ext| load ext }
+</p>
+</div>
+</blockquote>
+<p>Then add this line to your Rakefile:</p>
+<blockquote>
+<div>
+<p>
+require ‘tasks/facebooker’
+</p>
+</div>
+</blockquote>
+<p>But as it turns out, Facebooker’s tasks uses relative paths to get at its config file in your rails app, which won’t work if its installed in the gem path as a gem rather than in your rails app as a plugin! So be careful with using option #2, it may not be what the gem you’re trying to use expects.</p>
+</div>
+
+        </div>
+    </body>
+</html>
+

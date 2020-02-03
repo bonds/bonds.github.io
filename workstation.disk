@@ -1,0 +1,10 @@
+/              1G
+swap           4G-16G 4%
+/tmp           4G-8G  4%
+/var           8G-16G 8%
+/usr           8G-16G 8%
+/usr/X11R6     1G
+/usr/local     8G-32G 16%
+/usr/src       2G-8G  4%
+/usr/obj       2G-8G  4%
+/home          16G-*  48%

@@ -1,0 +1,125 @@
+
+body
+{
+  font-family : monospace;
+  font-size   : 25px;
+  position    : absolute;
+  top         : -40px;
+  width       : 100%;
+  margin      : 0px 0px 0px 0px;
+}
+
+a:link
+{
+  text-decoration : none;
+}
+
+.index-date
+{
+  display        : inline-block;
+  vertical-align : middle;
+  text-align     : right;
+  width          : 90px;
+  height         : 25px;
+  color          : #555555;
+  font-size      : 70%;
+}
+
+.index-title
+{
+  display        : inline-block;
+  vertical-align : middle;
+  width          : 75%;
+}
+
+ol
+{
+  list-style-position : inside;
+  padding             : 0 0 0 0;
+}
+
+li::before
+{
+  color : #cccccc;
+}
+
+#content
+{
+  padding-left  : 50px;
+  padding-right : 50px;
+  clear         : left;
+}
+
+.published
+{
+  color     : #555555;
+  font-size : 70%;
+}
+
+.entry-title
+{
+  margin-bottom : 0;
+}
+
+#sitename
+{
+  margin : 8px 0 0 8px;
+}
+
+.sitename_char
+{
+  display     : inline-block;
+  float       : left;
+  font-size   : 2em;
+  margin      : 0.67em 0 0.67em 0;
+  font-weight : bold;
+}
+
+.ribbon
+{
+  position : absolute;
+  top      : 30px;
+  right    : 0px;
+  height   : 300px;
+  width    : 300px;
+  overflow : hidden;
+}
+
+.ribbon_box
+{
+  position          : relative;
+  width             : 380px;
+  top               : 0px;
+  right             : 0px;
+  padding           : 2px 0px 4px 0px;
+  -webkit-transform : rotate(45deg);
+  -moz-transform    : rotate(45deg);
+  -ms-transform     : rotate(45deg);
+  -o-transform      : rotate(45deg);
+  transform         : rotate(45deg);
+  background-color  : #000022;
+  background-image  : -webkit-linear-gradient(top,rgba(0,0,0,0.0) 0%,rgba(0,0,0,0.25) 100%);
+  background-image  : -moz-linear-gradient(top,rgba(0,0,0,0.0) 0%,rgba(0,0,0,0.25) 100%);
+  background-image  : -ms-linear-gradient(top,rgba(0,0,0,0.0) 0%,rgba(0,0,0,0.25) 100%);
+  background-image  : -o-linear-gradient(top,rgba(0,0,0,0.0) 0%,rgba(0,0,0,0.25) 100%);
+  background-image  : linear-gradient(top,rgba(0,0,0,0.0) 0%,rgba(0,0,0,0.25) 100%);
+}
+
+.ribbon_link
+{
+  display         : inline-block;
+  width           : 525px;
+  color           : #ffffff;
+  font-size       : 0.5em;
+  font-family     : monospace;
+  letter-spacing  : 0.05999em;
+  text-shadow     : 0px -1px 0px #777777;
+  text-decoration : none;
+  text-align      : center;
+  line-height     : 30px;
+  border-top      : dotted 1px rgba(255,255,255,0.25);
+  border-bottom   : dotted 1px rgba(255,255,255,0.25);
+}
+
+
+/* Generated with Clay, http://fvisser.nl/clay */

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            game, game. repeat. - How To Set the Default App For Opening a Directory Under OpenBSD + Gnome 3
+        </title>
+        <link rel="stylesheet" href="./css/default.css">
+        <link href="./atom.xml" type="application/atom+xml" rel="alternate" title="Full Atom Feed">
+        <meta charset="utf-8" />
+    </head>
+
+    <body class="home" id="index">
+        <div id="sitename">
+            <div class="sitename_char"><a href="./">g</a></div>
+            <div class="sitename_char">ame, g</div>
+            <div class="sitename_char"><a href="./about.html">a</a></div>
+            <div class="sitename_char">me. repea</div>
+            <div class="sitename_char"><a href="./tags/">t</a></div>
+            <div class="sitename_char">.</div>
+        </div>
+        <div id="content">
+            <div id="header">
+    <h2 class="entry-title">
+        How To Set the Default App For Opening a Directory Under OpenBSD + Gnome 3
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Thu 11 September 2014
+            <a href="./tags/openbsd.html">#openbsd</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p>Sometimes you want ‘open .’ to open a directory in your favorite GUI file manager, not EasyTag. Sometimes you wonder how EasyTag ever come to be the default app for opening a folder. Sometimes you do this:</p>
+<pre><code>$ xdg-mime query filetype .
+inode/directory
+$ xdg-mime query default inode/directory
+easytag.desktop
+$ xdg-mime default nautilus.desktop inode/directory
+$ xdg-mime query default inode/directory
+nautilus.desktop
+$ open .</code></pre>
+<p>You’re welcome.</p>
+</div>
+
+        </div>
+    </body>
+</html>
+

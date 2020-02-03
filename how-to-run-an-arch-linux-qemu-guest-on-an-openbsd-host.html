@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            game, game. repeat. - How To Run an Arch Linux (Qemu) Guest On an OpenBSD Host
+        </title>
+        <link rel="stylesheet" href="./css/default.css">
+        <link href="./atom.xml" type="application/atom+xml" rel="alternate" title="Full Atom Feed">
+        <meta charset="utf-8" />
+    </head>
+
+    <body class="home" id="index">
+        <div id="sitename">
+            <div class="sitename_char"><a href="./">g</a></div>
+            <div class="sitename_char">ame, g</div>
+            <div class="sitename_char"><a href="./about.html">a</a></div>
+            <div class="sitename_char">me. repea</div>
+            <div class="sitename_char"><a href="./tags/">t</a></div>
+            <div class="sitename_char">.</div>
+        </div>
+        <div id="content">
+            <div id="header">
+    <h2 class="entry-title">
+        How To Run an Arch Linux (Qemu) Guest On an OpenBSD Host
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Tue 30 September 2014
+            <a href="./tags/openbsd.html">#openbsd</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p>The main stumbling block I had to overcome to get various flavors of Linux to install as a guest OS on a Qemu instance, running on an OpenBSD source, was to disable <a href="https://en.wikipedia.org/wiki/Advanced_Programmable_Interrupt_Controller">APIC</a>, not be confused with <a href="https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface">ACPI</a>.</p>
+<p>With Arch Linux you do this:</p>
+<ol type="1">
+<li>boot the Arch Linux CD (in your Qemu guest)</li>
+<li>press tab to config the boot command</li>
+<li>add a space and then ‘noapic’ to the boot command</li>
+<li>press Enter to boot</li>
+<li><a href="https://wiki.archlinux.org/index.php/Beginners%27_Guide">install Arch Linux</a> on your Qemu guest hard drive</li>
+<li>add the ‘noapic’ parameter to boot command in your boot config, e.g. /boot/syslinux/syslinux.cfg</li>
+</ol>
+</div>
+
+        </div>
+    </body>
+</html>
+

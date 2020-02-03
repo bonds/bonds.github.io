@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>game, game. repeat.</title>
+    <link href="https://ggr.com/atom.xml" rel="self" />
+    <link href="https://ggr.com" />
+    <id>https://ggr.com/atom.xml</id>
+    <author>
+        <name>Scott Bonds</name>
+        <email>scott@ggr.com</email>
+    </author>
+    <updated>2020-02-01T00:00:00Z</updated>
+    <entry>
+    <title>On Commitment</title>
+    <link href="https://ggr.com/on-commitment.html" />
+    <id>https://ggr.com/on-commitment.html</id>
+    <published>2020-02-01T00:00:00Z</published>
+    <updated>2020-02-01T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div id="header">
+    <h2 class="entry-title">
+        On Commitment
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Sat 01 February 2020
+            <a href="/tags/management.html">#management</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p>Imagine you have a team of 5, a leader plus 4 others. The leader chooses not to contribute ideas, preferring to select from the ideas of his team. The team members are equally persuasive and generate equally good and viable ideas, but the ideas are as opposite/orthogonal/different as they can be.</p>
+<p>The team has decided to make decisions together and fully commit to those decisions, so all their creative, persuasive, and intellectual energy operates in concert. They recognize that to do otherwise, to decide individually what to do and then work individually to accomplish their individual goals will lead to everyone spending tremendous energy to…cancel each other out and go nowhere. It is better to be wrong together than to be right separately, because being wrong together offers the prospect to progress and learn, and eventually move in the right direction together, with great energy and speed.</p>
+<p>Each time this team gets together, they have 4 opposing ideas. Each team member argues passionately for their idea. And then the leader picks one. As previously mentioned, the team members are equally persuasive and their ideas equally good, so 25% their idea gets picked. And 75% of the time it does not get picked. So, 75% of the time, they must commit to decisions they initially argued against. 75%. Most of the time.</p>
+<p>So it turns out that being an effective team member means getting really good at engaging your full passion around decisions you initially argued against. But what if you <em>know</em> the decision was wrong? Then of course, you’ll work to undermine the decision and move the team in the ‘right’ direction. And of course, so will the other 2 team members who feel the same way, with different ‘right’ directions in mind. And guess what, the team is back to moving forward much, much slower or not at all. Oops.</p>
+<p>Man. Committing to 75% of decisions I fought against is hard. Can we make this easier? How about fewer ideas? If we had a team with fewer members, or with members that think alike, my ideas would win more often.</p>
+<p>Indeed, that would be easier, but I’d bet on the team with a greater diversity of viable options to outperform one with fewer ideas to choose from. I would expect ideas that have to run a difficult gauntlet of criticism and strong alternatives to outperform ideas that were not so well challenged. The battle is where the value comes from, not the ‘winning’ of the battle. It’s the opposite, in fact…if everyone values winning and everyone loses most of the time, everyone will be frustrated and unhappy most of the time and that won’t lead to the team doing its best.</p>
+<p>When my wife and I argue about what’s the best thing to do to guide our son towards a happy, fulfilled life, there is no winner or loser in our arguments. It’s not a zero sum game, except if we turn it into one by playing politics for our individual gain at the expense of our son and our family.</p>
+<p>As it turns out, commitment gets both more important and harder as you climb the organizational ladder.</p>
+<p>It’s more important because any even slight difference between leaders projects down into the company and manifests as bloody unwinnable battles. They are frustrating and expensive, with hours wasted and hard earned trust lost.</p>
+<p>It gets harder because as you climb, you encounter a more diverse set of roles, personalities, perspectives, and ideas. You aren’t surrounded by people that think like you anymore. It also gets harder because, you were probably expecting the opposite–your dreams of advancement always included having more control, of finally being able to do the things you <em>know</em> are right, but you were never in a position of sufficient authority to mandate them. Well, sorry to disappoint you, the CEO isn’t either.</p>
+<p>Sure, the CEO <em>could</em> mandate $10K laptops for everyone, or double the brand budget, or say all languages and frameworks are permitted in our codebase. They have the authority to do all sorts of things. But, it turns out they don’t exercise that authority because they are constrained by a desire to help the company succeed, and it turns out that giving everyone everything they ask for won’t do that. Even giving herself everything <em>she</em> wants won’t do that. Instead, she has the unenviable job of making the final choice, rejecting 75% of her team’s ideas, and rallying them behind the idea they must commit to. The leader has a hard, hard job. The team members have a hard job. Commitment is hard. <em>Real</em> commitment is really hard. But what’s the alternative?</p>
+</div>
+]]></summary>
+</entry>
+<entry>
+    <title>Companies Are Made of People</title>
+    <link href="https://ggr.com/companies-are-made-out-of-people.html" />
+    <id>https://ggr.com/companies-are-made-out-of-people.html</id>
+    <published>2020-01-30T00:00:00Z</published>
+    <updated>2020-01-30T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div id="header">
+    <h2 class="entry-title">
+        Companies Are Made of People
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Thu 30 January 2020
+            <a href="/tags/management.html">#management</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p>We’ve adopted the <a href="https://www.tablegroup.com/books/">Patrick Lencioni</a> stack at Mixbook. We are starting with The Advantage and working our way backwards in order of publication. Turns out companies are made out of human beings. Who knew?</p>
+</div>
+]]></summary>
+</entry>
+<entry>
+    <title>Calculate the Full Price of That New Tech</title>
+    <link href="https://ggr.com/software-is-forever.html" />
+    <id>https://ggr.com/software-is-forever.html</id>
+    <published>2018-12-19T00:00:00Z</published>
+    <updated>2018-12-19T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div id="header">
+    <h2 class="entry-title">
+        Calculate the Full Price of That New Tech
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Wed 19 December 2018
+            <a href="/tags/management.html">#management</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p>Next time you get the urge to try out some new tech in production please remember this: 5 years from now, long after you got bored with it, some poor sap is going to be stuck fixing bugs in that new tech code you committed, because no one ever took the time to rip it out, and something in production depends on it. You’ve just introduce tech debt that will most likely be wasting someone’s time for many years to come.</p>
+<p>I’m not saying never try new tech, I’m just saying, pay for it: write the new feature in the old tech FIRST, to keep yourself honest, then in the new tech, and deploy and maintain each of them on 50% of the servers. If the old tech wins, you up the capacity on the old tech servers, turn off the new ones, rip out the new code, and you’ve got no tech debt–experiment paid for in full. If you don’t do that you’re Trojan horsing it in–it sounds innocent enough to just upgrade one service to try out the new tech, but then what?</p>
+<p>If the new tech ‘wins’, hold on a second and make sure you’ve thought through the implications…if the new tech wins does that mean you’re committed to porting 10M lines of code in the old tech to the new tech? What will that cost? What benefits will you get? Or are you instead committing to slowly port things over taking 10 years while maintaining +1 stacks increasing the cost of new feature development, maintenance, infrastructure, recruiting, training, bug fixes, troubleshooting, etc. Is it worth it? Really? $10M invested across 10 years in porting and +1 stack costs to achieve a 10% productivity boost once you’re done? If the math doesn’t work, maybe its not a good idea. And maybe do the math before starting the project.</p>
+</div>
+]]></summary>
+</entry>
+<entry>
+    <title>Don't Pay Down Tech Debt With Tech Debt</title>
+    <link href="https://ggr.com/dont-pay-down-tech-debt-with-tech-debt.html" />
+    <id>https://ggr.com/dont-pay-down-tech-debt-with-tech-debt.html</id>
+    <published>2018-12-19T00:00:00Z</published>
+    <updated>2018-12-19T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div id="header">
+    <h2 class="entry-title">
+        Don't Pay Down Tech Debt With Tech Debt
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Wed 19 December 2018
+            <a href="/tags/management.html">#management</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p>An anti-pattern I keep running across is trying to solve tech debt problems by adding a new tool to the stack. It’s like planning to pay off some of your $10K in credit card debt by getting a new card with a $5K limit with a lower interest rate…but then using $1K of it pay down the old card and spending the other $4K on new stuff. Now you’ve got $14K of debt to service.</p>
+<p>Before you switch from from your old unsexy, fragile PHP or Cobol codebase to Haskell, you need to fix your spaghetti code, in place, with the existing tech. If you don’t understand it well enough to do that, or if you don’t have the time to do it, you won’t be replacing the old system with your shiny new system either, you’ll just be adding yet more technical debt to you existing pile of…tech debt.</p>
+</div>
+]]></summary>
+</entry>
+<entry>
+    <title>Don't Delay Gratification For Others</title>
+    <link href="https://ggr.com/dont-delay-gratification-for-others.html" />
+    <id>https://ggr.com/dont-delay-gratification-for-others.html</id>
+    <published>2018-09-13T00:00:00Z</published>
+    <updated>2018-09-13T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div id="header">
+    <h2 class="entry-title">
+        Don't Delay Gratification For Others
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Thu 13 September 2018
+            <a href="/tags/management.html">#management</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p>Its generally thought that the ability to delay your own gratification <a href="https://en.wikipedia.org/wiki/Delayed_gratification">is correlated</a> with greater success. I buy that. But I think it’s the opposite when dealing with others–giving others what they want right now and you’ll win their <a href="https://en.wikipedia.org/wiki/Lean_startup">support</a>, their <a href="https://www.washingtonpost.com/business/economy/apple-is-the-first-1-trillion-company-in-history/2018/08/02/ea3e7a02-9599-11e8-a679-b09212fb69c2_story.html?noredirect=on">dollars</a>, and their <a href="https://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html">vote</a>.</p>
+</div>
+]]></summary>
+</entry>
+<entry>
+    <title>How to Market Genode</title>
+    <link href="https://ggr.com/how-to-market-genode.html" />
+    <id>https://ggr.com/how-to-market-genode.html</id>
+    <published>2018-09-11T00:00:00Z</published>
+    <updated>2018-09-11T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div id="header">
+    <h2 class="entry-title">
+        How to Market Genode
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Tue 11 September 2018
+            <a href="/tags/marketing.html">#marketing</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p>Following updates from <a href="https://genode.org/news/sculpt-for-the-curious">Genode</a> and <a href="https://www.haiku-os.org/blog/waddlesplash/2018-08-19_r1beta1_release_plans_-_at_last/">Haiku</a> highlighting their progress towards becoming broadly useful operating systems, I installed them on some real hardware, took them for a spin, and thought about what it would take for them to take over the world…what market <a href="https://www.amazon.com/Positioning-Battle-Your-Al-Ries/dp/0071373586">position</a> is available and accessible to a potential, future, Genode based OS?</p>
+<p>So. Would you be interesting in an OS that can say <em>this</em> (with a straight face)?:</p>
+<p>Uncrashable. Genode will never crash, ever, when run on properly functioning hardware. Go ahead and try, we dare you. For good measure there’s a formal proof of Genode’s uncrashability and it matches experience of real users–Genode is the most stable, reliable, general purpose operating system available, open source or proprietary, bar none. In fact, its able to detect and recover from many <em>hardware</em> bugs, to the point that Genode is the tool of choice by integrators trying to track down bad hardware.</p>
+<p>Unstoppable. If you can play a video or music on your Genode machine, without skipping under light load, adding heavy load at 100% CPU won’t cause it to skip nor will the UI become <em>any</em> less responsive than it was when you weren’t running any apps. With Genode you get many of the benefits and guarantees of a realtime OS without the downsides–you get a great UI, a mainstream API, <em>and</em> reliable performance.</p>
+<p>Unhackable. Genode trusts nothing. Not the CPU, not the RAM, not the devices, not the software. Genode protects against malicious hardware, drivers, and software in all categories, taking care to limit the data leaked and privileges accessed by a bug or a sophisticated attacker that controls one or more components. Genode uses encryption, separation, compartmentalization, and other techniques in a formally verified design that makes it provably impossible to use side-channel or direct attacks on the tech–you’re left only with phishing and other social engineer attacks if you want to break into a Genode system.</p>
+<p>Multilingual. Runs Linux, Windows, OSX, Android, iOS, and retro console binaries including office suites, system utilities, developer tools, and games. On all architectures known to man. And a pony.</p>
+<p>Ok, I got carried away and it gets more ridiculous as I go, but at least some of the first two benefits are possible, interesting, and differentiated. Those would make for a pretty interesting OS.</p>
+<p>P.S. Genode is not an OS, rather, its an OS framework that you use to make an OS by assembling a bunch of pieces (i.e. kernel, drivers, apps). ‘Sculpt’ is the name of the OS the Genode team makes to show off what Genode can do. Nonetheless, Genode is the name most people might know, so I’m exercising a bit of creative license here, not unlike shortening GNU/Linux to Linux or referring to Linux as an OS when its really a kernel while Debian is the name of a proper (Linux-based) OS.</p>
+<p>P.P.S. It is of course up to the people investing blood, sweat, and cash in Genode to decide where to take it next. I am not one of those, I have the much easier and safer task of hurling remarks from the peanut gallery.</p>
+<p>P.P.P.S. Yes, yes, some of these ideas are impossible or at least highly impractical, but I can dream, can’t I? :) Tablet computers probably seemed impossible when they were making the film 2001, but now we have them. Sometimes a bit of dreaming can bring the future closer.</p>
+</div>
+]]></summary>
+</entry>
+<entry>
+    <title>On Laying a Foundation</title>
+    <link href="https://ggr.com/on-foundation-laying.html" />
+    <id>https://ggr.com/on-foundation-laying.html</id>
+    <published>2018-03-16T00:00:00Z</published>
+    <updated>2018-03-16T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div id="header">
+    <h2 class="entry-title">
+        On Laying a Foundation
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Fri 16 March 2018
+            <a href="/tags/management.html">#management</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p>When someone says ‘we are laying a foundation for X’ I take it as code for wasting resources and the sort of lazy thinking that goes with it…at least if they are talking about going dark to make some software, whether its about the code, infrastructure, tooling, UI, or UX. Real (successful) developers ship value now; rinse, repeat. You don’t win a race by standing still.</p>
+</div>
+]]></summary>
+</entry>
+<entry>
+    <title>My Ideal Product Manager</title>
+    <link href="https://ggr.com/my-ideal-product-manager.html" />
+    <id>https://ggr.com/my-ideal-product-manager.html</id>
+    <published>2018-03-13T00:00:00Z</published>
+    <updated>2018-03-13T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div id="header">
+    <h2 class="entry-title">
+        My Ideal Product Manager
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Tue 13 March 2018
+            <a href="/tags/management.html">#management</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p>My ideal product manager is more interested in disproving their idea than proving it.</p>
+<p>They are a scientist with the humility to <em>expect</em> they’ll be wrong, the patience to try again, and the hunger to find the truth however unaesthetic it may be. They are a business person, more interested in getting results than questing after their ideal UI or zero bugs. They are a crafts person, not an artist–they value utility over beauty. They are a judge, not a legislator. They are an anthropologist, not a therapist. They are editor, not an author.</p>
+<p>Does this also describe my ideal CEO? No.</p>
+</div>
+]]></summary>
+</entry>
+<entry>
+    <title>Angband 2017 Review</title>
+    <link href="https://ggr.com/angband-2017-review.html" />
+    <id>https://ggr.com/angband-2017-review.html</id>
+    <published>2018-01-09T00:00:00Z</published>
+    <updated>2018-01-09T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div id="header">
+    <h2 class="entry-title">
+        Angband 2017 Review
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Tue 09 January 2018
+            <a href="/tags/games.html">#games</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <figure>
+<img src="https://quisquous.s3.amazonaws.com/angband.png" alt="" /><figcaption>Angband screenshot</figcaption>
+</figure>
+<p>A couple months ago my wife got locked out of Steam while trying to remember her password and we had to give up on a rare chance to play some Don’t Starve Together, um, together. It got me thinking…DRM is a pain in the butt sometimes. I wonder what FOSS games are out there.</p>
+<p>Turns out there are some rather good ones available, unless your aim is showing off how much you can spend on a game system. That’s not my aim–a while ago I realized that the best gameplay is not coming out of the game industry’s big budget blockbuster hit machines, but from indies plying their art as best they can.</p>
+<p>Which brings me to <a href="http://rephial.org/">Angband</a>, an old, and I mean old, roguelike. Turns out there’s a package for an older version on OpenBSD, the latest builds ok on OpenBSD too, and its a lot of fun. Seeing as its under continuous-ish development, and seeing as its 2018, it seemed like a good time to write a review of the game as of 2017 for my 5 loyal, non-bot readers. Hi readers!</p>
+<p>In Angband, as with other roguelikes and other games inspired by D&amp;D and/or Tolkien, you start by creating a character and then you enter a dungeon full of 10x10 rooms with orcs guarding treasures. Ok, most of the rooms aren’t 10x10, but there are orcs and treasures. And if you die you have to start completely over.</p>
+<p>Anyhow, in Angband you’re trying to defeat Morgoth. He’s on the 100th floor and its said he’s pretty tough. I’m not sure what he’s doing down there–maybe watching Netflix. I started on the 0th floor, in town, where I had just figured out how to walk using the arrow keys when I tried to walk past a dog and quickly found myself staring at a gravestone and various stats on my pitiful state, having just died. Reminded me of my first outing in Ultima Online, where my newly minted, ultimate badass warrior get offed by a bunny right outside of town. Morale of the story: stay away from the animal life when starting games, especially near town.</p>
+<p>On my 10th life or so I started to get the hang of staying away from dogs in town, going down the stairs, and fighting the less powerful beasts that roam level 1 of the dungeon. Skimming the help game me an idea for what keys to press, and I soon figured out how to zap wands, use staves, and upgrade my armor and weapons. By my 20th life I managed to level up a bit and go as far as the 10th floor. Feeling cocky I started diving a lot deeper using scrolls of Deep Descent, got my ass handed to me, pondered my sins, and went back to grinding for equipment and experience so I could survive the lower levels.</p>
+<p>This game, in a nutshell, uses the classic game loop of: fight, level up, unlock new abilities through experience and equipment, fight tougher things, repeat. At first combat is very basic. Then magical creatures start freezing you, and you need a resistant to that before you can safely progress. Then they start poisoning you, and you need a resistance to that, etc. Just when you think that’s all there is to it, you get rooms full of monsters that are <em>way</em> too tough for you (aka vaults), and you learn about the importance of stealth, teleporting away, and all those spells, wands, and abilities you never had any use for before. Its a lot of fun uncovering each new puzzle, but its a bit of a grind when you die to level all the way back up to facing something new again.<br />
+I’m told there are ways to cheat if you don’t like that sort of gameplay, and heck, its FOSS so you can modify the game however you want, but there no bragging rights for cheaters, so there.</p>
+<p>First I played v3.3.2 because there’s a package for it on OpenBSD 6.2. Then I <a href="http://trac.rephial.org/wiki/Compiling">compiled v4.1.2 from source</a>…the maintainer has filed tickets against some <a href="http://trac.rephial.org/search?q=openbsd">OpenBSD compiling challenges</a>, but I was ok with the basic text version, and that compiled and ran fine.</p>
+<p>I noticed a lot of differences between the versions. In 3 I spent a fair amount of time grinding for money in order to buy upgraded equipment…more than half the wands and staves I found I never used because I wanted the money instead. In 4 items have no monetary value (if you use the default starting options) and the stores have less cool stuff to buy, so I spent less time running back and forth to town and more time in the dungeon. I also used a lot more of the equipment I found instead of getting rid of it. Magical items switched from a seemingly fixed list of item powers to a more flexible ‘rune’ based system where item powers can be mixed in infinite ways.</p>
+<p>The cosmetics got an upgrade too–spells animate, with dragons breathing ASCII fire at you and wands sending out dashes of death towards molds sleeping on the floor nearby. Town is no longer rectangle shaped, and many of the dungeon rooms have more interesting shapes as well.</p>
+<p>I really like the turn-based nature of the game. Its easy to put down and pickup. I have kids now, so being able to drop my game at a moment’s notice to pay attention to the evening’s crisis is a big advantage over most games that I would otherwise tend to play (e.g. TF2, Don’t Starve Together). The text UI took a little getting used to, but its nice how fast it runs on my old laptop and there’s something neat about filling in some details with my imagination instead of with polished graphics. I mean, the LoTR movies were great, but the books were great too, and they left a lot more room for my mind to bring the story to life in its own way.</p>
+<p>My wife wonders why I haven’t rage quit after dying 100 times, including the recent death of a level 30 high-elf mage (sad face)…and I do keep putting this game down, but then after a while I pick it up again. I guess that means its good. The hard part for me is being patient. Its not that hard a game, until I start blasting through stuff without paying enough attention and suddenly I’m dead and have to start over after 10 hours of leveling up a level 30 high elf mage.</p>
+<p>Deep breath. One turn at a time. The fastest way to play is to play slow.</p>
+</div>
+]]></summary>
+</entry>
+<entry>
+    <title>My First Idris Program</title>
+    <link href="https://ggr.com/my-first-idris-program.html" />
+    <id>https://ggr.com/my-first-idris-program.html</id>
+    <published>2017-08-15T00:00:00Z</published>
+    <updated>2017-08-15T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div id="header">
+    <h2 class="entry-title">
+        My First Idris Program
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Tue 15 August 2017
+            <a href="/tags/code.html">#code</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p><a href="http://www.idris-lang.org/">Idris</a> is sort of ‘Haskell 2.0’, where the authors got to apply the lessons learned from the creation and evolution of Haskell, but leave behind all the baggage embedded in existing, in use libraries, since, you know, they don’t have any of those yet. With the recent release of <a href="https://www.manning.com/books/type-driven-development-with-idris">the book</a> I was inspired to take Idris for a spin and see for myself just how lacking of <a href="https://www.idris-lang.org/idris-1-0-released/">‘production readiness’</a> it is.</p>
+<p>One of my favorite ways to try a new language is to use it for scripting. I write and run small scripts a lot, and the combination of the scripts being small+simple and part of my day-to-day make them a great tool for learning in bite-sized increments all the time. Before I know it, I’ve got the hang of the new language…</p>
+<p>Alright, enough talk, here’s my first Idris program–it’s a script for searching for an OpenBSD package by name:</p>
+<pre><code>#!/usr/bin/env runidris
+-- vim:ft=idris:
+
+import System
+
+partial
+main : IO ()
+main = do
+    args &lt;- getArgs
+    case args of
+        (_::terms) =&gt; do
+            let query = unwords terms
+            ec &lt;- system $
+                    &quot;/usr/local/bin/sqlite3 /usr/local/share/sqlports &quot;
+                  ++ &quot;\&quot;SELECT DISTINCT pkgname || &#39;: &#39; || comment AS result &quot;
+                  ++ &quot;FROM ports &quot;
+                  ++ &quot;WHERE pkgname LIKE &#39;%&quot; ++ query ++ &quot;%&#39; &quot;
+                  ++ &quot;OR comment LIKE &#39;%&quot; ++ query ++ &quot;%&#39; &quot;
+                  ++ &quot;ORDER BY 1\&quot;&quot;
+                  ++ &quot; | ag -i \&quot;&quot; ++ query ++ &quot;\&quot;&quot;
+            pure ()
+        _ =&gt; pure ()</code></pre>
+<p><code>runidris</code> is a recent addition to Idris, not yet tauted, and not yet installed for you, but you can find it in the <a href="https://github.com/idris-lang/Idris-dev/blob/master/scripts/runidris">scripts</a> directory if you install Idris from source. You’ll need to move it to a directory on your PATH and then you’re ready to go. If you use Vim+<a href="https://github.com/w0rp/ale">Ale</a> as your editor and linter combo, there’s some basic support for flagging errors inline…doesn’t work perfectly yet, but its a start.</p>
+</div>
+]]></summary>
+</entry>
+
+</feed>

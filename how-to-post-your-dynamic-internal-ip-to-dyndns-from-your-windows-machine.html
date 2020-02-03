@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            game, game. repeat. - How To Post Your Dynamic Internal IP To DynDNS From Your Windows Machine
+        </title>
+        <link rel="stylesheet" href="./css/default.css">
+        <link href="./atom.xml" type="application/atom+xml" rel="alternate" title="Full Atom Feed">
+        <meta charset="utf-8" />
+    </head>
+
+    <body class="home" id="index">
+        <div id="sitename">
+            <div class="sitename_char"><a href="./">g</a></div>
+            <div class="sitename_char">ame, g</div>
+            <div class="sitename_char"><a href="./about.html">a</a></div>
+            <div class="sitename_char">me. repea</div>
+            <div class="sitename_char"><a href="./tags/">t</a></div>
+            <div class="sitename_char">.</div>
+        </div>
+        <div id="content">
+            <div id="header">
+    <h2 class="entry-title">
+        How To Post Your Dynamic Internal IP To DynDNS From Your Windows Machine
+    </h2>
+    <div class="post-info">
+        <div class="published">
+            Fri 09 October 2009
+            <a href="./tags/code.html">#code</a>
+        </div>
+    </div>
+</div>
+
+<div class="entry-content">
+    <p><img alt="image" height="153" src="./images/UpdateIP.bat-screenshot.jpg" width="512" /> <br /></p>
+<p>I looked around for an easier way to post an <strong>internal</strong> IP to DynDNS, but I didn’t find one. Scripting to the rescue.</p>
+<p>If you have a paid account at DynDNS (may work for free ones too, I’m not sure), you can update a DNS entry by hitting a URL like this:</p>
+<blockquote>
+<div>
+<p>
+http://login:password@members.dyndns.org/nic/update?hostname=host.domain.com&amp;myip=10.0.0.1&amp;wildcard=NOCHG&amp;mx=NOCHG&amp;backmx=NOCHG
+</p>
+</div>
+</blockquote>
+<p>So, to update your DNS entry, you just need to <a href="./how-to-get-your-ip-and-only-your-ip-in-windows.html">get your IP alone in a variable</a> that a batch file can use, then setup a task to request that URL every so often. In more detail, the steps are:</p>
+<ol type="1">
+<li>Install Cygwin including the ‘curl’ package. Curl allows you to make web requests from the command line.</li>
+<li>Create a batch file that gets your IP then makes the DynDNS update request (see below).</li>
+<li>Create a new scheduled task through the Windows Control Panel: setup multiple schedules so it runs the batch file you created in step #2 at startup, login, and when the machine is idle 60 minutes.</li>
+</ol>
+<p>The batch file is like so, be sure to update the curl location, DynDNS login, password, and hostname info before you use it:</p>
+<pre>:: Script from: http://www.ericphelps.com/batch/samples/ip.txt
+@echo off
+cd %temp%
+:: Make a line fragment "temp.txt"
+echo e 100 "call temp2.bat "&gt; script
+echo rcx&gt;&gt; script
+echo f&gt;&gt; script
+echo n temp.txt&gt;&gt; script
+echo w&gt;&gt; script
+echo q&gt;&gt;script
+debug &lt; script &gt; junk
+del script
+:: Make the working file "temp2.bat"
+echo shift&gt; temp2.bat
+echo shift&gt;&gt; temp2.bat
+echo shift&gt;&gt; temp2.bat
+echo shift&gt;&gt; temp2.bat
+echo shift&gt;&gt; temp2.bat
+echo shift&gt;&gt; temp2.bat
+echo set IP=%%9&gt;&gt; temp2.bat
+:: Run the command that finds the IP and create "temp1.bat"
+copy temp.txt temp1.bat &gt; junk
+ipconfig.exe | find "IP Address" | find /v " 0.0.0.0" &gt;&gt; temp1.bat
+:: Run the temp1.bat, which runs temp2.bat, which sets the IP variable
+call temp1.bat
+:: Remove temporary files
+del temp1.bat
+del temp2.bat
+del temp.txt
+del junk
+:: Display the result
+echo Your IP is %IP%
+:: Send to DynDNS
+c:\cygwin\bin\curl "http://login:password@members.dyndns.org/nic/update?hostname=host.domain.com&myip=10.0.0.1&wildcard=NOCHG&mx=NOCHG&backmx=NOCHG"
+</pre>
+</div>
+
+        </div>
+    </body>
+</html>
+

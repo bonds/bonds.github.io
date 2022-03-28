@@ -1,0 +1,39 @@
+<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet type=text/css href=/default.css><title>game, game. repeat. | My First Idris Program</title></head><body><h1><a href=/>g</a>ame, g<a href=/about.html>a</a>me. repea<a href=/tags.html>t</a>.</h1><div id=content><h2>My First Idris Program</h2><div id=info>Tue 08 August 2017
+<a href=https://ggr.com/tags/code.html>#code</a></div><p><a href=http://www.idris-lang.org/>Idris</a> is sort of &lsquo;Haskell 2.0&rsquo;, where the authors got to apply the lessons
+learned from the creation and evolution of Haskell, but leave behind all the
+baggage embedded in existing, in use libraries, since, you know, they don&rsquo;t have
+any of those yet. With the recent release of <a href=https://www.manning.com/books/type-driven-development-with-idris>the book</a> I was inspired to
+take Idris for a spin and see for myself just how lacking of <a href=https://www.idris-lang.org/idris-1-0-released/>&lsquo;production
+readiness&rsquo;</a> it is.</p><p>One of my favorite ways to try a new language is to use it for scripting. I
+write and run small scripts a lot, and the combination of the scripts being
+small+simple and part of my day-to-day make them a great tool for learning in
+bite-sized increments all the time. Before I know it, I&rsquo;ve got the hang of the
+new language&mldr;</p><p>Alright, enough talk, here&rsquo;s my first Idris program&ndash;it&rsquo;s a script for searching
+for an OpenBSD package by name:</p><pre tabindex=0><code>#!/usr/bin/env runidris
+-- vim:ft=idris:
+
+import System
+
+partial
+main : IO ()
+main = do
+    args &lt;- getArgs
+    case args of
+        (_::terms) =&gt; do
+            let query = unwords terms
+            ec &lt;- system $
+                    &#34;/usr/local/bin/sqlite3 /usr/local/share/sqlports &#34;
+                  ++ &#34;\&#34;SELECT DISTINCT pkgname || &#39;: &#39; || comment AS result &#34;
+                  ++ &#34;FROM ports &#34;
+                  ++ &#34;WHERE pkgname LIKE &#39;%&#34; ++ query ++ &#34;%&#39; &#34;
+                  ++ &#34;OR comment LIKE &#39;%&#34; ++ query ++ &#34;%&#39; &#34;
+                  ++ &#34;ORDER BY 1\&#34;&#34;
+                  ++ &#34; | ag -i \&#34;&#34; ++ query ++ &#34;\&#34;&#34;
+            pure ()
+        _ =&gt; pure ()
+</code></pre><p><code>runidris</code> is a recent addition to Idris, not yet tauted, and not yet
+installed for you, but you can find it in the <a href=https://github.com/idris-lang/Idris-dev/blob/master/scripts/runidris>scripts</a> directory if you
+install Idris from source. You&rsquo;ll need to move it to a directory on your PATH
+and then you&rsquo;re ready to go. If you use Vim+<a href=https://github.com/w0rp/ale>Ale</a> as your editor and linter
+combo, there&rsquo;s some basic support for flagging errors inline&mldr;doesn&rsquo;t work
+perfectly yet, but its a start.</p></div></body></html>

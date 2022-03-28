@@ -1,0 +1,29 @@
+<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet type=text/css href=/default.css><title>game, game. repeat. | How to Automatically Connect and Stay Connected to a Network Drive on OS X</title></head><body><h1><a href=/>g</a>ame, g<a href=/about.html>a</a>me. repea<a href=/tags.html>t</a>.</h1><div id=content><h2>How to Automatically Connect and Stay Connected to a Network Drive on OS X</h2><div id=info>Tue 09 September 2011
+<a href=https://ggr.com/tags/code.html>#code</a></div><p>I keep my music and my photos on a server at home. Whenever I&rsquo;m home I
+want all of my shares to be accessible automatically so I can launch
+iTunes and iPhoto without needing to do anything first (i.e. I don&rsquo;t
+want to click anything to mount the drives before I start listening to
+<a href="http://www.amazon.com/Adagio-For-Tron/dp/B004EIAPXQ/ref=sr_1_1?ie=UTF8&qid=1315965192&sr=8-1">Adagio for Tron</a>). Here&rsquo;s how I pulled it off.</p><p>The short version: I run a script that checks whether any mounts are
+missing and if possible it restores them. Here&rsquo;s the script:</p><p>I run it once a minute using <a href=http://en.wikipedia.org/wiki/Launchd>launchd</a> for which there&rsquo;s a <a href="http://itunes.apple.com/se/app/lingon-3/id450201424?ls=1&mt=12" title="Lingon in the App Store">good
+GUI</a>; and here&rsquo;s<a href=http://stackoverflow.com/questions/2398722/script-executes-successfully-in-commandline-but-not-as-a-cronjob> a tip in case you&rsquo;re using RVM</a>. If you want to
+try this at home, you&rsquo;ll also need to install the gems &lsquo;required&rsquo; at the
+top of the script. There are a number of other ways to achieve a similar
+effect, but I had trouble getting them to work:</p><ol><li><a href=http://www.ehow.com/how_4549984_mount-remote-volume-startup-mac.html>Mount a share at login</a>. Judging by the number of discussions
+that reference this technique (and its cousins) it would seem popular,
+but it didn&rsquo;t quite do what I wanted&ndash;each time my machine woke up from
+sleep or my wifi connection was interrupted, I&rsquo;d lose my mounts and
+would need to manually remount them (or logout and login again).</li><li>. This sure looked promising, but
+I found it to be unreliable in practice. Sometimes my mount would be
+there, sometimes it would not, sometimes it was there but no files
+appeared when I browsed&mldr;</li><li>Detect when I connect to my home network, run a mounting script then
+(using <a href=http://oomphalot.com/sidekick/>SideKick</a>). This solution got a bit closer&ndash;it reconnects my
+shares after I wake from sleep or my network connection was otherwise
+interrupted, but a loss of connection to my file server was not always
+proceeded by a loss of connection to the network, so there were plenty
+of times when I was still forced to manually connect to my drives.</li><li>Use an app that does what my script does: detect when my file server
+is accessible and restore the connections to it as needed.
+<a href=http://bonjourmounter.gestosoft.com/en/>BonjourMounter</a> does just that, but I found it to be unreliable on
+Lion. A Lion compatible version is in the works, but after waiting a
+couple months, I decided to take matters into my own hands.</li></ol><p>That&rsquo;s all folks, thanks for stopping by!</p><p>**Updated on September 23, 2011: **</p><p>I&rsquo;m finding Bonjour to be a bit flaky&mldr;there are plenty of
+times I can ping and mount my NAS, but it won&rsquo;t show up in a Bonjour search.
+In light of that, I changed file_server_online() to use ping:</p></div></body></html>

@@ -1,0 +1,19 @@
+<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet type=text/css href=/default.css><title>game, game. repeat. | Natural: a ruby gem for natural language search</title></head><body><h1><a href=/>g</a>ame, g<a href=/about.html>a</a>me. repea<a href=/tags.html>t</a>.</h1><div id=content><h2>Natural: a ruby gem for natural language search</h2><div id=info>Fri 03 March 2012
+<a href=https://ggr.com/tags/code.html>#code</a></div><p>When I started work on <a href=http://dishfu.com>DishFu.com</a> (one of my code playgrounds&mldr;its
+something like Yelp) a couple years ago I wanted to support natural
+language search so that, instead of clicking lots of checkboxes to
+search for the best burrito in my zip code, I could just ask &ldquo;what is
+the best burrito near me&rdquo; and get the answer. At the time (and even now)
+I didn&rsquo;t find a ruby library that made this easy to do, so I thought I&rsquo;d
+take a stab at it.</p><p><a href=https://github.com/bonds/natural>Natural</a> is the result of the aforementioned stab and its available
+on github. Checkout <a href=http://flexibits.com/>Fantastical</a> and <a href=http://www.apple.com/iphone/features/siri.html>Siri</a> for inspiration and
+two good examples of why natural language search is neat and how it
+enhances usability. Natural works by parsing the input text, looking for
+every possible match in its vocabulary, scoring all the possible
+combinations of matches, and choosing the highest scoring combination.
+One can achieve a similar effect (and faster) by enumerating a bunch of
+regular expressions and trying to match against the most complicated
+regular expression first and working your way down until you find a
+match, but I wanted a library that could also glean partial meanings and
+choose between different potential matches in a more flexible way.
+<a href=https://github.com/bonds/natural/issues>Suggestions</a> and pull requests welcome.</p></div></body></html>

@@ -1,0 +1,20 @@
+<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet type=text/css href=/default.css><title>game, game. repeat. | How To Get Vim, Syntastic, Hdevtools, and Stack To Play Nice</title></head><body><h1><a href=/>g</a>ame, g<a href=/about.html>a</a>me. repea<a href=/tags.html>t</a>.</h1><div id=content><h2>How To Get Vim, Syntastic, Hdevtools, and Stack To Play Nice</h2><div id=info>Tue 02 February 2016
+<a href=https://ggr.com/tags/code.html>#code</a></div><p>I was poking around some old Haskell code the other day, when I realized that,
+since switching to Vim (from Atom) I hadn&rsquo;t setup the necessary plugins in Vim
+to get syntax checking and such for Haskell.</p><p>Seeing as Stack is the new Haskell installer hotness, I installed it and used it
+to install a bunch of &lsquo;global&rsquo; packages for use with my runghc based scripts. I
+installed ghc-mod and hlint, but I didn&rsquo;t see any error messages when I messed
+up the syntax of my Haskell code. A bit of investigation revealed that Syntactic
+dropped support for ghc-mod, but that hdevtools was supported. I installed that,
+loaded my Haskell code into Vim, and this time I got errors about missing
+libraries. I realized hdevtools was looking for the libraries in the system GHC
+instead of using my global Stack based libraries. To get it to use the global
+stack libraries instead I:</p><ul><li>created /home/scott/bin/hdevtools-stack which is a script that boils down to: &ldquo;stack exec hdevtools &ndash; $@&rdquo;</li><li>added &ldquo;let g:syntastic_haskell_hdevtools_exec = &lsquo;/home/scott/bin/hdevtools-stack&rsquo;&rdquo; to my vimrc</li><li>pkill hdevtools</li><li>launch Vim and load my Haskell code</li></ul><p>Voila, it works.</p><p><strong>Updated on February 12, 2016:</strong></p><p>I decided to remove the vimrc syntastic config line and instead I wrote a
+hdevtools script and made sure its higher priority in my PATH. This works for
+ghc-mod, which, in combination with ghcmod-vim, makes it so I can do fancy stuff
+like get the type of whatever my cursor is over. I&rsquo;m using the &ndash;verbosity
+silent option so my ghc-mod script works ok, with no stack warning to cause
+problems for ghcmod-vim (without &ndash;silent ghcmod-vim chokes on the stack-ified
+ghc-mod script I wrote). Here&rsquo;s my ghc-mod script (/home/scott/bin/ghc-mod):</p><pre><code>#!/bin/sh
+stack --verbosity silent exec ghc-mod -- $@
+</code></pre></div></body></html>

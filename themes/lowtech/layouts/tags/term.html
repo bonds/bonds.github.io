@@ -2,7 +2,7 @@
 
   <article class="posts">
 
-    <h2>{{ .Title }}</h2>
+    <h2>#{{ .Title }}</h2>
     {{ range .Pages.GroupByDate "2006" -}}
     <section>
       <h3>{{ .Key }}</h3>

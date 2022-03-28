@@ -5,3 +5,4 @@ theme = "lowtech"
 uglyurls = true
 [permalinks]
   posts = '/:title'
+  pages = '/:title'

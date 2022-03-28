@@ -2,7 +2,9 @@
 
   <article class="posts">
 
-    {{ range site.RegularPages.GroupByDate "2006" -}}
+    {{/* restrict to posts, i.e. don't list the 'about' page */}}
+    {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{ range $pages.GroupByDate "2006" -}}
     <section>
       <h3>{{ .Key }}</h3>
 

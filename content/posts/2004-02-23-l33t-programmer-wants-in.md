@@ -1,0 +1,16 @@
+---
+title: L33t Programmer Wants In
+date: 2004-02-23 11:08
+tags: IWantToWorkAtEA.com
+---
+**Marquin Writes:** 
+
+*Alright, so, I'll start off with a simple question--how does one go about getting a job as a software engineer at EA? I hate to come off as arrogant, however, I have learned that this may be the only chance I have--every person trying to get a job "fluffs up" their resume, advertising skills they dont really have. Thus, on a resume, I am the same as anyone else, because even though I may be honest about my skills, I look no different on a resume than someone whos fluffed theirs up. I know that EA must get thousands of job applications and resumes on a weekly basis. My question is: how does one get noticed? I think that there are 2 kinds of programmers--those that do it for the money, and those that were born with the skill. I am the latter. Even when entering college, I already had more programming and software engineering skills than most PROFESSORS (I wont even compare with the students). Again I'm sorry to be so arrogant, but I feel it is the only way to set myself apart. So, even though I may be a more talented and skilled software engineer than most 10-20 year veterans, I am immediately labeled as the "college newbie" who has "no software engineering skills" and couldnt write robust code if my life depended on it. In fact, I dont blame them for thinking this--when I see the other students in my class, even those who love to program, I would also put most of them in that category. My question is--HOW DOES ONE STAND OUT? How can I show EA that I have what it takes, that I can work with their best. If I had to, I would work for them for FREE for a MONTH just to be able to show them this: whatever it takes. I know that having the right networks count, and that I would have no problem getting a job there if my sisters boyfriends dads cousins boyfriend was a senior software engineer. But I truly believe that if only I could show them my skills, show them that I can solve anything they dish out at me with style and robustness, that they would give me a chance--if only. Any help anyone could give me would be truly appreciated.*
+
+**My Reply:**
+
+The best way to stand out is to be a good networker. But...I've beat that drum enough--I'll let you search these forums for ideas on how to do that. Besides that you should write a game. Either write one on your own, or if you aren't interest in game design you should partner with a group writing a MOD or someone else who can provide the design and art side of things. Having a really good demo is going to be a great tool for you to make a good impression when you finally land some face time with the right people. Few things say "I will make a good games programmer" than "I have written 3 games that use the technology you work with." Finally, theres nothing wrong with being confident, but arrogance will get the door shut in your face in this industry. People here are badass but they also place a high value on modesty. If you are a badass you need to show it by what you accomplish (i.e. writing a game).
+
+*Updated on October 10th, 2013*
+
+Removed the link to Marquin's email, I figure he doesn't want to keep hearing from people through this page nor be exposed to more spam.

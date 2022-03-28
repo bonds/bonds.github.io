@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on My New Hugo Site</title>
+    <link>http://example.org/tags/code/</link>
+    <description>Recent content in code on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Automatically Connect and Stay Connected to a Network Drive on OS X</title>
+      <link>http://example.org/posts/2011-09-13-how-to-automatically-connect-and-stay-connected-to-a-network-drive-on-os-x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2011-09-13-how-to-automatically-connect-and-stay-connected-to-a-network-drive-on-os-x/</guid>
+      <description>I keep my music and my photos on a server at home. Whenever I&amp;rsquo;m home I want all of my shares to be accessible automatically so I can launch iTunes and iPhoto without needing to do anything first (i.e. I don&amp;rsquo;t want to click anything to mount the drives before I start listening to Adagio for Tron). Here&amp;rsquo;s how I pulled it off.
+The short version: I run a script that checks whether any mounts are missing and if possible it restores them.</description>
+    </item>
+    
+    <item>
+      <title>How To Create Flickr-Style Mouseover Notes On a Picture</title>
+      <link>http://example.org/posts/2009-05-26-how-to-create-flickr-style-mouseover-notes-on-a-picture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-05-26-how-to-create-flickr-style-mouseover-notes-on-a-picture/</guid>
+      <description>While you were reading the post about how to ship a used book, you may have found yourself strangely compelled to hover your mouse over the cool, image hotspot mouseover hover caption thingies on the picture of shipping supplies. Perhaps you wondered how you too could harness the power of such hotspots on your own blog. I&amp;rsquo;ll let you in on the secret.</description>
+    </item>
+    
+    <item>
+      <title>How To Get Vim, Syntastic, Hdevtools, and Stack To Play Nice</title>
+      <link>http://example.org/posts/2016-02-09-how-to-get-vim-syntastic-hdevtools-and-stack-to-play-nice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2016-02-09-how-to-get-vim-syntastic-hdevtools-and-stack-to-play-nice/</guid>
+      <description>I was poking around some old Haskell code the other day, when I realized that, since switching to Vim (from Atom) I hadn&amp;rsquo;t setup the necessary plugins in Vim to get syntax checking and such for Haskell.
+Seeing as Stack is the new Haskell installer hotness, I installed it and used it to install a bunch of &amp;lsquo;global&amp;rsquo; packages for use with my runghc based scripts. I installed ghc-mod and hlint, but I didn&amp;rsquo;t see any error messages when I messed up the syntax of my Haskell code.</description>
+    </item>
+    
+    <item>
+      <title>How To Get Your IP and ONLY Your IP in Windows</title>
+      <link>http://example.org/posts/2009-10-09-how-to-get-your-ip-and-only-your-ip-in-windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-09-how-to-get-your-ip-and-only-your-ip-in-windows/</guid>
+      <description>Sometimes you need to know your Windows machine&amp;rsquo;s IP. For example, if you would like to update your dynamic DNS entry from a script file. Here&amp;rsquo;s a hack that gets the job done.
+This is from someone good with windows scripts, updated with some extra &amp;lsquo;shifts&amp;rsquo; to get it to work under XP. Check out the link for an explanation. Save this in a batch file, I call mine &amp;lsquo;GetIP.bat&amp;rsquo;:</description>
+    </item>
+    
+    <item>
+      <title>How to GPS on OpenBSD</title>
+      <link>http://example.org/posts/2017-08-11-how-to-gps-on-openbsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-08-11-how-to-gps-on-openbsd/</guid>
+      <description>I&amp;rsquo;ve heard tell that the WWAN module lodged inside my laptop can give me my coordinates on planet Earth. I thought I&amp;rsquo;d see if it was true. Fortunately, a number of brave souls have blazed the path, I needed only to rediscover it.
+Funny side note Did you know that your super modern WWAN module uses 1980s-era modem commands to control it? You know, AT&amp;hellip;OK, blah blah blah. Who knew, right?</description>
+    </item>
+    
+    <item>
+      <title>How To Include a Gem&#39;s Rake Tasks in Your Rails App</title>
+      <link>http://example.org/posts/2009-09-14-how-to-include-a-gems-rake-tasks-in-your-rails-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-14-how-to-include-a-gems-rake-tasks-in-your-rails-app/</guid>
+      <description>Rake tasks contained in a gem are not automatically available to a rails app that requires the gem. Whether that&amp;rsquo;s the right way to do things is under debate, but in the mean time there are a couple workarounds.
+Option #1: Use the gem as a plugin instead. Files that match the following pattern are automatically pulled in, so you&amp;rsquo;re good to go:
+  Option #2: Create a ruby file that loads the gem&amp;rsquo;s tasks, then require the ruby file you made in your rail app&amp;rsquo;s Rakefile.</description>
+    </item>
+    
+    <item>
+      <title>How to Increase Traffic to Your Site By Optimizing For Search Engines</title>
+      <link>http://example.org/posts/2009-07-17-how-to-increase-traffic-to-your-site-by-optimizing-for-search-engines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-07-17-how-to-increase-traffic-to-your-site-by-optimizing-for-search-engines/</guid>
+      <description>Want more traffic from your friendly neighborhood search engine to your site? Here are some of the Search Engine Optimization (SEO) tricks I&amp;rsquo;ve picked up along the way.
+Rule #1: make it easy for the search engines to see and understand your content
+ make as much content visible to users that are not logged in as you can&amp;ndash;search engines cannot login and they will not index any content that is behind a login barrier use descriptive names for everything, including your domains, paths, pages, and assets, i.</description>
+    </item>
+    
+    <item>
+      <title>How To Permit A Blank Email Field With AuthLogic</title>
+      <link>http://example.org/posts/2009-09-09-how-to-permit-a-blank-email-field-with-authlogic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-09-how-to-permit-a-blank-email-field-with-authlogic/</guid>
+      <description>I too ran into some trouble before discovering that my beloved AuthLogic is validating my email field. The validation is a good thing overall, but I want to support blank email addresses as well as properly formatted ones.
+It&amp;rsquo;s all in the AuthLogic docs of course, but if I can save you a few minutes of hunting around, that&amp;rsquo;s all good:</description>
+    </item>
+    
+    <item>
+      <title>How To Post Your Dynamic Internal IP To DynDNS From Your Windows Machine</title>
+      <link>http://example.org/posts/2009-10-09-how-to-post-your-dynamic-internal-ip-to-dyndns-from-your-windows-machine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-10-09-how-to-post-your-dynamic-internal-ip-to-dyndns-from-your-windows-machine/</guid>
+      <description>I looked around for an easier way to post an internal IP to DynDNS, but I didn&amp;rsquo;t find one. Scripting to the rescue.
+If you have a paid account at DynDNS (may work for free ones too, I&amp;rsquo;m not sure), you can update a DNS entry by hitting a URL like this:
+  So, to update your DNS entry, you just need to get your IP alone in a variable that a batch file can use, then setup a task to request that URL every so often.</description>
+    </item>
+    
+    <item>
+      <title>How to Restart PostgreSQL While Developing a Rails App</title>
+      <link>http://example.org/posts/2012-01-13-how-to-restart-postgresql-while-developing-a-rails-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2012-01-13-how-to-restart-postgresql-while-developing-a-rails-app/</guid>
+      <description>While developing a Rails apps using PostgreSQL (unlike MySQL) I often run out of db connections and see errors like
+  and when I do, my Rails app stops working. Restarting Postgres fixing the problem, but it was harder to restart postgres that I expected. Here&amp;rsquo;s how I do it.
+To restart PostgreSQL I added a function to my ~/.bash_profile file:
+After saving and restarting Terminal, running &amp;lsquo;pgr&amp;rsquo; will find all the postgres process and kill them.</description>
+    </item>
+    
+    <item>
+      <title>How To Scan For Viruses in Your Email When Using Apple Mail</title>
+      <link>http://example.org/posts/2009-09-16-how-to-scan-for-viruses-in-your-email-when-using-apple-mail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-16-how-to-scan-for-viruses-in-your-email-when-using-apple-mail/</guid>
+      <description>There&amp;rsquo;s more than way to go about it, but I prefer using the open source ClamAV and a script that runs to scan each email as it comes in.
+Setup ClamAV
+ Install ClamAV. I used MacPorts to install it: sudo port install clamav Make sure all the ClamAV binaries are in your PATH. Chances are if you&amp;rsquo;re using MacPorts, you&amp;rsquo;ve already taken care of that. Configure freshclam and clamd. Since I used MacPorts to install ClamAV, this consisted of&amp;hellip; rename the example conf files in /opt/local/etc: mv example-freshclam.</description>
+    </item>
+    
+    <item>
+      <title>How To Use Facebook Open Streams With Facebooker</title>
+      <link>http://example.org/posts/2009-09-15-how-to-use-facebook-open-streams-with-facebooker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009-09-15-how-to-use-facebook-open-streams-with-facebooker/</guid>
+      <description>I would like my Facebook Connect app to publish stories to my users&#39; Facebook news stream. I went looking for how do this with Facebooker and figured out an answer.
+The old way of doing this, and the one built into Facebooker, is to publish a user action. There are two limitations of the old way: 1: you need a valid session_key (so, the user must be logged in); 2: you may only send up to 10 messages per day (without special permissions from the user).</description>
+    </item>
+    
+    <item>
+      <title>My First Idris Program</title>
+      <link>http://example.org/posts/2017-08-15-my-first-idris-program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-08-15-my-first-idris-program/</guid>
+      <description>Idris is sort of &amp;lsquo;Haskell 2.0&amp;rsquo;, where the authors got to apply the lessons learned from the creation and evolution of Haskell, but leave behind all the baggage embedded in existing, in use libraries, since, you know, they don&amp;rsquo;t have any of those yet. With the recent release of the book I was inspired to take Idris for a spin and see for myself just how lacking of &amp;lsquo;production readiness&amp;rsquo; it is.</description>
+    </item>
+    
+    <item>
+      <title>Natural: a ruby gem for natural language search</title>
+      <link>http://example.org/posts/2012-03-09-natural-a-ruby-gem-for-natural-language-search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2012-03-09-natural-a-ruby-gem-for-natural-language-search/</guid>
+      <description>When I started work on DishFu.com (one of my code playgrounds&amp;hellip;its something like Yelp) a couple years ago I wanted to support natural language search so that, instead of clicking lots of checkboxes to search for the best burrito in my zip code, I could just ask &amp;ldquo;what is the best burrito near me&amp;rdquo; and get the answer. At the time (and even now) I didn&amp;rsquo;t find a ruby library that made this easy to do, so I thought I&amp;rsquo;d take a stab at it.</description>
+    </item>
+    
+    <item>
+      <title>Winot and My OpenBSD Wifi Adventures</title>
+      <link>http://example.org/posts/2016-03-01-winot-and-my-openbsd-wifi-adventures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2016-03-01-winot-and-my-openbsd-wifi-adventures/</guid>
+      <description>I run OpenBSD on my main laptop. OpenBSD doesn&amp;rsquo;t come with a Gnome-like Network Manager&amp;hellip;you are on your own to keep your laptop connected to the wifi network, to manage your wifi passwords, etc. The OS makes it easy to connect to the wireless network to be sure&amp;hellip;it just doesn&amp;rsquo;t automate away connecting to a different network at work and home and such.
+So I thought, I&amp;rsquo;ll see if anyone has written a tool, and lo and behold, wiconfig is a great start, written in Bourne Shell, so it has no requirements besides OpenBSD itself.</description>
+    </item>
+    
+  </channel>
+</rss>

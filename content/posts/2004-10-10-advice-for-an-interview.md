@@ -1,6 +1,6 @@
 ---
 title: Advice For an Interview
-date: 2004-10-10 20:41
+date: 2004-10-10T20:41:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Eric Writes:**

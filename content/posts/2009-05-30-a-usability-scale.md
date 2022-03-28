@@ -1,9 +1,9 @@
 ---
 title: A Usability Scale
-date: 2009-05-30 11:54
+date: 2009-05-30T11:54:00Z
 tags: design
 ---
-<img alt="image" height="270" src="/images/usability-distribution.png" width="512" />
+<img alt="image" height="270" src="https://ggr_com.s3.amazonaws.com/images/usability-distribution.png" width="512" />
 <br/>
 
 Many usability professionals focus on, well, usability. But there's more to usability than an intuitive interface. The best stuff in our lives are pleasant, fun, even habit forming.

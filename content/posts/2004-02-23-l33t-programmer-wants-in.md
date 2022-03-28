@@ -1,6 +1,6 @@
 ---
 title: L33t Programmer Wants In
-date: 2004-02-23 11:08
+date: 2004-02-23T11:08:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Marquin Writes:** 

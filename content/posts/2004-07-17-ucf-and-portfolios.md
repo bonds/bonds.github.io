@@ -1,6 +1,6 @@
 ---
 title: UCF and Portfolios
-date: 2004-07-17 12:29
+date: 2004-07-17T12:29:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Albert Writes:**

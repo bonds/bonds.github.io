@@ -1,6 +1,6 @@
 ---
 title: Salaries At EA
-date: 2004-06-20 15:07
+date: 2004-06-20T15:07:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Kat Writes:**

@@ -1,6 +1,6 @@
 ---
 title: IGDA SF Meeting
-date: 2003-11-06 23:12
+date: 2003-11-06T23:12:00Z
 tags: IWantToWorkAtEA.com
 ---
 I attended my first IGDA SF meeting last night at the Art Institute (I have a friend that works there too). The meeting centered on a discussion of the newly released whitepaper by the [Online Games Committee][1]. John Welch of [Shockwave.com][2], Dave Rohrl of [EA Online][3], Margaret Wallace of [Skunk Studios][4], and Mark DeLoura of Sony formed the evenings panel with Jennifer Olsen (editor-in-chief of [Game Developer Magazine][5]) moderating.

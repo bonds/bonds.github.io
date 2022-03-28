@@ -1,6 +1,6 @@
 ---
 title: Alice Notes
-date: 2003-10-24 11:51
+date: 2003-10-24T11:51:00Z
 tags: IWantToWorkAtEA.com
 ---
 American McGee must be friends with Tim Burton. I decided to drop $8 for a copy of [Alice][1]. Heck, I've spoken to the [producer][2] and a bunch of friends have recommended the game. Took me about 20 hours to play through. The graphics were funthey set the mood of wandering through this land of dark imagination.

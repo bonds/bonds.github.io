@@ -1,6 +1,6 @@
 ---
 title: Forums Are Live
-date: 2004-01-31 03:43
+date: 2004-01-31T03:43:00Z
 tags: IWantToWorkAtEA.com
 ---
 The link is over there on the right. Ah heck, here it is too.

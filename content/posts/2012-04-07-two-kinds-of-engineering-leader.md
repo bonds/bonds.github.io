@@ -1,9 +1,9 @@
 ---
 title: Two Kinds of Engineering Leader
-date: 2012-04-07 16:53
+date: 2012-04-07T16:53:00Z
 tags: management
 ---
-<img alt="image" height="223" src="/images/jordan_and_jackson.png" width="512" />
+<img alt="image" height="223" src="https://ggr_com.s3.amazonaws.com/images/jordan_and_jackson.png" width="512" />
 <br/>
 
 When a software company is searching for a new CTO or VP of Engineering, 

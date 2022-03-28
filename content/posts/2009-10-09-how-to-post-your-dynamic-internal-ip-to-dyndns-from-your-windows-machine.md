@@ -1,9 +1,9 @@
 ---
 title: How To Post Your Dynamic Internal IP To DynDNS From Your Windows Machine
-date: 2009-10-09 12:37
+date: 2009-10-09T12:37:00Z
 tags: code
 ---
-<img alt="image" height="153" src="/images/UpdateIP.bat-screenshot.jpg" width="512" />
+<img alt="image" height="153" src="https://ggr_com.s3.amazonaws.com/images/UpdateIP.bat-screenshot.jpg" width="512" />
 <br/>
 
 I looked around for an easier way to post an **internal** IP to DynDNS, 

@@ -1,6 +1,6 @@
 ---
 title: Getting In With Pogo
-date: 2004-07-03 13:47
+date: 2004-07-03T13:47:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Chris Writes:**

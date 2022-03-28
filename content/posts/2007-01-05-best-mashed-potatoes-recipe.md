@@ -1,6 +1,6 @@
 ---
 title: Best Mashed Potatoes Recipe
-date: 2007-01-05 12:23
+date: 2007-01-05T12:23:00Z
 tags: food
 ---
 Sometimes you need mashed potatoes. Could be a holiday, could be you have this huge bag of potatoes you bought and they are starting to grow sprouts. Whatever your reason, when the time comes try these out. They are about the best mashed potatoes I've ever tasted and I've had quiet a few dolops of potatoes in my day.

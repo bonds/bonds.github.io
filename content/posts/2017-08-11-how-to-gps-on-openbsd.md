@@ -1,6 +1,6 @@
 ---
 title: How to GPS on OpenBSD
-date: 2017-08-11 15:35 UTC
+date: 2017-08-11T15:35:00Z
 tags: code
 ---
 

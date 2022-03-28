@@ -1,6 +1,6 @@
 ---
 title: Don't Delay Gratification For Others
-date: 2018-09-13 15:32 UTC
+date: 2018-09-13T15:32:00Z
 tags: management
 ---
 Its generally thought that the ability to delay your own gratification [is 

@@ -1,6 +1,6 @@
 ---
 title: Best Spanish Sweet Bread Recipe
-date: 2005-12-29 12:53
+date: 2005-12-29T12:53:00Z
 tags: food
 ---
 My great-grandmother was warm, fun, and loving. One of her favorite ways to show us she cared was to cook us food...and to sneak us a cookie when mom wasn't looking. My great-grandma (who we called Abuelita), grandma, mother, brother, and I have all made this bread and it's really good.

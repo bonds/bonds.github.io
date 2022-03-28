@@ -1,6 +1,6 @@
 ---
 title: Update From Lisa Bell
-date: 2003-12-05 16:36
+date: 2003-12-05T16:36:00Z
 tags: IWantToWorkAtEA.com
 ---
 Lisa Bell called me this afternoon with a quick [update][1]: shes been in touch with her counterpart at EARS: Rachel McIntyre. Rachel was out of town when I [met with EAP][2], otherwise I would probably have met her then, though I keep hearing her name. Anyway, Lisa has also been in touch with a couple of her Canadian counterparts too; but everyone (outside of Maxis at the moment) is hella busy hiring, so she thinks they will take a couple days to get back to her. So Lisa and I have a followup scheduled next week.

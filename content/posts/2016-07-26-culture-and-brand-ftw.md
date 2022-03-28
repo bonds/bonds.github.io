@@ -1,6 +1,6 @@
 ---
 title: Culture, Brand, (and Founders) FTW
-date: 2016-07-26 17:23 UTC
+date: 2016-07-26T17:23:00Z
 tags: management
 ---
 

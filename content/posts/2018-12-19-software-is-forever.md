@@ -1,6 +1,6 @@
 ---
 title: Calculate the Full Price of That New Tech
-date: 2018-12-19 19:52 UTC
+date: 2018-12-19T19:52:00Z
 tags: management
 ---
 Next time you get the urge to try out some new tech in production please 

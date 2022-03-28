@@ -1,6 +1,6 @@
 ---
 title: Classes For a Future Tester
-date: 2004-03-13 10:19
+date: 2004-03-13T10:19:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Ian Writes:**

@@ -1,6 +1,6 @@
 ---
 title: QA Interview Post-mortem
-date: 2004-03-11 10:26
+date: 2004-03-11T10:26:00Z
 tags: IWantToWorkAtEA.com
 ---
 **A Reader Writes:**

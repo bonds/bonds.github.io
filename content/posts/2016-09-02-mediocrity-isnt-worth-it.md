@@ -1,6 +1,6 @@
 ---
 title: Mediocrity Isn't Worth It
-date: 2016-09-02 19:06 UTC
+date: 2016-09-02T19:06:00Z
 tags: management
 ---
 

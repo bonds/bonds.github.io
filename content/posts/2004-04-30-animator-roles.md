@@ -1,6 +1,6 @@
 ---
 title: Animator Roles
-date: 2004-04-30 14:55
+date: 2004-04-30T14:55:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Thomas Writes:** 

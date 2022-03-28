@@ -1,6 +1,6 @@
 ---
 title: First Interview
-date: 2003-11-05 22:10
+date: 2003-11-05T22:10:00Z
 tags: IWantToWorkAtEA.com
 ---
 I had my first interview with EA today. John Vifian gave me a call at the [appointed time][1] and we talked about the job of Development Director (DD) at EA Partners (EAP). It was fun talking to him--he has some great experience in the industry.

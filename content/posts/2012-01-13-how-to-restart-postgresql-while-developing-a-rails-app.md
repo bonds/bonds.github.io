@@ -1,9 +1,9 @@
 ---
 title: How to Restart PostgreSQL While Developing a Rails App
-date: 2012-01-13 11:24
+date: 2012-01-13T11:24:00Z
 tags: code
 ---
-<img alt="image" height="153" src="/images/ran-out-of-connections.jpg" width="512" />
+<img alt="image" height="153" src="https://ggr_com.s3.amazonaws.com/images/ran-out-of-connections.jpg" width="512" />
 <br/>
 
 While developing a Rails apps using PostgreSQL (unlike MySQL) I often 

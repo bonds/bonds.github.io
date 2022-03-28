@@ -1,6 +1,6 @@
 ---
 title: Phone Tag and Persistence
-date: 2003-11-03 10:32
+date: 2003-11-03T10:32:00Z
 tags: IWantToWorkAtEA.com
 ---
 My friend Auren emailed me an introduction to Tiffany Spencer who is a PR Manager (as best I can tellshe works out of SF and Ubisofts SF office is a [marketing office][1]) for [Ubisoft][2]. She emailed me once last week but I havent been able to reach her since. Perhaps shes out of town or very busy. I am reminded of how many times I have had to contact a person 10 times or more before I finally got a hold of them. And most times it totally paid off. The reasons why people take a while can be all over the map, it pays not to take it personally and just realize that there are probably some perfectly good reasonsand in any case, it's usually worth the wait.

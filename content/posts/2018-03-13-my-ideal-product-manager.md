@@ -1,6 +1,6 @@
 ---
 title: My Ideal Product Manager
-date: 2018-03-13 22:08 UTC
+date: 2018-03-13T22:08:00Z
 tags: management
 ---
 My ideal product manager is more interested in disproving their idea than 

@@ -1,6 +1,6 @@
 ---
 title: Interships Breakdown
-date: 2004-11-07 10:22
+date: 2004-11-07T10:22:00Z
 tags: IWantToWorkAtEA.com
 ---
 **James Writes:**

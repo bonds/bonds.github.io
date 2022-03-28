@@ -1,6 +1,6 @@
 ---
 title: Dinner With the QS Gang
-date: 2003-11-03 22:17
+date: 2003-11-03T22:17:00Z
 tags: IWantToWorkAtEA.com
 ---
 Just got back from dinner with some friends from my days at QuickStart, one of which is was Matthew Chamberlain of Microsoft. He reports that hes still on the hunt at MS on my behalf (which is, of course, awfully nice of him). We got together a couple weeks ago at the MS SF office to search for people to talk to. We decided it would be a good idea to start with a couple of guys at the top (it goes something like: guys at the top-&gt;studio heads-&gt;exec producers-&gt;producers-&gt;associate producers) and go from there. He tells me hes helping because he cares about his MS stock price. Indeed. Heh heh. He also reminded me that he can hook me up with any [MS published][1] games at a big discount. :)

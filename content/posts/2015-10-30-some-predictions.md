@@ -1,6 +1,6 @@
 ---
 title: Some Predictions
-date: 2015-10-30 15:14 UTC
+date: 2015-10-30T15:14:00Z
 tags: misc
 ---
 

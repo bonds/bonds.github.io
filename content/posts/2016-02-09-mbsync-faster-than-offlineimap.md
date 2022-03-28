@@ -1,6 +1,6 @@
 ---
 title: Mbsync Is Way Faster Than Offlineimap
-date: 2016-02-09 19:03 UTC
+date: 2016-02-09T19:03:00Z
 tags: misc
 ---
 

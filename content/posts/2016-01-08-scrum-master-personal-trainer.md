@@ -1,6 +1,6 @@
 ---
 title: A Scrum Master Is a Personal Trainer
-date: 2016-01-09 03:56 UTC
+date: 2016-01-09T03:56:00Z
 tags: management
 ---
 

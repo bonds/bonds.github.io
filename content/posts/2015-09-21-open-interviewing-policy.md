@@ -1,6 +1,6 @@
 ---
 title: Open Interviewing Policy
-date: 2015-09-21 05:48 UTC
+date: 2015-09-21T05:48:00Z
 tags: management
 ---
 

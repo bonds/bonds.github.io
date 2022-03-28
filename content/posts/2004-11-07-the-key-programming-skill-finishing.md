@@ -1,6 +1,6 @@
 ---
 title: "The Key Programming Skill: Finishing"
-date: 2004-11-07 10:43
+date: 2004-11-07T10:43:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Scott Writes:**

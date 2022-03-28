@@ -1,6 +1,6 @@
 ---
 title: Sit Down With Tara S.
-date: 2003-12-02 17:58
+date: 2003-12-02T17:58:00Z
 tags: IWantToWorkAtEA.com
 ---
 Weve been meeting to get together and swap stories and it finally happened today right before my [meeting][1] with Bing. I was wandering the area that the geese had marked as their own (at least, I think the dropping saturate sidewalk must be a popular hangout for them) when [Tara][2] called and we converged on 250 to talk. Tara made sure to introduce me to everyone she could along the path from the front of the building to the cushy chairs, because shes just cool that way. :)

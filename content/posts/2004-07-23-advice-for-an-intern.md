@@ -1,6 +1,6 @@
 ---
 title: Advice For an Intern
-date: 2004-07-23 21:44
+date: 2004-07-23T21:44:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Stefan Writes:**

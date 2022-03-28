@@ -1,6 +1,6 @@
 ---
 title: Best Seafood Pasta
-date: 2006-01-02 16:32
+date: 2006-01-02T16:32:00Z
 tags: food
 ---
 It's not as good as [homemade][1] but [Michelangelo's][2] has had the same special for 5 years: linguini with baby clams, shrimp, and mussels; and it's really good.

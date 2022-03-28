@@ -1,6 +1,6 @@
 ---
 title: Idea For a New Game Feature
-date: 2004-07-24 22:40
+date: 2004-07-24T22:40:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Stephan Writes:**

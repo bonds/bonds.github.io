@@ -1,6 +1,6 @@
 ---
 title: Programming vs Art Production
-date: 2004-08-28 16:01
+date: 2004-08-28T16:01:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Jeff Writes:** 

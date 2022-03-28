@@ -1,6 +1,6 @@
 ---
 title: How To Screen Resumes For 'A' Players
-date: 2014-10-22 21:34 UTC
+date: 2014-10-22T21:34:00Z
 tags: management
 ---
 

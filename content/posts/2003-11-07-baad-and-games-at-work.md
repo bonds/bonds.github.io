@@ -1,6 +1,6 @@
 ---
 title: BAAD and Games At Work
-date: 2003-11-07 15:30
+date: 2003-11-07T15:30:00Z
 tags: IWantToWorkAtEA.com
 ---
 Just came across an article about how [games][1] may improve productivity at work. It reminded me of my consulting team at QuickStart. I dubbed my team BAAD (Bay Area Applications Development) and games were allowed in the office. Heck, half the time *I* was on [AWP][2] duty.

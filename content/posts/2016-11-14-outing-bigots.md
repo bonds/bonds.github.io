@@ -1,6 +1,6 @@
 ---
 title: Outing Bigots
-date: 2016-11-14 00:24 UTC
+date: 2016-11-14T00:24:00Z
 tags: politics
 ---
 

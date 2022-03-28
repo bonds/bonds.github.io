@@ -1,6 +1,6 @@
 ---
 title: Beer At Jupiters
-date: 2003-09-22 23:29
+date: 2003-09-22T23:29:00Z
 tags: IWantToWorkAtEA.com
 ---
 Tonight I decided to grab a beer at [Jupiters][1] with [Michael Constant][2]. He left Activision a little while ago to work on a math degree at [Berkeley][3] (my alma mater). I met Michael when my friend Melinda brought him to a movie night a couple weeks ago. You worked in gaming you say? We really must talk some more. :) Turns out Michaels a real badass. Hes been mentoring new developers and taking on the bitch ass bugs that no one else has the guts to stare down.

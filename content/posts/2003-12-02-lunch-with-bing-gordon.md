@@ -1,6 +1,6 @@
 ---
 title: Lunch With Bing Gordon
-date: 2003-12-02 19:12
+date: 2003-12-02T19:12:00Z
 tags: IWantToWorkAtEA.com
 ---
 So the other day I'm in 250... :) After chatting with Tara I headed over to the front desk to let Jenny Turick ([Bing][1]s exec assistant) know I was here. That is, the front desk of *death*.

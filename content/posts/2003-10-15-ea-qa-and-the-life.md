@@ -1,6 +1,6 @@
 ---
 title: EA QA and 'the Life'
-date: 2003-10-15 14:57
+date: 2003-10-15T14:57:00Z
 tags: IWantToWorkAtEA.com
 ---
 People like [Matt Lewis][1] are why I like the Bay Area. Totally cool guy...we met for drinks last night at this [chill bar][2] with no sign (keeps the unclued out, I guess) and we chatted a bit about games. I was introduced to Matt through my friend Ben, who is friends with Matts roommate (3 degrees). Matt worked as a mid-level QA dude on the publishers side of The Sims a few years back and he told me that EA Redwood Shores is a great place to work.

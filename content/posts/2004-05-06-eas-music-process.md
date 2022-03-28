@@ -1,6 +1,6 @@
 ---
 title: EA's Music Process
-date: 2004-05-06 13:50
+date: 2004-05-06T13:50:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Biggs Writes:**

@@ -1,6 +1,6 @@
 ---
 title: On the Phone With Craig Alexander
-date: 2003-11-10 16:58
+date: 2003-11-10T16:58:00Z
 tags: IWantToWorkAtEA.com
 ---
 Just got back from the gym when I noticed Craig Alexander had left a message. John had [told me][1] he was the next person I would talk to at EAP, but I didnt know when I would hear from him. I guess today. :) I just missed him by about 15 minutes so I called back and we started things off with me offering a little background on myself.

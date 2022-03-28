@@ -1,6 +1,6 @@
 ---
 title: Companies Are Made of People
-date: 2020-01-30 00:52 UTC
+date: 2020-01-30T00:52:00Z
 tags: management
 ---
 

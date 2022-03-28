@@ -1,6 +1,6 @@
 ---
 title: Minimize Maximum Stupidity
-date: 2016-07-18 15:00 UTC
+date: 2016-07-18T15:00:00Z
 tags: management
 ---
 

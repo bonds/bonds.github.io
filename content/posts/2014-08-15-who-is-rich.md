@@ -1,9 +1,9 @@
 ---
 title: Who Is Rich
 tags: politics
-date: 2014-08-15 15:46
+date: 2014-08-15T15:46:00Z
 ---
-<img alt="image" height="199" src="/images/scrooge-mcduck-swimming-in-money.jpg" width="512" />
+<img alt="image" height="199" src="https://ggr_com.s3.amazonaws.com/images/scrooge-mcduck-swimming-in-money.jpg" width="512" />
 <br/>
 
 I've been pondering Hilary Clinton's [dead brokeness][1], what she meant, and

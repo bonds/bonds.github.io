@@ -1,9 +1,9 @@
 ---
 title: How To Keep Your Cables Untangled While You Store Them
-date: 2009-06-01 17:02
+date: 2009-06-01T17:02:00Z
 tags: misc
 ---
-<img alt="image" height="194" src="/images/ziploc.jpg" width="512" />
+<img alt="image" height="194" src="https://ggr_com.s3.amazonaws.com/images/ziploc.jpg" width="512" />
 <br/>
 
 [Ziploc freezer bags][1] help keep your cables untangled and easy to sort through. There's even space for you to write the date when your [cable goes bad][2], in case you are good at predicting that sort of thing.

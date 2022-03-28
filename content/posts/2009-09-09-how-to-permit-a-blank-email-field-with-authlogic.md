@@ -1,9 +1,9 @@
 ---
 title: How To Permit A Blank Email Field With AuthLogic
-date: 2009-09-09 12:32
+date: 2009-09-09T12:32:00Z
 tags: code
 ---
-<img alt="image" height="133" src="/images/errors-from-blank-email-with-AuthLogic.jpg" width="512" />
+<img alt="image" height="133" src="https://ggr_com.s3.amazonaws.com/images/errors-from-blank-email-with-AuthLogic.jpg" width="512" />
 <br/>
 
 I too [ran into some trouble][1] before discovering that my beloved AuthLogic is validating my email field. The validation is a good thing overall, but I want to support blank email addresses as well as properly formatted ones.

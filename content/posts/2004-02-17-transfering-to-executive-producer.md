@@ -1,6 +1,6 @@
 ---
 title: Transfering To Executive Producer
-date: 2004-02-17 11:13
+date: 2004-02-17T11:13:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Chris Writes:** 

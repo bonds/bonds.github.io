@@ -1,6 +1,6 @@
 ---
 title: Interview Follow-ups
-date: 2004-08-21 21:54
+date: 2004-08-21T21:54:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Rudy Writes:**

@@ -1,6 +1,6 @@
 ---
 title: How To Set the Default App For Opening a Directory Under OpenBSD + Gnome 3
-date: 2014-09-11 01:45 UTC
+date: 2014-09-11T01:45:00Z
 tags: openbsd
 ---
 Sometimes you want 'open .' to open a directory in your favorite GUI file

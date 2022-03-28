@@ -1,6 +1,6 @@
 ---
 title: Angband 2017 Review
-date: 2018-01-09 16:32 UTC
+date: 2018-01-09T16:32:00Z
 tags: games
 ---
 

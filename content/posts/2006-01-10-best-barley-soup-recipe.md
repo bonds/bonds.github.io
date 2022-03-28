@@ -1,9 +1,9 @@
 ---
 title: Best Barley Soup Recipe
-date: 2006-01-10 23:38
+date: 2006-01-10T23:38:00Z
 tags: food
 ---
-<img alt="image" height="128" src="/images/barley-soup.jpg" width="512" />
+<img alt="image" height="128" src="https://ggr_com.s3.amazonaws.com/images/barley-soup.jpg" width="512" />
 <br/>
 
 I had the good fortune of growing up during a bygone era when an average middle class kid like me had a stay home mom who heaped love and good food on me and my family. This recipe is one of my favorite from my mom's repertoire. It tastes great, it's simple, the ingredients are inexpensive, it's good for you, it's great for colds (I **swear** fresh chicken broth has special powers, it can be made in large quantities, and it stores frozen and refrigerated. In other words, it's the perfect recipe for a family of 6.

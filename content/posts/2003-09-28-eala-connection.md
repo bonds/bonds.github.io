@@ -1,6 +1,6 @@
 ---
 title: EALA Connection
-date: 2003-09-28 16:08
+date: 2003-09-28T16:08:00Z
 tags: IWantToWorkAtEA.com
 ---
 Found out I'm going to be a [first cousin once removed][1] by my cousin Stew. He and his wife are both in digital animation. She teaches and hes got a gig with Disney. He introduced me to [Dave Kury][2] (a college friend of his from UCLA animation) about a month back, who working for [EALA][3] as the lead animator on the next Medal of Honor. He introduced me to [Rick Kane][4], an EA producer who gave me some good advice and the latest on EA new EALA studio that is close to completion.

@@ -1,6 +1,6 @@
 ---
 title: QoL Paper Published
-date: 2004-05-08 22:17
+date: 2004-05-08T22:17:00Z
 tags: IWantToWorkAtEA.com
 ---
 The QoL [whitepaper][1] is out! I contributed interviews and my experiences getting into the industry and making my way as a newbie. It's been a pleasure serving with all the veterans on the IGDA QoL committee. It's going to be interesting to see what we decide to work on next. The paper has been getting some attention across the web: [Slashdot][2], [GameDev][3], and ChaosEngine has threads talking about it, to name a few.

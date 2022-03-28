@@ -1,6 +1,6 @@
 ---
 title: Online Game Classes
-date: 2004-02-03 21:51
+date: 2004-02-03T21:51:00Z
 tags: IWantToWorkAtEA.com
 ---
 Brian Donoho tells me that [Gameversity][1] is offering online courses for aspiring game programmers, including a few free 2-week seminars to try and get you hooked. :) Kinda cool

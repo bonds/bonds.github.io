@@ -1,6 +1,6 @@
 ---
 title: Rules Of Play Review
-date: 2003-12-04 12:50
+date: 2003-12-04T12:50:00Z
 tags: IWantToWorkAtEA.com
 ---
 [Shawn Kresal][1] sent me a [review][2] of *Rules of Play*, a new book that examines games and gameplay from an academic perspective. It sounds excellent--I'm adding it to my reading list. I've also added a new blog category called "Background Reading" for the purpose of sharing with my fellow newbies my sources for a lot of the industry background info that you see showing up in these blog entries. I'll start adding them as I read them and then see about adding the stuff I've already read, at least the ones I can remember...there have been a lot. ;)

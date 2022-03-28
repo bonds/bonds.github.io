@@ -1,6 +1,6 @@
 ---
 title: Wishlist Upgraded
-date: 2014-09-16 23:07 UTC
+date: 2014-09-16T23:07:00Z
 tags: misc
 ---
 I moved my wishlist from Amazon to [CamelCamelCamel][1]. I use my wishlist mostly as

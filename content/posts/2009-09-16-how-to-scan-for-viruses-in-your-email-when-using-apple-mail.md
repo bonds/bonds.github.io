@@ -1,9 +1,9 @@
 ---
 title: How To Scan For Viruses in Your Email When Using Apple Mail
-date: 2009-09-16 14:10
+date: 2009-09-16T14:10:00Z
 tags: code
 ---
-<img alt="image" height="169" src="/images/apple-mail-antivirus-rule.jpg" width="512" />
+<img alt="image" height="169" src="https://ggr_com.s3.amazonaws.com/images/apple-mail-antivirus-rule.jpg" width="512" />
 <br/>
 
 There's more than way to go about it, but I prefer using the open source 

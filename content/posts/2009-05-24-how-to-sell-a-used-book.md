@@ -1,9 +1,9 @@
 ---
 title: How To Sell a Used Book
-date: 2009-05-24 00:01
+date: 2009-05-24T00:01:00Z
 tags: misc
 ---
-<img alt="image" height="193" src="/images/sellyours2.jpg" width="512" />
+<img alt="image" height="193" src="https://ggr_com.s3.amazonaws.com/images/sellyours2.jpg" width="512" />
 <br/>
 
 They *do* look good on your bookshelf, but are you really ever going to read them again? You can free up space in your home, save the environment, and spread knowledge throughout the world by getting that book off your shelf into the hands of an eager reader.

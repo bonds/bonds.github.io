@@ -1,6 +1,6 @@
 ---
 title: Best Fish and Chips
-date: 2006-01-01 13:52
+date: 2006-01-01T13:52:00Z
 tags: food
 ---
 My girlfriend introduced me to this joint last time we were in Malibu--I ordered a 3 piece fish and chips and [Malibu Seafood][1] gave me the biggest chunks of fried fish I'd ever seen.

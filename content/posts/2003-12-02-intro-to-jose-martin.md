@@ -1,6 +1,6 @@
 ---
 title: Intro To Jose Martin
-date: 2003-12-02 19:54
+date: 2003-12-02T19:54:00Z
 tags: IWantToWorkAtEA.com
 ---
 Apparently Bing asked Jose Martin to meet me after [Bing and I met][1], and there he appeared! Jose is "Vice President Human Resources, WW Group Studios" which means I couldnt meet someone with a better view of Studios hiring plans.

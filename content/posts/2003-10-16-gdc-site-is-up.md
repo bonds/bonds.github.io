@@ -1,6 +1,6 @@
 ---
 title: GDC Site Is Up
-date: 2003-10-16 12:38
+date: 2003-10-16T12:38:00Z
 tags: IWantToWorkAtEA.com
 ---
 The GDC site has done its soft launch (ie, pre-media blitz). Its like a web beta so everyone can fix there profiles and early-birds can get a peak and register. I'm on the [QoL panel][1]...I've even got a short profile on there. A couple days ago they asked for a picture, I had to whip out the digital camera. :p

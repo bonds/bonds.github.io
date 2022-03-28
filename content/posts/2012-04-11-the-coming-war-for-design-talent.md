@@ -1,9 +1,9 @@
 ---
 title: The Coming War for Design Talent
-date: 2012-04-11 19:08
+date: 2012-04-11T19:08:00Z
 tags: management
 ---
-<img alt="image" height="228" src="/images/path1_vs_path2b.png" width="512" />
+<img alt="image" height="228" src="https://ggr_com.s3.amazonaws.com/images/path1_vs_path2b.png" width="512" />
 <br/>
 
 While the [war][1] [rages on][2] for software engineers, I can't help 

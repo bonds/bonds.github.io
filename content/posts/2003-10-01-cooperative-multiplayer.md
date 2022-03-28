@@ -1,6 +1,6 @@
 ---
 title: Cooperative Multiplayer
-date: 2003-10-01 06:08
+date: 2003-10-01T06:08:00Z
 tags: IWantToWorkAtEA.com
 ---
 One of the best things about [System Shock 2][1] was the cooperative multiplayer game.

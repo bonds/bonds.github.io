@@ -1,6 +1,6 @@
 ---
 title: Homeworld 2 Notes
-date: 2003-10-19 05:02
+date: 2003-10-19T05:02:00Z
 tags: IWantToWorkAtEA.com
 ---
 Picked up a copy of [HW2][1]. You could say I opened the box with some anticipationthe [first one][2] remains one of my favorite games. It was immersive--the story was engaging, the sound built and maintained the mood, and the interface still is the easiest 3D RTS I've ever seen. As for the sequel it has spawned, HW2 gives a great first impression--the production quality is certainly there. The graphics, interface, and sound have all taken evolutionary steps that are great to see. Lightning, however, did not strike twice.

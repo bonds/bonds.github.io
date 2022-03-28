@@ -1,6 +1,6 @@
 ---
 title: How To Include a Gem's Rake Tasks in Your Rails App
-date: 2009-09-14 12:21
+date: 2009-09-14T12:21:00Z
 tags: code
 ---
 Rake tasks contained in a gem are not automatically available to a rails app that requires the gem. Whether that's the right way to do things is [under debate][1], but in the mean time there are a couple workarounds.

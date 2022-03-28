@@ -1,6 +1,6 @@
 ---
 title: Reinforcements
-date: 2003-10-27 12:42
+date: 2003-10-27T12:42:00Z
 tags: IWantToWorkAtEA.com
 ---
 A number of weeks ago I had lunch with [Erin Turner][1] at the Sofitel hotel near the EA campus. Come to think of it, it was labor day or something. And of course, being a producer and all, Erin was in the office that day. :) Shes leading the charge on the [next Bond game][2] after all, and she was wrapping pre-beta. I was plunking away on the piano when she walked up and we went to grab lunch nearby.

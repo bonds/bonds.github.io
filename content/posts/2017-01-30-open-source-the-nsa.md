@@ -1,6 +1,6 @@
 ---
 title: Open (Source) the NSA
-date: 2017-01-30 17:02 UTC
+date: 2017-01-30T17:02:00Z
 tags: politics
 ---
 

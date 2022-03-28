@@ -1,6 +1,6 @@
 ---
 title: PDI-Dreamworks
-date: 2003-10-10 15:16
+date: 2003-10-10T15:16:00Z
 tags: IWantToWorkAtEA.com
 ---
 Just got off the phone with Mark Kirk of [PDI-Dreamworks][1]. Hes the former neighbor of my dads friend Phil (thats 3 degrees). Hes working on some really interesting stuff--he started in IT (got introduced to the company by a friend who was getting his masters degree in graphics) and now builds the project and asset management/project pipeline tool for PDI. Basically, he makes it easier for everyone to do their piece on a film and seamlessly pass things to the next person for the work they need to do, all the while maintaining a great deal of transparency and insight into where things are on the project.

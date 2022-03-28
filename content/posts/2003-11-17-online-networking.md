@@ -1,6 +1,6 @@
 ---
 title: Online Networking
-date: 2003-11-17 16:53
+date: 2003-11-17T16:53:00Z
 tags: IWantToWorkAtEA.com
 ---
 I was recently asked how online networking tools like [Spoke][1] have contributed to my efforts to meet people within the game industry. I signed up for Spoke, [Linked-In][2], [Friendster][3], and couple others a few months ago. But none of them were much help for meeting people in the game industry.

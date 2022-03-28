@@ -1,6 +1,6 @@
 ---
 title: How To Start Networking
-date: 2004-02-03 11:27
+date: 2004-02-03T11:27:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Jon Writes:** 

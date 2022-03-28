@@ -1,6 +1,6 @@
 ---
 title: Post-mortem With EAP
-date: 2003-12-03 20:57
+date: 2003-12-03T20:57:00Z
 tags: IWantToWorkAtEA.com
 ---
 A couple days ago I emailed [Craig Alexander][1] thanking him for the opportunity to [interview][2] with his team and asking for a time to talk and get his feedback on the interviews. While I wasnt a fit for somewhat [structural reasons][3] I figured there were probably other areas that could use some improvement. We connected this evening and Craig *buried* me with help and advice!

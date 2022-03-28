@@ -1,6 +1,6 @@
 ---
 title: Being A Main Character In An MMORPG
-date: 2004-02-14 23:03
+date: 2004-02-14T23:03:00Z
 tags: IWantToWorkAtEA.com
 ---
 I realize that Lucas does not need my advice, not the least because I have no idea what I'm talking about. But that said, I was walking home from the [theatre][1] the other evening and I got to thinking about MMORPG and what can be done, taking Star Wars Galaxies as an example. You see, it had come up in an EA interview--a question about why I think some game works or doesnt and then what could have been done differently, so its not purely a random fun exercise. ;)

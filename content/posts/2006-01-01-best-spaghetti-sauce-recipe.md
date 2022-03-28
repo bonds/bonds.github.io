@@ -1,6 +1,6 @@
 ---
 title: Best Spaghetti Sauce Recipe
-date: 2006-01-01 14:22
+date: 2006-01-01T14:22:00Z
 tags: food
 ---
 For me there is no better spaghetti sauce that the stuff I grew up with. Period. I grew up on this stuff and maybe that's got something to do with it, but when I make my friends have no problem polishing off a plateful and coming back for more.

@@ -1,6 +1,6 @@
 ---
 title: Crimson Skies Notes
-date: 2003-10-28 20:13
+date: 2003-10-28T20:13:00Z
 tags: IWantToWorkAtEA.com
 ---
 MS just released their [sequel to *Crimson Skies*][1] on the Xbox. Heh heh, they *know* its a good game and they want it to help drive purchases of the Xbox and subscriptions to Xbox Live. I've been meaning to take some notes down about the original for some time because it was a game I enjoyed and I thought it worth reflecting on why I enjoyed it as much as I did.

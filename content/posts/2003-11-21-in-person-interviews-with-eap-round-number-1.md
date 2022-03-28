@@ -1,6 +1,6 @@
 ---
 title: In-person Interviews With EAP, Round #1
-date: 2003-11-21 23:32
+date: 2003-11-21T23:32:00Z
 tags: IWantToWorkAtEA.com
 ---
 Its been quite a day! 5 hours of interviews stacked back-to-back with a bunch of the EAP team...and this is just the first round of in-person interviews. These were proceeded by two [phone interviews][1] a couple weeks ago. It was pretty cool meeting everyone and having the chance to ask a lot of questions about EA and the production roles here.

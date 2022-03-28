@@ -1,9 +1,9 @@
 ---
 title: The Big Unplug
-date: 2013-10-31 09:13
+date: 2013-10-31T09:13:00Z
 tags: security
 ---
-<img alt="image" width="512" height="228" src="/images/alien-self-destruct.jpg" />
+<img alt="image" width="512" height="228" src="https://ggr_com.s3.amazonaws.com/images/alien-self-destruct.jpg" />
 <br/>
 
 I posted this on my personal Facebook account yesterday morning:

@@ -1,10 +1,9 @@
 ---
 title: Best Milkshake
-date: 2013-09-26 10:19
+date: 2013-09-26T10:19:00Z
 tags: food
 ---
-<img alt="image" width="512" height="274" src="/images/shake.jpg" />
-<br/>
+![2]
 
 Get the Swiss milk chocolate milk shake from [Fentons][1]. Get the jumbo, what's another thousand calories? You won't regret it. Ok, maybe you will. But still...its so, so good.
 
@@ -12,4 +11,5 @@ Get the Swiss milk chocolate milk shake from [Fentons][1]. Get the jumbo, what's
 
 Added a picture. It required some field work.
 
- [1]: http://www.fentonscreamery.com/
+ [1]: https://fentonscreamery.com/
+ [2]: https://ggr_com.s3.amazonaws.com/images/shake.jpg "best milkshake" 

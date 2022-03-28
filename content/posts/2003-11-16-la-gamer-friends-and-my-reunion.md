@@ -1,6 +1,6 @@
 ---
 title: LA Gamer Friends and My Reunion
-date: 2003-11-16 19:03
+date: 2003-11-16T19:03:00Z
 tags: IWantToWorkAtEA.com
 ---
 Last night I attended my high school reunion. I met up with my old friend Dean Musson beforehand and met his 3 month old daughter Mathilda, who is as cute as can be. All smile and naps. :) Hes a stay-at-home dad for a few months and he cant do too much...everything is in 2 hour feed-sleep cycles. He and Amy are big gamers and hes tried to fit in some [Shadowbane][1], but its hard to do much but clean the house and watch Jerry Springer. Babys cries dont wait for you to finish your big online battle. And theres no pause button either. :p

@@ -1,6 +1,6 @@
 ---
 title: On I'mmersion And Tron 2.0
-date: 2003-11-30 01:16
+date: 2003-11-30T01:16:00Z
 tags: IWantToWorkAtEA.com
 ---
 I just finished [Tron 2.0][1] and prior to that by a few days I had watched the [Two Towers, extended version][2] and its appendices. I find the making of the LOTR movies and Peter Jackson as a supreme inspiration--and it reminds me of what I'm looking for in game production. I want to help bottle the awe and joy of those moments I've found in books and on screen and bring them to games.

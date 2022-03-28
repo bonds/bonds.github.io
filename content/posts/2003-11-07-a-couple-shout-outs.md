@@ -1,6 +1,6 @@
 ---
 title: A Couple Shout-outs
-date: 2003-11-07 00:18
+date: 2003-11-07T00:18:00Z
 tags: IWantToWorkAtEA.com
 ---
 Thank you Russell Borogove for the email with encouraging words and some very helpful insights into what its like at EA. Congratulations to my good friend Mark Schlosberg who, after working his butt off for the past months as head of the campaign, [won on Prop H][1] in SF. Good to hear from you Tara S.! I'm looking forward to grabbing a beer and swapping notes on the industry as soon as we find a chance. And thank you to [Jane][2] of [Game Girl Advance][3], who deserves pretty much all the credit for me meeting all of these people--after [her post][4] on GGA I can really see the word getting out!

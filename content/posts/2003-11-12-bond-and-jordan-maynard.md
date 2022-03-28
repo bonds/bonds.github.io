@@ -1,6 +1,6 @@
 ---
 title: Bond and Jordan Maynard
-date: 2003-11-12 19:18
+date: 2003-11-12T19:18:00Z
 tags: IWantToWorkAtEA.com
 ---
 After [lunch][1] Erin and I walked over to say hi to [Jordan Maynard][2]. Erin took off for her appearance at Stanford and Jordan sat me down and showed me what he was working on. He helps with the animation on Bond--he develops some of the custom tools they use and the capabilities are seriously ahead of the pack.

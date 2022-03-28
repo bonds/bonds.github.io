@@ -1,9 +1,9 @@
 ---
 title: How To Ship a Used Book
-date: 2009-05-25 00:03
+date: 2009-05-25T00:03:00Z
 tags: misc
 ---
-<img alt="image" height="157" src="/images/shipping.jpg" width="512" />
+<img alt="image" height="157" src="https://ggr_com.s3.amazonaws.com/images/shipping.jpg" width="512" />
 <br/>
 
 So you [sold your used book][1] on Amazon, you're basking in the glow of your success, and then it dawns on you that the buyer is expecting you to *send them the book*.

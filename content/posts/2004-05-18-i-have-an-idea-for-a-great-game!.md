@@ -1,6 +1,6 @@
 ---
 title: I Have an Idea For a Great Game!
-date: 2004-05-18 14:06
+date: 2004-05-18T14:06:00Z
 tags: IWantToWorkAtEA.com
 ---
 **A Reader Writes:** 

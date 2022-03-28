@@ -1,6 +1,6 @@
 ---
 title: Stop Hiring DevOps
-date: 2017-07-21 21:28 UTC
+date: 2017-07-21T21:28:00Z
 tags: management
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: How to Increase Traffic to Your Site By Optimizing For Search Engines
-date: 2009-07-17 17:50
+date: 2009-07-17T17:50:00Z
 tags: code
 ---
-<img alt="image" height="153" src="/images/alexa_results_for_penny_arcade.jpg" width="512" />
+<img alt="image" height="153" src="https://ggr_com.s3.amazonaws.com/images/alexa_results_for_penny_arcade.jpg" width="512" />
 <br/>
 
 Want more traffic from your friendly neighborhood search engine to your site? Here are some of the Search Engine Optimization (SEO) tricks I've picked up along the way.

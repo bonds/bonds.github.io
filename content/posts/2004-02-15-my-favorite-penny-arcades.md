@@ -1,6 +1,6 @@
 ---
 title: My Favorite Penny Arcades
-date: 2004-02-15 11:16
+date: 2004-02-15T11:16:00Z
 tags: IWantToWorkAtEA.com
 ---
 Its the best comic in the industry...and [some say][1] on the web. And really, all of them are good, but heres a list of my favorites.

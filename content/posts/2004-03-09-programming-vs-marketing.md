@@ -1,6 +1,6 @@
 ---
 title: Programming vs Marketing
-date: 2004-03-09 10:54
+date: 2004-03-09T10:54:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Ian Writes:** 

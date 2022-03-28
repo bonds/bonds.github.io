@@ -1,6 +1,6 @@
 ---
 title: How to Market Genode
-date: 2018-09-11 15:45 UTC
+date: 2018-09-11T15:45:00Z
 tags: marketing
 ---
 Following updates from [Genode][1] and [Haiku][2] highlighting their progress 

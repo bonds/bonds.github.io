@@ -1,6 +1,6 @@
 ---
 title: The Swedish Connection
-date: 2003-12-01 10:00
+date: 2003-12-01T10:00:00Z
 tags: IWantToWorkAtEA.com
 ---
 A few weeks ago I heard from Fredrik Thylander (a game designer with [Digital I'llusions][1]) who had stumbled across this site and sent me an email just to say he likes the site and good luck. He also put a good word in for [John Vifian][2] and EAP--good bunch of guys to work with. Today I heard from [Sean Decker][3] who, it turns out, is over in Sweden working with a team on the Battlefield series. I know that Fredrik is working on the series too. Heh heh, small world. Man, I would _love_ to work in Sweden, I'm very jealous of these guys. :)

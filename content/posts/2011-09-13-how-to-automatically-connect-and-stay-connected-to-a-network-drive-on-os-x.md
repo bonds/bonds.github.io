@@ -1,9 +1,9 @@
 ---
 title: How to Automatically Connect and Stay Connected to a Network Drive on OS X
-date: 2011-09-13 18:39
+date: 2011-09-13T18:39:00Z
 tags: code
 ---
-<img alt="image" height="199" src="/images/automount_screenshot.jpg" width="512" />
+<img alt="image" height="199" src="https://ggr_com.s3.amazonaws.com/images/automount_screenshot.jpg" width="512" />
 <br/>
 
 I keep my music and my photos on a server at home. Whenever I'm home I 

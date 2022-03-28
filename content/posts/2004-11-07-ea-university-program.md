@@ -1,6 +1,6 @@
 ---
 title: EA University Program
-date: 2004-11-07 10:34
+date: 2004-11-07T10:34:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Martijn Writes:**

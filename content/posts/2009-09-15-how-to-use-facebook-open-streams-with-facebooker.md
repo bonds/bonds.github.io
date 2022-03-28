@@ -1,9 +1,9 @@
 ---
 title: How To Use Facebook Open Streams With Facebooker
-date: 2009-09-15 15:02
+date: 2009-09-15T15:02:00Z
 tags: code
 ---
-<img alt="image" height="165" src="/images/facebook_extended_permissions.jpg" width="512" />
+<img alt="image" height="165" src="https://ggr_com.s3.amazonaws.com/images/facebook_extended_permissions.jpg" width="512" />
 <br/>
 
 I would like my Facebook Connect app to publish stories to my users' Facebook news stream. I went looking for how do this with Facebooker and figured out an answer.

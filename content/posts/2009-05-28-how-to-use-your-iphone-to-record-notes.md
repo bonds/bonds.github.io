@@ -1,9 +1,9 @@
 ---
 title: How To Use Your iPhone To Record Notes
-date: 2009-05-28 18:30
+date: 2009-05-28T18:30:00Z
 tags: misc
 ---
-<img alt="image" height="202" src="/images/recordervsiphone.jpg" width="512" />
+<img alt="image" height="202" src="https://ggr_com.s3.amazonaws.com/images/recordervsiphone.jpg" width="512" />
 <br/>
 
 In the '80s all the cool executive-type people carried around small tape recorders for capturing ideas any time they had them. Today we can [record notes in '00s style][1] and have them sent straight to our email. Turns out its pretty handy to be able to quickly taking notes anytime, anywhere. You know...until you can afford a personal assistant like the *really* cool '80s execs.

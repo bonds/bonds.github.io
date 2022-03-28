@@ -1,6 +1,6 @@
 ---
 title: Finding Internship Positions
-date: 2004-03-13 10:17
+date: 2004-03-13T10:17:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Kirk Writes:** 

@@ -1,6 +1,6 @@
 ---
 title: Getting Closer
-date: 2003-10-25 07:13
+date: 2003-10-25T07:13:00Z
 tags: IWantToWorkAtEA.com
 ---
 A couple days ago [Rob][1] emailed me letting me know that he had pitched me to EA Partners and they were interested in speaking with me. :) As I understand it, EAP is looking for producer-types at an array of levels to help manage their relationships with outside studios, I'm guessing on one or a handful of projects at a time. Today I received an email from EA's [job engine][2] with more details.

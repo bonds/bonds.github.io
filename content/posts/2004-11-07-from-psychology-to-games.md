@@ -1,6 +1,6 @@
 ---
 title: From Psychology To Games
-date: 2004-11-07 10:29
+date: 2004-11-07T10:29:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Todd Writes:** 

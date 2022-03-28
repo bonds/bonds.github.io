@@ -1,6 +1,6 @@
 ---
 title: More On Classes For Future Producers
-date: 2004-03-23 15:19
+date: 2004-03-23T15:19:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Koz Writes:** 

@@ -1,6 +1,6 @@
 ---
 title: Burst > Drip For iTunes Review Reminders
-date: 2014-10-24 15:25 UTC
+date: 2014-10-24T15:25:00Z
 tags: marketing
 ---
 We email our customers after they receive their first [Mosaic][1], asking

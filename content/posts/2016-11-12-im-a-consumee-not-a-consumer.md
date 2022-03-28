@@ -1,6 +1,6 @@
 ---
 title: I'm a Consum-ee, Not a Consum-er
-date: 2016-11-12 20:48 UTC
+date: 2016-11-12T20:48:00Z
 tags: politics
 ---
 

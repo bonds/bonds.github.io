@@ -1,6 +1,6 @@
 ---
 title: IT At EA Tiberon In Florida
-date: 2004-05-06 14:24
+date: 2004-05-06T14:24:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Joel Writes:**

@@ -1,6 +1,6 @@
 ---
 title: Making Xbox Games At Home
-date: 2004-08-28 15:48
+date: 2004-08-28T15:48:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Stephan Writes:** 

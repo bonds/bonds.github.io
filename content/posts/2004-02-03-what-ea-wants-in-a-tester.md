@@ -1,6 +1,6 @@
 ---
 title: What EA Wants In A Tester
-date: 2004-02-03 11:35
+date: 2004-02-03T11:35:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Jeremy Writes:** 

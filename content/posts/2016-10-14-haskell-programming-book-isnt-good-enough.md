@@ -1,6 +1,6 @@
 ---
 title: The Haskell Programming Book Isn't Good Enough
-date: 2016-10-15 00:17 UTC
+date: 2016-10-15T00:17:00Z
 tags: management
 ---
 We (the human race) spend/waste an enormous amount of energy writing code that won't last. We constantly cut ourselves on the sharp edges of C, PHP, Perl, Ruby, Java, and lots of other languages that were the best and brightest of their day, but they don't go far enough protecting us from our own stupidity, laziness, distractedness, busyness...

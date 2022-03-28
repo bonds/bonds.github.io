@@ -1,6 +1,6 @@
 ---
 title: Copyright This
-date: 1997-11-03 13:19
+date: 1997-11-03T13:19:00Z
 tags: politics
 ---
 

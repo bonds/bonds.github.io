@@ -1,9 +1,9 @@
 ---
 title: Best Broccoli Soup Recipe
-date: 2007-11-23 08:52 
+date: 2007-11-23T08:52:00Z 
 tags: food
 ---
-<img alt="image" height="142" src="/images/brocollisoup.jpg" width="512" />
+<img alt="image" height="142" src="https://ggr_com.s3.amazonaws.com/images/brocollisoup.jpg" width="512" />
 <br/>
 
 Don't like broccoli? --Me neither. --But hold on to your soup bowls, this is a way to eat it that tastes pretty good.

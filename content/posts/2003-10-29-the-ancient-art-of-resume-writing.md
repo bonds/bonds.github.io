@@ -1,6 +1,6 @@
 ---
 title: The Ancient Art of Resume Writing
-date: 2003-10-29 11:28
+date: 2003-10-29T11:28:00Z
 tags: IWantToWorkAtEA.com
 ---
 I'll be the first to admit that I find writing my own resume a challenge. On the one hand, I'm a fairly confident guy, but on the other hand, I dont really like tooting my own horn. Cant be too bold or too humble and I've gotta speak the right language. There are certain things I need to communicate to get past the gatekeepers and make it all the way to the hiring manager and *then* land an interview. Quite a skill unto itself...its a lot to build into a sheet of paper. :)

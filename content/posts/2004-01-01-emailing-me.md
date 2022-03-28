@@ -1,6 +1,6 @@
 ---
 title: Emailing Me
-date: 2004-01-01 00:00
+date: 2004-01-01T00:00:00Z
 tags: IWantToWorkAtEA.com
 ---
 Thanks for saying hello! If you have a question for me about getting a job in the game industry go ahead and email me. I'll post your email message and my reply to it so everyone can check it out and participate--if youre lucky youll get some replies from my colleagues at EA...they check out these posts on occasion.

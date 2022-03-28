@@ -1,6 +1,6 @@
 ---
 title: High School Prep For a Game Career
-date: 2004-07-15 22:43
+date: 2004-07-15T22:43:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Merenia Writes:**

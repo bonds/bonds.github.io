@@ -1,6 +1,6 @@
 ---
 title: Working On Forums
-date: 2004-01-24 10:38
+date: 2004-01-24T10:38:00Z
 tags: IWantToWorkAtEA.com
 ---
 [EA Academy][1] recently [linked][2] to this site and the email has been coming in a bit faster...and its started me thinking about what direction to take the site next. I'm working on putting up some forums so more people can check out the questions and discussions that have been happening in email and blog comments up to this point. I bet there are some people who visit this site on occasion who know a lot more than I do about breaking into the industry and might be happy to help out as well!

@@ -1,9 +1,9 @@
 ---
 title: How To Get Your IP and ONLY Your IP in Windows
-date: 2009-10-09 12:30
+date: 2009-10-09T12:30:00Z
 tags: code
 ---
-<img alt="image" height="105" src="/images/getIP.bat-screenshot.jpg" width="512" />
+<img alt="image" height="105" src="https://ggr_com.s3.amazonaws.com/images/getIP.bat-screenshot.jpg" width="512" />
 <br/>
 
 Sometimes you need to know your Windows machine's IP. For example, if 

@@ -1,6 +1,6 @@
 ---
 title: First Movable Type Spam
-date: 2003-11-02 19:57
+date: 2003-11-02T19:57:00Z
 tags: IWantToWorkAtEA.com
 ---
 [It ][1]was bound to happen. Got my first comment Spam on this site today. I was all excited about getting a comment until I read it. ;) Heh heh. I hope I dont have to put a filter on too soon.

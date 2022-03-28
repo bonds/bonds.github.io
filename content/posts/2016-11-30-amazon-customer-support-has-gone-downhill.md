@@ -1,6 +1,6 @@
 ---
 title: Amazon Customer Support Has Gone Downhill
-date: 2016-11-30 16:25 UTC
+date: 2016-11-30T16:25:00Z
 tags: politics
 ---
 

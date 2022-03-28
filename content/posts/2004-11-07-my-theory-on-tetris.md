@@ -1,6 +1,6 @@
 ---
 title: My Theory On Tetris
-date: 2004-11-07 23:36
+date: 2004-11-07T23:36:00Z
 tags: IWantToWorkAtEA.com
 ---
 I've done my share of dabbling in neurobiology literature and within said literature is information about our eyes. We dont perceive the world as a raw stream of color and brightness--we see objects that retain their integrity even as we turn our heads or they move around. Anyone whos written AI visual navigation/targeting systems can attest to what an impressive ability this is.

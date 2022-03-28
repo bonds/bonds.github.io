@@ -1,6 +1,6 @@
 ---
 title: The Maxis Tour
-date: 2003-10-01 04:03
+date: 2003-10-01T04:03:00Z
 tags: IWantToWorkAtEA.com
 ---
 Last night I got the full tour of [Maxis][1] from [Toby Roberts][2], a central leader in their IT operation. Met Toby through my friend [Kat Sewell][3] and we all went to grab [dinner][4] after. Man, what a cool place Maxis is! I cant even begin to describe the energetic atmosphere in those colorful halls. And I cant even begin to tell you all the cool shit they are working on because of the NDA I had to sign before entering. :p But lemme just say theres some awesome stuff coming down the pipeline.

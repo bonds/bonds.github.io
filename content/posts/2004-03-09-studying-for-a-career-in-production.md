@@ -1,6 +1,6 @@
 ---
 title: Studying For a Career in Production
-date: 2004-03-09 15:15
+date: 2004-03-09T15:15:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Koz Writes:**

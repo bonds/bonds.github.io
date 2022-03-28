@@ -1,6 +1,6 @@
 ---
 title: Game Girl Advance And 411
-date: 2003-09-24 12:02
+date: 2003-09-24T12:02:00Z
 tags: IWantToWorkAtEA.com
 ---
 I [subscribe][1] to [Game Girl Advance][2] and they mentioned this [goth band][3] in an [article][4] about how the goth scene is full of gamers. The band was in SF Tuesday so I went to check them out and I thought they were pretty good! Theyve got their own Sims skins5 too. :) That evening, after the evening of ear blasting and all things black, I stumbled across a little gem known as 411 publishing.

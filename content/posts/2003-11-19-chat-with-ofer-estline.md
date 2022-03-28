@@ -1,6 +1,6 @@
 ---
 title: Chat With Ofer Estline
-date: 2003-11-19 22:19
+date: 2003-11-19T22:19:00Z
 tags: IWantToWorkAtEA.com
 ---
 Ofer and I met at EALA after work (well, not really, Ofer planned to stay until midnight) to talk about EA and Development Directors (DDs). First a quick tour of EALA which is presently packed with three studios. Its nice and cozy until January when the new offices come online.

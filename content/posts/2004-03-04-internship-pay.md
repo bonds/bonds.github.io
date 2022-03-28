@@ -1,6 +1,6 @@
 ---
 title: Internship Pay
-date: 2004-03-04 10:47
+date: 2004-03-04T10:47:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Chereya Writes:**

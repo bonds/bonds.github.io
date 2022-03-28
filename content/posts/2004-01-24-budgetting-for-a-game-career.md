@@ -1,6 +1,6 @@
 ---
 title: Budgetting For a Game Career
-date: 2004-01-24 11:05
+date: 2004-01-24T11:05:00Z
 tags: IWantToWorkAtEA.com
 ---
 Being a production intern, it occurs to me that I make less money than I used to. ;) Starting a new career involves making some sacrifices and in my case I knew to expect some belt tightening. Planning for this has been key--at least for myself, I find that I dont need much money to live on comfortably as long as I pay attention to what I'm spending money on.

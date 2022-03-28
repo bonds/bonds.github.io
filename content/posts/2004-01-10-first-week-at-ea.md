@@ -1,6 +1,6 @@
 ---
 title: First Week At EA
-date: 2004-01-10 10:27
+date: 2004-01-10T10:27:00Z
 tags: IWantToWorkAtEA.com
 ---
 I started work Tuesday and man, I'm having a great time! I really lucked out--Hunter and Lisa have tons of experience are a real pleasure to work with. Everyone I've met so far has been helpful and enthusiastic in fact--like Victor and Robert in IT who have been going out of their way to help me get what I need. I dont know if I've ever worked with more helpful IT guys. Its pretty cool. But lemme tell you about what I'm doing.

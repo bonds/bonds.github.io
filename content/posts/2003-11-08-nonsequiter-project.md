@@ -1,6 +1,6 @@
 ---
 title: Nonsequiter Project
-date: 2003-11-08 01:05
+date: 2003-11-08T01:05:00Z
 tags: IWantToWorkAtEA.com
 ---
 I met up with my friend Ben Durbin at Buzz9 about in the middle of the evenings festivities after the [IGDA meeting][1] on Wednesday. I only managed a single [Guinness][2] on the IGDA tab before we were talking shop. As you may recall, [Nonsequiter][3] is a small group of game newbies that has been getting together with the intention of sharing our experiences in the game biz, and more importantly, to make some games. The conversation turned towards [SS3][4] for a little while, but were now of the opinion that we should start smaller.

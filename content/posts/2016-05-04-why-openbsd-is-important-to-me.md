@@ -1,6 +1,6 @@
 ---
 title: Why OpenBSD Is Important To Me
-date: 2016-05-04 16:31 UTC
+date: 2016-05-04T16:31:00Z
 tags: politics
 ---
 

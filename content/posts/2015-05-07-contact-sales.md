@@ -1,6 +1,6 @@
 ---
 title: Contact Sales
-date: 2015-05-17 15:46 UTC
+date: 2015-05-17T15:46:00Z
 tags: misc
 ---
 

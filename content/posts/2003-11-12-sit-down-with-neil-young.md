@@ -1,6 +1,6 @@
 ---
 title: Sit Down With Neil Young
-date: 2003-11-12 16:43
+date: 2003-11-12T16:43:00Z
 tags: IWantToWorkAtEA.com
 ---
 When Neil [offered][1] to meet with me last week it was sort of like I had written a blog about how I like epic movies and then I got an email from [Peter Jackson][2] offering to meet with me. Basically, it was really cool :) So I was looking forward to meeting Neil and seeing what it was we would talk about.

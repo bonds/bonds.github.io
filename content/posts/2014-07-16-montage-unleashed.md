@@ -1,9 +1,9 @@
 ---
 title: Montage Unleashed
 tags: Mixbook
-date: 2014-07-16 14:31
+date: 2014-07-16T14:31:00Z
 ---
-<img alt="image" width="512" height="138" src="/images/montage-cover.png" />
+<img alt="image" width="512" height="138" src="https://ggr_com.s3.amazonaws.com/images/montage-cover.png" />
 <br/>
 
 [Montage][1] is now live and its 10x easier<sup><a name="10x" href="#ftn.10x">1</a></sup>

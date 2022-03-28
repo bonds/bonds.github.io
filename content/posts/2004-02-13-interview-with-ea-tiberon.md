@@ -1,6 +1,6 @@
 ---
 title: Interview With EA Tiberon
-date: 2004-02-13 10:22
+date: 2004-02-13T10:22:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Jonathon writes:** 

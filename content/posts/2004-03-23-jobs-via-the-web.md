@@ -1,6 +1,6 @@
 ---
 title: Jobs Via the Web
-date: 2004-03-23 10:10
+date: 2004-03-23T10:10:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Alan Writes:** 

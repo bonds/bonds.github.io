@@ -1,6 +1,6 @@
 ---
 title: Small World Effect
-date: 2003-10-27 22:07
+date: 2003-10-27T22:07:00Z
 tags: IWantToWorkAtEA.com
 ---
 I emailed [RJ Berg][1] after I finished Alice to tell him how much I liked the game. I also asked why Moby wasnt showing him on Alice in their DB and it turns out the person who put the data in originally missed him. So, I contacted Moby and got them to [add his credit][2] as the executive producer on the project. But he did a lot more than exec produce the game--he wrote the script and the dialogue while directing the voice and music. I bet he had a blast! I'm envious. :) Funny thing is, Jordan Maynard who I [just met][3] through Erin Turner is the son of David Maynard, a cofounder of EA. And RJ had just met with David about 10 minutes before my email crossed his desk, saying how I had just met someone else who worked on Alice. Heh heh. What are the chances?

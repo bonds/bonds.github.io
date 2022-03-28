@@ -1,6 +1,6 @@
 ---
 title: 2003 Video Game Gift Guide
-date: 2003-12-04 16:58
+date: 2003-12-04T16:58:00Z
 tags: IWantToWorkAtEA.com
 ---
 Saw this [post][1] over at Slashdot talking about Gaming Horizons [suggestions][2] for this Christmas season. Interesting to compare their list with the top games of the year according to [Metacritic][3].

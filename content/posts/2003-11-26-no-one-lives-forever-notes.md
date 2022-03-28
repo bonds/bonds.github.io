@@ -1,6 +1,6 @@
 ---
 title: No One Lives Forever Notes
-date: 2003-11-26 00:18
+date: 2003-11-26T00:18:00Z
 tags: IWantToWorkAtEA.com
 ---
 Well, its a [top rated][1] game so I thought Id check out what its all about. I opted not to read the reviews first and just let it impress me on its own. Of course, the graphics are a little dated, but I liked [Alice][2] a lot and its getting a little long in the tooth. My favorite games have survived a graphics cycle or two and are still fun in any case.

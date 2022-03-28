@@ -1,6 +1,6 @@
 ---
 title: Animator Networking
-date: 2004-02-16 11:22
+date: 2004-02-16T11:22:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Lindsay Writes:**

@@ -1,6 +1,6 @@
 ---
 title: Looks Like EA Canada Is Hiring
-date: 2003-12-13 10:01
+date: 2003-12-13T10:01:00Z
 tags: IWantToWorkAtEA.com
 ---
 At least, it [looks like][1] they are trying to find a few good programmers. [ASCII][2] stupid question, get a stupid ANSI.

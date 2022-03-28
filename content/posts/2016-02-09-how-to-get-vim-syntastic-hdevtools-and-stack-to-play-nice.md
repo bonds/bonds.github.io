@@ -1,6 +1,6 @@
 ---
 title: How To Get Vim, Syntastic, Hdevtools, and Stack To Play Nice
-date: 2016-02-09 16:51 UTC
+date: 2016-02-09T16:51:00Z
 tags: code
 ---
 I was poking around some old Haskell code the other day, when I realized that,

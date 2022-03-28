@@ -1,6 +1,6 @@
 ---
 title: First EA App Complete
-date: 2003-11-25 23:37
+date: 2003-11-25T23:37:00Z
 tags: IWantToWorkAtEA.com
 ---
 Heard from [Rob Moreno][1] today letting me know that EAP isn't ready to bring me on just yet. Darn! I was hoping that they would see past my lack of game industry experience but it looks like they noticed. ;) So that wraps my [first][2] formal application to a position with EA! Not too shabby--I made 5 new production contacts, several of whom were kind enough to offer me help after the interview was over.

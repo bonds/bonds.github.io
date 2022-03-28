@@ -1,6 +1,6 @@
 ---
 title: APs and Morrowind
-date: 2003-11-16 21:26
+date: 2003-11-16T21:26:00Z
 tags: IWantToWorkAtEA.com
 ---
 Met up with my friend [Aaron Butler][1] for lunch. Hes an Associate Producer with MTV and hes earned credits for editing and directing as well. Hes had some offers from VH1 too--basically hes totally kicking butt down here. We used to be roommates and before that we were involved in [student government][2] together at Cal. Aarons been making films for the absolute love of it since he was in junior high--seeing him doing so well is really cool. We sat down to eat and soon got to talking about the differences between production roles in TV, film, and games.

@@ -1,6 +1,6 @@
 ---
 title: EA's Biz Side
-date: 2003-09-22 10:50
+date: 2003-09-22T10:50:00Z
 tags: IWantToWorkAtEA.com
 ---
 Thought I would start the week by giving Joel Lizner of EA a call. I was introduced to him through my friend [Jon Bass][1]. I never would have guessed he knew people in the industry, but hes introduced me to Joel and to [RJ Berg][2], a producer over at LucasArts. It just goes to show that when you are looking to meet people in the industry, tell *everyone* you can. You never know who all your friends of friends know.

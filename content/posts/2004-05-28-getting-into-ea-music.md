@@ -1,6 +1,6 @@
 ---
 title: Getting Into EA Music
-date: 2004-05-28 14:19
+date: 2004-05-28T14:19:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Ken #1 Writes:** 

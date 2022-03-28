@@ -1,6 +1,6 @@
 ---
 title: Music, Madden, and Steve Schnur
-date: 2004-05-08 13:41
+date: 2004-05-08T13:41:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Rus Writes:**

@@ -1,6 +1,6 @@
 ---
 title: System Shock 3
-date: 2003-09-23 12:24
+date: 2003-09-23T12:24:00Z
 tags: IWantToWorkAtEA.com
 ---
 Like *everyone* else in the game industry, I too have a pet game idea or two. Having read most of the production articles at [Gamasutra][1] and much of [Sloperama][2] I realize that like most software and unlike Athena, games do not spring forth from your head fully formed. So a few weeks ago I started looking into just what it would take to build a game myself.

@@ -1,6 +1,6 @@
 ---
 title: Internship Application Process
-date: 2004-03-09 10:35
+date: 2004-03-09T10:35:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Thomas Writes:** 

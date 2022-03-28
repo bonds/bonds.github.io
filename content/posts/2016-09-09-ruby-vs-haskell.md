@@ -1,6 +1,6 @@
 ---
 title: "Ruby vs Haskell: Ruby is Lego, Haskell is Steel"
-date: 2016-09-10 02:25 UTC
+date: 2016-09-10T02:25:00Z
 tags: management
 ---
 

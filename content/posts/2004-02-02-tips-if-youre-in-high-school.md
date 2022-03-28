@@ -1,6 +1,6 @@
 ---
 title: Tips If You're In High School
-date: 2004-02-02 11:41
+date: 2004-02-02T11:41:00Z
 tags: IWantToWorkAtEA.com
 ---
 **An Anonymous Reader Writes:**

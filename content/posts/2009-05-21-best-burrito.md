@@ -1,9 +1,9 @@
 ---
 title: Best Burrito
-date: 2009-05-21 15:40
+date: 2009-05-21T15:40:00Z
 tags: food
 ---
-<img alt="image" height="166" src="/images/burrito.jpg" width="512" />
+<img alt="image" height="166" src="https://ggr_com.s3.amazonaws.com/images/burrito.jpg" width="512" />
 <br/>
 
 They won't be serving these at the [Ritz Carlton][1] any time soon, but don't let it's commonplace appearance fool you. --[Chavez Supermarket][2] makes a--tasty--*Super Carnitas Burrito* packed with lots of pork and other burrito essentials. --But if that's not fancy enough for you, you can always ask for it 'Au Jus'.

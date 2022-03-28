@@ -1,9 +1,9 @@
 ---
 title: Passage Moved Me
-date: 2009-05-23 10:23
+date: 2009-05-23T10:23:00Z
 tags: games
 ---
-<img alt="image" height="92" src="/images/passage.jpg" width="512" />
+<img alt="image" height="92" src="https://ggr_com.s3.amazonaws.com/images/passage.jpg" width="512" />
 <br/>
 
 Not knowing what to expect, I played [Passage][1] and found myself moved (not in the U-Haul sense, the other moved)...something no other video game has accomplished before or since. It doesn't look like much, but there's real [Art][2] in there.

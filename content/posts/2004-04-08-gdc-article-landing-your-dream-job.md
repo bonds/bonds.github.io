@@ -1,6 +1,6 @@
 ---
 title: "GDC Article: Landing Your Dream Job"
-date: 2004-04-08 10:02
+date: 2004-04-08T10:02:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Chereya Writes:** 

@@ -1,6 +1,6 @@
 ---
 title: The Levels of Engineering Culture
-date: 2016-02-15 19:06 UTC
+date: 2016-02-15T19:06:00Z
 tags: management
 ---
 

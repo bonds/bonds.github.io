@@ -1,6 +1,6 @@
 ---
 title: FOSS vs Proprietary Cheatsheet
-date: 2016-05-31 22:35 UTC
+date: 2016-05-31T22:35:00Z
 tags: politics
 ---
 

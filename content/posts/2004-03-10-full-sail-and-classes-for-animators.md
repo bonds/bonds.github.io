@@ -1,6 +1,6 @@
 ---
 title: Full Sail and Classes For Animators
-date: 2004-03-10 14:48
+date: 2004-03-10T14:48:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Kim Writes:** 

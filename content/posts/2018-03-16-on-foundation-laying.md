@@ -1,6 +1,6 @@
 ---
 title: On Laying a Foundation
-date: 2018-03-16 18:39 UTC
+date: 2018-03-16T18:39:00Z
 tags: management
 ---
 When someone says 'we are laying a foundation for X' I take it as code for 

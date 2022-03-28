@@ -1,6 +1,6 @@
 ---
 title: An Employee Morale Scale
-date: 2016-05-26 19:03 UTC
+date: 2016-05-26T19:03:00Z
 tags: management
 ---
 

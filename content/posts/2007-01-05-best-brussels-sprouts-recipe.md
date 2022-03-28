@@ -1,6 +1,6 @@
 ---
 title: Best Brussels Sprouts Recipe
-date: 2007-01-05 13:41
+date: 2007-01-05T13:41:00Z
 tags: food
 ---
 I have never liked brussel sprouts, in fact I was generally vegetable averse growing up. It turns out it wasn't entirely the vegetables' fault.

@@ -1,6 +1,6 @@
 ---
 title: How To Install Coreboot Onto Your Lenovo Thinkpad X200 Laptop
-date: 2017-02-27 22:59 UTC
+date: 2017-02-27T22:59:00Z
 tags: openbsd
 ---
 

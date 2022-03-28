@@ -1,6 +1,6 @@
 ---
 title: Mage In SF, LARPs
-date: 2003-10-20 10:33
+date: 2003-10-20T10:33:00Z
 tags: IWantToWorkAtEA.com
 ---
 Writing about RPGs has gotten me all misty eyed for my pen-and-paper days past. I though Id try and find a game of [Mage][1] in the Bay Area. Posted on [Craigslist][2] and the [forums][3] for Mage, but I havent turned up much. After looking at the limited level of Internet chatter related to the game these day, I'm starting to think there arent that many people playing Mage. So sad. Maybe I'll just have to storytell a game myself, or perhaps consider other game worlds like [Vampire][4] or D&amp;D.

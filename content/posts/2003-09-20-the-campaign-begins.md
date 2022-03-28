@@ -1,6 +1,6 @@
 ---
 title: The Campaign Begins
-date: 2003-09-20 23:55
+date: 2003-09-20T23:55:00Z
 tags: IWantToWorkAtEA.com
 ---
 Just got back from a fundraiser my friend put on for [Prop H][1] in San Francisco. Ammiano was funny and the vegetable dip was top rate. My friend Mel is threatening to find a way to get [Georgy][2] to my next [movie night][3] because I said that she is cute. But I've got my own campaign to think about. My campaign to land a gig with [EA in Redwood City][4].

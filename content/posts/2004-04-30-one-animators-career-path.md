@@ -1,6 +1,6 @@
 ---
 title: One Animators Career Path
-date: 2004-04-30 14:59
+date: 2004-04-30T14:59:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Lindsay Writes:**

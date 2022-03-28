@@ -1,6 +1,6 @@
 ---
 title: Lunch With Erin Turner
-date: 2003-11-12 17:14
+date: 2003-11-12T17:14:00Z
 tags: IWantToWorkAtEA.com
 ---
 After I said [goodbye][1] to Neil I headed to the lobby of 250. I was a little early so I played some [SSX 3][2] while I waited for [Erin][3]. Once she appeared I pried myself off the console and we headed to lunch at the EA cafeteria. My first time there...man if the cafeterias had been like this at Berkeley. The food was entirely, you know, identifiable.

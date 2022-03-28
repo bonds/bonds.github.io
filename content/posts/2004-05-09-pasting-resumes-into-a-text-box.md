@@ -1,6 +1,6 @@
 ---
 title: Pasting Resumes Into a Text Box
-date: 2004-05-09 14:12
+date: 2004-05-09T14:12:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Ken Writes:**

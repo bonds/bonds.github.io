@@ -1,6 +1,6 @@
 ---
 title: Campaign Contacts
-date: 2004-01-01 00:02
+date: 2004-01-01T00:02:00Z
 tags: IWantToWorkAtEA.com
 ---
 Just to give you an idea of what kind of networking I did to get in with EA, here are the people who I was in touch with about the campaign to get a job at EA:

@@ -1,6 +1,6 @@
 ---
 title: Growing Pains For The Industry
-date: 2003-12-09 10:57
+date: 2003-12-09T10:57:00Z
 tags: IWantToWorkAtEA.com
 ---
 I've been told by a few people that getting into the game industry these days is a bit trickier than it used to be--now that its grown into something with some amount of status (where it used to be considered more of a hobby than an industry), a lot of people have taken an interest in working in the industry. So, you might expect it would be a buyers market for talent.

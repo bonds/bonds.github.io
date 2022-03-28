@@ -1,9 +1,9 @@
 ---
 title: How to Fix Dropouts and Cutting Out When Using AirTunes on your Airport Express
-date: 2012-02-06 13:53
+date: 2012-02-06T13:53:00Z
 tags: music
 ---
-<img alt="image" height="224" src="/images/setup-a-5Ghz-network.png" width="512" />
+<img alt="image" height="224" src="https://ggr_com.s3.amazonaws.com/images/setup-a-5Ghz-network.png" width="512" />
 <br/>
 
 For months I struggled with frequent audio dropouts while connecting to 

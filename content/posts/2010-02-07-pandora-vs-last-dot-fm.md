@@ -1,9 +1,9 @@
 ---
 title: Pandora vs Last.fm
-date: 2010-02-07 13:51
+date: 2010-02-07T13:51:00Z
 tags: music
 ---
-<img alt="image" height="64" src="/images/pandora-vs-last.fm_.jpg" width="512" />
+<img alt="image" height="64" src="https://ggr_com.s3.amazonaws.com/images/pandora-vs-last.fm_.jpg" width="512" />
 <br/>
 
 They're both good, but [Last.fm][1] wins. How can this be? Last.fm's 

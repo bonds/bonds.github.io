@@ -1,6 +1,6 @@
 ---
 title: My First Idris Program
-date: 2017-08-15 19:05 UTC
+date: 2017-08-15T19:05:00Z
 tags: code
 ---
 [Idris][1] is sort of 'Haskell 2.0', where the authors got to apply the lessons 

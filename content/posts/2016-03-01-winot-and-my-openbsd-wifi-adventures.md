@@ -1,6 +1,6 @@
 ---
 title: Winot and My OpenBSD Wifi Adventures
-date: 2016-03-01 18:40 UTC
+date: 2016-03-01T18:40:00Z
 tags: code
 ---
 

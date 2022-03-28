@@ -1,6 +1,6 @@
 ---
 title: On OKRs Requiring Miracles
-date: 2016-01-05 19:28 UTC
+date: 2016-01-05T19:28:00Z
 tags: management
 ---
 

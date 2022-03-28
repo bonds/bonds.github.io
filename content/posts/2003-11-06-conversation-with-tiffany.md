@@ -1,6 +1,6 @@
 ---
 title: Conversation With Tiffany
-date: 2003-11-06 11:13
+date: 2003-11-06T11:13:00Z
 tags: IWantToWorkAtEA.com
 ---
 Just spoke with Tiffany Spencer of Ubisoft. She manages the PR for the [Clancy series][1] for Ubisoft...I've been [trying][2] to get a hold of her for a little while. She was out of town on business and vacation, so that explains it. Pretty cool stuff though; she just had a meeting with MTV.

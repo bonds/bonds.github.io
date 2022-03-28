@@ -1,6 +1,6 @@
 ---
 title: Writers At EA
-date: 2004-03-18 10:14
+date: 2004-03-18T10:14:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Alan Writes:** 

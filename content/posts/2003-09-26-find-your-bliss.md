@@ -1,6 +1,6 @@
 ---
 title: Find Your Bliss
-date: 2003-09-26 01:11
+date: 2003-09-26T01:11:00Z
 tags: IWantToWorkAtEA.com
 ---
 Didnt think Id post one every day did you? :) My friend [Brian Donoho][1] drove his old trainer bike all the way from Sunnyvale to loan it to me so I can practice. He says it has as much pickup as a lawnmower, but it should get me around the parking lot just fine. Brian joined Nonsequiter studios a little while ago and we got to talking about the game industry over [Zacharys][2] and some more on the drive back.

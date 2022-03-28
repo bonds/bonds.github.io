@@ -1,6 +1,6 @@
 ---
 title: Business Skills In the Game Industry
-date: 2004-03-04 10:57
+date: 2004-03-04T10:57:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Will Writes:**

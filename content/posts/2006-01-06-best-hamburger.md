@@ -1,6 +1,6 @@
 ---
 title: Best Hamburger
-date: 2006-01-06 23:54
+date: 2006-01-06T23:54:00Z
 tags: food
 ---
 This is old hat to California natives, but if you haven't visited in say, the last 15 years, you may not have heard of [In-N-Out][1]. It's a family owned chain that's known for it's simple menu, good service, and excellent hamburgers (the fries are really good too).

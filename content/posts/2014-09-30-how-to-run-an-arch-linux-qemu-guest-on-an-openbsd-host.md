@@ -1,6 +1,6 @@
 ---
 title: How To Run an Arch Linux (Qemu) Guest On an OpenBSD Host
-date: 2014-09-30 20:03 UTC
+date: 2014-09-30T20:03:00Z
 tags: openbsd
 ---
 The main stumbling block I had to overcome to get various flavors of Linux to

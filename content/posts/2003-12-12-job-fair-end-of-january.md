@@ -1,6 +1,6 @@
 ---
 title: Job Fair End Of January
-date: 2003-12-12 11:08
+date: 2003-12-12T11:08:00Z
 tags: IWantToWorkAtEA.com
 ---
 Chris Sherman emailed me to let me know about a game industry [job fair][1] hes organizing in January. Looks like its over in SOMA...may be worth checking out!

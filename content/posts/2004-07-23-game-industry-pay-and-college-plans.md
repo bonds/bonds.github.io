@@ -1,6 +1,6 @@
 ---
 title: Game Industry Pay and College Plans
-date: 2004-07-23 21:33
+date: 2004-07-23T21:33:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Justin Writes:**

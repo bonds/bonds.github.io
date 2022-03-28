@@ -1,6 +1,6 @@
 ---
 title: Background Processes On the Brain
-date: 2014-11-20 00:38 UTC
+date: 2014-11-20T00:38:00Z
 tags: misc
 ---
 When I'm in the middle of a hard thought problem (i.e. coding) and I

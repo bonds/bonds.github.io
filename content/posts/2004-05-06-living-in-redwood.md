@@ -1,6 +1,6 @@
 ---
 title: Living In Redwood
-date: 2004-05-06 14:01
+date: 2004-05-06T14:01:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Rite Writes:**

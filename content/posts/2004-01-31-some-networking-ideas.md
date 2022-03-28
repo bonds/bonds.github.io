@@ -1,6 +1,6 @@
 ---
 title: Some Networking Ideas
-date: 2004-01-31 11:32
+date: 2004-01-31T11:32:00Z
 tags: IWantToWorkAtEA.com
 ---
 **Dave Writes:**

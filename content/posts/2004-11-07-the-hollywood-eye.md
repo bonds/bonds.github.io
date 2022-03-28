@@ -1,6 +1,6 @@
 ---
 title: The Hollywood Eye
-date: 2004-11-07 22:56
+date: 2004-11-07T22:56:00Z
 tags: IWantToWorkAtEA.com
 ---
 While chowing down on workday lunches I've been reading *[The Hollywood Eye][1]*. It's a book about what makes films enjoyable, moving, and generally impactful. Actually it's the observations about what doesn't work and why is the part most applicable to games--there are a lot of ways to take the player out of the game just as there are ways to take the viewer out of a movie. Game designers have the added complication of satisfying the desires of the player without complete control over what happens.

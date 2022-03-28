@@ -1,6 +1,6 @@
 ---
 title: The Scott Bonds Rules of Presentations
-date: 2015-01-15 16:35 UTC
+date: 2015-01-15T16:35:00Z
 tags: management
 ---
 I've got another deck to put together. Seems like a good time to write

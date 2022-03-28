@@ -1,6 +1,6 @@
 ---
 title: IGDA And The Good Life
-date: 2003-09-21 22:59
+date: 2003-09-21T22:59:00Z
 tags: IWantToWorkAtEA.com
 ---
 I joined the [IGDA][1]s committee on [quality of life][2] a few weeks ago, offering to bring the newbie perspective to the table. Weve been asked to produce a white paper overviewing the state of the industry from a QoL point of view, to be unveiled at GDC 2004. The whole thing has been pretty illuminating.

@@ -1,6 +1,6 @@
 ---
 title: Don't Pay Down Tech Debt With Tech Debt
-date: 2018-12-19 19:38 UTC
+date: 2018-12-19T19:38:00Z
 tags: management
 ---
 An anti-pattern I keep running across is trying to solve tech debt problems by 

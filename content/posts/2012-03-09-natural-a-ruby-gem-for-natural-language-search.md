@@ -1,9 +1,9 @@
 ---
 title: "Natural: a ruby gem for natural language search"
-date: 2012-03-09 10:59
+date: 2012-03-09T10:59:00Z
 tags: code
 ---
-<img alt="image" height="191" src="/images/natural_on_github.png" width="512" />
+<img alt="image" height="191" src="https://ggr_com.s3.amazonaws.com/images/natural_on_github.png" width="512" />
 <br/>
 
 When I started work on [DishFu.com][1] (one of my code playgrounds...its 

@@ -1,6 +1,6 @@
 ---
 title: What I Do These Days
-date: 2004-02-14 23:35
+date: 2004-02-14T23:35:00Z
 tags: IWantToWorkAtEA.com
 ---
 I made it past my 1 month anniversary at EA and I thought it would be good to reflect a bit on what I've learned and what I'm up to. I continue to be wowed by the people I work with. I'm surrounded by the best of the best and it's at once exhilarating and humbling.

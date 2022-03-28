@@ -1,6 +1,6 @@
 ---
 title: Phone Call With Lisa Bell
-date: 2003-12-03 15:53
+date: 2003-12-03T15:53:00Z
 tags: IWantToWorkAtEA.com
 ---
 Lisa and I [spoke briefly][1] a couple months ago, before scheduling todays informational interview. Lisa called right on time. She started by mentioning that this site has been an item over at Maxis and the blog entry that mentioned our first encounter had gotten her some attention. :) I hope it was good! I took the opportunity to let her know that I dont post anything that I suspect or am told is confidential, and I give my conversation partners the final say on material I put on here.

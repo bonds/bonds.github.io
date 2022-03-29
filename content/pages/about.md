@@ -5,7 +5,7 @@ title: about
 Hello. I\'m Scott Bonds, and this is a page I\'ve put together so long lost friends can Google their way to my email address: scott@ggr.com
 
 *   [Mosaic](http://www.heymosaic.com/), [Magic Piano](http://www.smule.com/magicpiano), [Pogo](http://pogo.com/), [The Godfather](http://www.metacritic.com/games/platforms/ps2/godfather?q=godfather)
-*   [IWantToWorkAtEA.com](/tags/IWantToWorkAtEA.com.html), [Copyright This](http://www.december.com/cmc/mag/1997/nov/last.html), [Gamma Game Reviews](http://web.archive.org/web/19970707085443/http://www.ggr.com/)
+*   [IWantToWorkAtEA.com](/tags/iwanttoworkatea.com.html), [Copyright This](http://www.december.com/cmc/mag/1997/nov/last.html), [Gamma Game Reviews](http://web.archive.org/web/19970707085443/http://www.ggr.com/)
 *   [Mixbook](http://www.mixbook.com/), [Smule](http://smule.com/), [Electronic Arts](http://ea.com/), Bonds Consulting, [QuickStart](http://quickstart.com/), [BridgePath](http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=137922), Kyber Systems
 *   video games, casual games, mobile games, [MobyGames](http://www.mobygames.com/developer/sheet/view/developerId,217603/)
 *   [UC Berkeley](http://www.berkeley.edu/), [EECS](http://www.eecs.berkeley.edu/), [College of Engineering](http://www.coe.berkeley.edu/), computer science, [Regents’ scholarship](http://rcsa.berkeley.edu/), Associated Students of the University of California ([ASUC](http://www.asuc.org/))

@@ -3,8 +3,7 @@ title: How to Restart PostgreSQL While Developing a Rails App
 date: 2012-01-13T11:24:00Z
 tags: code
 ---
-<img alt="image" height="153" src="https://ggr_com.s3.amazonaws.com/images/ran-out-of-connections.jpg" width="512" />
-<br/>
+![1]
 
 While developing a Rails apps using PostgreSQL (unlike MySQL) I often 
 run out of db connections and see errors like
@@ -46,3 +45,5 @@ there's some setting I could add to my database.yml file to get
 PostgreSQL to behave well in my development environment and obviate the 
 need for my PostgreSQL restarting shenanigans, but I've not yet 
 discovered it.
+
+[1]: https://ggr_com.s3.amazonaws.com/images/ran-out-of-connections.jpg

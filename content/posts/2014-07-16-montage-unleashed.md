@@ -3,8 +3,7 @@ title: Montage Unleashed
 tags: Mixbook
 date: 2014-07-16T14:31:00Z
 ---
-<img alt="image" width="512" height="138" src="https://ggr_com.s3.amazonaws.com/images/montage-cover.png" />
-<br/>
+![3]
 
 [Montage][1] is now live and its 10x easier<sup><a name="10x" href="#ftn.10x">1</a></sup>
  to make a great photo book with Montage than any other way ever<sup><a name="ever" href="#ftn.ever">2</a></sup>. If you've made a photo book before, you're uniquely qualified to notice the (stark) contrast between Montage and the other photo book making web apps out there. If you've never made a photo book before because it looked like it was going to be a chore, you should take Montage for a spin, its super easy...fun even. :)
@@ -20,5 +19,6 @@ The average (great) photo book bought on Mixbook (and similar sites, to the best
 Maybe <a href="http://heymosaic.com/">Mosaic</a> is easier. Maybe.
 </div>
 
-  [1]: http://www.montagebook.com/
-  [2]: https://en.wikipedia.org/wiki/Dart_%28programming_language%29
+[1]: http://www.montagebook.com/
+[2]: https://en.wikipedia.org/wiki/Dart_%28programming_language%29
+[3]: https://ggr_com.s3.amazonaws.com/images/montage-cover.png

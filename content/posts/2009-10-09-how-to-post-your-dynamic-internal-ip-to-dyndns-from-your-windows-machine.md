@@ -3,8 +3,7 @@ title: How To Post Your Dynamic Internal IP To DynDNS From Your Windows Machine
 date: 2009-10-09T12:37:00Z
 tags: code
 ---
-<img alt="image" height="153" src="https://ggr_com.s3.amazonaws.com/images/UpdateIP.bat-screenshot.jpg" width="512" />
-<br/>
+![2]
 
 I looked around for an easier way to post an **internal** IP to DynDNS, 
 but I didn't find one. Scripting to the rescue.
@@ -70,3 +69,5 @@ c:\cygwin\bin\curl "http://login:password@members.dyndns.org/nic/update?hostname
 </pre>
 
  [1]: /how-to-get-your-ip-and-only-your-ip-in-windows.html
+ [2]: https://ggr_com.s3.amazonaws.com/images/UpdateIP.bat-screenshot.jpg
+

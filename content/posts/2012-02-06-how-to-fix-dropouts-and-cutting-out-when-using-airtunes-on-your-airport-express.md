@@ -3,8 +3,7 @@ title: How to Fix Dropouts and Cutting Out When Using AirTunes on your Airport E
 date: 2012-02-06T13:53:00Z
 tags: music
 ---
-<img alt="image" height="224" src="https://ggr_com.s3.amazonaws.com/images/setup-a-5Ghz-network.png" width="512" />
-<br/>
+![2]
 
 For months I struggled with frequent audio dropouts while connecting to 
 stereo through my Airport Express from my Mac laptop. My connection was 
@@ -28,5 +27,5 @@ to use the 5ghz signal (since its just as strong where I use my Mac) I'm
 able to avoid the congestion on 2.4ghz. Let me know if that helps you 
 out and good luck!
 
- [1]: http://www.geekosystem.com/crouching-lion-hidden-wifi/
-
+[1]: http://www.geekosystem.com/crouching-lion-hidden-wifi/
+[2]: https://ggr_com.s3.amazonaws.com/images/setup-a-5Ghz-network.png

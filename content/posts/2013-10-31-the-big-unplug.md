@@ -3,8 +3,7 @@ title: The Big Unplug
 date: 2013-10-31T09:13:00Z
 tags: security
 ---
-<img alt="image" width="512" height="228" src="https://ggr_com.s3.amazonaws.com/images/alien-self-destruct.jpg" />
-<br/>
+![7]
 
 I posted this on my personal Facebook account yesterday morning:
 
@@ -30,3 +29,4 @@ Facebook let me know I have 14 days to cancel the [emergency destruct system][4]
  [4]: http://www.markta.co.uk/alien/chapter12.htm
  [5]: http://readwrite.com/2013/02/01/how-to-backup-your-facebook-data-in-5-easy-steps
  [6]: https://www.facebook.com/help/224562897555674
+ [7]: https://ggr_com.s3.amazonaws.com/images/alien-self-destruct.jpg

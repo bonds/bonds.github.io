@@ -3,8 +3,7 @@ title: How To Use Facebook Open Streams With Facebooker
 date: 2009-09-15T15:02:00Z
 tags: code
 ---
-<img alt="image" height="165" src="https://ggr_com.s3.amazonaws.com/images/facebook_extended_permissions.jpg" width="512" />
-<br/>
+![1]
 
 I would like my Facebook Connect app to publish stories to my users' Facebook news stream. I went looking for how do this with Facebooker and figured out an answer.
 
@@ -26,7 +25,8 @@ Not so bad, huh?
 
 The links to Facebook's documentation of their old API no longer work. They have been removed.
 
- [2]: http://facebooker.rubyforge.org/classes/Facebooker/Rails/Publisher.html
- [4]: http://github.com/binarylogic/authlogic
- [5]: http://github.com/kalasjocke/authlogic_facebook_connect
+[1]: https://ggr_com.s3.amazonaws.com/images/facebook_extended_permissions.jpg
+[2]: http://facebooker.rubyforge.org/classes/Facebooker/Rails/Publisher.html
+[4]: http://github.com/binarylogic/authlogic
+[5]: http://github.com/kalasjocke/authlogic_facebook_connect
  

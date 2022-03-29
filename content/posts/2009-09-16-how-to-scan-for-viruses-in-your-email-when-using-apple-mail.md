@@ -3,8 +3,7 @@ title: How To Scan For Viruses in Your Email When Using Apple Mail
 date: 2009-09-16T14:10:00Z
 tags: code
 ---
-<img alt="image" height="169" src="https://ggr_com.s3.amazonaws.com/images/apple-mail-antivirus-rule.jpg" width="512" />
-<br/>
+![9]
 
 There's more than way to go about it, but I prefer using the open source 
 ClamAV and a script that runs to scan each email as it comes in.
@@ -75,3 +74,4 @@ infected folder.
  [6]: http://ggr_com.s3.amazonaws.com/VirusChecker.scpt
  [7]: http://creativeeyes.at/tools/clamav
  [8]: http://www.eicar.org/anti_virus_test_file.htm
+ [9]: https://ggr_com.s3.amazonaws.com/images/apple-mail-antivirus-rule.jpg

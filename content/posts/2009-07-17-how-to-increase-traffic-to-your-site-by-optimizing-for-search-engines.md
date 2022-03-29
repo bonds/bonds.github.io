@@ -3,8 +3,7 @@ title: How to Increase Traffic to Your Site By Optimizing For Search Engines
 date: 2009-07-17T17:50:00Z
 tags: code
 ---
-<img alt="image" height="153" src="https://ggr_com.s3.amazonaws.com/images/alexa_results_for_penny_arcade.jpg" width="512" />
-<br/>
+![6]
 
 Want more traffic from your friendly neighborhood search engine to your site? Here are some of the Search Engine Optimization (SEO) tricks I've picked up along the way.
 
@@ -55,8 +54,9 @@ SEO is a moving target: the search engine algorithms change, your competitions' 
 *   [SEO on Wikipedia][4]
 *   [Google's SEO guide][5]
 
- [1]: http://lynx.isc.org/
- [2]: https://adwords.google.com/select/KeywordToolExternal
- [3]: http://www.gigya.com/
- [4]: http://en.wikipedia.org/wiki/Search_engine_optimization
- [5]: http://www.google.com/support/webmasters/bin/answer.py?hl=en&answer=35291
+[1]: http://lynx.isc.org/
+[2]: https://adwords.google.com/select/KeywordToolExternal
+[3]: http://www.gigya.com/
+[4]: http://en.wikipedia.org/wiki/Search_engine_optimization
+[5]: http://www.google.com/support/webmasters/bin/answer.py?hl=en&answer=35291
+[6]: https://ggr_com.s3.amazonaws.com/images/alexa_results_for_penny_arcade.jpg

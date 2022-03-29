@@ -3,8 +3,7 @@ title: Vote With Your Attention
 date: 2016-10-19T16:15:00Z
 tags: politics
 ---
-<img alt="image" width="566" height="66" src="https://ggr_com.s3.amazonaws.com/images/unsupported.png" />
-<br/>
+![1]
 
 Up until a few years ago, my software choices were largely accidents of circumstance and convenience. I started using CP/M, then an Atari 800, then DOS on a 386, then Windows, then OSX, then Debian, then Arch, then OpenBSD. Somewhere in the middle there was a mobile track, starting with dumb phones, then Palm, then Windows Mobile, then iOS, then Android, then Replicant. On the web it went NCSA Mosaic, Firefox, IE, Safari, Chrome, Firefox, vimb. Then there are editors, windows managers, email clients...I used whatever was convenient and had the coolest features. I loved trying out new tech and being on the cutting edge.
 
@@ -18,3 +17,4 @@ All the time and money in software flows into what we use and where we put our a
 
 So I'm going to be more intentional about where I put my attention and my vote. Its not just about what's convenient today, its also about what choices I want available to me down the road.
 
+[1]: https://ggr_com.s3.amazonaws.com/images/unsupported.png

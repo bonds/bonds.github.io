@@ -3,8 +3,7 @@ title: How to Automatically Connect and Stay Connected to a Network Drive on OS 
 date: 2011-09-13T18:39:00Z
 tags: code
 ---
-<img alt="image" height="199" src="https://ggr_com.s3.amazonaws.com/images/automount_screenshot.jpg" width="512" />
-<br/>
+![8]
 
 I keep my music and my photos on a server at home. Whenever I'm home I 
 want all of my shares to be accessible automatically so I can launch 
@@ -106,3 +105,4 @@ end</pre>
  [5]: http://www.ehow.com/how_4549984_mount-remote-volume-startup-mac.html
  [6]: http://oomphalot.com/sidekick/
  [7]: http://bonjourmounter.gestosoft.com/en/
+ [8]: https://ggr_com.s3.amazonaws.com/images/automount_screenshot.jpg

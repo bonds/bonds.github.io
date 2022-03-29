@@ -3,8 +3,7 @@ title: "Natural: a ruby gem for natural language search"
 date: 2012-03-09T10:59:00Z
 tags: code
 ---
-<img alt="image" height="191" src="https://ggr_com.s3.amazonaws.com/images/natural_on_github.png" width="512" />
-<br/>
+![6]
 
 When I started work on [DishFu.com][1] (one of my code playgrounds...its 
 something like Yelp) a couple years ago I wanted to support natural 
@@ -27,8 +26,9 @@ match, but I wanted a library that could also glean partial meanings and
 choose between different potential matches in a more flexible way. 
 [Suggestions][5] and pull requests welcome.
 
- [1]: http://dishfu.com
- [2]: https://github.com/bonds/natural
- [3]: http://flexibits.com/
- [4]: http://www.apple.com/iphone/features/siri.html
- [5]: https://github.com/bonds/natural/issues
+[1]: http://dishfu.com
+[2]: https://github.com/bonds/natural
+[3]: http://flexibits.com/
+[4]: http://www.apple.com/iphone/features/siri.html
+[5]: https://github.com/bonds/natural/issues
+[6]: https://ggr_com.s3.amazonaws.com/images/natural_on_github.png

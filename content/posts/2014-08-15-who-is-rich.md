@@ -3,8 +3,7 @@ title: Who Is Rich
 tags: politics
 date: 2014-08-15T15:46:00Z
 ---
-<img alt="image" height="199" src="https://ggr_com.s3.amazonaws.com/images/scrooge-mcduck-swimming-in-money.jpg" width="512" />
-<br/>
+![5]
 
 I've been pondering Hilary Clinton's [dead brokeness][1], what she meant, and
 what it means to be rich. Or rather, what a (more) useful definition might
@@ -33,6 +32,7 @@ interest me and which I find myself on the other side from those that are allied
 with or are themselves rich or powerful. Its a better predictor than political
 party in a lot of cases.
 
-  [1]:http://brokehillary.com/
-  [3]:http://tron.wikia.com/wiki/User
-  [4]:https://en.wikipedia.org/wiki/Root_user
+[1]: http://brokehillary.com/
+[3]: http://tron.wikia.com/wiki/User
+[4]: https://en.wikipedia.org/wiki/Root_user
+[5]: https://ggr_com.s3.amazonaws.com/images/scrooge-mcduck-swimming-in-money.jpg

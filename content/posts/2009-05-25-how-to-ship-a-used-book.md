@@ -3,8 +3,7 @@ title: How To Ship a Used Book
 date: 2009-05-25T00:03:00Z
 tags: misc
 ---
-<img alt="image" height="157" src="https://ggr_com.s3.amazonaws.com/images/shipping.jpg" width="512" />
-<br/>
+![6]
 
 So you [sold your used book][1] on Amazon, you're basking in the glow of your success, and then it dawns on you that the buyer is expecting you to *send them the book*.
 
@@ -38,3 +37,4 @@ A: The post office will *return* any package that weighs over 13 ounces unless i
  [3]: http://www.amazon.com/Ultraship-Electronic-Digital-Shipping-Kitchen/dp/B000FSWB9K/ref=sr_1_1?ie=UTF8&s=home-garden&qid=1243454186&sr=8-1
  [4]: http://pe.usps.com/text/dmm300/Notice123.htm#2157064
  [5]: http://shop.usps.com/webapp/wcs/stores/servlet/ProductCategoryDisplay?catalogId=10152&storeId=10001&categoryId=11834&langId=-1&parent_category_rn=11826&top_category=11826&WT.ac=11834
+ [6]: https://ggr_com.s3.amazonaws.com/images/shipping.jpg

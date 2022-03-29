@@ -3,8 +3,7 @@ title: Two Kinds of Engineering Leader
 date: 2012-04-07T16:53:00Z
 tags: management
 ---
-<img alt="image" height="223" src="https://ggr_com.s3.amazonaws.com/images/jordan_and_jackson.png" width="512" />
-<br/>
+![1]
 
 When a software company is searching for a new CTO or VP of Engineering, 
 they tend to look for either a Chief of Surgery or a Head Coach. Hiring 
@@ -31,3 +30,4 @@ parts, and to partner with the rest of the organization so the company
 builds the right software and achieves the best possible 
 results. Basketball equivalent: Phil Jackson.
 
+[1]: https://ggr_com.s3.amazonaws.com/images/jordan_and_jackson.png

@@ -3,8 +3,7 @@ title: Pandora vs Last.fm
 date: 2010-02-07T13:51:00Z
 tags: music
 ---
-<img alt="image" height="64" src="https://ggr_com.s3.amazonaws.com/images/pandora-vs-last.fm_.jpg" width="512" />
-<br/>
+![4]
 
 They're both good, but [Last.fm][1] wins. How can this be? Last.fm's 
 amazing powers are put on display after the break.
@@ -38,6 +37,7 @@ commitment? Its easy to do. Pandora, on the other hand, only
 offers their premium service in 1-year chunks. It's only $36, but I 
 still prefer Last.fm's bite-sized, 1 month for $3, offering.
 
- [1]: http://last.fm/
- [2]: http://osx.iusethis.com/app/everplay
- [3]: http://code.google.com/p/pandoraboy/
+[1]: http://last.fm/
+[2]: http://osx.iusethis.com/app/everplay
+[3]: http://code.google.com/p/pandoraboy/
+[4]: https://ggr_com.s3.amazonaws.com/images/pandora-vs-last.fm_.jpg

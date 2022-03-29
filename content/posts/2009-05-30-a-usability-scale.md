@@ -3,8 +3,7 @@ title: A Usability Scale
 date: 2009-05-30T11:54:00Z
 tags: design
 ---
-<img alt="image" height="270" src="https://ggr_com.s3.amazonaws.com/images/usability-distribution.png" width="512" />
-<br/>
+![3]
 
 Many usability professionals focus on, well, usability. But there's more to usability than an intuitive interface. The best stuff in our lives are pleasant, fun, even habit forming.
 
@@ -21,3 +20,4 @@ Products that achieve scores above a 2, beyond 'mere' usability (which is itself
 
  [1]: http://www.upassoc.org/usability_resources/conference/2004/UPA-2004-TullisStetson.pdf
  [2]: http://www.sensible.com/secondedition/index.html
+ [3]: https://ggr_com.s3.amazonaws.com/images/usability-distribution.png

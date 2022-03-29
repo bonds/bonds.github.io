@@ -3,8 +3,7 @@ title: How To Get Your IP and ONLY Your IP in Windows
 date: 2009-10-09T12:30:00Z
 tags: code
 ---
-<img alt="image" height="105" src="https://ggr_com.s3.amazonaws.com/images/getIP.bat-screenshot.jpg" width="512" />
-<br/>
+![3]
 
 Sometimes you need to know your Windows machine's IP. For example, if 
 you would like to [update your dynamic DNS entry from a script][1] file. 
@@ -51,3 +50,4 @@ pause
 
  [1]: /how-to-post-your-dynamic-internal-ip-to-dyndns-from-your-windows-machine.html
  [2]: http://www.ericphelps.com/batch/samples/ip.txt
+ [3]: https://ggr_com.s3.amazonaws.com/images/getIP.bat-screenshot.jpg

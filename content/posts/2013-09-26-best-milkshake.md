@@ -11,5 +11,5 @@ Get the Swiss milk chocolate milk shake from [Fentons][1]. Get the jumbo, what's
 
 Added a picture. It required some field work.
 
- [1]: https://fentonscreamery.com/
- [2]: https://ggr_com.s3.amazonaws.com/images/shake.jpg "best milkshake" 
+[1]: https://fentonscreamery.com/
+[2]: https://ggr_com.s3.amazonaws.com/images/shake.jpg "best milkshake" 

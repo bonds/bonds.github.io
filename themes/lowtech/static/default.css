@@ -23,16 +23,11 @@ time
     font-size      : 70%;
 }
 
-ol
+ol.posts
 {
     list-style: none;
     padding: 0px;
     margin: 0px 0px 20px -21px;
-}
-
-li::before
-{
-    color: #cccccc;
 }
 
 h1

@@ -7,8 +7,7 @@
     {{ range $pages.GroupByDate "2006" -}}
     <section>
       <h3>{{ .Key }}</h3>
-
-      <ol>
+      <ol class="posts">
         {{ range .Pages -}}
         <li>
           <time datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">{{ .Date.Format "Jan 02"}}</time>

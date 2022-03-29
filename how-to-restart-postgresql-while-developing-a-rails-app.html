@@ -1,5 +1,5 @@
 <!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet type=text/css href=/default.css><title>game, game. repeat. | How to Restart PostgreSQL While Developing a Rails App</title></head><body><h1><a href=/>g</a>ame, g<a href=/about.html>a</a>me. repea<a href=/tags.html>t</a>.</h1><div id=content><h2>How to Restart PostgreSQL While Developing a Rails App</h2><div id=info>Fri 01 January 2012
-<a href=https://ggr.com/tags/code.html>#code</a></div><p>While developing a Rails apps using PostgreSQL (unlike MySQL) I often
+<a href=https://ggr.com/tags/code.html>#code</a></div><p><img src=https://ggr_com.s3.amazonaws.com/images/ran-out-of-connections.jpg alt=1></p><p>While developing a Rails apps using PostgreSQL (unlike MySQL) I often
 run out of db connections and see errors like</p><blockquote></blockquote><p>and when I do, my Rails app stops working. Restarting Postgres fixing
 the problem, but it was harder to restart postgres that I expected.
 Here&rsquo;s how I do it.</p><p>To restart PostgreSQL I added a function to my ~/.bash_profile file:</p><p>After saving and restarting Terminal, running &lsquo;pgr&rsquo; will find all the

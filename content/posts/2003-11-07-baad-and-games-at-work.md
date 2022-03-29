@@ -19,7 +19,6 @@ I expect I wont get a chance to try anything like this out in the game industry 
 
 Some of the links were broken. I replaced them with working links to pages with the same or similar content as before.
 
- [1]: http://news.bbc.co.uk/2/hi/technology/3247595.stm
- [2]: http://counterstrike.wikia.com/wiki/AWP
- [3]: http://web.archive.org/web/20040219150927/http://www.cnn.com/2003/TECH/internet/11/07/web.surfing.ap/index.html
-
+[1]: http://news.bbc.co.uk/2/hi/technology/3247595.stm
+[2]: http://counterstrike.wikia.com/wiki/AWP
+[3]: http://web.archive.org/web/20040219150927/http://www.cnn.com/2003/TECH/internet/11/07/web.surfing.ap/index.html

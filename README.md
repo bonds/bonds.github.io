@@ -1,2 +1,7 @@
-This is the source for the blog hosted at https://ggr.com/. It's generated using Hugo
-and hosted on Github. You can find it's custom theme under the themes/lowtech folder.
+This is the source for the blog hosted at https://ggr.com/.
+
+A Github action runs Hugo to generate the site whenever the source is deployed to Github
+via git push. The generated code is checked into the ```gh-pages``` branch and then picked
+up by Github Pages.
+
+The (custom) theme may be found in the ```themes/lowtech``` folder.

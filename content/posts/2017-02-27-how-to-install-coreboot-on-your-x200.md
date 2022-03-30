@@ -43,7 +43,7 @@ An anonymous writer said they got a blank screen until OpenBSD boots, and pointe
 Replaced broken links to eBay listings for stuff to buy, with working links at Amazon
 instead.
 
-[1]: https://www.coreboot.org/Build_HOWTO
+[1]: https://doc.coreboot.org/tutorial/part1.html
 [2]: https://www.chucknemeth.com/laptop/lenovo-x200/flash-lenovo-x200-libreboot
 [3]: https://marc.info/?l=openbsd-misc&m=147490313431099&w=2
 [4]: https://www.amazon.com/DGZZI-Black-SOIC8-Flash-Without/dp/B08R364SYM/ref=sr_1_4?crid=35ILWONNUGMVY&keywords=soic+test+clip&qid=1648663545&sprefix=soic+test+clip%2Caps%2C156&sr=8-4

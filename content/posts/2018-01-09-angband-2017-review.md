@@ -102,6 +102,12 @@ mage.
 
 Deep breath. One turn at a time. The fastest way to play is to play slow.
 
+*Updated on March 30, 2022*
+
+Fixed/updated links to compiling docs and bug tracker.
+
 [1]: http://rephial.org/
-[2]: http://trac.rephial.org/wiki/Compiling
-[3]: http://trac.rephial.org/search?q=openbsd
+[2]: https://angband.readthedocs.io/en/latest/hacking/compiling.html
+[3]: https://github.com/angband/angband/issues?q=is%3Aissue+is%3Aopen+openbsd
+
+

@@ -30,17 +30,26 @@ My original goal was to see what a maximally open source setup might be like and
 
 For those interested, here's a thread about my [prior attempts to get Libreboot working][3]. Libreboot mostly works too, but its a bit less stable (Intel microcode maybe?) and I didn't figure out how to boot a fully encrypted OpenBSD installation. I suspect if I could just swap in the SeaBIOS payload it would work, but I tried for a bit and wasn't able to get it across the finish line before I gave up and decided to try Coreboot instead.
 
-2017-04-07 update: Guillaume Simon wrote in to report that the BBB doesn't have enough RAM to build, but 2GB on a different box worked. He also pointed out that *some* settings are needed when configuring coreboot, and that the flash tools from Libreboot are easier to use. I updated the post inline incorporating Guillaume's feedback.
+*Updated on April 07, 2017*
 
-2017-04-25 update: an anonymous writer said they got a blank screen until OpenBSD boots, and pointed out the fix. I updated the post incorporating their feedback.
+Guillaume Simon wrote in to report that the BBB doesn't have enough RAM to build, but 2GB on a different box worked. He also pointed out that *some* settings are needed when configuring coreboot, and that the flash tools from Libreboot are easier to use. I updated the post inline incorporating Guillaume's feedback.
 
-  [1]: https://www.coreboot.org/Build_HOWTO
-  [2]: https://iqlusion.org/index.php/2016/03/01/x200-libreboot/
-  [3]: https://marc.info/?l=openbsd-misc&m=147490313431099&w=2
-  [4]: http://www.ebay.com/sch/i.html?_nkw=Pomona%205250%20SOIC%20Test%20Clip,%208%20Pin&clk_rvr_id=1174744441332&mfe=search
-  [5]: http://www.ebay.com/sch/i.html?_odkw=Pomona+5250+SOIC+Test+Clip%2C+8+Pin&mfe=search&clk_rvr_id=1174744441332&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.X120pcs+Dupont+Wire+Male+to+Male+%2B+Male+to+Female+%2B+Female+to+Female+Jumper+Cabl.TRS0&_nkw=120pcs+Dupont+Wire+Male+to+Male+%2B+Male+to+Female+%2B+Female+to+Female+Jumper+Cable&_sacat=0
-  [6]: http://www.ebay.com/sch/i.html?_nkw=GeauxRobot%20BeagleBone%20Black%20Compact%20Case%20Black&clk_rvr_id=1174767169717&mfe=search
-  [7]: http://www.ebay.com/sch/i.html?_odkw=GeauxRobot+BeagleBone+Black+Compact+Case+Black&mfe=search&clk_rvr_id=1174767169717&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.A0.H0.XMicro+HDMI+Type+D+Male+to+HDMI+Type+A+Female+Adapter+Converter+Connector+1080P.TRS1&_nkw=Micro+HDMI+Type+D+Male+to+HDMI+Type+A+Female+Adapter+Converter+Connector+1080P&_sacat=0
-  [8]: http://www.ebay.com/sch/i.html?_odkw=Micro+HDMI+Type+D+Male+to+HDMI+Type+A+Female+Adapter+Converter+Connector+1080P&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.XBeagleBone+Black+Rev+C+1GHz+ARM+Cortex-A8+Mini+PC+BB-BBLK-000.TRS0&_nkw=BeagleBone+Black+Rev+C+1GHz+ARM+Cortex-A8+Mini+PC+BB-BBLK-000&_sacat=0
-  [9]: http://www.ebay.com/sch/i.html?_odkw=BeagleBone+Black+Rev+C+1GHz+ARM+Cortex-A8+Mini+PC+BB-BBLK-000&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR12.TRC2.A0.H0.X3.3V%2F5V+MB102+Breadboard+Power+Supply+Module+For+Arduino+Board.TRS0&_nkw=3.3V%2F5V+MB102+Breadboard+Power+Supply+Module+For+Arduino+Board&_sacat=0
-  [10]: http://www.ebay.com/sch/i.html?_odkw=usb+male+to+male&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H1.Xusb+type+a+male+to+male.TRS0&_nkw=usb+type+a+male+to+male&_sacat=0
+*Updated on April 25, 2017*
+
+An anonymous writer said they got a blank screen until OpenBSD boots, and pointed out the fix. I updated the post incorporating their feedback.
+
+*Updated on March 30, 2022*
+
+Replaced broken links to eBay listings for stuff to buy, with working links at Amazon
+instead.
+
+[1]: https://www.coreboot.org/Build_HOWTO
+[2]: https://www.chucknemeth.com/laptop/lenovo-x200/flash-lenovo-x200-libreboot
+[3]: https://marc.info/?l=openbsd-misc&m=147490313431099&w=2
+[4]: https://www.amazon.com/DGZZI-Black-SOIC8-Flash-Without/dp/B08R364SYM/ref=sr_1_4?crid=35ILWONNUGMVY&keywords=soic+test+clip&qid=1648663545&sprefix=soic+test+clip%2Caps%2C156&sr=8-4
+[5]: https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_3?crid=E6S9EG65AANP&keywords=breadboard+jumper+wires&qid=1648663375&s=electronics&sprefix=breadboard+jumper+wires%2Celectronics%2C140&sr=1-3
+[6]: https://www.amazon.com/GeauxRobot-BeagleBone-Black-Compact-Case/dp/B00JVD594E
+[7]: https://www.amazon.com/UGREEN-Adapter-Compatible-Raspberry-ZenBook/dp/B00B2HORKE/ref=sr_1_6?crid=3AMBN5QW0G4VN&keywords=micro-hdmi&qid=1648663301&s=electronics&sprefix=micro-hdmi%2Celectronics%2C213&sr=1-6
+[8]: https://beagleboard.org/black/
+[9]: https://www.amazon.com/MakerSpot-Breadboard-Voltage-Solderless-Friendly/dp/B01IUYLVFK/ref=sr_1_9?crid=2FTW3RC2IKP3A&keywords=3.3v+power+supply+usb&qid=1648663079&s=electronics&sprefix=3.3v+power+supply%2Celectronics%2C136&sr=1-9
+[10]: https://www.amazon.com/Monoprice-1-5ft-24AWG-Cable-Plated/dp/B009GUXG92/ref=sr_1_3?crid=2CP4ZKY6QE7BI&keywords=usb-a+to+usb-a&qid=1648663239&s=electronics&sprefix=usb-a+to+usb-a%2Celectronics%2C155&sr=1-3

@@ -51,8 +51,13 @@ and then you're ready to go. If you use Vim+[Ale][5] as your editor and linter
 combo, there's some basic support for flagging errors inline...doesn't work 
 perfectly yet, but its a start.
 
+*Updated on March 30, 2022*
+
+Fixed/updated link to Idris 1.0 release announcement, which is now only available
+via the Internet Archive.
+
 [1]: http://www.idris-lang.org/
 [2]: https://www.manning.com/books/type-driven-development-with-idris
-[3]: https://www.idris-lang.org/idris-1-0-released/
+[3]: https://web.archive.org/web/20170401163646/https://www.idris-lang.org/idris-1-0-released/
 [4]: https://github.com/idris-lang/Idris-dev/blob/master/scripts/runidris
 [5]: https://github.com/w0rp/ale

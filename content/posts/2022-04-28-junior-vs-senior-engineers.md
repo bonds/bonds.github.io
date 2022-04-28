@@ -8,13 +8,13 @@ Warning: preference-style opinions ahead, e.g. pecan pie is better than apple pi
 said, I’ve used these opinions [in anger][1], so they may be of interest to engineers
 trying to get ahead with a leader that thinks like I do.
 
-Junior: right tool for the job
+Junior: right tool for the job<br>
 Senior: right ‘enough’ tool for the job, fewer tools better mastered
 
-Junior: clever solution
+Junior: clever solution<br>
 Senior: easy to understand solution, even if a bit ugly
 
-Junior: don’t like criticism, don’t want to look bad
+Junior: don’t like criticism, don’t want to look bad<br>
 Senior: want more criticism, don’t want to make a mistake that could be avoided
 
 Junior: job is to code, meetings are bad

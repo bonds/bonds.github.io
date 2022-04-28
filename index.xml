@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>game, game. repeat.</title><link>https://ggr.com/</link><description>Recent content on game, game. repeat.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 10:46:58 -0700</lastBuildDate><atom:link href="https://ggr.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Junior vs Senior Engineers</title><link>https://ggr.com/junior-vs-senior-engineers.html</link><pubDate>Thu, 28 Apr 2022 10:46:58 -0700</pubDate><guid>https://ggr.com/junior-vs-senior-engineers.html</guid><description>&lt;p>Warning: preference-style opinions ahead, e.g. pecan pie is better than apple pie. That
 said, I’ve used these opinions &lt;a href="https://english.stackexchange.com/questions/30939/is-used-in-anger-a-britishism-for-something">in anger&lt;/a>, so they may be of interest to engineers
 trying to get ahead with a leader that thinks like I do.&lt;/p>
-&lt;p>Junior: right tool for the job&lt;!-- raw HTML omitted -->
-Senior: right ‘enough’ tool for the job, fewer tools better mastered&lt;/p>
-&lt;p>Junior: clever solution&lt;!-- raw HTML omitted -->
-Senior: easy to understand solution, even if a bit ugly&lt;/p>
-&lt;p>Junior: don’t like criticism, don’t want to look bad&lt;!-- raw HTML omitted -->
-Senior: want more criticism, don’t want to make a mistake that could be avoided&lt;/p>
-&lt;p>Junior: job is to code, meetings are bad
-Senior: job is to create value, well led meetings are where I do my highest value work&lt;/p>
-&lt;p>Junior: this code sucks, the author was lazy and dumb, we should just throw it out and start over
-Senior: this code has created huge value and its survived because it did its job, there’s probably valuable context embedded in it that I can’t see yet, what’s the best way to learn that context and leverage the existing code given where I want to go next&lt;/p>
-&lt;p>Junior: do my best work alone
-Senior: do my best work in deep collaboration with a diverse, highly engaged team&lt;/p>
-&lt;p>Junior: need to spend more time refactoring
-Senior: if we spend 1 day refactoring this code it will save us 10 days over the next year according to this quick model I put together&lt;/p>
-&lt;p>Junior: bored when I’m not learning a new tool
-Senior: bored when I’m doing low impact work&lt;/p>
-&lt;p>Junior: never made any big mistakes, my track record is clean
-Senior: made mistakes that cost over $10M, here’s what I learned&lt;/p>
-&lt;p>Junior: yes I’ll do it, but I’m already working 80 hours a week and I’m burning out
-Senior: yes I’ll do it, but I’m handing back item number 8 on my backlog to make room, ok?&lt;/p>
-&lt;p>Junior: want a raise because I found out Bob makes more than me and I’m insulted
-Senior: contributed $X incremental to the company’s bottom line last year according to this quick model. Does that look right to you?&lt;/p>
-&lt;p>Junior: performance is a secret, just between me and my manager
-Senior: want my team to know what I’m working on so I can get their support and improve faster&lt;/p>
-&lt;p>Junior: compensation is a secret, just between me and my manager
-Senior: share my comp numbers with anyone who asks, so all of us have more context to negotiate with&lt;/p>
-&lt;p>Junior: happy so I won’t interview anywhere else.
-Senior: interview a few times a year to stay current on the market, maintain my network, and to be reminded how much I like my current job&lt;/p>
-&lt;p>Junior: QA is lower value work than coding, so we should hire cheaper people than me and let them do it
-Senior: QA is a worthwhile safety net, but quality is my job, I’m not going to let them find bugs in MY code&lt;/p>
-&lt;p>Junior: if I just had more authority, I could fix all our problems
-Senior: the more vulnerable I am, the better my team will be at fixing all our problems together&lt;/p>
-&lt;p>Junior: I’m an imposter and I’ve gotta do my best to hide it or I’ll be fired
-Senior: I’m good at what I do, but there is always someone that knows more, I want to keep improving, and great teamwork is the most reliable way to bring out the best in me&lt;/p>
-&lt;p>Junior: need to upgrade to the newest computer, 4 of the best monitors money can buy, every year or two
-Senior: I’m highly productive on my 4y old laptop, please don’t make me spend 3 days switching to a new one&lt;/p></description></item><item><title>A Couple Of My Duties As a Citizen of a Democracy</title><link>https://ggr.com/a-couple-of-my-duties-as-a-citizen-of-a-democracy.html</link><pubDate>Sat, 02 Apr 2022 10:54:33 -0700</pubDate><guid>https://ggr.com/a-couple-of-my-duties-as-a-citizen-of-a-democracy.html</guid><description>&lt;h3 id="speak-up">Speak Up&lt;/h3>
+&lt;p>Junior: right tool for the job&lt;/p>
+&lt;p>Senior: right ‘enough’ tool for the job, fewer tools better mastered&lt;/p>
+&lt;p>Junior: clever solution&lt;/p>
+&lt;p>Senior: easy to understand solution, even if a bit ugly&lt;/p>
+&lt;p>Junior: don’t like criticism, don’t want to look bad&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>Senior: want more criticism, don’t want to make a mistake that could be avoided&lt;/p>
+&lt;p>Junior: job is to code, meetings are bad&lt;/p>
+&lt;p>Senior: job is to create value, well led meetings are where I do my highest value work&lt;/p>
+&lt;p>Junior: this code sucks, the author was lazy and dumb, we should just throw it out and start over&lt;/p>
+&lt;p>Senior: this code has created huge value and its survived because it did its job, there’s probably valuable context embedded in it that I can’t see yet, what’s the best way to learn that context and leverage the existing code given where I want to go next&lt;/p>
+&lt;p>Junior: do my best work alone&lt;/p>
+&lt;p>Senior: do my best work in deep collaboration with a diverse, highly engaged team&lt;/p>
+&lt;p>Junior: need to spend more time refactoring&lt;/p>
+&lt;p>Senior: if we spend 1 day refactoring this code it will save us 10 days over the next year according to this quick model I put together&lt;/p>
+&lt;p>Junior: bored when I’m not learning a new tool&lt;/p>
+&lt;p>Senior: bored when I’m doing low impact work&lt;/p>
+&lt;p>Junior: never made any big mistakes, my track record is clean&lt;/p>
+&lt;p>Senior: made mistakes that cost over $10M, here’s what I learned&lt;/p>
+&lt;p>Junior: yes I’ll do it, but I’m already working 80 hours a week and I’m burning out&lt;/p>
+&lt;p>Senior: yes I’ll do it, but I’m handing back item number 8 on my backlog to make room, ok?&lt;/p>
+&lt;p>Junior: want a raise because I found out Bob makes more than me and I’m insulted&lt;/p>
+&lt;p>Senior: contributed $X incremental to the company’s bottom line last year according to this quick model. Does that look right to you?&lt;/p>
+&lt;p>Junior: performance is a secret, just between me and my manager&lt;/p>
+&lt;p>Senior: want my team to know what I’m working on so I can get their support and improve faster&lt;/p>
+&lt;p>Junior: compensation is a secret, just between me and my manager&lt;/p>
+&lt;p>Senior: share my comp numbers with anyone who asks, so all of us have more context to negotiate with&lt;/p>
+&lt;p>Junior: happy so I won’t interview anywhere else.&lt;/p>
+&lt;p>Senior: interview a few times a year to stay current on the market, maintain my network, and to be reminded how much I like my current job&lt;/p>
+&lt;p>Junior: QA is lower value work than coding, so we should hire cheaper people than me and let them do it&lt;/p>
+&lt;p>Senior: QA is a worthwhile safety net, but quality is my job, I’m not going to let them find bugs in MY code&lt;/p>
+&lt;p>Junior: if I just had more authority, I could fix all our problems&lt;/p>
+&lt;p>Senior: the more vulnerable I am, the better my team will be at fixing all our problems together&lt;/p>
+&lt;p>Junior: I’m an imposter and I’ve gotta do my best to hide it or I’ll be fired&lt;/p>
+&lt;p>Senior: I’m good at what I do, but there is always someone that knows more, I want to keep improving, and great teamwork is the most reliable way to bring out the best in me&lt;/p>
+&lt;p>Junior: need to upgrade to the newest computer, 4 of the best monitors money can buy, every year or two&lt;/p>
+&lt;p>Senior: I’m highly productive on my 4y old laptop, please don’t make me spend 3 days switching to a new one&lt;/p></description></item><item><title>A Couple Of My Duties As a Citizen of a Democracy</title><link>https://ggr.com/a-couple-of-my-duties-as-a-citizen-of-a-democracy.html</link><pubDate>Sat, 02 Apr 2022 10:54:33 -0700</pubDate><guid>https://ggr.com/a-couple-of-my-duties-as-a-citizen-of-a-democracy.html</guid><description>&lt;h3 id="speak-up">Speak Up&lt;/h3>
 &lt;p>I must speak up in public forums like LinkedIN, Twitter, and Christmas dinner. I’ve been taught that talking politics is impolite. But leaving good ideas unsaid and undefended, and letting bad ideas dominate the conversation and lead to bad decisions is even more impolite.&lt;/p>
 &lt;h3 id="change-my-mind">Change My Mind&lt;/h3>
 &lt;p>I must listen, learn, and change my mind, which is way harder than defending my beliefs and standing my ground. It requires humility to admit I was wrong and courage to let others see my mistakes. I have to love my community enough to do what’s right for us instead of what makes me look good.&lt;/p>

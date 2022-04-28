@@ -2,6 +2,7 @@
 title: "Junior vs Senior Engineers"
 date: 2022-04-28T10:46:58-07:00
 draft: false
+tags: management
 ---
 Warning: preference-style opinions ahead, e.g. pecan pie is better than apple pie. That
 said, I’ve used these opinions [in anger][1], so they may be of interest to engineers

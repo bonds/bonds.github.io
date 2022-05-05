@@ -111,7 +111,9 @@ Senior: I start with making sure we’ll achieve our collective goals and then I
 * [The Truth About Employee Engagement][4]
 * [Death by Meeting][6]
 
-And yes, I’m a fan of Patrick Lencioni’s writings. And no, I’m not paid for saying so.
+If you click on some of those you'll notice I’m a Patrick Lencioni’s fan.
+BTW I’m not paid for these links or for saying so
+...this is an old school, unsponsored, unpaid, not shilling, genuine opinion. :)
 
 [1]: https://english.stackexchange.com/questions/30939/is-used-in-anger-a-britishism-for-something
 [2]: /junior-vs-senior-engineers.html

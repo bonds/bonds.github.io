@@ -103,7 +103,7 @@ Junior: I start with making sure everyone on my team gets what they want individ
 
 Senior: I start with making sure we’ll achieve our collective goals and then I make sure each of my team individually (and all of our stakeholder groups) share in our success
 
-## Further Reading
+### Further Reading
 
 * [Junior vs Senior Engineers][2]
 * [The Five Temptations of a CEO][3]

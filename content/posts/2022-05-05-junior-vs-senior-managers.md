@@ -75,7 +75,7 @@ Junior: X isn’t being done right, I’ll just do it myself
 
 Senior: X isn’t being done right, I need to hold the person responsibly accountable and support them improving so they can do it right next time
 
-Junior: Bob isn’t making the right decision, I need to tell them what to do and how to do it
+Junior: Bob isn’t making the right decision, I need to tell him what to do and how to do it
 
 Senior: Bob isn’t making the right decision and any time I must exercise my authority to fix a one-off problem, something might be wrong on my end…could it be a context problem? If I gave Bob more info A, B, C would he make the right decision?
 
@@ -101,7 +101,7 @@ Senior: the highest performing professionals invest in themselves by seeking hel
 
 Junior: I start with making sure everyone on my team gets what they want individually and then work towards our collective goals
 
-Senior: I start with making sure we’ll achieve our collective goals and then I make sure each of my team individually (and all of our stakeholder groups) share in our success
+Senior: I start with making sure we’ll achieve our collective goals and then I make sure each of my team individually (and all of our stakeholder groups) shares in our success
 
 ### Further Reading
 

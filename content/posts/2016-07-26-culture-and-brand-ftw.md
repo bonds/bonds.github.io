@@ -1,7 +1,7 @@
 ---
 title: Culture, Brand, (and Founders) FTW
 date: 2016-07-26T17:23:00Z
-tags: management
+tags: leadership
 ---
 
 The quality of the people and the culture of a company define its trajectory. Brand is the bank where it stores the value it creates along the way. Everything else is implementation detail.

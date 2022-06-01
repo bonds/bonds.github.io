@@ -1,7 +1,7 @@
 ---
 title: "Stables and Volatiles: Goals"
 date: 2015-12-22T15:11:00Z
-tags: management
+tags: leadership
 ---
 
 First, if you haven't read [Stables and Volatiles][1], go read it and then come

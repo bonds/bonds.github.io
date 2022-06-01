@@ -1,7 +1,7 @@
 ---
 title: On Commitment
 date: 2020-02-01T17:35:00Z
-tags: management
+tags: leadership
 ---
 Imagine you have a team of 5, a leader plus 4 others. The leader chooses not to
 contribute ideas, preferring to select from the ideas of his team. The team

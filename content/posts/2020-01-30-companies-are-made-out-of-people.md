@@ -1,7 +1,7 @@
 ---
 title: Companies Are Made of People
 date: 2020-01-30T00:52:00Z
-tags: management
+tags: leadership
 ---
 
 We've adopted the [Patrick Lencioni][1] stack at Mixbook. We are starting with

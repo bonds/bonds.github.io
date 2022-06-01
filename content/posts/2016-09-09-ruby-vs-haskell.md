@@ -1,7 +1,7 @@
 ---
 title: "Ruby vs Haskell: Ruby is Lego, Haskell is Steel"
 date: 2016-09-10T02:25:00Z
-tags: management
+tags: leadership
 ---
 
 Ruby feels like working with Legos: its easy to pickup, delightful from the start, and you can make amazing things with it quickly. But as your creations get bigger and bigger, they become increasing awkward and fragile. Using Haskell is like working with steel: its difficult to get started and takes a lot of energy to do anything, even after you're good at it, but you can build very strong, resilient, large structures.

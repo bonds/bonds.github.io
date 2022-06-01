@@ -1,7 +1,7 @@
 ---
 title: Don't Delay Gratification For Others
 date: 2018-09-13T15:32:00Z
-tags: management
+tags: leadership
 ---
 Its generally thought that the ability to delay your own gratification [is 
 correlated][4] with greater success. I buy that. But I think it's the opposite 

@@ -1,7 +1,7 @@
 ---
 title: Don't Pay Down Tech Debt With Tech Debt
 date: 2018-12-19T19:38:00Z
-tags: management
+tags: leadership
 ---
 An anti-pattern I keep running across is trying to solve tech debt problems by 
 adding a new tool to the stack. It's like planning to pay off some of your $10K 

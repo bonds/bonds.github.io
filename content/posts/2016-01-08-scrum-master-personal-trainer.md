@@ -1,7 +1,7 @@
 ---
 title: A Scrum Master Is a Personal Trainer
 date: 2016-01-09T03:56:00Z
-tags: management
+tags: leadership
 ---
 
 Scrum Master is a greatly misunderstood and under appreciated role. On most

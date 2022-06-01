@@ -1,7 +1,7 @@
 ---
 title: Stop Hiring DevOps
 date: 2017-07-21T21:28:00Z
-tags: management
+tags: leadership
 ---
 
 Look. The reason its so hard to find (great) DevOps engineers is that is a shit 

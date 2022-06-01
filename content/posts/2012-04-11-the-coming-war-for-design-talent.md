@@ -1,7 +1,7 @@
 ---
 title: The Coming War for Design Talent
 date: 2012-04-11T19:08:00Z
-tags: management
+tags: leadership
 ---
 ![9]
 

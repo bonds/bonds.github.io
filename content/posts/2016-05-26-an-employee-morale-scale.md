@@ -1,7 +1,7 @@
 ---
 title: An Employee Morale Scale
 date: 2016-05-26T19:03:00Z
-tags: management
+tags: leadership
 ---
 
 The scale goes from low to high morale. My biggest realization of the past five

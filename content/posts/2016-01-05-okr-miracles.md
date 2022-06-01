@@ -1,7 +1,7 @@
 ---
 title: On OKRs Requiring Miracles
 date: 2016-01-05T19:28:00Z
-tags: management
+tags: leadership
 ---
 
 At least one person says you should be thinking you'll need [a miracle][2] to

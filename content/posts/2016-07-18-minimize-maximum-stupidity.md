@@ -1,7 +1,7 @@
 ---
 title: Minimize Maximum Stupidity
 date: 2016-07-18T15:00:00Z
-tags: management
+tags: leadership
 ---
 
 TL;DR scaling a dev team + code base has more to do with minimizing stupidity than with maximizing brilliance.

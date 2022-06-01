@@ -1,7 +1,7 @@
 ---
 title: My Ideal Product Manager
 date: 2018-03-13T22:08:00Z
-tags: management
+tags: leadership
 ---
 My ideal product manager is more interested in disproving their idea than 
 proving it.

@@ -1,7 +1,7 @@
 ---
 title: Learning Points
 date: 2016-03-22T19:52:00Z
-tags: management
+tags: leadership
 ---
 
 When I joined Mixbook 4 years ago, we were running very large, coarse

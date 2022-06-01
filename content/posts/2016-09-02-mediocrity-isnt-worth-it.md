@@ -1,7 +1,7 @@
 ---
 title: Mediocrity Isn't Worth It
 date: 2016-09-02T19:06:00Z
-tags: management
+tags: leadership
 ---
 
 Companies and teams tend towards mediocrity over time. Call it entropy, call it regression to the mean...I've been pondering my own sins in this area lately, and I find myself wanting.

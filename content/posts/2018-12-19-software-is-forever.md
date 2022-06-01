@@ -1,7 +1,7 @@
 ---
 title: Calculate the Full Price of That New Tech
 date: 2018-12-19T19:52:00Z
-tags: management
+tags: leadership
 ---
 Next time you get the urge to try out some new tech in production please 
 remember this: 5 years from now, long after you got bored with it, some poor sap 

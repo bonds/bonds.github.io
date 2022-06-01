@@ -1,7 +1,7 @@
 ---
 title: How To Screen Resumes For 'A' Players
 date: 2014-10-22T21:34:00Z
-tags: management
+tags: leadership
 ---
 
 Recently I was asked how I figure out whether the resume I'm looking at belongs

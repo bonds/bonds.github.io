@@ -1,7 +1,7 @@
 ---
 title: Open Interviewing Policy
 date: 2015-09-21T05:48:00Z
-tags: management
+tags: leadership
 ---
 
 I've been [interviewing a lot of people][1] in the past few weeks and I've been

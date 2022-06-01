@@ -1,8 +1,7 @@
 ---
 title: "Junior vs Senior Managers"
 date: 2022-05-05T11:26:48-07:00
-draft: false
-tags: management
+tags: leadership
 ---
 
 Warning: preference-style opinions ahead, e.g. cherry pie is better than apple pie. That said, I’ve used these opinions [in anger][1], so they may be of interest to mangers trying to get ahead with a leader that thinks like I do.

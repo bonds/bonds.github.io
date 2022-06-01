@@ -1,7 +1,7 @@
 ---
 title: On Laying a Foundation
 date: 2018-03-16T18:39:00Z
-tags: management
+tags: leadership
 ---
 When someone says 'we are laying a foundation for X' I take it as code for 
 wasting resources and the sort of lazy thinking that goes with it...at least if 

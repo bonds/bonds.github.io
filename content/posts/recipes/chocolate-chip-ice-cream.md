@@ -4,7 +4,7 @@ date: 2022-07-14T12:46:17-07:00
 tags: [food, recipe]
 ---
 
-* 2 vanilla beans
+* 2 vanilla beans or 4 teaspoons vanilla extract
 * 3.5 cups heavy cream
 * 2.5 cups whole milk
 * 0.66 cups sugar
@@ -25,21 +25,22 @@ Return mixture to double boiler and cook, stirring constantly, until mixture thi
 7-14 minutes, 180 F.
 Remove from heat and let cool until no longer steaming,
 10-20 minutes.
-Cover with plastic wrap.
+Remove the vanilla beans and throw them away.
+Cover the mixture with plastic wrap.
 Refridgerate overnight.
 
 Turn on ice cream maker and wait until its cold.
-Take ice cream out of refridgerator and stir together.
-Pour half of the ice cream into the ice cream maker,
+Take mixture out of refridgerator and stir to get an even texture.
+Pour half of the mixture into the ice cream maker,
 returning the rest to the refridgerator.
 While ice cream is churning, add chocolate and oil to a tiny pot.
 Melt chocolate over very low heat, stirring occassionally.
 Remove the chocolate from the heat once it's fully melted.
-Once the ice cream resembles thick soft-serve ice cream,
+Once the mixture resembles thick soft-serve ice cream,
 15-25 minutes, slowly dribble half the chocolate over it while it churns.
 Wait 5 more minutes, then tranfer to the freezer.
 Freeze overnight and then serve.
 
 Clean the ice cream maker then repeat the churning steps with the remaining
-ice cream mixture that was in the refridgerator.
+mixture from the refridgerator.
 

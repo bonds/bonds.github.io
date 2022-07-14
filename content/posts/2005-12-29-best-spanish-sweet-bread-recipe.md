@@ -1,26 +1,20 @@
 ---
-title: Best Spanish Sweet Bread Recipe
+title: Abuelita Corral's Spanish Sweet Bread
 date: 2005-12-29T12:53:00Z
-tags: food
+tags: [food,recipe]
 ---
-My great-grandmother was warm, fun, and loving. One of her favorite ways to show us she cared was to cook us food...and to sneak us a cookie when mom wasn't looking. My great-grandma (who we called Abuelita), grandma, mother, brother, and I have all made this bread and it's really good.
+Makes 2 loaves.
 
-Especially with a little warm butter spread on top. The recipe has been passed down through my family for generations and with each generation it's become infused with a little more love. :)
-
-**Abuelita Corral's Spanish Sweet Bread**
-
-makes 2 loaves
-
-2 packages of yeast soaked in 1/2 water  
-1/2 cup canned milk   
-1/2 cup whole milk   
-4 eggs beaten   
-1 cup butter   
-1 teaspoon salt   
-1 cups sugar   
-6 cups flour   
-1 teaspoon lemon extract   
-1 teaspoon vanilla extract   
+2 packages of yeast soaked in 1/2 water
+1/2 cup canned milk
+1/2 cup whole milk
+4 eggs beaten
+1 cup butter
+1 teaspoon salt
+1 cups sugar
+6 cups flour
+1 teaspoon lemon extract
+1 teaspoon vanilla extract
 1.5 cups raisins
 
 1.  Close all windows and doors, don't want cold air
@@ -55,3 +49,14 @@ makes 2 loaves
 30. Let rise for about 1 hour 
 31. Take off towels and wax paper 
 32. Turn oven to 350 and bake for 45-55 minutes or so (check it so the outside is not burnt)
+
+My great-grandmother was warm, fun, and loving. One of her favorite ways to show us she cared was to cook us food...and to sneak us a cookie when mom wasn't looking. My great-grandma (who we called Abuelita), grandma, mother, brother, and I have all made this bread and it's really good.
+
+Especially with a little warm butter spread on top. The recipe has been passed down through my family for generations and with each generation it's become infused with a little more love. :)
+
+*Updated on July 14, 2022*
+
+* Moved the story after the recipe. I don't like recipes blocked by a long story either.
+* Changed title from 'Best...' to the actual recipe name, SEO be damned.
+* Added the #recipe tag.
+ 

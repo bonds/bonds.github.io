@@ -1,18 +1,18 @@
 ---
 title: "Chocolate Chip Ice Cream"
 date: 2022-07-14T12:46:17-07:00
-tags: food, recipe
+tags: [food, recipe]
 ---
 
-2 vanilla beans
-3.5 cups heavy cream
-2.5 cups whole milk
-0.66 cups sugar
-0.66 cups light corn syrup
-0.5 teaspoons salt
-12 large egg yolks
-0.25 cups of chocolate
-1 teaspoon of vegetable oil
+* 2 vanilla beans
+* 3.5 cups heavy cream
+* 2.5 cups whole milk
+* 0.66 cups sugar
+* 0.66 cups light corn syrup
+* 0.5 teaspoons salt
+* 12 large egg yolks
+* 0.25 cups of chocolate
+* 1 teaspoon of vegetable oil
 
 Cut vanilla bean in half lengthwise.
 Scrape out seeds.

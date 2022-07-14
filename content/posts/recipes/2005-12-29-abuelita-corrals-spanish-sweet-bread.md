@@ -1,9 +1,9 @@
 ---
-title: Abuelita Corral's Spanish Sweet Bread
+title: Spanish Sweet Bread
 date: 2005-12-29T12:53:00Z
 tags: [food,recipe]
 ---
-# Bread Machine Variant
+### Bread Machine Variant
 
 Makes 1 loaf. This method is *way* easier than the original,
 which you can find right after this one.
@@ -30,7 +30,7 @@ When the bread maker beeps to allow mixins, add the raisins.
 Once the bread is done baking, remove it from the pan
 and let it cool on a rack.
 
-# Original
+### Original
 
 Makes 2 loaves.
 

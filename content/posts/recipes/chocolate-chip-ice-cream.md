@@ -11,12 +11,12 @@ tags: [food, recipe]
 * 0.66 cups light corn syrup
 * 0.5 teaspoons salt
 * 12 large egg yolks
-* 0.25 cups of chocolate
+* 0.25 cups of bittersweet chocolate
 * 1 teaspoon of vegetable oil
 
-Cut vanilla bean in half lengthwise.
+Cut vanilla beans in half lengthwise.
 Scrape out seeds.
-Combine vanilla bean, seeds, cream, milk, sugar, corn syrup, and salt in double boiler.
+Combine vanilla beans, seeds, cream, milk, sugar, corn syrup, and salt in double boiler.
 Heat, stirring occassionally, until mixture is steaming steadily,
 5-10 minutes, 175 F.
 While cream mixture heats, whisk egg yolks in a bowl.

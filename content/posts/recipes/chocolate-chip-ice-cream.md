@@ -4,6 +4,8 @@ date: 2022-07-14T12:46:17-07:00
 tags: [food, recipe]
 ---
 
+Makes about 2 quarts.
+
 * 2 vanilla beans or 4 teaspoons vanilla extract
 * 3.5 cups heavy cream
 * 2.5 cups whole milk

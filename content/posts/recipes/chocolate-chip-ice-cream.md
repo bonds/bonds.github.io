@@ -15,8 +15,8 @@ refridgerator.
 * 0.66 cups light corn syrup
 * 0.5 teaspoons salt
 * 12 large egg yolks
-* 0.33 cups of bittersweet chocolate
-* 1 teaspoon of vegetable oil
+* 0.33 cups bittersweet chocolate
+* 1 teaspoon vegetable oil
 
 Cut vanilla beans in half lengthwise.
 Scrape out seeds.

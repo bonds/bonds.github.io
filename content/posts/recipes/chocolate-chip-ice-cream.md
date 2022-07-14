@@ -4,9 +4,11 @@ date: 2022-07-14T12:46:17-07:00
 tags: [food, recipe]
 ---
 
-Makes about 2 quarts.
+Makes about 2 quarts. Substitute 4 teaspoons vanilla extract for the vanilla beans
+by adding the vanilla extract after the mixture cools, before putting it in the
+refridgerator.
 
-* 2 vanilla beans or 4 teaspoons vanilla extract
+* 2 vanilla beans
 * 3.5 cups heavy cream
 * 2.5 cups whole milk
 * 0.66 cups sugar

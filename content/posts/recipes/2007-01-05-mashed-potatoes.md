@@ -14,7 +14,7 @@ Makes about 12 servings.
 * 3 medium size cloves of garlic
 * 2 teaspoons salt
 * 3 teaspoons white pepper
-* optional: horseradish sauce
+* optional: [horseradish sauce][1]
 
 Peel potatoes and add to a large pot.
 Fill pot with enough water to cover potatoes.
@@ -43,3 +43,5 @@ I've had quiet a few dolops of potatoes in my day.
 * added ingredients list
 * edited to make it easier to read
 * added horseradish sauce option
+
+[1]: https://www.amazon.com/St-Elmo-Steak-House-Horseradish/dp/B07PCRVFY8/

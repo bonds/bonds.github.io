@@ -5,13 +5,15 @@ tags: [food,recipe]
 ---
 ![1]
 
-3 leg-and-thighs of chicken
-1.5 cups pearl barley
-2 carrots
-2 stalks of celery
-0.5 white onion
-Pepper
-Salt
+Makes about 8 servings of soup.
+
+* 3 leg-and-thighs of chicken
+* 1.5 cups pearl barley
+* 2 carrots
+* 2 stalks of celery
+* 0.5 white onion
+* salt
+* pepper
 
 Wash chicken.
 Put chicken into a large pot.

@@ -15,7 +15,7 @@ refridgerator.
 * 0.66 cups light corn syrup
 * 0.5 teaspoons salt
 * 12 large egg yolks
-* 0.33 cups bittersweet chocolate
+* 0.33 cups [semisweet chocolate][1]
 * 1 teaspoon vegetable oil
 
 Cut vanilla beans in half lengthwise.
@@ -50,3 +50,4 @@ Freeze overnight and then serve.
 Clean the ice cream maker then repeat the churning steps with the remaining
 mixture from the refridgerator.
 
+[1]: https://www.amazon.com/gp/product/B008RBC1JM/

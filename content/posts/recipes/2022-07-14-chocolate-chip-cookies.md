@@ -15,7 +15,7 @@ Makes about 15 cookies.
 * 1.5 cups packed brown sugar
 * 1 teaspoon vanilla
 * 2 large eggs or egg whites
-* 1.5 cups semisweet chocolate chips
+* 1.5 cups [semisweet chocolate][1] chips
 
 In a medium bowl combine the flour, baking soda, baking powder and salt.
 
@@ -31,3 +31,5 @@ Line baking sheets with nonstick baking mats or parchment paper.
 Put the cookies on the sheet and into the oven, starting up the oven
 right when the cookies are put it--set the temperature to 350 F.
 Bake for 20 minutes including the warm up time.
+
+[1]: https://www.amazon.com/gp/product/B008RBC1JM/

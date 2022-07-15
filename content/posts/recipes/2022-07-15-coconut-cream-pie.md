@@ -5,7 +5,7 @@ tags: [food,recipe]
 ---
 Makes 8 servings.
 
-### Crust
+### Graham Cracker Crust
 
 * 10 whole graham crackers, broken into 1-inch pieces
 * 6 tablespoons unsalted butter, melted and cooled
@@ -22,7 +22,7 @@ of pie plate.
 Bake until crust is fragrant and beginning to brown, 15 minutes.
 Transfer to wire rack.
 
-### Filling
+### Coconut Filling
 
 * 14 ounces (1 can) of coconut milk
 * 1 cup whole milk
@@ -50,7 +50,7 @@ Pour warm filling into cooled prebaked pie crust.
 Lay sheet of plastic wrap directly on surface of filling and
 refrigerate pie until filling is chilled and set, about 4 hours.
 
-### Topping
+### Whipped Cream Topping
 
 * 1.5 cups heavy cream
 * 1.5 tablespoons sugar

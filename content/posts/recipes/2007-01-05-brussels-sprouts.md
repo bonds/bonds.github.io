@@ -4,6 +4,8 @@ date: 2007-01-05T13:41:00Z
 tags: [food,recipe]
 ---
 
+Makes any number of servings.
+
 * Brussels sprouts
 * avocado or grapeseed oil
 * salt

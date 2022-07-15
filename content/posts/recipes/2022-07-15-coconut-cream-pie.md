@@ -56,12 +56,13 @@ refrigerate pie until filling is chilled and set, about 4 hours.
 * 1.5 tablespoons sugar
 * 1 teaspoon dark rum
 * 0.5 teaspoon vanilla extract
-* 1 tablespoon gelatin
-* 1 tablespoon water
+* 2 teaspoons unflavored gelatin
+* 2 tablespoons water
 * 1 tablespoon unsweetened shredded coconut, toasted
 
 Mix gelatin and water an a small bowl.
-Microwave for 30 seconds then stir until fully combined.
+Let sit for 5 minutes.
+Microwave for 10 seconds then stir until fully combined.
 
 Using stand mixer fitted with whisk, whip cream, sugar, rum,
 vanilla, and gelatin mixture together on medium-low speed until

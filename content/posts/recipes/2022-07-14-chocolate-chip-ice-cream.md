@@ -51,3 +51,8 @@ Clean the ice cream maker then repeat the churning steps with the remaining
 mixture from the refridgerator.
 
 [1]: https://www.amazon.com/gp/product/B008RBC1JM/
+
+Adapted from [Cook's Illustrated Cookbook][1].
+
+[1]: https://www.amazon.com/Cooks-Illustrated-Cookbook-Americas-Magazine/dp/1933615893/
+

@@ -42,8 +42,8 @@ While ice cream is churning, add chocolate and oil to a tiny pot.
 Melt chocolate over very low heat, stirring occassionally.
 Remove the chocolate from the heat once it's fully melted.
 
-Once the churning mixture resembles thick soft-serve ice cream,
-15-25 minutes, slowly dribble half the chocolate over it as it churns.
+Once the churning ice cream mixture resembles thick soft-serve ice cream,
+15-25 minutes, slowly dribble half the chocolate over it while it continues to churn.
 Let churn for 5 more minutes, then tranfer to an ice cream container.
 Freeze overnight and then serve.
 

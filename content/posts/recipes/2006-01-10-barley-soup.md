@@ -5,7 +5,7 @@ tags: [food,recipe]
 ---
 ![1]
 
-Makes about 8 servings of soup.
+Makes about 8 servings.
 
 * 3 leg-and-thighs of chicken
 * 1.5 cups pearl barley

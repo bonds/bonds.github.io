@@ -68,3 +68,8 @@ vanilla, and gelatin mixture together on medium-low speed until
 frothy, about 1 minute. Increase speed to high and continue to whip
 until soft peaks form, 1 to 3 minutes. Spread whipped cream
 attractively oven the top of pie and sprinkle with toasted coconut.
+
+Adapted from [Cook's Illustrated Cookbook][1].
+
+[1]: https://www.amazon.com/Cooks-Illustrated-Cookbook-Americas-Magazine/dp/1933615893/
+

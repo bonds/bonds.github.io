@@ -18,10 +18,12 @@ Makes about 12 servings.
 
 Peel potatoes and add to a large pot.
 Fill pot with enough water to cover potatoes.
-Boil for 40 minutes.
+Boil for 40 minutes then drain water.
 Mash potatoes with a potato ricer.
 Add cream cheese, milk, sour cream, butter, salt, and pepper.
 Press garlic and add.
+Mix thoroughly and serve.
+
 Add more salt and pepper to taste.
 Add horseradish sauce mixed in or on the side for a great added flavor
 and a third type of heat besides the garlic and pepper.

@@ -37,12 +37,14 @@ Turn on ice cream maker and wait until its cold.
 Take mixture out of refridgerator and stir to get an even texture.
 Pour half of the mixture into the ice cream maker,
 returning the rest to the refridgerator.
+
 While ice cream is churning, add chocolate and oil to a tiny pot.
 Melt chocolate over very low heat, stirring occassionally.
 Remove the chocolate from the heat once it's fully melted.
-Once the mixture resembles thick soft-serve ice cream,
+
+Once the ice cream mixture resembles thick soft-serve ice cream,
 15-25 minutes, slowly dribble half the chocolate over it while it churns.
-Churn for 5 more minutes, then tranfer to the freezer.
+Churn for 5 more minutes, then tranfer to an ice cream container.
 Freeze overnight and then serve.
 
 Clean the ice cream maker then repeat the churning steps with the remaining

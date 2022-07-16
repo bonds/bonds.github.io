@@ -1,13 +1,16 @@
 ---
-title: "2022 07 15 Pecan Pie"
-date: 2022-07-14T22:21:46-07:00
-draft: true
+title: "Cranberry Sauce"
+date: 2022-07-17T02:01:46-07:00
+tags: [food,recipe]
 ---
-1 Orange
-1 Apple
-1 cup sugar
-1 pkg. fresh Cranberries
+Makes 12 servings.
 
-Grind all in blender and Voila!!!   Stir mixture well and set in
-refrigerator until dinner is ready.
+* 12 ounces (1 package) fresh cranberries
+* 1 orange
+* 1 apple
+* 1 cup sugar
 
+Add all ingredients to blender.
+Blend until smooth.
+Pour into a bowl and refrigerate until ready to eat.
+Serve.

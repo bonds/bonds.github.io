@@ -5,17 +5,17 @@ tags: [food,recipe]
 ---
 Makes 8 servings.
 
-1 medium onion
-1 celery stalk
-1 carrot
-2 garlic cloves
-2 tablespoons avocado oil
-1.5 pounds yellow peppers
-0.75 pound potatoes
-3 cups water or chicken stock
-1 tablespoon sea salt
-1 small hot red pepper or 1 pinch chili pepper flakes
-2 tablespoons grated Parmigiano-Reggiano
+* 1 medium onion
+* 1 celery stalk
+* 1 carrot
+* 2 garlic cloves
+* 2 tablespoons avocado oil
+* 1.5 pounds yellow peppers
+* 0.75 pound potatoes
+* 3 cups water or chicken stock
+* 1 tablespoon sea salt
+* 1 small hot red pepper or 1 pinch chili pepper flakes
+* 2 tablespoons grated Parmigiano-Reggiano
 
 Chop onion, celery, carrot, and garlic.
 Add to 4-quart heavy-bottomed pot.

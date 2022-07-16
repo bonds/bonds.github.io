@@ -5,22 +5,22 @@ tags: [food,recipes]
 ---
 Makes 8 servings.
 
-14 ounces (1 can) diced tomatoes (do not drain)
-1 cup water
-5 garlic cloves
-1 tablespoon minced ginger 
-1 teaspoon ground turmeric
-1 teaspoon ground cayenne pepper
-1 teaspoon paprika
-2 teaspoons garam masala
-1 teaspoon ground cumin
-1 teaspoon salt
-1 pound boneless, skinless chicken thighs
-8 tablespoons (1 stick) unsalted butter
-1 cup heavy cream or whole coconut milk
-1 tablespoon sugar
-0.25 to 0.5 cup chopped fresh cilantro
-4 cups Basmati rice
+* 14 ounces (1 can) diced tomatoes (do not drain)
+* 1 cup water
+* 5 garlic cloves
+* 1 tablespoon minced ginger 
+* 1 teaspoon ground turmeric
+* 1 teaspoon ground cayenne pepper
+* 1 teaspoon paprika
+* 2 teaspoons garam masala
+* 1 teaspoon ground cumin
+* 1 teaspoon salt
+* 1 pound boneless, skinless chicken thighs
+* 8 tablespoons (1 stick) unsalted butter
+* 1 cup heavy cream or whole coconut milk
+* 1 tablespoon sugar
+* 0.5 cup chopped fresh cilantro
+* 4 cups Basmati rice
 
 Wash rice, add water, and start cooking in a rice cooker.
 

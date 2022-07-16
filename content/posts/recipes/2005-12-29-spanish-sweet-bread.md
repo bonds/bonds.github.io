@@ -34,17 +34,17 @@ and let it cool on a rack.
 
 Makes 2 loaves.
 
-2 packages of yeast soaked in 1/2 water
-1/2 cup canned milk
-1/2 cup whole milk
-4 eggs beaten
-1 cup butter
-1 teaspoon salt
-1 cups sugar
-6 cups flour
-1 teaspoon lemon extract
-1 teaspoon vanilla extract
-1.5 cups raisins
+* 2 packages of yeast soaked in 1/2 water
+* 0.5 cup canned milk
+* 0.5 cup whole milk
+* 4 eggs beaten
+* 1 cup butter
+* 1 teaspoon salt
+* 1 cups sugar
+* 6 cups flour
+* 1 teaspoon lemon extract
+* 1 teaspoon vanilla extract
+* 1.5 cups raisins
 
 Close all windows and doors, don't want cold air.
 Scald 1/2 cup canned cream milk and 1/2 cup of whole regular milk

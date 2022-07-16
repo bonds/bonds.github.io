@@ -7,13 +7,13 @@ Makes 4 servings.
 
 ### Dressing
 
-0.5 cup peanut oil
-2 tablespoons toasted sesame oil
-3 teaspoons soy sauce
-2 tablespoons seasoned rice wine vinegar
-2 tablespoons honey
-1 teaspoon freshly ground black pepper
-0.25 teaspoon cayenne pepper
+* 0.5 cup peanut oil
+* 2 tablespoons toasted sesame oil
+* 3 teaspoons soy sauce
+* 2 tablespoons seasoned rice wine vinegar
+* 2 tablespoons honey
+* 1 teaspoon freshly ground black pepper
+* 0.25 teaspoon cayenne pepper
 
 Add all ingredients to a mason jar and seal.
 Shake well.
@@ -21,14 +21,14 @@ Refrigerate until ready to use.
 
 ### Salad
 
-10 ounces [Trader Joes organic shredded kale][4]
-0.25 cup fresh cilantro
-0.25 cup fresh mint
-2 green onions
-2 cups cabbage
-0.5 cup Parmigiano-Reggiano cheese
-0.5 cup peanuts
-1 cup baked skinless, boneless chicken thighs
+* 10 ounces [Trader Joes organic shredded kale][4]
+* 0.25 cup fresh cilantro
+* 0.25 cup fresh mint
+* 2 green onions
+* 2 cups cabbage
+* 0.5 cup Parmigiano-Reggiano cheese
+* 0.5 cup peanuts
+* 1 cup baked skinless, boneless chicken thighs
 
 Add kale to large mixing bowl.
 Chop cilantro and mint and add to bowl.

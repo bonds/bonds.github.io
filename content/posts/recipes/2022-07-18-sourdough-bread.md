@@ -2,7 +2,6 @@
 title: "Sourdough Bread"
 date: 2022-07-18T13:31:46-07:00
 tags: [food,recipe]
-draft: true
 ---
 Makes 8 servings.
 

@@ -8,25 +8,26 @@ Makes 8 servings.
 14 ounces (1 can) diced tomatoes (do not drain)
 1 cup water
 5 garlic cloves
-1 tablespoon ginger 
+1 tablespoon minced ginger 
 1 teaspoon ground turmeric
 1 teaspoon ground cayenne pepper
-1 teaspoon ground paprika
+1 teaspoon paprika
 2 teaspoons garam masala
 1 teaspoon ground cumin
 1 teaspoon salt
 1 pound boneless, skinless chicken thighs
-8 ounces (1 bar) unsalted butter
+8 tablespoons (1 stick) unsalted butter
 1 cup heavy cream or whole coconut milk
 1 tablespoon sugar
 0.25 to 0.5 cup chopped fresh cilantro
 4 cups Basmati rice
 
-Start cooking rice in a rice cooker.
+Wash rice, add water, and start cooking in a rice cooker.
 
 Mince ginger and add to Instant Pot.
 Press garlic and add to pot.
-Add tomatoes, water, tumeric, cayenne, paprika, 1 teaspoon garam masala, cumin, and salt.
+Add tomatoes, water, tumeric, cayenne, paprika, 1 teaspoon
+garam masala, cumin, and salt.
 Mix thoroughly.
 Place chicken on top of the sauce.
 Select 'Meat', 10 minutes, and press start.
@@ -36,7 +37,7 @@ Remove the chicken and set aside.
 Using an immersion blender in the pot, blend together all
 the ingredients into a 
 smooth sauce.
-Set to simmer and cook until thick, around 20 minutes.
+Set to simmer, stir occassionally, and cook until thick, around 20 minutes.
 Turn off the heat.
 Let the sauce cool for 5 minutes.
 

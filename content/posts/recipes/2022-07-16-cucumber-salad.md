@@ -5,7 +5,7 @@ tags: [food,recipe]
 ---
 Makes 4 servings.
 
-### Less Wet Cucumbers
+### Less-Wet Cucumbers
 
 * 5 Persian cucumbers
 * 2 tablespoons salt

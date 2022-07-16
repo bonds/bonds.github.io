@@ -4,7 +4,7 @@ date: 2022-07-14T22:21:32-07:00
 tags: [food,recipe]
 ---
 
-Makes 1 serving.
+Makes 2 servings.
 
 * 0.25 cups roasted buckwheat aka kasha
 * 1.5 cups water or milk

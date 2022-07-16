@@ -8,7 +8,7 @@ Makes 2 servings.
 * 5 ounces baby arugula
 * 1 cup cherry tomotoes
 * 1 ripe avocado
-* 1 tablespoon oil free [miso ginger dressing][1] 
+* 1 tablespoon [Terrapin Ridge Farms ginger miso dressing][1] 
 
 Add arugula to a large salad bowl.
 Remove pit from avocado and scoop a tablespoon at a time into bowl.

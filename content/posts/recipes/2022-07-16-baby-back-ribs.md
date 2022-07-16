@@ -30,7 +30,7 @@ vegetables you like in your soup.
 
 ### Bonus Ribs
 
-Extra uncooked racks of ribs should be cut in half, washed, patted dry
+Extra uncooked racks of ribs should be cut in half, rinsed off, patted dry
 and then frozen in a gallon Ziploc freezer bag, one rack to a bag.
 
 [1]: https://www.instacart.com/products/31943-swift-premium-pork-back-ribs-each

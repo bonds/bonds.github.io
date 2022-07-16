@@ -22,13 +22,14 @@ Cut vanilla beans in half lengthwise.
 Scrape out seeds.
 Combine vanilla beans, seeds, cream, milk, sugar, corn syrup, and salt in double boiler.
 Heat, stirring occassionally, until mixture is steaming steadily,
-5-10 minutes, 175 F.
+about 10 minutes, 175 F.
 While cream mixture heats, whisk egg yolks in a bowl.
 Slowly whisk in 2 cups heated cream mixture into egg yolk.
 Return mixture to double boiler and cook, stirring constantly, until mixture thickens,
-7-14 minutes, 180 F.
-Remove from heat and let cool until no longer steaming,
-10-20 minutes.
+about 7 minutes, 180 F.
+Remove from heat.
+Continue stirring constantly for 5 more minutes.
+Let cool until no longer steaming, about 10 more minutes.
 Remove the vanilla beans and throw them away.
 Cover the mixture with plastic wrap.
 Refridgerate overnight.

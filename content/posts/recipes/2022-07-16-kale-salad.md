@@ -45,7 +45,7 @@ Let salad rest for 5 minutes then serve.
 Adapted from
 [Ashley Brooke Nicholas][1] who adapted it from
 [2 Cookin Mamas][3] who reverse engineered
-[Hillstone][2].
+[Hillstone][2], the restaurant formerly known as Houston's.
 
 [1]: https://www.ashleybrookenicholas.com/kale-salad-recipe-peanut-dressing-hillstone-dupe.html
 [2]: https://hillstone.com/menus/hillstone/Hillstone%20Embarcadero%20Dinner.pdf?version=v-1657939397

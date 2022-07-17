@@ -11,7 +11,7 @@ Makes 8 servings.
 * 6 tablespoons unsalted butter, melted and cooled
 * 3 tablespoons sugar
 
-Adjust over rack to middle position and heat over to 325 F.
+Adjust oven rack to middle position and heat oven to 325 F.
 Process graham cracker pieces in food processor to fine, even crumbs,
 about 30 seconds.
 Sprinkle melted butter and sugar over crumbs and pulse to incorporate,

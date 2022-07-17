@@ -15,7 +15,6 @@ Makes 8 servings.
 * 3 cups water or chicken stock
 * 1 tablespoon sea salt
 * 1 small hot red pepper or 1 pinch chili pepper flakes
-* 2 tablespoons grated Parmigiano-Reggiano
 
 Chop onion, celery, carrot, and garlic.
 Add to 4-quart heavy-bottomed pot.

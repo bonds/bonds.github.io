@@ -9,7 +9,7 @@ Makes 2 servings.
 * 0.25 cups roasted buckwheat aka kasha
 * 1.5 cups water or milk
 * 0.25 cups chia seed
-* 0.25 cups flaxseed, ground
+* 0.25 cups flaxseed
 * 0.5 cups almonds, roasted and unsalted
 * 1 Fuji apple, chopped
 
@@ -17,6 +17,7 @@ Pour buckwheat into a large, microwave safe bowl.
 Add water.
 Microwave for 5 minutes.
 Remove from microwave and let buckwheat rest for 5 minutes.
-Stir in chia seed and flaxseed.
-Add apple and almonds on top.
+Grind flaxseed in a coffee grinder.
+Add chia seed and ground flaxseed to buckwheat and stir together.
+Sprinkle apple and almonds on top.
 Serve.

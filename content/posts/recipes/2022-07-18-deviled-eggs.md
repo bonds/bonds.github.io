@@ -6,7 +6,7 @@ tags: [food,recipe]
 Makes 6 servings.
 
 * 6 eggs
-* 4 tablespoons mayonnaise
+* 4 tablespoons Best Foods mayonnaise
 * 2 teaspoons Grey Poupon mustard
 * 2 teaspoons apple cider vinegar
 * 1 teaspoon smoked paprika

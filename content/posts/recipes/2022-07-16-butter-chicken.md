@@ -1,7 +1,7 @@
 ---
 title: "Butter Chicken"
 date: 2022-07-16T18:01:46-07:00
-tags: [food,recipes]
+tags: [food,recipe]
 ---
 Makes 8 servings.
 

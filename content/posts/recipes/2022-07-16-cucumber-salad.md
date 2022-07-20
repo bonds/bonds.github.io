@@ -7,7 +7,7 @@ Makes 4 servings.
 
 ### Less-Wet Cucumbers
 
-* 5 Persian cucumbers
+* 5 Persian cucumbers (aka cocktail cucumbers)
 * 2 tablespoons salt
 
 Trim the cucumbers and cut into 0.5-inch thick pieces.
@@ -18,9 +18,9 @@ Rinse off salt mixture and pat dry.
 
 ### Marinade
 
+* 1.5 tablespoons honey
 * 3 tablespoons rice vinegar
 * 2 tablespoons mirin
-* 1.5 tablespoons honey
 * 2 teaspoons avocado oil
 * 2 teaspoons sesame oil
 * 1 teaspoon chili garlic sauce

@@ -36,13 +36,13 @@ Transfer cucumbers to a plate and serve cold.
 A single batch of marinade may be reused to marinate several batches
 of cucumbers.
 
+Adapted from [Simmer and Sauce][1]
+who reverse engineered the dish from [Din Tai Fung][3].
+
 *Updated on July 21, 2022*
 
 removed the 0.5 teaspoon added salt from the marinade, there's enough salt
 on the less-wet cucumbers already
-
-Adapted from [Simmer and Sauce][1]
-who reverse engineered the dish from [Din Tai Fung][3].
 
 [1]: https://www.simmerandsauce.com/savory-recipes/chilled-cucumber-salad/
 [2]: https://www.amazon.com/OXO-Leakproof-Rectangle-Storage-Container/dp/B019F079F4/r?th=1

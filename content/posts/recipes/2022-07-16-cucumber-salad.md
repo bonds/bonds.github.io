@@ -24,7 +24,6 @@ Rinse off salt mixture and pat dry.
 * 2 teaspoons avocado oil
 * 2 teaspoons sesame oil
 * 1 teaspoon chili garlic sauce
-* 0.5 teaspoons salt
 
 Mix all ingredients in a [3.5 cup glass airtight container][2].
 Once the cucumbers are done getting 'less wet', add them to the container
@@ -39,6 +38,11 @@ of cucumbers.
 
 Adapted from [Simmer and Sauce][1]
 who reverse engineered the dish from [Din Tai Fung][3].
+
+*Updated on July 21, 2022*
+
+* removed the 0.5 teaspoon added salt from the marinade, there's enough salt
+on the less-wet cucumbers already
 
 [1]: https://www.simmerandsauce.com/savory-recipes/chilled-cucumber-salad/
 [2]: https://www.amazon.com/OXO-Leakproof-Rectangle-Storage-Container/dp/B019F079F4/r?th=1

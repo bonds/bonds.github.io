@@ -7,7 +7,7 @@ Makes 4 servings.
 
 ### Less-Wet Cucumbers
 
-* 5 Persian cucumbers (aka cocktail cucumbers)
+* 4 Persian cucumbers (aka cocktail cucumbers)
 * 2 tablespoons salt
 
 Trim the cucumbers and cut into 0.5-inch thick pieces.
@@ -41,8 +41,9 @@ who reverse engineered the dish from [Din Tai Fung][3].
 
 *Updated on July 21, 2022*
 
-removed the 0.5 teaspoon added salt from the marinade, there's enough salt
+* removed the 0.5 teaspoon added salt from the marinade, there's enough salt
 on the less-wet cucumbers already
+* reduced cucumbers from 5 to 4 to fit my container better
 
 [1]: https://www.simmerandsauce.com/savory-recipes/chilled-cucumber-salad/
 [2]: https://www.amazon.com/OXO-Leakproof-Rectangle-Storage-Container/dp/B019F079F4/r?th=1

@@ -1,5 +1,5 @@
 ---
-title: "Stawberries With Balsamic"
+title: "Strawberries With Balsamic"
 date: 2022-07-28T01:50:49-07:00
 tags: [food,recipe]
 ---

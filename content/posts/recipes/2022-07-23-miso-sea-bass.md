@@ -24,6 +24,6 @@ Move toaster oven shelf to the middle position.
 Broil fish for 22 minutes in toaster oven.
 Serve.
 
-Adapted from the [New York Times][1].
+Adapted from a recipe at [The New York Times][1].
 
 [1]: https://cooking.nytimes.com/recipes/1015737-miso-glazed-sea-bass

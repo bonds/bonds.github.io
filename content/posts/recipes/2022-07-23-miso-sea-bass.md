@@ -5,7 +5,7 @@ tags: [food,recipe]
 ---
 Makes 8 servings.
 
-* 2 pounds sea bass, skin off
+* 1.5 pounds [sea bass][2], skin off
 * 2 tablespoons red miso
 * 1 tablespoon sake
 * 1 tablespoon mirin
@@ -26,3 +26,5 @@ Serve.
 Adapted from a recipe at [The New York Times][1].
 
 [1]: https://cooking.nytimes.com/recipes/1015737-miso-glazed-sea-bass
+[2]: https://www.costco.com/kirkland-signature-wild-chilean-sea-bass%2C-4-oz---6-oz-portion%2C-1.5-lbs.product.100444151.html
+

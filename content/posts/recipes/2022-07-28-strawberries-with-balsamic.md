@@ -4,7 +4,7 @@ date: 2022-07-28T01:50:49-07:00
 tags: [food,recipe]
 ---
 Makes 8 servings.
-Eat it alone or over a scoop of vanilla ice cream.
+Eat it on its own or over a scoop of vanilla ice cream.
 
 * 4 cups fresh strawberries
 * 4 tablespoons balsamic vinegar

@@ -6,8 +6,7 @@ tags: [food,recipe]
 Makes 8 servings.
 
 * 2 pounds sea bass, skin off
-* 1 tablespoon white miso
-* 1 tablespoon red miso
+* 2 tablespoons red miso
 * 1 tablespoon sake
 * 1 tablespoon mirin
 * 2 teaspoons soy sauce

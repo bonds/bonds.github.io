@@ -3,7 +3,7 @@ title: "Miso Sea Bass"
 date: 2022-07-28T00:54:16-07:00
 tags: [food,recipe]
 ---
-Makes 8 servings.
+Makes 6 servings.
 
 * 1.5 pounds [sea bass][2], skin off
 * 2 tablespoons red miso

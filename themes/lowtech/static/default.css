@@ -26,8 +26,19 @@ time
 ol.posts
 {
     list-style: none;
-    padding: 0px;
+    padding: 0px !important;
     margin: 0px 0px 20px -21px;
+}
+
+#content ol
+{
+    padding: 0px 0px 0px 51px;
+}
+
+ul
+{
+    list-style-type: none;
+    padding: 0px;
 }
 
 h1
@@ -44,7 +55,7 @@ h3
     display: inline-block;
     vertical-align: top;
     width: 75%;
-    margin: 0px 0px 0px 20px;
+    margin: 0px 0px 0px 5px;
 }
 
 #content {

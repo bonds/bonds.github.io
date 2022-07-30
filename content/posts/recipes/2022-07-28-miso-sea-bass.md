@@ -19,7 +19,7 @@ Seal container and marinate fish in refrigerator overnight.
 
 Place fish on a baking sheet. Pour half the marinade over the top, discard
 the rest.
-Move toaster oven shelf to the middle position.
+Move toaster oven rack to the middle position.
 Broil fish for 22 minutes in toaster oven.
 Serve.
 

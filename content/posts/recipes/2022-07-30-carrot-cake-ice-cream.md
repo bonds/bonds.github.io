@@ -63,9 +63,9 @@ Stir in the rum and walnuts.
 ### Ice Cream
 
 Turn on ice cream maker and wait until its cold.
-Take custard mixture out of refridgerator and stir to get an even texture.
+Take custard mixture out of refrigerator and stir to get an even texture.
 Pour half of the mixture into the ice cream maker,
-returning the rest to the refridgerator.
+returning the rest to the refrigerator.
 
 Once the churning ice cream mixture resembles thick soft-serve ice cream,
 15-25 minutes.
@@ -75,7 +75,7 @@ Fold it in using a spatula, being careful not to over mix.
 Freeze overnight and then serve.
 
 Clean the ice cream maker then repeat the churning steps with the remaining
-mixture from the refridgerator.
+mixture from the refrigerator.
 
 Adapted from a recipe at [The Spruce Eats][1].
 

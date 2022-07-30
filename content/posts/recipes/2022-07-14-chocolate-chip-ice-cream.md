@@ -6,7 +6,7 @@ tags: [food, recipe]
 
 Makes about 2 quarts. Substitute 4 teaspoons vanilla extract for the vanilla beans
 by adding the vanilla extract after the mixture cools, before putting it in the
-refridgerator.
+refrigerator.
 
 * 2 vanilla beans
 * 3.5 cups heavy cream
@@ -32,12 +32,12 @@ Continue stirring constantly for 5 more minutes.
 Let cool until no longer steaming, about 10 more minutes.
 Remove the vanilla beans and throw them away.
 Cover the mixture with plastic wrap.
-Refridgerate overnight.
+Refrigerate overnight.
 
 Turn on ice cream maker and wait until its cold.
-Take mixture out of refridgerator and stir to get an even texture.
+Take mixture out of refrigerator and stir to get an even texture.
 Pour half of the mixture into the ice cream maker,
-returning the rest to the refridgerator.
+returning the rest to the refrigerator.
 
 While ice cream is churning, add chocolate and oil to a tiny pot.
 Melt chocolate over very low heat, stirring occassionally.
@@ -49,7 +49,7 @@ Let churn for 5 more minutes, then tranfer to an ice cream container.
 Freeze overnight and then serve.
 
 Clean the ice cream maker then repeat the churning steps with the remaining
-mixture from the refridgerator.
+mixture from the refrigerator.
 
 [1]: https://www.amazon.com/gp/product/B008RBC1JM/
 

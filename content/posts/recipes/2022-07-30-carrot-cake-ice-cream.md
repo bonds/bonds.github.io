@@ -1,6 +1,6 @@
 ---
 title: "Carrot Cake Ice Cream"
-date: 2022-07-30T10:51:47-07:00
+date: 2022-07-30T08:51:47-07:00
 tags: [food,recipe]
 ---
 Makes 16 servings.

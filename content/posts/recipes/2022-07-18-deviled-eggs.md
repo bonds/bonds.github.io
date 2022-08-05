@@ -17,7 +17,7 @@ Boil for 15 minutes.
 Drain water.
 Cover eggs in cold water.
 Wait 10 minutes for eggs to cool down.
-Peel eggs.
+[Peel eggs][1].
 Cut eggs in half lengthwise.
 Extract egg yolks and put them in a bowl.
 Mash egg yolks with a fork.
@@ -26,3 +26,5 @@ Mix together thouroughly.
 Scoop batter into eggs.
 Sprinkle parika over the eggs.
 Serve.
+
+[1]: https://www.youtube.com/watch?v=FkWISKfgqZ0

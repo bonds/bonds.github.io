@@ -4,7 +4,7 @@ date: 2022-08-06T04:50:57-07:00
 tags: code
 ---
 Been using Homebrew forever and its awesome. Google should
-totally [give him job][1]. Recently I thought I'd see what the
+totally [give him a job][1]. Recently I thought I'd see what the
 fuss over Nix is all about though. My needs are simple: I want
 to install and uninstall software on my Mac. It would be
 nice to have a list of apps I use that I can check into git

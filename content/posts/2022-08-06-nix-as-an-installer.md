@@ -25,7 +25,7 @@ Then there's ``nun <package>`` for removing packages. And finally
 remove a package, my config gets updated to reflect that, so I can
 check my config aka my list of apps into source control if I want.
 
-So far, so good. It's pretty fast, install, uninstall, and upgrades
+So far, so good. It's pretty fast and install, uninstall, and upgrades
 are all super easy.
 
 [![asciicast](https://asciinema.org/a/kMBq2hKxWtwDqMVb68w5dPtp5.svg)](https://asciinema.org/a/kMBq2hKxWtwDqMVb68w5dPtp5)

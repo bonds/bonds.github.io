@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>game, game. repeat.</title><link>https://ggr.com/</link><description>Recent content on game, game. repeat.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Jul 2022 15:29:48 -0700</lastBuildDate><atom:link href="https://ggr.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Bread Pudding</title><link>https://ggr.com/bread-pudding.html</link><pubDate>Sat, 30 Jul 2022 15:29:48 -0700</pubDate><guid>https://ggr.com/bread-pudding.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>game, game. repeat.</title><link>https://ggr.com/</link><description>Recent content on game, game. repeat.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Aug 2022 04:50:57 -0700</lastBuildDate><atom:link href="https://ggr.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Nix As An Installer</title><link>https://ggr.com/nix-as-an-installer.html</link><pubDate>Sat, 06 Aug 2022 04:50:57 -0700</pubDate><guid>https://ggr.com/nix-as-an-installer.html</guid><description>&lt;p>Been using Homebrew forever and its awesome. Google should
+totally &lt;a href="https://news.ycombinator.com/item?id=9695102">give him job&lt;/a>. Recently I thought I&amp;rsquo;d see what the
+fuss over Nix is all about though. My needs are simple: I want
+to install and uninstall software on my Mac. It would be
+nice to have a list of apps I use that I can check into git
+if I feel like it, but that&amp;rsquo;s just a nice-to-have.&lt;/p>
+&lt;p>First I tried out vanilla nix (the package manager, not the OS), then
+home-manager, then home-manager with flakes. I landed on &lt;a href="https://nixos.org/download.html">nix&lt;/a> plus
+&lt;a href="https://nixos.wiki/wiki/Flakes#Non-NixOS">flakes&lt;/a>, no home-manager, plus some &lt;a href="https://gist.github.com/bonds/1cb0ae202dbe409aebb81b1f1feacbc4">wrapper scripts&lt;/a> to make it
+stupid easy to use&amp;hellip;I don&amp;rsquo;t need all the knobs.&lt;/p>
+&lt;p>Now I&amp;rsquo;ve got &lt;code>nin &amp;lt;package&amp;gt;&lt;/code> for installing software. It accepts
+packages in the format &lt;code>mpv&lt;/code> or &lt;code>bobhope/mpv&lt;/code>
+or &lt;code>github:bobhope/mpv&lt;/code>. Or if I type &lt;code>nin&lt;/code> alone it installs
+all the packages I&amp;rsquo;ve got listed in ~/.config/nix/nin.conf.&lt;/p>
+&lt;p>Then there&amp;rsquo;s &lt;code>nun &amp;lt;package&amp;gt;&lt;/code> for removing packages. And finally
+&lt;code>nup&lt;/code> to upgrade all the installed packages. Whenever I add or
+remove a package, my config gets updated to reflect that, so I can
+check my config aka my list of apps into source control if I want.&lt;/p>
+&lt;p>So far, so good. It&amp;rsquo;s pretty fast, install, uninstall, and upgrades
+are all super easy.&lt;/p>
+&lt;p>&lt;a href="https://asciinema.org/a/kMBq2hKxWtwDqMVb68w5dPtp5">&lt;img src="https://asciinema.org/a/kMBq2hKxWtwDqMVb68w5dPtp5.svg" alt="asciicast">&lt;/a>&lt;/p></description></item><item><title>Bread Pudding</title><link>https://ggr.com/bread-pudding.html</link><pubDate>Sat, 30 Jul 2022 15:29:48 -0700</pubDate><guid>https://ggr.com/bread-pudding.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
 &lt;h3 id="pudding">Pudding&lt;/h3>
 &lt;ul>
 &lt;li>0.66 cup golden raisins&lt;/li>

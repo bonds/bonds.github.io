@@ -72,3 +72,12 @@ img[title$="#fullwidth"] {
     width: 100%;
     display: block;
 }
+
+code {
+    padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 75%;
+    background-color: #dddddd;
+    border-radius: 0.4em;
+    br { display: none; }
+}

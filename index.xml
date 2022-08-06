@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>game, game. repeat.</title><link>https://ggr.com/</link><description>Recent content on game, game. repeat.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Aug 2022 04:50:57 -0700</lastBuildDate><atom:link href="https://ggr.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Nix As An Installer</title><link>https://ggr.com/nix-as-an-installer.html</link><pubDate>Sat, 06 Aug 2022 04:50:57 -0700</pubDate><guid>https://ggr.com/nix-as-an-installer.html</guid><description>&lt;p>Been using Homebrew forever and its awesome. Google should
-totally &lt;a href="https://news.ycombinator.com/item?id=9695102">give him job&lt;/a>. Recently I thought I&amp;rsquo;d see what the
+totally &lt;a href="https://news.ycombinator.com/item?id=9695102">give him a job&lt;/a>. Recently I thought I&amp;rsquo;d see what the
 fuss over Nix is all about though. My needs are simple: I want
 to install and uninstall software on my Mac. It would be
 nice to have a list of apps I use that I can check into git

@@ -12,7 +12,7 @@ which you can find right after this one.
 * 2 eggs, beaten
 * 0.5 teaspoon lemon extract
 * 0.5 teaspoon vanilla extract
-* 500 grams bread flour / 3.5 cups
+* 600 grams bread flour / 3.5 cups
 * 0.5 cups sugar
 * 0.25 teaspoon salt
 * 1 stick butter

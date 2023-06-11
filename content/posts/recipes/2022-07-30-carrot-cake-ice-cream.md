@@ -7,9 +7,9 @@ Makes 16 servings.
 
 ### Base
 
-* 4 cups whole milk
+* 3 cups whole milk
 * 2 cups heavy cream
-* 5 large egg yolks
+* 6 large egg yolks
 * 1 cup granulated sugar
 * 1 teaspoon pure vanilla extract
 * 0.25 teaspoon ground cinnamon
@@ -59,6 +59,7 @@ Remove from the heat and cool to room temperature.
 As the mixture cools, stir occasionally to break up and distribute
 all the bits evenly.
 Stir in the rum and walnuts.
+Refridgerate overnight.
 
 ### Ice Cream
 

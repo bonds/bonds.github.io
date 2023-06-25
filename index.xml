@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>game, game. repeat.</title><link>https://ggr.com/</link><description>Recent content on game, game. repeat.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Aug 2022 04:50:57 -0700</lastBuildDate><atom:link href="https://ggr.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Nix As An Installer</title><link>https://ggr.com/nix-as-an-installer.html</link><pubDate>Sat, 06 Aug 2022 04:50:57 -0700</pubDate><guid>https://ggr.com/nix-as-an-installer.html</guid><description>&lt;p>Been using Homebrew forever and its awesome. Google should
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>game, game. repeat.</title><link>https://ggr.com/</link><description>Recent content on game, game. repeat.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Jun 2023 23:01:03 -0700</lastBuildDate><atom:link href="https://ggr.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Cheese Fondue</title><link>https://ggr.com/cheese-fondue.html</link><pubDate>Wed, 21 Jun 2023 23:01:03 -0700</pubDate><guid>https://ggr.com/cheese-fondue.html</guid><description>&lt;p>Makes 2 servings.&lt;/p>
+&lt;ul>
+&lt;li>100 grams Swiss cheese, shredded&lt;/li>
+&lt;li>100 grams Gruyere cheese, shredded&lt;/li>
+&lt;li>1 tsp cornstarch&lt;/li>
+&lt;li>1 garlic clove, peeled&lt;/li>
+&lt;li>0.25 cup dry white wine&lt;/li>
+&lt;li>1 tsp lemon juice&lt;/li>
+&lt;li>1 tsp cherry brandy&lt;/li>
+&lt;li>0.25 tsp dry mustard&lt;/li>
+&lt;li>tiny pinch of nutmeg&lt;/li>
+&lt;li>1 small, round loaf of sourdough bread&lt;/li>
+&lt;/ul>
+&lt;p>In a small bowl, coat the cheeses with cornstarch and set aside. Rub the inside of an induction compatible pot with the garlic, then discard (the garlic, not the pot :).&lt;/p>
+&lt;p>Set the cooktop to 150 F, add the wine and lemon juice, and bring to a gentle simmer. Gradually stir the cheese into the simmering liquid, a handful at a time&amp;ndash;melting the cheese gradually encourages a smooth fondue. Once smooth, stir in cherry brandy, mustard and nutmeg. Reduce to 140 F.&lt;/p>
+&lt;p>Carve the bread into 1 inch cubes, removing and discarding the crust. Stab a piece of bread with a fondue fork, dip in the fondue, and enjoy!&lt;/p>
+&lt;p>Adapted from &lt;a href="https://www.foodnetwork.com/recipes/tyler-florence/cheese-fondue-recipe-1906678">Cheese Fondue&lt;/a> by Tyler Florence at The Food Network.&lt;/p></description></item><item><title>Nix As An Installer</title><link>https://ggr.com/nix-as-an-installer.html</link><pubDate>Sat, 06 Aug 2022 04:50:57 -0700</pubDate><guid>https://ggr.com/nix-as-an-installer.html</guid><description>&lt;p>Been using Homebrew forever and its awesome. Google should
 totally &lt;a href="https://news.ycombinator.com/item?id=9695102">give him a job&lt;/a>. Recently I thought I&amp;rsquo;d see what the
 fuss over Nix is all about though. My needs are simple: I want
 to install and uninstall software on my Mac. It would be

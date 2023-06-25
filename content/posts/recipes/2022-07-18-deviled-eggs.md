@@ -11,13 +11,15 @@ Makes 6 servings.
 * 2 teaspoons apple cider vinegar
 * 1 teaspoon smoked paprika
 
-Carefully place eggs in a pot full of water.
-Heat on high heat until water starts boiling.
-Boil for 15 minutes.
+Heat on high heat until water is boiling.
+Carefully place eggs into the boiling water.
+Putting the eggs after the water the water is boiling, rather than before,
+is the key to making them easy to peel.
+Boil for 13 minutes.
 Drain water.
 Cover eggs in cold water.
 Wait 10 minutes for eggs to cool down.
-[Peel eggs][1].
+Peel eggs.
 Cut eggs in half lengthwise.
 Extract egg yolks and put them in a bowl.
 Mash egg yolks with a fork.
@@ -26,5 +28,3 @@ Mix together thouroughly.
 Scoop batter into eggs.
 Sprinkle parika over the eggs.
 Serve.
-
-[1]: https://www.youtube.com/watch?v=FkWISKfgqZ0

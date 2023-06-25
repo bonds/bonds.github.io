@@ -1,6 +1,7 @@
 ---
 title: "Cheese Fondue"
 date: 2023-06-21T23:01:03-07:00
+tags: [food, recipe]
 ---
 
 Makes 2 servings.

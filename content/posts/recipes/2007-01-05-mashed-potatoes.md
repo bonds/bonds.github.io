@@ -13,7 +13,7 @@ Makes about 12 servings.
 * 0.5 stick unsalted butter
 * 3 medium size cloves of garlic
 * 2 teaspoons salt
-* 3 teaspoons white pepper
+* 1 teaspoon white pepper
 * optional: [horseradish sauce][1]
 
 Peel potatoes and add to a large pot.

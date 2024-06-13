@@ -1,6 +1,6 @@
 ---
 title: A Leader Gets a Group of People From Point A To Point B
-date: 2024-06-13T20:18:41-07:00
+date: 2024-06-13T10:18:41-07:00
 tags: leadership
 ---
 Bad leaders choose the wrong goal or fail to choose one at all. Their group ends up worse off. Divisive leaders optimize for a subgroup and the 'in' group is more happy, the 'out' group is less happy. They are playing a zero-sum game. Selfish leaders are an extreme of the divisive leader--the selfish leader IS the 'in' group.

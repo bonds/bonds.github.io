@@ -7,7 +7,7 @@ Bad leaders choose the wrong goal or fail to choose one at all. Their group ends
 
 Good leaders choose a goal where everyone wins, and they achieve it.
 
-The better the leader, the bigger and better the outcomes and the bigger and broader 'everyone' turns out to be. Alan Mulally famously [turned Ford around][3], taking them from losing $17B/year to profitable and growing. He got Ford's zero-sum-game-playing shareholders, executives, employees, car dealers, bankers, factory worker, union leaders, and parts suppliers to align, sacrifice, work, and win or lose together.
+The better the leader, the bigger and better the outcomes and the bigger and broader 'everyone' turns out to be. Alan Mulally famously [turned Ford around][3], taking them from losing $17B/year to profitable and growing. He got Ford's zero-sum-game-playing shareholders, executives, employees, car dealers, bankers, factory workers, union leaders, and parts suppliers to align, sacrifice, work, and win or lose together.
 
 ...
 

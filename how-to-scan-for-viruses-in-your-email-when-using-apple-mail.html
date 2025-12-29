@@ -1,23 +1,79 @@
-<!doctype html><html><head><meta charset=utf-8><link rel=stylesheet type=text/css href=/default.css><title>game, game. repeat. | How To Scan For Viruses in Your Email When Using Apple Mail</title></head><body><h1><a href=/>g</a>ame, g<a href=/about.html>a</a>me. repea<a href=/tags.html>t</a>.</h1><div id=content><h2>How To Scan For Viruses in Your Email When Using Apple Mail</h2><div id=info>Wed 16 September 2009
-<a href=https://ggr.com/tags/code.html>#Code</a></div><p><img src=https://ggr_com.s3.amazonaws.com/images/apple-mail-antivirus-rule.jpg alt=9></p><p>There&rsquo;s more than way to go about it, but I prefer using the open source
-ClamAV and a script that runs to scan each email as it comes in.</p><p><strong>Setup ClamAV</strong></p><ol><li>Install <a href=http://www.clamav.net/>ClamAV</a>. I used <a href=http://www.macports.org/>MacPorts</a> to install it:
-<code>sudo port install clamav</code></li><li>Make sure all the ClamAV binaries are in your PATH. Chances are
-if you&rsquo;re using MacPorts, you&rsquo;ve already taken care of that.</li><li>Configure freshclam and clamd. Since I used MacPorts to install
-ClamAV, this consisted of&mldr;</li><li>rename the example conf files in /opt/local/etc: <code>mv example-freshclam.conf freshclam.conf;</code> <code>mv example-clamd.conf clamd.conf</code></li><li>read the conf files and edit them as appropriate, then add the line
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/default.css">
+    
+    
+    <title>game, game. repeat. | How To Scan For Viruses in Your Email When Using Apple Mail</title>
+</head>
+<body><h1><a href='/'>g</a>ame, g<a href='/about.html'>a</a>me. repea<a href='/tags.html'>t</a>.</h1>
+<div id="content">
+<h2>How To Scan For Viruses in Your Email When Using Apple Mail</h2>
+<div id=info>
+Wed 16 September 2009
+<a href="https://ggr.com/tags/code.html">#Code</a>
+
+</div>
+<p><img src="https://ggr_com.s3.amazonaws.com/images/apple-mail-antivirus-rule.jpg" alt="9"></p>
+<p>There&rsquo;s more than way to go about it, but I prefer using the open source
+ClamAV and a script that runs to scan each email as it comes in.</p>
+<p><strong>Setup ClamAV</strong></p>
+<ol>
+<li>Install <a href="http://www.clamav.net/">ClamAV</a>. I used <a href="http://www.macports.org/">MacPorts</a> to install it:
+<code>sudo port install clamav</code></li>
+<li>Make sure all the ClamAV binaries are in your PATH. Chances are
+if you&rsquo;re using MacPorts, you&rsquo;ve already taken care of that.</li>
+<li>Configure freshclam and clamd. Since I used MacPorts to install
+ClamAV, this consisted of&hellip;</li>
+<li>rename the example conf files in /opt/local/etc: <code>mv  example-freshclam.conf freshclam.conf;</code> <code>mv example-clamd.conf  clamd.conf</code></li>
+<li>read the conf files and edit them as appropriate, then add the line
 <code>NotifyClamd /opt/local/etc/clamd.conf (</code>substituting the full path to
 your clamd.conf file) to the end of freshclam.conf so that clamd knows
-about it when freshclam has updated the virus definitions</li><li>run freshclam to see if it works</li><li>notice that it doesn&rsquo;t work because it needs permissions to certain
-directories; <code>sudo chown -R &lt;clamav user> &lt;directory></code>&mldr;the directory
+about it when freshclam has updated the virus definitions</li>
+<li>run freshclam to see if it works</li>
+<li>notice that it doesn&rsquo;t work because it needs permissions to certain
+directories; <code>sudo chown -R &lt;clamav user&gt; &lt;directory&gt;</code>&hellip;the directory
 you need to update will be clear based on the error message, the user
 that freshclam and clamd run under is configured in the conf files. In
-the MacPorts case its &lsquo;clamav&rsquo;.</li><li>rinse and repeat until freshclam works</li><li>run clamd to see if it works</li><li>fix its permissions too</li><li>run clamdscan to check that it can scan some files using clamdscan</li><li>Create <a href=http://developer.apple.com/macosx/launchd.html>launchd</a> items for freshclam and clamd. Freshclam
+the MacPorts case its &lsquo;clamav&rsquo;.</li>
+<li>rinse and repeat until freshclam works</li>
+<li>run clamd to see if it works</li>
+<li>fix its permissions too</li>
+<li>run clamdscan to check that it can scan some files using clamdscan</li>
+<li>Create <a href="http://developer.apple.com/macosx/launchd.html">launchd</a> items for freshclam and clamd. Freshclam
 should run every 168 hours or so. Clamd should run all the time.
-I recommend using <a href=http://sourceforge.net/projects/lingon/files/>Lingon</a> to configure your launchd items.</li><li>Reboot. Check to see that clamd is running. Fix it if its
-not.</li></ol><p><strong>Setup Growl</strong></p><ol><li>Install <a href=http://growl.info/>Growl</a>.</li><li>Install GrowlNotify. It&rsquo;s in the Extras folder of the Growl
-installer.</li><li>Make sure GrowlNotify is in your PATH.</li></ol><p><strong>Setup Mpack</strong></p><ol><li>Install Mpack. With MacPorts its: <code>sudo port install mpack</code></li><li>Make sure Mpack is in your PATH.</li></ol><p><strong>Setup the antivirus script</strong></p><ol><li>Download the <a href=http://ggr_com.s3.amazonaws.com/VirusChecker.scpt>antivirus script</a> I updated (fixed it to work with
+I recommend using <a href="http://sourceforge.net/projects/lingon/files/">Lingon</a> to configure your launchd items.</li>
+<li>Reboot. Check to see that clamd is running. Fix it if its
+not.</li>
+</ol>
+<p><strong>Setup Growl</strong></p>
+<ol>
+<li>Install <a href="http://growl.info/">Growl</a>.</li>
+<li>Install GrowlNotify. It&rsquo;s in the Extras folder of the Growl
+installer.</li>
+<li>Make sure GrowlNotify is in your PATH.</li>
+</ol>
+<p><strong>Setup Mpack</strong></p>
+<ol>
+<li>Install Mpack. With MacPorts its: <code>sudo port install mpack</code></li>
+<li>Make sure Mpack is in your PATH.</li>
+</ol>
+<p><strong>Setup the antivirus script</strong></p>
+<ol>
+<li>Download the <a href="http://ggr_com.s3.amazonaws.com/VirusChecker.scpt">antivirus script</a> I updated (fixed it to work with
 Snow Leopard, added Growl support, removed Stuffit support). A big
-thank you to the <a href=http://creativeeyes.at/tools/clamav>original authors</a>!</li><li>Move the script to your ~/Library/Scripts directory.</li><li>Edit the script, updating the configuration options at the top of
-the file.</li><li>Create a local mail folder called &lsquo;Infected&rsquo; in Apple Mail.</li><li>Create a rule in Apple Mail that runs the script on all email
-messages.</li><li>Try emailing yourself a <a href=http://www.eicar.org/anti_virus_test_file.htm>test virus</a> and verify that your
+thank you to the <a href="http://creativeeyes.at/tools/clamav">original authors</a>!</li>
+<li>Move the script to your ~/Library/Scripts directory.</li>
+<li>Edit the script, updating the configuration options at the top of
+the file.</li>
+<li>Create a local mail folder called &lsquo;Infected&rsquo; in Apple Mail.</li>
+<li>Create a rule in Apple Mail that runs the script on all email
+messages.</li>
+<li>Try emailing yourself a <a href="http://www.eicar.org/anti_virus_test_file.htm">test virus</a> and verify that your
 antivirus script sends a Growl alert and moves the message to the
-infected folder.</li></ol></div></body></html>
+infected folder.</li>
+</ol>
+
+
+        </div></body>
+</html>

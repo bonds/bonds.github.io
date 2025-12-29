@@ -1,20 +1,156 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marketing on game, game. repeat.</title><link>https://ggr.com/tags/marketing.html</link><description>Recent content in Marketing on game, game. repeat.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 11 Sep 2018 15:45:00 +0000</lastBuildDate><atom:link href="https://ggr.com/tags/marketing/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Market Genode</title><link>https://ggr.com/how-to-market-genode.html</link><pubDate>Tue, 11 Sep 2018 15:45:00 +0000</pubDate><guid>https://ggr.com/how-to-market-genode.html</guid><description>&lt;p>Following updates from &lt;a href="https://genode.org/news/sculpt-for-the-curious">Genode&lt;/a> and &lt;a href="https://www.haiku-os.org/blog/waddlesplash/2018-08-19_r1beta1_release_plans_-_at_last/">Haiku&lt;/a> highlighting their progress
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marketing on game, game. repeat.</title>
+    <link>https://ggr.com/tags/marketing.html</link>
+    <description>Recent content in Marketing on game, game. repeat.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jul 2022 20:24:10 -0700</lastBuildDate><atom:link href="https://ggr.com/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Job Boards Are Default Deny</title>
+      <link>https://ggr.com/job-boards-are-default-deny.html</link>
+      <pubDate>Sun, 31 Jul 2022 20:24:10 -0700</pubDate>
+      
+      <guid>https://ggr.com/job-boards-are-default-deny.html</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m looking for a job. I quit my perfectly great job of 9 years
+in October because I wanted a change of scenery, and since I&amp;rsquo;m
+bad at job hunting and don&amp;rsquo;t like doing it, I figured I&amp;rsquo;d never
+make a change if I didn&amp;rsquo;t force myself out of my comfort zone
+and back on the market.
+So I jumped out of the plane, hoping to find I had a working
+parachute.&lt;/p&gt;
+&lt;p&gt;I took a few months off, then I hired a career coach to help me get my story,
+and my head, straight. She helped me figure out what I wanted
+to go after, write a 1 minute pitch, and put together a new
+and improved &lt;a href=&#34;https://www.linkedin.com/in/sbonds/&#34;&gt;resume&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My career coach, friends and family, all said that applying
+for jobs on job boards, like LinkedIn, wouldn&amp;rsquo;t work. They said
+for the senior roles I&amp;rsquo;m
+going after, the only way in is through my network, bypassing
+at least the first couple filters, if not most of them.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t like networking, but I thought I&amp;rsquo;d try it for a month
+and see what happens. After a month I felt it was working, but
+I still didn&amp;rsquo;t like it, and I was maybe 6 months or more away
+from building up a network that would get me my next job.&lt;/p&gt;
+&lt;p&gt;So I pivoted to applying to jobs I could find on LinkedIn and
+Indeed&amp;ndash;in other words, job boards. After a month of doing that
+and getting mostly rejection emails or silence, I have a guess
+why my friends told me to network instead: job board jobs are
+&amp;lsquo;&lt;a href=&#34;https://docs.netgate.com/pfsense/en/latest/firewall/best-practices.html#default-deny&#34;&gt;default deny&lt;/a&gt;&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;What I mean is, the recruiting teams that advertise jobs on job
+boards get too many (underqualified) candidates, and they respond
+by ratching up the filtering. They assume most candidates are
+not a fit, and in any case, they don&amp;rsquo;t want lots of people to
+interview, so they create a guantlet that filters most people out.
+They start with the assumption that I, the applicant, am
+not worthy. And they proceed on that assumption, looking for an
+excuse to disqualify me as soon as possible, with as little
+effort on their part as possible. If I manage to make it past the resume
+screen, I&amp;rsquo;m not home free, the interview screens are are
+also searching for reasons to say &amp;rsquo;no&amp;rsquo; rather than &amp;lsquo;yes&amp;rsquo; and
+they can usually find some.&lt;/p&gt;
+&lt;p&gt;With effort I suspect I can craft a resume that will get me past the
+resume screen for some jobs I&amp;rsquo;m interested in.
+With practice and luck I can probably get past some of
+the interview screens and merit the occassional job offer.
+Its a sales-style numbers game. I can improve my odds through
+hard work and exposing myself to lots of opportunities.&lt;/p&gt;
+&lt;p&gt;But reading &lt;a href=&#34;https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture-ebook/dp/B079L5DDB4/&#34;&gt;Hillbilly Eligy&lt;/a&gt; where JD talks about the
+interview process for the elite law students at Yale, I was reminded
+that &amp;lsquo;default deny&amp;rsquo; is not the only game in town&amp;hellip;networking
+is really about accessing my social capital to play the &amp;lsquo;default allow&amp;rsquo;
+game. In that game, I&amp;rsquo;m presumed qualified and when a potential employer
+finds evidence
+that maybe I&amp;rsquo;m not a fit, instead of immediately reaching for &amp;rsquo;no&amp;rsquo; they look
+for counter-evidence so they can get back to the &amp;lsquo;yes&amp;rsquo; they want.&lt;/p&gt;
+&lt;p&gt;That sounds like a much better game to be playing. It&amp;rsquo;s a different
+kind of networking than I was doing though. To play that game I need
+to approach people that are in a position of influence and are interested
+in going to bat for me because they like me and they know what I&amp;rsquo;m
+capable of. And I need to ask them for help. I need to stop
+trying to be so damn self reliant and have the humility to
+treat my career more like the team sport it is.&lt;/p&gt;
+&lt;p&gt;Unless I really want to play more of the &amp;lsquo;default deny&amp;rsquo; game.
+Umm, nope.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Market Genode</title>
+      <link>https://ggr.com/how-to-market-genode.html</link>
+      <pubDate>Tue, 11 Sep 2018 15:45:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-market-genode.html</guid>
+      <description>&lt;p&gt;Following updates from &lt;a href=&#34;https://genode.org/news/sculpt-for-the-curious&#34;&gt;Genode&lt;/a&gt; and &lt;a href=&#34;https://www.haiku-os.org/blog/waddlesplash/2018-08-19_r1beta1_release_plans_-_at_last/&#34;&gt;Haiku&lt;/a&gt; highlighting their progress
 towards becoming broadly useful operating systems, I installed them on some real
 hardware, took them for a spin, and thought about what it would take for them to
-take over the world&amp;hellip;what market &lt;a href="https://www.amazon.com/Positioning-Battle-Your-Al-Ries/dp/0071373586">position&lt;/a> is available and accessible to a
-potential, future, Genode based OS?&lt;/p>
-&lt;p>So. Would you be interesting in an OS that can say &lt;em>this&lt;/em> (with a straight
-face)?:&lt;/p>
-&lt;p>Uncrashable. Genode will never crash, ever, when run on properly functioning
+take over the world&amp;hellip;what market &lt;a href=&#34;https://www.amazon.com/Positioning-Battle-Your-Al-Ries/dp/0071373586&#34;&gt;position&lt;/a&gt; is available and accessible to a
+potential, future, Genode based OS?&lt;/p&gt;
+&lt;p&gt;So. Would you be interesting in an OS that can say &lt;em&gt;this&lt;/em&gt; (with a straight
+face)?:&lt;/p&gt;
+&lt;p&gt;Uncrashable. Genode will never crash, ever, when run on properly functioning
 hardware. Go ahead and try, we dare you. For good measure there&amp;rsquo;s a formal proof
 of Genode&amp;rsquo;s uncrashability and it matches experience of real users&amp;ndash;Genode is
 the most stable, reliable, general purpose operating system available, open
 source or proprietary, bar none. In fact, its able to detect and recover from
-many &lt;em>hardware&lt;/em> bugs, to the point that Genode is the tool of choice by
-integrators trying to track down bad hardware.&lt;/p></description></item><item><title>Burst > Drip For iTunes Review Reminders</title><link>https://ggr.com/burst-drip-for-itunes-review-reminders.html</link><pubDate>Fri, 24 Oct 2014 15:25:00 +0000</pubDate><guid>https://ggr.com/burst-drip-for-itunes-review-reminders.html</guid><description>&lt;p>We email our customers after they receive their first &lt;a href="http://heymosaic.com">Mosaic&lt;/a>, asking
+many &lt;em&gt;hardware&lt;/em&gt; bugs, to the point that Genode is the tool of choice by
+integrators trying to track down bad hardware.&lt;/p&gt;
+&lt;p&gt;Unstoppable. If you can play a video or music on your Genode machine, without
+skipping under light load, adding heavy load at 100% CPU won&amp;rsquo;t cause it to skip
+nor will the UI become &lt;em&gt;any&lt;/em&gt; less responsive than it was when you weren&amp;rsquo;t
+running any apps. With Genode you get many of the benefits and guarantees of a
+realtime OS without the downsides&amp;ndash;you get a great UI, a mainstream API, &lt;em&gt;and&lt;/em&gt;
+reliable performance.&lt;/p&gt;
+&lt;p&gt;Unhackable. Genode trusts nothing. Not the CPU, not the RAM, not the devices,
+not the software. Genode protects against malicious hardware, drivers, and
+software in all categories, taking care to limit the data leaked and privileges
+accessed by a bug or a sophisticated attacker that controls one or more
+components. Genode uses encryption, separation, compartmentalization, and other
+techniques in a formally verified design that makes it provably impossible to
+use side-channel or direct attacks on the tech&amp;ndash;you&amp;rsquo;re left only with phishing
+and other social engineer attacks if you want to break into a Genode system.&lt;/p&gt;
+&lt;p&gt;Multilingual. Runs Linux, Windows, OSX, Android, iOS, and retro console binaries
+including office suites, system utilities, developer tools, and games. On all
+architectures known to man. And a pony.&lt;/p&gt;
+&lt;p&gt;Ok, I got carried away and it gets more ridiculous as I go, but at least some of
+the first two benefits are possible, interesting, and differentiated. Those
+would make for a pretty interesting OS.&lt;/p&gt;
+&lt;p&gt;P.S. Genode is not an OS, rather, its an OS framework that you use to make an OS
+by assembling a bunch of pieces (i.e. kernel, drivers, apps). &amp;lsquo;Sculpt&amp;rsquo; is the
+name of the OS the Genode team makes to show off what Genode can do.
+Nonetheless, Genode is the name most people might know, so I&amp;rsquo;m exercising a bit
+of creative license here, not unlike shortening GNU/Linux to Linux or referring
+to Linux as an OS when its really a kernel while Debian is the name of a proper
+(Linux-based) OS.&lt;/p&gt;
+&lt;p&gt;P.P.S. It is of course up to the people investing blood, sweat, and cash in
+Genode to decide where to take it next. I am not one of those, I have the much
+easier and safer task of hurling remarks from the peanut gallery.&lt;/p&gt;
+&lt;p&gt;P.P.P.S. Yes, yes, some of these ideas are impossible or at least highly
+impractical, but I can dream, can&amp;rsquo;t I? :) Tablet computers probably seemed
+impossible when they were making the film 2001, but now we have them. Sometimes
+a bit of dreaming can bring the future closer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Burst &gt; Drip For iTunes Review Reminders</title>
+      <link>https://ggr.com/burst-drip-for-itunes-review-reminders.html</link>
+      <pubDate>Fri, 24 Oct 2014 15:25:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/burst-drip-for-itunes-review-reminders.html</guid>
+      <description>&lt;p&gt;We email our customers after they receive their first &lt;a href=&#34;http://heymosaic.com&#34;&gt;Mosaic&lt;/a&gt;, asking
 them to submit a review to the iTunes (or Google Play) store. We used to send
 each email a few days after their package arrived, but we discovered that when
 we save up a whole bunch of the reminders, say a month&amp;rsquo;s worth, and send them
 all at once, it leads to more reviews, even though its the exact same number of
 people contacted, and for some people more time has lapsed between their order
-and the email.&lt;/p></description></item></channel></rss>
+and the email.&lt;/p&gt;
+&lt;p&gt;Absence makes the heart grow fonder? Seeing a lot of other recent reviews makes
+folks more excited to write one of their own? Not sure why it works that way,
+but that&amp;rsquo;s how its working for us.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

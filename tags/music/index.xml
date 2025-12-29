@@ -1,19 +1,77 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Music on game, game. repeat.</title><link>https://ggr.com/tags/music.html</link><description>Recent content in Music on game, game. repeat.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2012 13:53:00 +0000</lastBuildDate><atom:link href="https://ggr.com/tags/music/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Fix Dropouts and Cutting Out When Using AirTunes on your Airport Express</title><link>https://ggr.com/how-to-fix-dropouts-and-cutting-out-when-using-airtunes-on-your-airport-express.html</link><pubDate>Mon, 06 Feb 2012 13:53:00 +0000</pubDate><guid>https://ggr.com/how-to-fix-dropouts-and-cutting-out-when-using-airtunes-on-your-airport-express.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/setup-a-5Ghz-network.png" alt="2">&lt;/p>
-&lt;p>For months I struggled with frequent audio dropouts while connecting to
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on game, game. repeat.</title>
+    <link>https://ggr.com/tags/music.html</link>
+    <description>Recent content in Music on game, game. repeat.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2012 13:53:00 +0000</lastBuildDate><atom:link href="https://ggr.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Fix Dropouts and Cutting Out When Using AirTunes on your Airport Express</title>
+      <link>https://ggr.com/how-to-fix-dropouts-and-cutting-out-when-using-airtunes-on-your-airport-express.html</link>
+      <pubDate>Mon, 06 Feb 2012 13:53:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-fix-dropouts-and-cutting-out-when-using-airtunes-on-your-airport-express.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/setup-a-5Ghz-network.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;For months I struggled with frequent audio dropouts while connecting to
 stereo through my Airport Express from my Mac laptop. My connection was
 strong (5/5 bars on wifi) but I still had dropouts. I tried every manner
 of fix and none was satisfactory. Until now. I seem to have stumbled on
 a solution and its one I had not read about before. No doubt it won&amp;rsquo;t
 work for everyone because of the many different possible causes for bad
 connectivity to your AirTunes device of choice. But here&amp;rsquo;s what worked
-for me.&lt;/p></description></item><item><title>Pandora vs Last.fm</title><link>https://ggr.com/pandora-vs-last.fm.html</link><pubDate>Sun, 07 Feb 2010 13:51:00 +0000</pubDate><guid>https://ggr.com/pandora-vs-last.fm.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/pandora-vs-last.fm_.jpg" alt="4">&lt;/p>
-&lt;p>They&amp;rsquo;re both good, but &lt;a href="http://last.fm/">Last.fm&lt;/a> wins. How can this be? Last.fm&amp;rsquo;s
-amazing powers are put on display after the break.&lt;/p>
-&lt;p>Last.fm can perform these amazing tricks:&lt;/p>
-&lt;p>** Tag (and Multitag) radio**. If you want to listen to &amp;lsquo;piano&amp;rsquo;
+for me.&lt;/p&gt;
+&lt;p&gt;I was able to dramatically reduce the frequency of dropouts playing
+music through iTunes by enabling the separate 5ghz network option in my
+Airport Extreme and then connecting my Mac to that new, 5ghz only,
+network rather than the 2.4ghz network. After that smooth sailing!! I
+have a central Airport Extreme to which both my Mac and my Airport
+Express (which connects to my stereo) are connected. Using &lt;a href=&#34;http://www.geekosystem.com/crouching-lion-hidden-wifi/&#34;&gt;OSX Lion&amp;rsquo;s built in wifi troubleshooting app&lt;/a&gt;, I noticed that when I&amp;rsquo;m not right
+next to my Airport Extreme, my Mac often switches to the 2.4ghz network.
+I live in an apartment complex and I can see lots of wifi networks
+nearby operating at 2.4ghz. So my theory is that by forcing my computer
+to use the 5ghz signal (since its just as strong where I use my Mac) I&amp;rsquo;m
+able to avoid the congestion on 2.4ghz. Let me know if that helps you
+out and good luck!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pandora vs Last.fm</title>
+      <link>https://ggr.com/pandora-vs-last.fm.html</link>
+      <pubDate>Sun, 07 Feb 2010 13:51:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/pandora-vs-last.fm.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/pandora-vs-last.fm_.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;They&amp;rsquo;re both good, but &lt;a href=&#34;http://last.fm/&#34;&gt;Last.fm&lt;/a&gt; wins. How can this be? Last.fm&amp;rsquo;s
+amazing powers are put on display after the break.&lt;/p&gt;
+&lt;p&gt;Last.fm can perform these amazing tricks:&lt;/p&gt;
+&lt;p&gt;** Tag (and Multitag) radio**. If you want to listen to &amp;lsquo;piano&amp;rsquo;
 music on Pandora, you have to select a song or artist that exemplifies
 &amp;lsquo;piano&amp;rsquo;, then vote up/down songs until Pandora figures out what you
 want. On Last.fm, you can simply tell it to play a radio station
 made up of music that has the &amp;lsquo;piano&amp;rsquo; tag. Multitag stations are
 particularly powerful because you can further refine your selection,
-i.e. &amp;lsquo;piano&amp;rsquo; and &amp;lsquo;happy&amp;rsquo;.&lt;/p></description></item></channel></rss>
+i.e. &amp;lsquo;piano&amp;rsquo; and &amp;lsquo;happy&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More variety&lt;/strong&gt;. After listening to similar radio stations on both
+Pandora and Last.fm for 8+ hours, I noticed a lot of repeated songs on
+Pandora, but no repeated songs on Last.fm.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Apps&lt;/strong&gt; (and API). Google&amp;rsquo;s vision of the future puts the browser
+at the center of the universe, so call me a luddite, but I still prefer
+desktop apps for a lot of things. Last.fm has a spiffy Flash-based
+player, but there are also a lot of &lt;a href=&#34;http://osx.iusethis.com/app/everplay&#34;&gt;desktop apps&lt;/a&gt; that are more
+pleasant to use (more stable, nicer looking, etc). Pandora, it
+appears, is an entirely closed system without a publicly available
+API. While developers have still found ways to &lt;a href=&#34;http://code.google.com/p/pandoraboy/&#34;&gt;wrap the Pandora
+Flash widget&lt;/a&gt; in apps that add some features (like Growl
+notification), they leave a lot to be desired.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Monthly subscription&lt;/strong&gt;. Want to try Last.fm out for a month, no
+commitment? Its easy to do. Pandora, on the other hand, only
+offers their premium service in 1-year chunks. It&amp;rsquo;s only $36, but I
+still prefer Last.fm&amp;rsquo;s bite-sized, 1 month for $3, offering.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

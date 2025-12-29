@@ -1,18 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Openbsd on game, game. repeat.</title><link>https://ggr.com/tags/openbsd.html</link><description>Recent content in Openbsd on game, game. repeat.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 27 Feb 2017 22:59:00 +0000</lastBuildDate><atom:link href="https://ggr.com/tags/openbsd/index.xml" rel="self" type="application/rss+xml"/><item><title>How To Install Coreboot Onto Your Lenovo Thinkpad X200 Laptop</title><link>https://ggr.com/how-to-install-coreboot-onto-your-lenovo-thinkpad-x200-laptop.html</link><pubDate>Mon, 27 Feb 2017 22:59:00 +0000</pubDate><guid>https://ggr.com/how-to-install-coreboot-onto-your-lenovo-thinkpad-x200-laptop.html</guid><description>&lt;p>I flashed a Lenovo x200 with Coreboot with Intel microcode enabled, ME removed, and the gigabit ethernet firmware from Libreboot. Everything seems to work with OpenBSD (my daily driver OS). Unlike with Libreboot, which comes with a Grub2 payload, Coreboot uses the SeaBIOS payload by default and it can boot an encrypted OpenBSD volume. I&amp;rsquo;m encountering what seems to be a random lockup every few days, haven&amp;rsquo;t had a chance to troubleshoot it yet.&lt;/p></description></item><item><title>How To Run an Arch Linux (Qemu) Guest On an OpenBSD Host</title><link>https://ggr.com/how-to-run-an-arch-linux-qemu-guest-on-an-openbsd-host.html</link><pubDate>Tue, 30 Sep 2014 20:03:00 +0000</pubDate><guid>https://ggr.com/how-to-run-an-arch-linux-qemu-guest-on-an-openbsd-host.html</guid><description>&lt;p>The main stumbling block I had to overcome to get various flavors of Linux to
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openbsd on game, game. repeat.</title>
+    <link>https://ggr.com/tags/openbsd.html</link>
+    <description>Recent content in Openbsd on game, game. repeat.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Feb 2017 22:59:00 +0000</lastBuildDate><atom:link href="https://ggr.com/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Install Coreboot Onto Your Lenovo Thinkpad X200 Laptop</title>
+      <link>https://ggr.com/how-to-install-coreboot-onto-your-lenovo-thinkpad-x200-laptop.html</link>
+      <pubDate>Mon, 27 Feb 2017 22:59:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-install-coreboot-onto-your-lenovo-thinkpad-x200-laptop.html</guid>
+      <description>&lt;p&gt;I flashed a Lenovo x200 with Coreboot with Intel microcode enabled, ME removed, and the gigabit ethernet firmware from Libreboot. Everything seems to work with OpenBSD (my daily driver OS). Unlike with Libreboot, which comes with a Grub2 payload, Coreboot uses the SeaBIOS payload by default and it can boot an encrypted OpenBSD volume. I&amp;rsquo;m encountering what seems to be a random lockup every few days, haven&amp;rsquo;t had a chance to troubleshoot it yet.&lt;/p&gt;
+&lt;h3 id=&#34;lets-do-this&#34;&gt;Let&amp;rsquo;s Do This&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Buy stuff: &lt;a href=&#34;https://beagleboard.org/black/&#34;&gt;BeagleBone Black&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.com/GeauxRobot-BeagleBone-Black-Compact-Case/dp/B00JVD594E&#34;&gt;BBB case&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.com/MakerSpot-Breadboard-Voltage-Solderless-Friendly/dp/B01IUYLVFK/ref=sr_1_9?crid=2FTW3RC2IKP3A&amp;amp;keywords=3.3v+power+supply+usb&amp;amp;qid=1648663079&amp;amp;s=electronics&amp;amp;sprefix=3.3v+power+supply%2Celectronics%2C136&amp;amp;sr=1-9&#34;&gt;3.3v power source&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.com/Monoprice-1-5ft-24AWG-Cable-Plated/dp/B009GUXG92/ref=sr_1_3?crid=2CP4ZKY6QE7BI&amp;amp;keywords=usb-a+to+usb-a&amp;amp;qid=1648663239&amp;amp;s=electronics&amp;amp;sprefix=usb-a+to+usb-a%2Celectronics%2C155&amp;amp;sr=1-3&#34;&gt;USB-A to USB-A cable&lt;/a&gt; for the 3.3v power source, &lt;a href=&#34;https://www.amazon.com/UGREEN-Adapter-Compatible-Raspberry-ZenBook/dp/B00B2HORKE/ref=sr_1_6?crid=3AMBN5QW0G4VN&amp;amp;keywords=micro-hdmi&amp;amp;qid=1648663301&amp;amp;s=electronics&amp;amp;sprefix=micro-hdmi%2Celectronics%2C213&amp;amp;sr=1-6&#34;&gt;micro-HDMI adapter&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.com/DGZZI-Black-SOIC8-Flash-Without/dp/B08R364SYM/ref=sr_1_4?crid=35ILWONNUGMVY&amp;amp;keywords=soic+test+clip&amp;amp;qid=1648663545&amp;amp;sprefix=soic+test+clip%2Caps%2C156&amp;amp;sr=8-4&#34;&gt;test clip&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_3?crid=E6S9EG65AANP&amp;amp;keywords=breadboard+jumper+wires&amp;amp;qid=1648663375&amp;amp;s=electronics&amp;amp;sprefix=breadboard+jumper+wires%2Celectronics%2C140&amp;amp;sr=1-3&#34;&gt;jumper cables&lt;/a&gt;, SD card with USB adapter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doc.coreboot.org/tutorial/part1.html&#34;&gt;Build a Coreboot ROM&lt;/a&gt; by following the normal instructions and using the default build settings. I used a Debian qemu VM to build with, but I suppose I could have used the Beaglebone. 2017-04-07 update: the BeagleBone Black doesn&amp;rsquo;t have enough RAM to build coreboot&amp;hellip;2 GB or more is a good idea. And you must at a minimum configure Mainboard vendor, Mainboard model, and ROM chip size. 2017-04-25 update: you must compile SeaBIOS with CONFIG_VGA_COREBOOT=y and
+compile coreboot with CONFIG_VGA_BIOS=y, CONFIG_VGA_BIOS_FILE=&amp;quot;&lt;!-- raw HTML omitted --&gt;&amp;quot;, CONFIG_MAINBOARD_DO_NATIVE_VGA_INIT, and comment out CONFIG_VGA_ROM_RUN and other options with default values except for those in the &amp;ldquo;Mainboard&amp;rdquo; category like vendor, model, device in order to see the SeaBIOS prompt (rather than a blank screen) until OpenBSD boots.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.chucknemeth.com/laptop/lenovo-x200/flash-lenovo-x200-libreboot&#34;&gt;Flash your x200&lt;/a&gt; &amp;hellip;but use the Coreboot ROM that you made in the last step, instead of the Libreboot ROM, follow the rest of the steps unaltered, i.e. use the Libreboot GBE firmware, etc. 2017-04-07 update: I used the libreboot &amp;lsquo;flashrom&amp;rsquo; utility for my actual flashing and it was easy. I&amp;rsquo;m told the coreboot one requires configuration, unlike the libreboot one, and may otherwise be more difficult to get working, so, use the libreboot one.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;so-what&#34;&gt;So What&lt;/h3&gt;
+&lt;p&gt;The upshot of using Coreboot or Libreboot is that I&amp;rsquo;m no longer restricted to using mini PCI-e cards that have been whitelisted by Lenovo. I can use the sweet, sweet umb cards for WWAN access, I can upgrade to the latest iwm driver with MIMO, etc. And for those that haven&amp;rsquo;t experienced an x200 yet, and you&amp;rsquo;re wondering why anyone would voluntarily use a 10 year old laptop: the x200 is only $50 before upgrades (I like iwm, umb, an SSD, new battery, new power adapter, USB3 expresscard), has a great keyboard, solid build quality, good portability, good expandability (3 internal mini pci-e, 1 external expresscard slot, 3 USB2 ports), and its relatively easy to repair.&lt;/p&gt;
+&lt;p&gt;Downsides are its limited to 8G of RAM and the CPU aren&amp;rsquo;t as sprightly as the
+latest+greatest (I&amp;rsquo;ve shifted by heavy lifting to servers so not a big issue for
+me), extended battery only lasts about 3 hours (enough for how I roll, but I can
+understand if you&amp;rsquo;ve been spoiled by an all-day battery on a different laptop), VGA out instead of HDMI (can be solved by an adapter), audio quality sucks (can be solved by an adapter).&lt;/p&gt;
+&lt;p&gt;I keep 3 x200s around right now&amp;hellip;at $50 each, it doesn&amp;rsquo;t break the bank to have some backups, and if one goes south its easy to just swap the hard drive and go. Harder to pull off if my laptop costs $2k. ;)&lt;/p&gt;
+&lt;p&gt;My original goal was to see what a maximally open source setup might be like and got as close as I&amp;rsquo;m likely to get (for now) with Libreboot+OpenBSD+ral, etc. It was pretty good&amp;ndash;I&amp;rsquo;m excited to see what the future holds as more of the stack becomes more hacker friendly.&lt;/p&gt;
+&lt;p&gt;For those interested, here&amp;rsquo;s a thread about my &lt;a href=&#34;https://marc.info/?l=openbsd-misc&amp;amp;m=147490313431099&amp;amp;w=2&#34;&gt;prior attempts to get Libreboot working&lt;/a&gt;. Libreboot mostly works too, but its a bit less stable (Intel microcode maybe?) and I didn&amp;rsquo;t figure out how to boot a fully encrypted OpenBSD installation. I suspect if I could just swap in the SeaBIOS payload it would work, but I tried for a bit and wasn&amp;rsquo;t able to get it across the finish line before I gave up and decided to try Coreboot instead.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated on April 07, 2017&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Guillaume Simon wrote in to report that the BBB doesn&amp;rsquo;t have enough RAM to build, but 2GB on a different box worked. He also pointed out that &lt;em&gt;some&lt;/em&gt; settings are needed when configuring coreboot, and that the flash tools from Libreboot are easier to use. I updated the post inline incorporating Guillaume&amp;rsquo;s feedback.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated on April 25, 2017&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;An anonymous writer said they got a blank screen until OpenBSD boots, and pointed out the fix. I updated the post incorporating their feedback.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated on March 30, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Replaced broken links to eBay listings for stuff to buy, with working links at Amazon
+instead.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Run an Arch Linux (Qemu) Guest On an OpenBSD Host</title>
+      <link>https://ggr.com/how-to-run-an-arch-linux-qemu-guest-on-an-openbsd-host.html</link>
+      <pubDate>Tue, 30 Sep 2014 20:03:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-run-an-arch-linux-qemu-guest-on-an-openbsd-host.html</guid>
+      <description>&lt;p&gt;The main stumbling block I had to overcome to get various flavors of Linux to
 install as a guest OS on a Qemu instance, running on an OpenBSD source, was to
-disable &lt;a href="https://en.wikipedia.org/wiki/Advanced_Programmable_Interrupt_Controller">APIC&lt;/a>, not be confused with &lt;a href="https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface">ACPI&lt;/a>.&lt;/p>
-&lt;p>With Arch Linux you do this:&lt;/p>
-&lt;ol>
-&lt;li>boot the Arch Linux CD (in your Qemu guest)&lt;/li>
-&lt;li>press tab to config the boot command&lt;/li>
-&lt;li>add a space and then &amp;rsquo;noapic&amp;rsquo; to the boot command&lt;/li>
-&lt;li>press Enter to boot&lt;/li>
-&lt;li>&lt;a href="https://wiki.archlinux.org/index.php/Beginners%27_Guide">install Arch Linux&lt;/a> on your Qemu guest hard drive&lt;/li>
-&lt;li>add the &amp;rsquo;noapic&amp;rsquo; parameter to boot command in your boot config, e.g. /boot/syslinux/syslinux.cfg&lt;/li>
-&lt;/ol></description></item><item><title>How To Set the Default App For Opening a Directory Under OpenBSD + Gnome 3</title><link>https://ggr.com/how-to-set-the-default-app-for-opening-a-directory-under-openbsd--gnome-3.html</link><pubDate>Thu, 11 Sep 2014 01:45:00 +0000</pubDate><guid>https://ggr.com/how-to-set-the-default-app-for-opening-a-directory-under-openbsd--gnome-3.html</guid><description>&lt;p>Sometimes you want &amp;lsquo;open .&amp;rsquo; to open a directory in your favorite GUI file
+disable &lt;a href=&#34;https://en.wikipedia.org/wiki/Advanced_Programmable_Interrupt_Controller&#34;&gt;APIC&lt;/a&gt;, not be confused with &lt;a href=&#34;https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface&#34;&gt;ACPI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With Arch Linux you do this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;boot the Arch Linux CD (in your Qemu guest)&lt;/li&gt;
+&lt;li&gt;press tab to config the boot command&lt;/li&gt;
+&lt;li&gt;add a space and then &amp;rsquo;noapic&amp;rsquo; to the boot command&lt;/li&gt;
+&lt;li&gt;press Enter to boot&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/Beginners%27_Guide&#34;&gt;install Arch Linux&lt;/a&gt; on your Qemu guest hard drive&lt;/li&gt;
+&lt;li&gt;add the &amp;rsquo;noapic&amp;rsquo; parameter to boot command in your boot config, e.g. /boot/syslinux/syslinux.cfg&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Set the Default App For Opening a Directory Under OpenBSD &#43; Gnome 3</title>
+      <link>https://ggr.com/how-to-set-the-default-app-for-opening-a-directory-under-openbsd--gnome-3.html</link>
+      <pubDate>Thu, 11 Sep 2014 01:45:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-set-the-default-app-for-opening-a-directory-under-openbsd--gnome-3.html</guid>
+      <description>&lt;p&gt;Sometimes you want &amp;lsquo;open .&amp;rsquo; to open a directory in your favorite GUI file
 manager, not EasyTag. Sometimes you wonder how EasyTag ever come to be the
-default app for opening a folder. Sometimes you do this:&lt;/p>
-&lt;pre>&lt;code>$ xdg-mime query filetype .
+default app for opening a folder. Sometimes you do this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ xdg-mime query filetype .
 inode/directory
 $ xdg-mime query default inode/directory
 easytag.desktop
@@ -20,5 +84,10 @@ $ xdg-mime default nautilus.desktop inode/directory
 $ xdg-mime query default inode/directory
 nautilus.desktop
 $ open .
-&lt;/code>&lt;/pre>
-&lt;p>You&amp;rsquo;re welcome.&lt;/p></description></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You&amp;rsquo;re welcome.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

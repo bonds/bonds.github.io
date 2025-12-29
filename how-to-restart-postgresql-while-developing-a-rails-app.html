@@ -1,21 +1,53 @@
-<!doctype html><html><head><meta charset=utf-8><link rel=stylesheet type=text/css href=/default.css><title>game, game. repeat. | How to Restart PostgreSQL While Developing a Rails App</title></head><body><h1><a href=/>g</a>ame, g<a href=/about.html>a</a>me. repea<a href=/tags.html>t</a>.</h1><div id=content><h2>How to Restart PostgreSQL While Developing a Rails App</h2><div id=info>Fri 13 January 2012
-<a href=https://ggr.com/tags/code.html>#Code</a></div><p><img src=https://ggr_com.s3.amazonaws.com/images/ran-out-of-connections.jpg alt=1></p><p>While developing a Rails apps using PostgreSQL (unlike MySQL) I often
-run out of db connections and see errors like</p><blockquote></blockquote><p>and when I do, my Rails app stops working. Restarting Postgres fixing
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/default.css">
+    
+    
+    <title>game, game. repeat. | How to Restart PostgreSQL While Developing a Rails App</title>
+</head>
+<body><h1><a href='/'>g</a>ame, g<a href='/about.html'>a</a>me. repea<a href='/tags.html'>t</a>.</h1>
+<div id="content">
+<h2>How to Restart PostgreSQL While Developing a Rails App</h2>
+<div id=info>
+Fri 13 January 2012
+<a href="https://ggr.com/tags/code.html">#Code</a>
+
+</div>
+<p><img src="https://ggr_com.s3.amazonaws.com/images/ran-out-of-connections.jpg" alt="1"></p>
+<p>While developing a Rails apps using PostgreSQL (unlike MySQL) I often
+run out of db connections and see errors like</p>
+<blockquote>
+<!-- raw HTML omitted --></blockquote>
+<p>and when I do, my Rails app stops working. Restarting Postgres fixing
 the problem, but it was harder to restart postgres that I expected.
-Here&rsquo;s how I do it.</p><p>To restart PostgreSQL I added a function to my ~/.bash_profile file:</p><p>After saving and restarting Terminal, running &lsquo;pgr&rsquo; will find all the
+Here&rsquo;s how I do it.</p>
+<p>To restart PostgreSQL I added a function to my ~/.bash_profile file:</p>
+<!-- raw HTML omitted -->
+<p>After saving and restarting Terminal, running &lsquo;pgr&rsquo; will find all the
 postgres process and kill them. Once launchd notices postgres is down it
 restarts it because I setup launchd to keep postgres running no matter
 what. If you don&rsquo;t have postgres setup to stay running, you would need
 to start postgres whatever way matches your setup. I tried a number of
-different solutions before I arrived at this one:</p><ol><li>running &lsquo;pg_ctl -D restart&rsquo; would cause postgres to try
-and restart, but it would timeout unsuccessful</li><li>logging out then logging back in again works (since I&rsquo;m running
+different solutions before I arrived at this one:</p>
+<ol>
+<li>running &lsquo;pg_ctl -D <!-- raw HTML omitted --> restart&rsquo; would cause postgres to try
+and restart, but it would timeout unsuccessful</li>
+<li>logging out then logging back in again works (since I&rsquo;m running
 postgres as a &lsquo;personal&rsquo; launch agent, it starts and stops with my login
-and logout) but that&rsquo;s terribly disruptive to my work</li><li>killall would kill some, but not all of the errant postgres
-processes</li></ol><p>I&rsquo;m running OSX Lion, PostgreSQL 9.1.2, Rails 3.1.3, Ruby 1.9.2-p290. I
+and logout) but that&rsquo;s terribly disruptive to my work</li>
+<li>killall would kill some, but not all of the errant postgres
+processes</li>
+</ol>
+<p>I&rsquo;m running OSX Lion, PostgreSQL 9.1.2, Rails 3.1.3, Ruby 1.9.2-p290. I
 Googled the hive-mind for a better answer, after all, when developing a
 rails app using MySQL I had no such problem. It seems others have run
 into this, but I didn&rsquo;t find a better solution. I have a nagging feeling
 there&rsquo;s some setting I could add to my database.yml file to get
 PostgreSQL to behave well in my development environment and obviate the
 need for my PostgreSQL restarting shenanigans, but I&rsquo;ve not yet
-discovered it.</p></div></body></html>
+discovered it.</p>
+
+
+        </div></body>
+</html>

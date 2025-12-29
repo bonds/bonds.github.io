@@ -1,7 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mixbook on game, game. repeat.</title><link>https://ggr.com/tags/mixbook.html</link><description>Recent content in Mixbook on game, game. repeat.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 30 Jul 2014 17:47:00 +0000</lastBuildDate><atom:link href="https://ggr.com/tags/mixbook/index.xml" rel="self" type="application/rss+xml"/><item><title>The AWSnow Story</title><link>https://ggr.com/the-awsnow-story.html</link><pubDate>Wed, 30 Jul 2014 17:47:00 +0000</pubDate><guid>https://ggr.com/the-awsnow-story.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/awsnow.jpg" alt="2">&lt;/p>
-&lt;p>A few weeks ago we moved Mixbook.com ($25M/year) off our old, bare-metal ISP and onto AWS. After months of preparation we only needed a few hours of maintenance downtime for the final step of the move, and everything before, during, and after went smoothly. That&amp;rsquo;s due (especially) to the fine work of the Mixbook DevOps Team: Robert Butler, Denis Barushev&amp;ndash;they overcame a number of interesting and unexpected obstacles along the way, all of which they are chronicling, starting with &lt;a href="https://medium.com/@devopsmix/aws-now-e17601e5424b">their first blog post&lt;/a> yesterday.&lt;/p></description></item><item><title>Montage Unleashed</title><link>https://ggr.com/montage-unleashed.html</link><pubDate>Wed, 16 Jul 2014 14:31:00 +0000</pubDate><guid>https://ggr.com/montage-unleashed.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/montage-cover.png" alt="3">&lt;/p>
-&lt;p>&lt;a href="http://www.montagebook.com/">Montage&lt;/a> is now live and its 10x easier&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->1&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->
-to make a great photo book with Montage than any other way ever&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->2&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->. If you&amp;rsquo;ve made a photo book before, you&amp;rsquo;re uniquely qualified to notice the (stark) contrast between Montage and the other photo book making web apps out there. If you&amp;rsquo;ve never made a photo book before because it looked like it was going to be a chore, you should take Montage for a spin, its super easy&amp;hellip;fun even. :)&lt;/p></description></item><item><title>Hack Nights at Mixbook</title><link>https://ggr.com/hack-nights-at-mixbook.html</link><pubDate>Thu, 01 May 2014 08:55:00 +0000</pubDate><guid>https://ggr.com/hack-nights-at-mixbook.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/hack_night.jpg" alt="4">&lt;/p>
-&lt;p>I organized my &lt;a href="http://www.meetup.com/rubymeetup/events/174037822/">first hack night&lt;/a> recently. It was a lot of fun, Dan Schultz talked about why &lt;a href="https://speakerdeck.com/danschultz/mixbook-hackathon-dart-is-awesome">Dart is awesome&lt;/a>, I met some talented engineers, and Fast Company mentioned our hack night ways in &lt;a href="http://www.fastcompany.com/3029885/why-you-should-probably-host-a-hackathon">their recent coverage of hackathons&lt;/a>.&lt;/p></description></item><item><title>Mosaic for Android</title><link>https://ggr.com/mosaic-for-android.html</link><pubDate>Wed, 04 Dec 2013 13:48:00 +0000</pubDate><guid>https://ggr.com/mosaic-for-android.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/android.jpg" alt="4">&lt;/p>
-&lt;p>We just launched the &lt;a href="https://play.google.com/store/apps/details?id=com.mixbook.mosaic">Android version&lt;/a> of &lt;a href="http://heymosaic.com/">Mosaic&lt;/a>. Its pretty much the easiest way to make an awesome photo book. Besides the &lt;a href="https://itunes.apple.com/us/app/mosaic-photo-books/id547986608?mt=8">iOS version&lt;/a>.&lt;/p></description></item><item><title>Montage Teaser</title><link>https://ggr.com/montage-teaser.html</link><pubDate>Tue, 19 Nov 2013 12:05:00 +0000</pubDate><guid>https://ggr.com/montage-teaser.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/montage2.jpg" alt="4">&lt;/p>
-&lt;p>I&amp;rsquo;m excited to &lt;a href="http://techcrunch.com/2013/11/19/mixbook-debuts-montage-a-photo-book-builder-meant-to-take-minutes-not-hours/">pull the curtain back&lt;/a> a bit on &lt;a href="http://montagebook.com/">Montage&lt;/a>. Montage is the second salvo (after &lt;a href="http://heymosaic.com/">Mosaic&lt;/a>) in our war on mediocre photo books. We spent a year crafting a simple UI that makes it easy to create fantastic looking books. It&amp;rsquo;s a lot of fun&amp;ndash;I can&amp;rsquo;t wait to show it off. You can &lt;a href="http://montagebook.com/">signup&lt;/a> for the closed beta to get an early look.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mixbook on game, game. repeat.</title>
+    <link>https://ggr.com/tags/mixbook.html</link>
+    <description>Recent content in Mixbook on game, game. repeat.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2014 17:47:00 +0000</lastBuildDate><atom:link href="https://ggr.com/tags/mixbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The AWSnow Story</title>
+      <link>https://ggr.com/the-awsnow-story.html</link>
+      <pubDate>Wed, 30 Jul 2014 17:47:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/the-awsnow-story.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/awsnow.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A few weeks ago we moved Mixbook.com ($25M/year) off our old, bare-metal ISP and onto AWS. After months of preparation we only needed a few hours of maintenance downtime for the final step of the move, and everything before, during, and after went smoothly. That&amp;rsquo;s due (especially) to the fine work of the Mixbook DevOps Team: Robert Butler, Denis Barushev&amp;ndash;they overcame a number of interesting and unexpected obstacles along the way, all of which they are chronicling, starting with &lt;a href=&#34;https://medium.com/@devopsmix/aws-now-e17601e5424b&#34;&gt;their first blog post&lt;/a&gt; yesterday.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Montage Unleashed</title>
+      <link>https://ggr.com/montage-unleashed.html</link>
+      <pubDate>Wed, 16 Jul 2014 14:31:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/montage-unleashed.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/montage-cover.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.montagebook.com/&#34;&gt;Montage&lt;/a&gt; is now live and its 10x easier&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+to make a great photo book with Montage than any other way ever&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;. If you&amp;rsquo;ve made a photo book before, you&amp;rsquo;re uniquely qualified to notice the (stark) contrast between Montage and the other photo book making web apps out there. If you&amp;rsquo;ve never made a photo book before because it looked like it was going to be a chore, you should take Montage for a spin, its super easy&amp;hellip;fun even. :)&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re a software engineer you might be interested in the HTML5 goodness: Montage was built in &lt;a href=&#34;https://en.wikipedia.org/wiki/Dart_%28programming_language%29&#34;&gt;Dart&lt;/a&gt;, its one of the first production (quality), deep+complex apps in Dart that I know of. If you&amp;rsquo;ve been wondering what Dart can do you should play with Montage. No Flash was used to build the site, I can create a Montage on my OpenBSD laptop with no propietary, binary blobs involved. It runs on mobile devices too, though it hasn&amp;rsquo;t been optimized for them yet and we assume you have a mouse, so its more of a proof of concept to play with on mobile for now. What&amp;rsquo;s amazing (to me at least) is that we spent almost no time on mobile support and its pretty close to a working mobile experience&amp;hellip;for free.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hack Nights at Mixbook</title>
+      <link>https://ggr.com/hack-nights-at-mixbook.html</link>
+      <pubDate>Thu, 01 May 2014 08:55:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/hack-nights-at-mixbook.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/hack_night.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I organized my &lt;a href=&#34;http://www.meetup.com/rubymeetup/events/174037822/&#34;&gt;first hack night&lt;/a&gt; recently. It was a lot of fun, Dan Schultz talked about why &lt;a href=&#34;https://speakerdeck.com/danschultz/mixbook-hackathon-dart-is-awesome&#34;&gt;Dart is awesome&lt;/a&gt;, I met some talented engineers, and Fast Company mentioned our hack night ways in &lt;a href=&#34;http://www.fastcompany.com/3029885/why-you-should-probably-host-a-hackathon&#34;&gt;their recent coverage of hackathons&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mosaic for Android</title>
+      <link>https://ggr.com/mosaic-for-android.html</link>
+      <pubDate>Wed, 04 Dec 2013 13:48:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/mosaic-for-android.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/android.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We just launched the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.mixbook.mosaic&#34;&gt;Android version&lt;/a&gt; of &lt;a href=&#34;http://heymosaic.com/&#34;&gt;Mosaic&lt;/a&gt;. Its pretty much the easiest way to make an awesome photo book. Besides the &lt;a href=&#34;https://itunes.apple.com/us/app/mosaic-photo-books/id547986608?mt=8&#34;&gt;iOS version&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Montage Teaser</title>
+      <link>https://ggr.com/montage-teaser.html</link>
+      <pubDate>Tue, 19 Nov 2013 12:05:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/montage-teaser.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/montage2.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m excited to &lt;a href=&#34;http://techcrunch.com/2013/11/19/mixbook-debuts-montage-a-photo-book-builder-meant-to-take-minutes-not-hours/&#34;&gt;pull the curtain back&lt;/a&gt; a bit on &lt;a href=&#34;http://montagebook.com/&#34;&gt;Montage&lt;/a&gt;. Montage is the second salvo (after &lt;a href=&#34;http://heymosaic.com/&#34;&gt;Mosaic&lt;/a&gt;) in our war on mediocre photo books. We spent a year crafting a simple UI that makes it easy to create fantastic looking books. It&amp;rsquo;s a lot of fun&amp;ndash;I can&amp;rsquo;t wait to show it off. You can &lt;a href=&#34;http://montagebook.com/&#34;&gt;signup&lt;/a&gt; for the closed beta to get an early look.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

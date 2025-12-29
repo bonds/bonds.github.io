@@ -1,34 +1,185 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Code on game, game. repeat.</title><link>https://ggr.com/tags/code.html</link><description>Recent content in Code on game, game. repeat.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 06 Aug 2022 04:50:57 -0700</lastBuildDate><atom:link href="https://ggr.com/tags/code/index.xml" rel="self" type="application/rss+xml"/><item><title>Nix As An Installer</title><link>https://ggr.com/nix-as-an-installer.html</link><pubDate>Sat, 06 Aug 2022 04:50:57 -0700</pubDate><guid>https://ggr.com/nix-as-an-installer.html</guid><description>&lt;p>Been using Homebrew forever and its awesome. Google should
-totally &lt;a href="https://news.ycombinator.com/item?id=9695102">give him a job&lt;/a>. Recently I thought I&amp;rsquo;d see what the
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on game, game. repeat.</title>
+    <link>https://ggr.com/tags/code.html</link>
+    <description>Recent content in Code on game, game. repeat.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 04:50:57 -0700</lastBuildDate><atom:link href="https://ggr.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nix As An Installer</title>
+      <link>https://ggr.com/nix-as-an-installer.html</link>
+      <pubDate>Sat, 06 Aug 2022 04:50:57 -0700</pubDate>
+      
+      <guid>https://ggr.com/nix-as-an-installer.html</guid>
+      <description>&lt;p&gt;Been using Homebrew forever and its awesome. Google should
+totally &lt;a href=&#34;https://news.ycombinator.com/item?id=9695102&#34;&gt;give him a job&lt;/a&gt;. Recently I thought I&amp;rsquo;d see what the
 fuss over Nix is all about though. My needs are simple: I want
 to install and uninstall software on my Mac. It would be
 nice to have a list of apps I use that I can check into git
-if I feel like it, but that&amp;rsquo;s just a nice-to-have.&lt;/p>
-&lt;p>First I tried out vanilla nix (the package manager, not the OS), then
-home-manager, then home-manager with flakes. I landed on &lt;a href="https://nixos.org/download.html">nix&lt;/a> plus
-&lt;a href="https://nixos.wiki/wiki/Flakes#Non-NixOS">flakes&lt;/a>, no home-manager, plus some &lt;a href="https://gist.github.com/bonds/1cb0ae202dbe409aebb81b1f1feacbc4">wrapper scripts&lt;/a> to make it
-stupid easy to use&amp;hellip;I don&amp;rsquo;t need all the knobs.&lt;/p></description></item><item><title>My First Idris Program</title><link>https://ggr.com/my-first-idris-program.html</link><pubDate>Tue, 15 Aug 2017 19:05:00 +0000</pubDate><guid>https://ggr.com/my-first-idris-program.html</guid><description>&lt;p>&lt;a href="http://www.idris-lang.org/">Idris&lt;/a> is sort of &amp;lsquo;Haskell 2.0&amp;rsquo;, where the authors got to apply the lessons
+if I feel like it, but that&amp;rsquo;s just a nice-to-have.&lt;/p&gt;
+&lt;p&gt;First I tried out vanilla nix (the package manager, not the OS), then
+home-manager, then home-manager with flakes. I landed on &lt;a href=&#34;https://nixos.org/download.html&#34;&gt;nix&lt;/a&gt; plus
+&lt;a href=&#34;https://nixos.wiki/wiki/Flakes#Non-NixOS&#34;&gt;flakes&lt;/a&gt;, no home-manager, plus some &lt;a href=&#34;https://gist.github.com/bonds/1cb0ae202dbe409aebb81b1f1feacbc4&#34;&gt;wrapper scripts&lt;/a&gt; to make it
+stupid easy to use&amp;hellip;I don&amp;rsquo;t need all the knobs.&lt;/p&gt;
+&lt;p&gt;Now I&amp;rsquo;ve got &lt;code&gt;nin &amp;lt;package&amp;gt;&lt;/code&gt; for installing software. It accepts
+packages in the format &lt;code&gt;mpv&lt;/code&gt; or &lt;code&gt;bobhope/mpv&lt;/code&gt;
+or &lt;code&gt;github:bobhope/mpv&lt;/code&gt;. Or if I type &lt;code&gt;nin&lt;/code&gt; alone it installs
+all the packages I&amp;rsquo;ve got listed in ~/.config/nix/nin.conf.&lt;/p&gt;
+&lt;p&gt;Then there&amp;rsquo;s &lt;code&gt;nun &amp;lt;package&amp;gt;&lt;/code&gt; for removing packages. And finally
+&lt;code&gt;nup&lt;/code&gt; to upgrade all the installed packages. Whenever I add or
+remove a package, my config gets updated to reflect that, so I can
+check my config aka my list of apps into source control if I want.&lt;/p&gt;
+&lt;p&gt;So far, so good. It&amp;rsquo;s pretty fast and install, uninstall, and upgrades
+are all super easy.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://asciinema.org/a/kMBq2hKxWtwDqMVb68w5dPtp5&#34;&gt;&lt;img src=&#34;https://asciinema.org/a/kMBq2hKxWtwDqMVb68w5dPtp5.svg&#34; alt=&#34;asciicast&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My First Idris Program</title>
+      <link>https://ggr.com/my-first-idris-program.html</link>
+      <pubDate>Tue, 15 Aug 2017 19:05:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/my-first-idris-program.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.idris-lang.org/&#34;&gt;Idris&lt;/a&gt; is sort of &amp;lsquo;Haskell 2.0&amp;rsquo;, where the authors got to apply the lessons
 learned from the creation and evolution of Haskell, but leave behind all the
 baggage embedded in existing, in use libraries, since, you know, they don&amp;rsquo;t have
-any of those yet. With the recent release of &lt;a href="https://www.manning.com/books/type-driven-development-with-idris">the book&lt;/a> I was inspired to
-take Idris for a spin and see for myself just how lacking of &lt;a href="https://web.archive.org/web/20170401163646/https://www.idris-lang.org/idris-1-0-released/">&amp;lsquo;production
-readiness&amp;rsquo;&lt;/a> it is.&lt;/p></description></item><item><title>How to GPS on OpenBSD</title><link>https://ggr.com/how-to-gps-on-openbsd.html</link><pubDate>Fri, 11 Aug 2017 15:35:00 +0000</pubDate><guid>https://ggr.com/how-to-gps-on-openbsd.html</guid><description>&lt;p>I&amp;rsquo;ve heard tell that the WWAN module lodged inside my laptop can give me my
+any of those yet. With the recent release of &lt;a href=&#34;https://www.manning.com/books/type-driven-development-with-idris&#34;&gt;the book&lt;/a&gt; I was inspired to
+take Idris for a spin and see for myself just how lacking of &lt;a href=&#34;https://web.archive.org/web/20170401163646/https://www.idris-lang.org/idris-1-0-released/&#34;&gt;&amp;lsquo;production
+readiness&amp;rsquo;&lt;/a&gt; it is.&lt;/p&gt;
+&lt;p&gt;One of my favorite ways to try a new language is to use it for scripting. I
+write and run small scripts a lot, and the combination of the scripts being
+small+simple and part of my day-to-day make them a great tool for learning in
+bite-sized increments all the time. Before I know it, I&amp;rsquo;ve got the hang of the
+new language&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Alright, enough talk, here&amp;rsquo;s my first Idris program&amp;ndash;it&amp;rsquo;s a script for searching
+for an OpenBSD package by name:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#!/usr/bin/env runidris
+-- vim:ft=idris:
+
+import System
+
+partial
+main : IO ()
+main = do
+    args &amp;lt;- getArgs
+    case args of
+        (_::terms) =&amp;gt; do
+            let query = unwords terms
+            ec &amp;lt;- system $
+                    &amp;#34;/usr/local/bin/sqlite3 /usr/local/share/sqlports &amp;#34;
+                  ++ &amp;#34;\&amp;#34;SELECT DISTINCT pkgname || &amp;#39;: &amp;#39; || comment AS result &amp;#34;
+                  ++ &amp;#34;FROM ports &amp;#34;
+                  ++ &amp;#34;WHERE pkgname LIKE &amp;#39;%&amp;#34; ++ query ++ &amp;#34;%&amp;#39; &amp;#34;
+                  ++ &amp;#34;OR comment LIKE &amp;#39;%&amp;#34; ++ query ++ &amp;#34;%&amp;#39; &amp;#34;
+                  ++ &amp;#34;ORDER BY 1\&amp;#34;&amp;#34;
+                  ++ &amp;#34; | ag -i \&amp;#34;&amp;#34; ++ query ++ &amp;#34;\&amp;#34;&amp;#34;
+            pure ()
+        _ =&amp;gt; pure ()
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;code&gt;runidris&lt;/code&gt; is a recent addition to Idris, not yet tauted, and not yet
+installed for you, but you can find it in the &lt;a href=&#34;https://github.com/idris-lang/Idris-dev/blob/master/scripts/runidris&#34;&gt;scripts&lt;/a&gt; directory if you
+install Idris from source. You&amp;rsquo;ll need to move it to a directory on your PATH
+and then you&amp;rsquo;re ready to go. If you use Vim+&lt;a href=&#34;https://github.com/w0rp/ale&#34;&gt;Ale&lt;/a&gt; as your editor and linter
+combo, there&amp;rsquo;s some basic support for flagging errors inline&amp;hellip;doesn&amp;rsquo;t work
+perfectly yet, but its a start.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated on March 30, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Fixed/updated link to Idris 1.0 release announcement, which is now only available
+via the Internet Archive.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to GPS on OpenBSD</title>
+      <link>https://ggr.com/how-to-gps-on-openbsd.html</link>
+      <pubDate>Fri, 11 Aug 2017 15:35:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-gps-on-openbsd.html</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve heard tell that the WWAN module lodged inside my laptop can give me my
 coordinates on planet Earth. I thought I&amp;rsquo;d see if it was true. Fortunately, a
-number of brave souls have blazed the path, I needed only to rediscover it.&lt;/p>
-&lt;h3 id="funny-side-note">Funny side note&lt;/h3>
-&lt;p>Did you know that your super modern WWAN module uses 1980s-era modem commands to
-control it? You know, AT&amp;hellip;OK, blah blah blah. Who knew, right?&lt;/p></description></item><item><title>Winot and My OpenBSD Wifi Adventures</title><link>https://ggr.com/winot-and-my-openbsd-wifi-adventures.html</link><pubDate>Tue, 01 Mar 2016 18:40:00 +0000</pubDate><guid>https://ggr.com/winot-and-my-openbsd-wifi-adventures.html</guid><description>&lt;p>I run OpenBSD on my main laptop. OpenBSD doesn&amp;rsquo;t come with a Gnome-like Network
+number of brave souls have blazed the path, I needed only to rediscover it.&lt;/p&gt;
+&lt;h3 id=&#34;funny-side-note&#34;&gt;Funny side note&lt;/h3&gt;
+&lt;p&gt;Did you know that your super modern WWAN module uses 1980s-era modem commands to
+control it? You know, AT&amp;hellip;OK, blah blah blah. Who knew, right?&lt;/p&gt;
+&lt;h3 id=&#34;lets-do-this&#34;&gt;Let&amp;rsquo;s do this&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Buy and install an Ericsson H5321 WWAN module in your Lenovo X200 running
+coreboot. The X200 and coreboot part isn&amp;rsquo;t strictly necessary, but neither is
+OpenBSD nor life, yet all of the above are a good idea.&lt;/li&gt;
+&lt;li&gt;# pkg_add gpsd gpsd-X11 socat jq&lt;/li&gt;
+&lt;li&gt;Download and run &lt;a href=&#34;https://gist.github.com/bonds/dbeeea001e72da1cae084585ac1deaae&#34;&gt;gps_on&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Download and run &lt;a href=&#34;https://gist.github.com/bonds/b6fc2e4381b555df7d2d0bf0d3805664&#34;&gt;gps_location&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Wait 10 minutes while the WWAN module ponders life and acquires a GPS lock.
+YMMV&amp;hellip;it may take infinity minutes, depending on how your WWAN module and
+the GPS satellites feel that day. But that&amp;rsquo;s ok because the X200 is a
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Hypercomputation&#34;&gt;hypercomputer&lt;/a&gt;, so it will go by fast.&lt;/li&gt;
+&lt;li&gt;Bask in the glory of your location.&lt;/li&gt;
+&lt;li&gt;Donate &lt;a href=&#34;https://www.patreon.com/esr&#34;&gt;$1 to GPSD&lt;/a&gt; and &lt;a href=&#34;http://www.openbsdfoundation.org/donations.html&#34;&gt;$1 to OpenBSD&lt;/a&gt;. It&amp;rsquo;s a good habit to get into
+after you bask in glory.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Winot and My OpenBSD Wifi Adventures</title>
+      <link>https://ggr.com/winot-and-my-openbsd-wifi-adventures.html</link>
+      <pubDate>Tue, 01 Mar 2016 18:40:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/winot-and-my-openbsd-wifi-adventures.html</guid>
+      <description>&lt;p&gt;I run OpenBSD on my main laptop. OpenBSD doesn&amp;rsquo;t come with a Gnome-like Network
 Manager&amp;hellip;you are on your own to keep your laptop connected to the wifi network,
 to manage your wifi passwords, etc. The OS makes it easy to connect to the
 wireless network to be sure&amp;hellip;it just doesn&amp;rsquo;t automate away connecting to a
-different network at work and home and such.&lt;/p>
-&lt;p>So I thought, I&amp;rsquo;ll see if anyone has written a tool, and lo and behold,
-&lt;a href="https://github.com/devious/wiconfig">wiconfig&lt;/a> is a great start, written in Bourne Shell, so it has no
+different network at work and home and such.&lt;/p&gt;
+&lt;p&gt;So I thought, I&amp;rsquo;ll see if anyone has written a tool, and lo and behold,
+&lt;a href=&#34;https://github.com/devious/wiconfig&#34;&gt;wiconfig&lt;/a&gt; is a great start, written in Bourne Shell, so it has no
 requirements besides OpenBSD itself. I used wiconfig for a while and was happy
-with it.&lt;/p></description></item><item><title>How To Get Vim, Syntastic, Hdevtools, and Stack To Play Nice</title><link>https://ggr.com/how-to-get-vim-syntastic-hdevtools-and-stack-to-play-nice.html</link><pubDate>Tue, 09 Feb 2016 16:51:00 +0000</pubDate><guid>https://ggr.com/how-to-get-vim-syntastic-hdevtools-and-stack-to-play-nice.html</guid><description>&lt;p>I was poking around some old Haskell code the other day, when I realized that,
+with it.&lt;/p&gt;
+&lt;p&gt;But then I got to thinking, that I&amp;rsquo;d like to not only stay connected to wifi,
+but also to VPN at all times, so that when on a wifi network, my traffic will be
+routed through my VPN and be protected from the local snoops. I also wanted to
+fallback to my cellular wwan connection when a familiar wifi was unavailable.
+Thus &lt;a href=&#34;https://github.com/bonds/winot&#34;&gt;winot&lt;/a&gt; was born. It started life in Ruby and did all the things I
+needed, but it was plagued by dropped connections that it couldn&amp;rsquo;t recover from.
+Well, plagued may be an exaggeration&amp;ndash;a couple times a day I had to manually
+intervene&amp;hellip;but for a tool like this it should be 0 times a day! I added more
+logging and slowly worked through the edge cases including: wake from sleep, a
+weak (but still connected) wifi signal, etc.&lt;/p&gt;
+&lt;p&gt;In the middle of this, I upgraded to a new release of OpenBSD. I always install
+from scratch and use Ansible to setup my machine again, to avoid any unintended
+cruft from my previous install. But this time, getting Ruby up and running again
+proved more difficult than expected, and it got me thinking, maybe I should
+switch to Bourne Shell. I had hitherto avoided doing much shell scripting in
+Bourne, but I figured it would be a good excuse to learn it, and the stuff winot
+does shouldn&amp;rsquo;t be too hard to implement as a shell script.&lt;/p&gt;
+&lt;p&gt;So winot became Bourne Shell based, and that brings the story up to the present
+day. Winot works pretty well, but there are a few challenges with it. I need to
+add more logging to troubleshoot the existing issues. The CPU usage is way too
+high. And there are, once again, conditions where it gets stuck I need to
+manually intervene to get connected again.&lt;/p&gt;
+&lt;p&gt;Who knew staying connected to the wifi at home and work, always routing over an
+SSH based VPN, falling back to WWAN when the VPN is down, all automagically,
+would be so tricky? :)&lt;/p&gt;
+&lt;p&gt;So now I&amp;rsquo;m using this an excuse to learn (more) Haskell&amp;hellip;all the locking,
+reading files, awking, seding, tailing, cutting, and forking is probably much
+less efficient than it needs to be, and a library that will help me with logging
+levels and such would be really nice. Less portable to be sure, but I want to
+learn Haskell and I&amp;rsquo;ve got only so much time available for my coding side
+projects!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Get Vim, Syntastic, Hdevtools, and Stack To Play Nice</title>
+      <link>https://ggr.com/how-to-get-vim-syntastic-hdevtools-and-stack-to-play-nice.html</link>
+      <pubDate>Tue, 09 Feb 2016 16:51:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-get-vim-syntastic-hdevtools-and-stack-to-play-nice.html</guid>
+      <description>&lt;p&gt;I was poking around some old Haskell code the other day, when I realized that,
 since switching to Vim (from Atom) I hadn&amp;rsquo;t setup the necessary plugins in Vim
-to get syntax checking and such for Haskell.&lt;/p>
-&lt;p>Seeing as Stack is the new Haskell installer hotness, I installed it and used it
+to get syntax checking and such for Haskell.&lt;/p&gt;
+&lt;p&gt;Seeing as Stack is the new Haskell installer hotness, I installed it and used it
 to install a bunch of &amp;lsquo;global&amp;rsquo; packages for use with my runghc based scripts. I
 installed ghc-mod and hlint, but I didn&amp;rsquo;t see any error messages when I messed
 up the syntax of my Haskell code. A bit of investigation revealed that Syntactic
@@ -36,107 +187,392 @@ dropped support for ghc-mod, but that hdevtools was supported. I installed that,
 loaded my Haskell code into Vim, and this time I got errors about missing
 libraries. I realized hdevtools was looking for the libraries in the system GHC
 instead of using my global Stack based libraries. To get it to use the global
-stack libraries instead I:&lt;/p></description></item><item><title>Natural: a ruby gem for natural language search</title><link>https://ggr.com/natural-a-ruby-gem-for-natural-language-search.html</link><pubDate>Fri, 09 Mar 2012 10:59:00 +0000</pubDate><guid>https://ggr.com/natural-a-ruby-gem-for-natural-language-search.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/natural_on_github.png" alt="6">&lt;/p>
-&lt;p>When I started work on &lt;a href="http://dishfu.com">DishFu.com&lt;/a> (one of my code playgrounds&amp;hellip;its
+stack libraries instead I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;created /home/scott/bin/hdevtools-stack which is a script that boils down to: &amp;ldquo;stack exec hdevtools &amp;ndash; $@&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;added &amp;ldquo;let g:syntastic_haskell_hdevtools_exec = &amp;lsquo;/home/scott/bin/hdevtools-stack&amp;rsquo;&amp;rdquo; to my vimrc&lt;/li&gt;
+&lt;li&gt;pkill hdevtools&lt;/li&gt;
+&lt;li&gt;launch Vim and load my Haskell code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Voila, it works.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Updated on February 12, 2016:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I decided to remove the vimrc syntastic config line and instead I wrote a
+hdevtools script and made sure its higher priority in my PATH. This works for
+ghc-mod, which, in combination with ghcmod-vim, makes it so I can do fancy stuff
+like get the type of whatever my cursor is over. I&amp;rsquo;m using the &amp;ndash;verbosity
+silent option so my ghc-mod script works ok, with no stack warning to cause
+problems for ghcmod-vim (without &amp;ndash;silent ghcmod-vim chokes on the stack-ified
+ghc-mod script I wrote). Here&amp;rsquo;s my ghc-mod script (/home/scott/bin/ghc-mod):&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#!/bin/sh
+stack --verbosity silent exec ghc-mod -- $@
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Natural: a ruby gem for natural language search</title>
+      <link>https://ggr.com/natural-a-ruby-gem-for-natural-language-search.html</link>
+      <pubDate>Fri, 09 Mar 2012 10:59:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/natural-a-ruby-gem-for-natural-language-search.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/natural_on_github.png&#34; alt=&#34;6&#34;&gt;&lt;/p&gt;
+&lt;p&gt;When I started work on &lt;a href=&#34;http://dishfu.com&#34;&gt;DishFu.com&lt;/a&gt; (one of my code playgrounds&amp;hellip;its
 something like Yelp) a couple years ago I wanted to support natural
 language search so that, instead of clicking lots of checkboxes to
 search for the best burrito in my zip code, I could just ask &amp;ldquo;what is
 the best burrito near me&amp;rdquo; and get the answer. At the time (and even now)
 I didn&amp;rsquo;t find a ruby library that made this easy to do, so I thought I&amp;rsquo;d
-take a stab at it.&lt;/p></description></item><item><title>How to Restart PostgreSQL While Developing a Rails App</title><link>https://ggr.com/how-to-restart-postgresql-while-developing-a-rails-app.html</link><pubDate>Fri, 13 Jan 2012 11:24:00 +0000</pubDate><guid>https://ggr.com/how-to-restart-postgresql-while-developing-a-rails-app.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/ran-out-of-connections.jpg" alt="1">&lt;/p>
-&lt;p>While developing a Rails apps using PostgreSQL (unlike MySQL) I often
-run out of db connections and see errors like&lt;/p>
-&lt;blockquote>
-&lt;!-- raw HTML omitted -->
-&lt;/blockquote>
-&lt;p>and when I do, my Rails app stops working. Restarting Postgres fixing
+take a stab at it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bonds/natural&#34;&gt;Natural&lt;/a&gt; is the result of the aforementioned stab and its available
+on github. Checkout &lt;a href=&#34;http://flexibits.com/&#34;&gt;Fantastical&lt;/a&gt; and &lt;a href=&#34;http://www.apple.com/iphone/features/siri.html&#34;&gt;Siri&lt;/a&gt; for inspiration and
+two good examples of why natural language search is neat and how it
+enhances usability. Natural works by parsing the input text, looking for
+every possible match in its vocabulary, scoring all the possible
+combinations of matches, and choosing the highest scoring combination.
+One can achieve a similar effect (and faster) by enumerating a bunch of
+regular expressions and trying to match against the most complicated
+regular expression first and working your way down until you find a
+match, but I wanted a library that could also glean partial meanings and
+choose between different potential matches in a more flexible way.
+&lt;a href=&#34;https://github.com/bonds/natural/issues&#34;&gt;Suggestions&lt;/a&gt; and pull requests welcome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Restart PostgreSQL While Developing a Rails App</title>
+      <link>https://ggr.com/how-to-restart-postgresql-while-developing-a-rails-app.html</link>
+      <pubDate>Fri, 13 Jan 2012 11:24:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-restart-postgresql-while-developing-a-rails-app.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/ran-out-of-connections.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;While developing a Rails apps using PostgreSQL (unlike MySQL) I often
+run out of db connections and see errors like&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/blockquote&gt;
+&lt;p&gt;and when I do, my Rails app stops working. Restarting Postgres fixing
 the problem, but it was harder to restart postgres that I expected.
-Here&amp;rsquo;s how I do it.&lt;/p>
-&lt;p>To restart PostgreSQL I added a function to my ~/.bash_profile file:&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>After saving and restarting Terminal, running &amp;lsquo;pgr&amp;rsquo; will find all the
+Here&amp;rsquo;s how I do it.&lt;/p&gt;
+&lt;p&gt;To restart PostgreSQL I added a function to my ~/.bash_profile file:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;After saving and restarting Terminal, running &amp;lsquo;pgr&amp;rsquo; will find all the
 postgres process and kill them. Once launchd notices postgres is down it
 restarts it because I setup launchd to keep postgres running no matter
 what. If you don&amp;rsquo;t have postgres setup to stay running, you would need
 to start postgres whatever way matches your setup. I tried a number of
-different solutions before I arrived at this one:&lt;/p></description></item><item><title>How to Automatically Connect and Stay Connected to a Network Drive on OS X</title><link>https://ggr.com/how-to-automatically-connect-and-stay-connected-to-a-network-drive-on-os-x.html</link><pubDate>Tue, 13 Sep 2011 18:39:00 +0000</pubDate><guid>https://ggr.com/how-to-automatically-connect-and-stay-connected-to-a-network-drive-on-os-x.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/automount_screenshot.jpg" alt="8">&lt;/p>
-&lt;p>I keep my music and my photos on a server at home. Whenever I&amp;rsquo;m home I
+different solutions before I arrived at this one:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;running &amp;lsquo;pg_ctl -D &lt;!-- raw HTML omitted --&gt; restart&amp;rsquo; would cause postgres to try
+and restart, but it would timeout unsuccessful&lt;/li&gt;
+&lt;li&gt;logging out then logging back in again works (since I&amp;rsquo;m running
+postgres as a &amp;lsquo;personal&amp;rsquo; launch agent, it starts and stops with my login
+and logout) but that&amp;rsquo;s terribly disruptive to my work&lt;/li&gt;
+&lt;li&gt;killall would kill some, but not all of the errant postgres
+processes&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I&amp;rsquo;m running OSX Lion, PostgreSQL 9.1.2, Rails 3.1.3, Ruby 1.9.2-p290. I
+Googled the hive-mind for a better answer, after all, when developing a
+rails app using MySQL I had no such problem. It seems others have run
+into this, but I didn&amp;rsquo;t find a better solution. I have a nagging feeling
+there&amp;rsquo;s some setting I could add to my database.yml file to get
+PostgreSQL to behave well in my development environment and obviate the
+need for my PostgreSQL restarting shenanigans, but I&amp;rsquo;ve not yet
+discovered it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Automatically Connect and Stay Connected to a Network Drive on OS X</title>
+      <link>https://ggr.com/how-to-automatically-connect-and-stay-connected-to-a-network-drive-on-os-x.html</link>
+      <pubDate>Tue, 13 Sep 2011 18:39:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-automatically-connect-and-stay-connected-to-a-network-drive-on-os-x.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/automount_screenshot.jpg&#34; alt=&#34;8&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I keep my music and my photos on a server at home. Whenever I&amp;rsquo;m home I
 want all of my shares to be accessible automatically so I can launch
 iTunes and iPhoto without needing to do anything first (i.e. I don&amp;rsquo;t
 want to click anything to mount the drives before I start listening to
-&lt;a href="http://www.amazon.com/Adagio-For-Tron/dp/B004EIAPXQ/ref=sr_1_1?ie=UTF8&amp;amp;qid=1315965192&amp;amp;sr=8-1">Adagio for Tron&lt;/a>). Here&amp;rsquo;s how I pulled it off.&lt;/p>
-&lt;p>The short version: I run a script that checks whether any mounts are
-missing and if possible it restores them. Here&amp;rsquo;s the script:&lt;/p></description></item><item><title>How To Post Your Dynamic Internal IP To DynDNS From Your Windows Machine</title><link>https://ggr.com/how-to-post-your-dynamic-internal-ip-to-dyndns-from-your-windows-machine.html</link><pubDate>Fri, 09 Oct 2009 12:37:00 +0000</pubDate><guid>https://ggr.com/how-to-post-your-dynamic-internal-ip-to-dyndns-from-your-windows-machine.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/UpdateIP.bat-screenshot.jpg" alt="2">&lt;/p>
-&lt;p>I looked around for an easier way to post an &lt;strong>internal&lt;/strong> IP to DynDNS,
-but I didn&amp;rsquo;t find one. Scripting to the rescue.&lt;/p>
-&lt;p>If you have a paid account at DynDNS (may work for free ones too, I&amp;rsquo;m
-not sure), you can update a DNS entry by hitting a URL like this:&lt;/p>
-&lt;blockquote>
-&lt;!-- raw HTML omitted -->
-&lt;/blockquote>
-&lt;p>So, to update your DNS entry, you just need to &lt;a href="https://ggr.com/how-to-get-your-ip-and-only-your-ip-in-windows.html">get your IP alone in a
-variable&lt;/a> that a batch file can use, then setup a task to request
-that URL every so often. In more detail, the steps are:&lt;/p></description></item><item><title>How To Get Your IP and ONLY Your IP in Windows</title><link>https://ggr.com/how-to-get-your-ip-and-only-your-ip-in-windows.html</link><pubDate>Fri, 09 Oct 2009 12:30:00 +0000</pubDate><guid>https://ggr.com/how-to-get-your-ip-and-only-your-ip-in-windows.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/getIP.bat-screenshot.jpg" alt="3">&lt;/p>
-&lt;p>Sometimes you need to know your Windows machine&amp;rsquo;s IP. For example, if
-you would like to &lt;a href="https://ggr.com/how-to-post-your-dynamic-internal-ip-to-dyndns-from-your-windows-machine.html">update your dynamic DNS entry from a script&lt;/a> file.
-Here&amp;rsquo;s a hack that gets the job done.&lt;/p>
-&lt;p>This is from &lt;a href="http://www.ericphelps.com/batch/samples/ip.txt">someone good with windows scripts&lt;/a>, updated with some
+&lt;a href=&#34;http://www.amazon.com/Adagio-For-Tron/dp/B004EIAPXQ/ref=sr_1_1?ie=UTF8&amp;amp;qid=1315965192&amp;amp;sr=8-1&#34;&gt;Adagio for Tron&lt;/a&gt;). Here&amp;rsquo;s how I pulled it off.&lt;/p&gt;
+&lt;p&gt;The short version: I run a script that checks whether any mounts are
+missing and if possible it restores them. Here&amp;rsquo;s the script:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I run it once a minute using &lt;a href=&#34;http://en.wikipedia.org/wiki/Launchd&#34;&gt;launchd&lt;/a&gt; for which there&amp;rsquo;s a &lt;a href=&#34;http://itunes.apple.com/se/app/lingon-3/id450201424?ls=1&amp;amp;mt=12&#34; title=&#34;Lingon in the App Store&#34;&gt;good
+GUI&lt;/a&gt;; and here&amp;rsquo;s&lt;a href=&#34;http://stackoverflow.com/questions/2398722/script-executes-successfully-in-commandline-but-not-as-a-cronjob&#34;&gt; a tip in case you&amp;rsquo;re using RVM&lt;/a&gt;. If you want to
+try this at home, you&amp;rsquo;ll also need to install the gems &amp;lsquo;required&amp;rsquo; at the
+top of the script. There are a number of other ways to achieve a similar
+effect, but I had trouble getting them to work:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ehow.com/how_4549984_mount-remote-volume-startup-mac.html&#34;&gt;Mount a share at login&lt;/a&gt;. Judging by the number of discussions
+that reference this technique (and its cousins) it would seem popular,
+but it didn&amp;rsquo;t quite do what I wanted&amp;ndash;each time my machine woke up from
+sleep or my wifi connection was interrupted, I&amp;rsquo;d lose my mounts and
+would need to manually remount them (or logout and login again).&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;. This sure looked promising, but
+I found it to be unreliable in practice. Sometimes my mount would be
+there, sometimes it would not, sometimes it was there but no files
+appeared when I browsed&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Detect when I connect to my home network, run a mounting script then
+(using &lt;a href=&#34;http://oomphalot.com/sidekick/&#34;&gt;SideKick&lt;/a&gt;). This solution got a bit closer&amp;ndash;it reconnects my
+shares after I wake from sleep or my network connection was otherwise
+interrupted, but a loss of connection to my file server was not always
+proceeded by a loss of connection to the network, so there were plenty
+of times when I was still forced to manually connect to my drives.&lt;/li&gt;
+&lt;li&gt;Use an app that does what my script does: detect when my file server
+is accessible and restore the connections to it as needed.
+&lt;a href=&#34;http://bonjourmounter.gestosoft.com/en/&#34;&gt;BonjourMounter&lt;/a&gt; does just that, but I found it to be unreliable on
+Lion. A Lion compatible version is in the works, but after waiting a
+couple months, I decided to take matters into my own hands.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;That&amp;rsquo;s all folks, thanks for stopping by!&lt;/p&gt;
+&lt;p&gt;**Updated on September 23, 2011: **&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m finding Bonjour to be a bit flaky&amp;hellip;there are plenty of
+times I can ping and mount my NAS, but it won&amp;rsquo;t show up in a Bonjour search.
+In light of that, I changed file_server_online() to use ping:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Post Your Dynamic Internal IP To DynDNS From Your Windows Machine</title>
+      <link>https://ggr.com/how-to-post-your-dynamic-internal-ip-to-dyndns-from-your-windows-machine.html</link>
+      <pubDate>Fri, 09 Oct 2009 12:37:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-post-your-dynamic-internal-ip-to-dyndns-from-your-windows-machine.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/UpdateIP.bat-screenshot.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I looked around for an easier way to post an &lt;strong&gt;internal&lt;/strong&gt; IP to DynDNS,
+but I didn&amp;rsquo;t find one. Scripting to the rescue.&lt;/p&gt;
+&lt;p&gt;If you have a paid account at DynDNS (may work for free ones too, I&amp;rsquo;m
+not sure), you can update a DNS entry by hitting a URL like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/blockquote&gt;
+&lt;p&gt;So, to update your DNS entry, you just need to &lt;a href=&#34;https://ggr.com/how-to-get-your-ip-and-only-your-ip-in-windows.html&#34;&gt;get your IP alone in a
+variable&lt;/a&gt; that a batch file can use, then setup a task to request
+that URL every so often. In more detail, the steps are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Cygwin including the &amp;lsquo;curl&amp;rsquo; package. Curl allows you to make
+web requests from the command line.&lt;/li&gt;
+&lt;li&gt;Create a batch file that gets your IP then makes the DynDNS update
+request (see below).&lt;/li&gt;
+&lt;li&gt;Create a new scheduled task through the Windows Control Panel: setup
+multiple schedules so it runs the batch file you created in step #2 at
+startup, login, and when the machine is idle 60 minutes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The batch file is like so, be sure to update the curl location, DynDNS
+login, password, and hostname info before you use it:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Get Your IP and ONLY Your IP in Windows</title>
+      <link>https://ggr.com/how-to-get-your-ip-and-only-your-ip-in-windows.html</link>
+      <pubDate>Fri, 09 Oct 2009 12:30:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-get-your-ip-and-only-your-ip-in-windows.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/getIP.bat-screenshot.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sometimes you need to know your Windows machine&amp;rsquo;s IP. For example, if
+you would like to &lt;a href=&#34;https://ggr.com/how-to-post-your-dynamic-internal-ip-to-dyndns-from-your-windows-machine.html&#34;&gt;update your dynamic DNS entry from a script&lt;/a&gt; file.
+Here&amp;rsquo;s a hack that gets the job done.&lt;/p&gt;
+&lt;p&gt;This is from &lt;a href=&#34;http://www.ericphelps.com/batch/samples/ip.txt&#34;&gt;someone good with windows scripts&lt;/a&gt;, updated with some
 extra &amp;lsquo;shifts&amp;rsquo; to get it to work under XP. Check out the link for an
-explanation. Save this in a batch file, I call mine &amp;lsquo;GetIP.bat&amp;rsquo;:&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted --></description></item><item><title>How To Scan For Viruses in Your Email When Using Apple Mail</title><link>https://ggr.com/how-to-scan-for-viruses-in-your-email-when-using-apple-mail.html</link><pubDate>Wed, 16 Sep 2009 14:10:00 +0000</pubDate><guid>https://ggr.com/how-to-scan-for-viruses-in-your-email-when-using-apple-mail.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/apple-mail-antivirus-rule.jpg" alt="9">&lt;/p>
-&lt;p>There&amp;rsquo;s more than way to go about it, but I prefer using the open source
-ClamAV and a script that runs to scan each email as it comes in.&lt;/p>
-&lt;p>&lt;strong>Setup ClamAV&lt;/strong>&lt;/p>
-&lt;ol>
-&lt;li>Install &lt;a href="http://www.clamav.net/">ClamAV&lt;/a>. I used &lt;a href="http://www.macports.org/">MacPorts&lt;/a> to install it:
-&lt;code>sudo port install clamav&lt;/code>&lt;/li>
-&lt;li>Make sure all the ClamAV binaries are in your PATH. Chances are
-if you&amp;rsquo;re using MacPorts, you&amp;rsquo;ve already taken care of that.&lt;/li>
-&lt;li>Configure freshclam and clamd. Since I used MacPorts to install
-ClamAV, this consisted of&amp;hellip;&lt;/li>
-&lt;li>rename the example conf files in /opt/local/etc: &lt;code>mv example-freshclam.conf freshclam.conf;&lt;/code> &lt;code>mv example-clamd.conf clamd.conf&lt;/code>&lt;/li>
-&lt;li>read the conf files and edit them as appropriate, then add the line
-&lt;code>NotifyClamd /opt/local/etc/clamd.conf (&lt;/code>substituting the full path to
+explanation. Save this in a batch file, I call mine &amp;lsquo;GetIP.bat&amp;rsquo;:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Scan For Viruses in Your Email When Using Apple Mail</title>
+      <link>https://ggr.com/how-to-scan-for-viruses-in-your-email-when-using-apple-mail.html</link>
+      <pubDate>Wed, 16 Sep 2009 14:10:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-scan-for-viruses-in-your-email-when-using-apple-mail.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/apple-mail-antivirus-rule.jpg&#34; alt=&#34;9&#34;&gt;&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s more than way to go about it, but I prefer using the open source
+ClamAV and a script that runs to scan each email as it comes in.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Setup ClamAV&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Install &lt;a href=&#34;http://www.clamav.net/&#34;&gt;ClamAV&lt;/a&gt;. I used &lt;a href=&#34;http://www.macports.org/&#34;&gt;MacPorts&lt;/a&gt; to install it:
+&lt;code&gt;sudo port install clamav&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Make sure all the ClamAV binaries are in your PATH. Chances are
+if you&amp;rsquo;re using MacPorts, you&amp;rsquo;ve already taken care of that.&lt;/li&gt;
+&lt;li&gt;Configure freshclam and clamd. Since I used MacPorts to install
+ClamAV, this consisted of&amp;hellip;&lt;/li&gt;
+&lt;li&gt;rename the example conf files in /opt/local/etc: &lt;code&gt;mv  example-freshclam.conf freshclam.conf;&lt;/code&gt; &lt;code&gt;mv example-clamd.conf  clamd.conf&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;read the conf files and edit them as appropriate, then add the line
+&lt;code&gt;NotifyClamd /opt/local/etc/clamd.conf (&lt;/code&gt;substituting the full path to
 your clamd.conf file) to the end of freshclam.conf so that clamd knows
-about it when freshclam has updated the virus definitions&lt;/li>
-&lt;li>run freshclam to see if it works&lt;/li>
-&lt;li>notice that it doesn&amp;rsquo;t work because it needs permissions to certain
-directories; &lt;code>sudo chown -R &amp;lt;clamav user&amp;gt; &amp;lt;directory&amp;gt;&lt;/code>&amp;hellip;the directory
+about it when freshclam has updated the virus definitions&lt;/li&gt;
+&lt;li&gt;run freshclam to see if it works&lt;/li&gt;
+&lt;li&gt;notice that it doesn&amp;rsquo;t work because it needs permissions to certain
+directories; &lt;code&gt;sudo chown -R &amp;lt;clamav user&amp;gt; &amp;lt;directory&amp;gt;&lt;/code&gt;&amp;hellip;the directory
 you need to update will be clear based on the error message, the user
 that freshclam and clamd run under is configured in the conf files. In
-the MacPorts case its &amp;lsquo;clamav&amp;rsquo;.&lt;/li>
-&lt;li>rinse and repeat until freshclam works&lt;/li>
-&lt;li>run clamd to see if it works&lt;/li>
-&lt;li>fix its permissions too&lt;/li>
-&lt;li>run clamdscan to check that it can scan some files using clamdscan&lt;/li>
-&lt;li>Create &lt;a href="http://developer.apple.com/macosx/launchd.html">launchd&lt;/a> items for freshclam and clamd. Freshclam
+the MacPorts case its &amp;lsquo;clamav&amp;rsquo;.&lt;/li&gt;
+&lt;li&gt;rinse and repeat until freshclam works&lt;/li&gt;
+&lt;li&gt;run clamd to see if it works&lt;/li&gt;
+&lt;li&gt;fix its permissions too&lt;/li&gt;
+&lt;li&gt;run clamdscan to check that it can scan some files using clamdscan&lt;/li&gt;
+&lt;li&gt;Create &lt;a href=&#34;http://developer.apple.com/macosx/launchd.html&#34;&gt;launchd&lt;/a&gt; items for freshclam and clamd. Freshclam
 should run every 168 hours or so. Clamd should run all the time.
-I recommend using &lt;a href="http://sourceforge.net/projects/lingon/files/">Lingon&lt;/a> to configure your launchd items.&lt;/li>
-&lt;li>Reboot. Check to see that clamd is running. Fix it if its
-not.&lt;/li>
-&lt;/ol>
-&lt;p>&lt;strong>Setup Growl&lt;/strong>&lt;/p></description></item><item><title>How To Use Facebook Open Streams With Facebooker</title><link>https://ggr.com/how-to-use-facebook-open-streams-with-facebooker.html</link><pubDate>Tue, 15 Sep 2009 15:02:00 +0000</pubDate><guid>https://ggr.com/how-to-use-facebook-open-streams-with-facebooker.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/facebook_extended_permissions.jpg" alt="1">&lt;/p>
-&lt;p>I would like my Facebook Connect app to publish stories to my users&amp;rsquo; Facebook news stream. I went looking for how do this with Facebooker and figured out an answer.&lt;/p>
-&lt;p>The old way of doing this, and the one built into Facebooker, is to &lt;a href="http://facebooker.rubyforge.org/classes/Facebooker/Rails/Publisher.html">publish a user action&lt;/a>. There are two limitations of the old way: 1: you need a valid session_key (so, the user must be logged in); 2: you may only send up to 10 messages per day (without special permissions from the user). Fortunately Facebook released their Open Stream API in April 2009 and it suffers from neither restriction: you can post without a session_key and there are no explicit limits on how many posts you can make in a day. Unfortunately Facebooker does not yet offer native support for publishing to Facebook streams, at least that I could find, but it DOES support rolling your own API calls, and in this case its not that hard to do. To post to a users&amp;rsquo; Facebook stream from your Rails app&amp;rsquo;s script/console, do the following:&lt;/p></description></item><item><title>How To Include a Gem's Rake Tasks in Your Rails App</title><link>https://ggr.com/how-to-include-a-gems-rake-tasks-in-your-rails-app.html</link><pubDate>Mon, 14 Sep 2009 12:21:00 +0000</pubDate><guid>https://ggr.com/how-to-include-a-gems-rake-tasks-in-your-rails-app.html</guid><description>&lt;p>Rake tasks contained in a gem are not automatically available to a rails app that requires the gem. Whether that&amp;rsquo;s the right way to do things is &lt;a href="https://rails.lighthouseapp.com/projects/8994/tickets/59">under debate&lt;/a>, but in the mean time there are a couple workarounds.&lt;/p>
-&lt;p>&lt;strong>Option #1&lt;/strong>: Use the gem as a plugin instead. Files that match the following pattern are automatically pulled in, so you&amp;rsquo;re good to go:&lt;/p>
-&lt;blockquote>
-&lt;!-- raw HTML omitted -->
-&lt;/blockquote>
-&lt;p>&lt;strong>Option #2&lt;/strong>: Create a ruby file that loads the gem&amp;rsquo;s tasks, then require the ruby file you made in your rail app&amp;rsquo;s Rakefile. For example, if you&amp;rsquo;ve installed the Facebooker gem and you want to use its rake tasks, you might create a file called &amp;lsquo;facebooker.rb&amp;rsquo; and save it to your &lt;em>&lt;!-- raw HTML omitted -->/tasks&lt;/em> directory with these contents:&lt;/p></description></item><item><title>How To Permit A Blank Email Field With AuthLogic</title><link>https://ggr.com/how-to-permit-a-blank-email-field-with-authlogic.html</link><pubDate>Wed, 09 Sep 2009 12:32:00 +0000</pubDate><guid>https://ggr.com/how-to-permit-a-blank-email-field-with-authlogic.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/errors-from-blank-email-with-AuthLogic.jpg" alt="2">&lt;/p>
-&lt;p>I too &lt;a href="http://ficial.wordpress.com/2009/03/15/ruby-on-rails-getting-error-messages-authlogic-email-validation/">ran into some trouble&lt;/a> before discovering that my beloved AuthLogic is validating my email field. The validation is a good thing overall, but I want to support blank email addresses as well as properly formatted ones.&lt;/p>
-&lt;p>It&amp;rsquo;s all in the AuthLogic docs of course, but if I can save you a few minutes of hunting around, that&amp;rsquo;s all good:&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted --></description></item><item><title>How to Increase Traffic to Your Site By Optimizing For Search Engines</title><link>https://ggr.com/how-to-increase-traffic-to-your-site-by-optimizing-for-search-engines.html</link><pubDate>Fri, 17 Jul 2009 17:50:00 +0000</pubDate><guid>https://ggr.com/how-to-increase-traffic-to-your-site-by-optimizing-for-search-engines.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/alexa_results_for_penny_arcade.jpg" alt="6">&lt;/p>
-&lt;p>Want more traffic from your friendly neighborhood search engine to your site? Here are some of the Search Engine Optimization (SEO) tricks I&amp;rsquo;ve picked up along the way.&lt;/p>
-&lt;p>&lt;strong>Rule #1: make it easy for the search engines to see and understand your content&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>make as much content visible to users that are &lt;strong>not&lt;/strong> logged in as you can&amp;ndash;search engines cannot login and they will not index any content that is behind a login barrier&lt;/li>
-&lt;li>use descriptive names for everything, including your domains, paths, pages, and assets, i.e. &lt;!-- raw HTML omitted -->&lt;em>http&lt;/em>://&lt;!-- raw HTML omitted -->tofu-recipes&lt;!-- raw HTML omitted -->.ggr.com/&lt;!-- raw HTML omitted --> and &lt;!-- raw HTML omitted -->&lt;em>http&lt;/em>://ggr.com/&lt;!-- raw HTML omitted -->recipes&lt;!-- raw HTML omitted -->/&lt;!-- raw HTML omitted -->how-to-make-tofu&lt;!-- raw HTML omitted -->.html&lt;!-- raw HTML omitted --> and &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->tofu-raw-ingredients&lt;!-- raw HTML omitted -->.jpg&lt;!-- raw HTML omitted -->&lt;/li>
-&lt;li>&lt;em>&lt;!-- raw HTML omitted -->include descriptive &amp;ldquo;alt&amp;rdquo; attributes in your image tags&lt;!-- raw HTML omitted -->&lt;/em>&lt;/li>
-&lt;li>avoid JavaScript links&amp;ndash;search engines cannot click on them&lt;/li>
-&lt;li>make certain all of your content is reachable within 3 clicks of the homepage, i.e. add a sitemap&lt;/li>
-&lt;li>try surfing your site with a &lt;a href="http://lynx.isc.org/">text web browser&lt;/a> to get an idea what your site looks like to a search engine&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Rule #2: stake out a small number of key phrases&lt;/strong>&lt;/p></description></item><item><title>How To Create Flickr-Style Mouseover Notes On a Picture</title><link>https://ggr.com/how-to-create-flickr-style-mouseover-notes-on-a-picture.html</link><pubDate>Tue, 26 May 2009 17:03:00 +0000</pubDate><guid>https://ggr.com/how-to-create-flickr-style-mouseover-notes-on-a-picture.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/carpic2.jpg" alt="3">&lt;/p>
-&lt;p>While you were reading the post about &lt;a href="https://ggr.com/how-to-ship-a-used-book.html">how to ship a used book&lt;/a>, you may have found yourself strangely compelled to hover your mouse over the cool, image hotspot mouseover hover caption thingies on the picture of shipping supplies. Perhaps you wondered how you too could harness the power of such hotspots on your own blog. I&amp;rsquo;ll let you in on the &lt;a href="http://condor.wesleyan.edu/acooke/outlines.html">secret&lt;/a>.&lt;/p></description></item></channel></rss>
+I recommend using &lt;a href=&#34;http://sourceforge.net/projects/lingon/files/&#34;&gt;Lingon&lt;/a&gt; to configure your launchd items.&lt;/li&gt;
+&lt;li&gt;Reboot. Check to see that clamd is running. Fix it if its
+not.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Setup Growl&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Install &lt;a href=&#34;http://growl.info/&#34;&gt;Growl&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Install GrowlNotify. It&amp;rsquo;s in the Extras folder of the Growl
+installer.&lt;/li&gt;
+&lt;li&gt;Make sure GrowlNotify is in your PATH.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Setup Mpack&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Mpack. With MacPorts its: &lt;code&gt;sudo port install mpack&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Make sure Mpack is in your PATH.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Setup the antivirus script&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Download the &lt;a href=&#34;http://ggr_com.s3.amazonaws.com/VirusChecker.scpt&#34;&gt;antivirus script&lt;/a&gt; I updated (fixed it to work with
+Snow Leopard, added Growl support, removed Stuffit support). A big
+thank you to the &lt;a href=&#34;http://creativeeyes.at/tools/clamav&#34;&gt;original authors&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;Move the script to your ~/Library/Scripts directory.&lt;/li&gt;
+&lt;li&gt;Edit the script, updating the configuration options at the top of
+the file.&lt;/li&gt;
+&lt;li&gt;Create a local mail folder called &amp;lsquo;Infected&amp;rsquo; in Apple Mail.&lt;/li&gt;
+&lt;li&gt;Create a rule in Apple Mail that runs the script on all email
+messages.&lt;/li&gt;
+&lt;li&gt;Try emailing yourself a &lt;a href=&#34;http://www.eicar.org/anti_virus_test_file.htm&#34;&gt;test virus&lt;/a&gt; and verify that your
+antivirus script sends a Growl alert and moves the message to the
+infected folder.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Use Facebook Open Streams With Facebooker</title>
+      <link>https://ggr.com/how-to-use-facebook-open-streams-with-facebooker.html</link>
+      <pubDate>Tue, 15 Sep 2009 15:02:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-use-facebook-open-streams-with-facebooker.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/facebook_extended_permissions.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I would like my Facebook Connect app to publish stories to my users&amp;rsquo; Facebook news stream. I went looking for how do this with Facebooker and figured out an answer.&lt;/p&gt;
+&lt;p&gt;The old way of doing this, and the one built into Facebooker, is to &lt;a href=&#34;http://facebooker.rubyforge.org/classes/Facebooker/Rails/Publisher.html&#34;&gt;publish a user action&lt;/a&gt;. There are two limitations of the old way: 1: you need a valid session_key (so, the user must be logged in); 2: you may only send up to 10 messages per day (without special permissions from the user). Fortunately Facebook released their Open Stream API in April 2009 and it suffers from neither restriction: you can post without a session_key and there are no explicit limits on how many posts you can make in a day. Unfortunately Facebooker does not yet offer native support for publishing to Facebook streams, at least that I could find, but it DOES support rolling your own API calls, and in this case its not that hard to do. To post to a users&amp;rsquo; Facebook stream from your Rails app&amp;rsquo;s script/console, do the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Integrate Facebooker into your Rails app.  Verify that it works.  There are a number of ways to integrate Facebooker depending on what kind of app you are making.  e.g. I&amp;rsquo;m making a Facebook Connect app, so I used &lt;a href=&#34;http://github.com/binarylogic/authlogic&#34;&gt;AuthLogic&lt;/a&gt; and the &lt;a href=&#34;http://github.com/kalasjocke/authlogic_facebook_connect&#34;&gt;AuthLogic Facebook Connect plugin&lt;/a&gt; so users can login to my app using their Facebook credentials.&lt;/li&gt;
+&lt;li&gt;Get a user&amp;rsquo;s  permission to publish to their stream.  Make a note of their Facebook UID.  e.g. in my app, the AuthLogic Facebook Connect plugin stores the UID in my user table each time a new Facebook user logs into my site.&lt;/li&gt;
+&lt;li&gt;Run script/console and execute the following commands:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/blockquote&gt;
+&lt;p&gt;Not so bad, huh?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated on September 26th, 2013&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The links to Facebook&amp;rsquo;s documentation of their old API no longer work. They have been removed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Include a Gem&#39;s Rake Tasks in Your Rails App</title>
+      <link>https://ggr.com/how-to-include-a-gems-rake-tasks-in-your-rails-app.html</link>
+      <pubDate>Mon, 14 Sep 2009 12:21:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-include-a-gems-rake-tasks-in-your-rails-app.html</guid>
+      <description>&lt;p&gt;Rake tasks contained in a gem are not automatically available to a rails app that requires the gem. Whether that&amp;rsquo;s the right way to do things is &lt;a href=&#34;https://rails.lighthouseapp.com/projects/8994/tickets/59&#34;&gt;under debate&lt;/a&gt;, but in the mean time there are a couple workarounds.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Option #1&lt;/strong&gt;: Use the gem as a plugin instead. Files that match the following pattern are automatically pulled in, so you&amp;rsquo;re good to go:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Option #2&lt;/strong&gt;: Create a ruby file that loads the gem&amp;rsquo;s tasks, then require the ruby file you made in your rail app&amp;rsquo;s Rakefile. For example, if you&amp;rsquo;ve installed the Facebooker gem and you want to use its rake tasks, you might create a file called &amp;lsquo;facebooker.rb&amp;rsquo; and save it to your &lt;em&gt;&lt;!-- raw HTML omitted --&gt;/tasks&lt;/em&gt; directory with these contents:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/blockquote&gt;
+&lt;p&gt;Then add this line to your Rakefile:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/blockquote&gt;
+&lt;p&gt;But as it turns out, Facebooker&amp;rsquo;s tasks uses relative paths to get at its config file in your rails app, which won&amp;rsquo;t work if its installed in the gem path as a gem rather than in your rails app as a plugin! So be careful with using option #2, it may not be what the gem you&amp;rsquo;re trying to use expects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Permit A Blank Email Field With AuthLogic</title>
+      <link>https://ggr.com/how-to-permit-a-blank-email-field-with-authlogic.html</link>
+      <pubDate>Wed, 09 Sep 2009 12:32:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-permit-a-blank-email-field-with-authlogic.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/errors-from-blank-email-with-AuthLogic.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I too &lt;a href=&#34;http://ficial.wordpress.com/2009/03/15/ruby-on-rails-getting-error-messages-authlogic-email-validation/&#34;&gt;ran into some trouble&lt;/a&gt; before discovering that my beloved AuthLogic is validating my email field. The validation is a good thing overall, but I want to support blank email addresses as well as properly formatted ones.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s all in the AuthLogic docs of course, but if I can save you a few minutes of hunting around, that&amp;rsquo;s all good:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Increase Traffic to Your Site By Optimizing For Search Engines</title>
+      <link>https://ggr.com/how-to-increase-traffic-to-your-site-by-optimizing-for-search-engines.html</link>
+      <pubDate>Fri, 17 Jul 2009 17:50:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-increase-traffic-to-your-site-by-optimizing-for-search-engines.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/alexa_results_for_penny_arcade.jpg&#34; alt=&#34;6&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Want more traffic from your friendly neighborhood search engine to your site? Here are some of the Search Engine Optimization (SEO) tricks I&amp;rsquo;ve picked up along the way.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rule #1: make it easy for the search engines to see and understand your content&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;make as much content visible to users that are &lt;strong&gt;not&lt;/strong&gt; logged in as you can&amp;ndash;search engines cannot login and they will not index any content that is behind a login barrier&lt;/li&gt;
+&lt;li&gt;use descriptive names for everything, including your domains, paths, pages, and assets, i.e. &lt;!-- raw HTML omitted --&gt;&lt;em&gt;http&lt;/em&gt;://&lt;!-- raw HTML omitted --&gt;tofu-recipes&lt;!-- raw HTML omitted --&gt;.ggr.com/&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;&lt;em&gt;http&lt;/em&gt;://ggr.com/&lt;!-- raw HTML omitted --&gt;recipes&lt;!-- raw HTML omitted --&gt;/&lt;!-- raw HTML omitted --&gt;how-to-make-tofu&lt;!-- raw HTML omitted --&gt;.html&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;tofu-raw-ingredients&lt;!-- raw HTML omitted --&gt;.jpg&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;!-- raw HTML omitted --&gt;include descriptive &amp;ldquo;alt&amp;rdquo; attributes in your image tags&lt;!-- raw HTML omitted --&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;avoid JavaScript links&amp;ndash;search engines cannot click on them&lt;/li&gt;
+&lt;li&gt;make certain all of your content is reachable within 3 clicks of the homepage, i.e. add a sitemap&lt;/li&gt;
+&lt;li&gt;try surfing your site with a &lt;a href=&#34;http://lynx.isc.org/&#34;&gt;text web browser&lt;/a&gt; to get an idea what your site looks like to a search engine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Rule #2: stake out a small number of key phrases&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;choose a prioritized list of phrasesyou want to rank well with. You can start by looking at your web logs to see what terms are already generating natural search traffic for you. &lt;a href=&#34;https://adwords.google.com/select/KeywordToolExternal&#34;&gt;Google&amp;rsquo;s Keyword Tool&lt;/a&gt; can also give you some ideas.&lt;/li&gt;
+&lt;li&gt;choose 2-3 phrases to brand each page. Incorporate the phrases you chose onto their pages. Including each key phrase 3-6 times on a page is usually ok, 100 is usually not&amp;ndash;search engines will penalize you for gaming the system if you put too many on there, but where the line is is not public knowledge.&lt;/li&gt;
+&lt;li&gt;make certain both internal and external links to your pages use an associated key phrase as the text of the anchor&lt;/li&gt;
+&lt;li&gt;include your key phrases in your title, header, and meta tags; include them in your host, domain, and path names as well, whenever practical&lt;/li&gt;
+&lt;li&gt;buy your key phrases from the search engines, so your ads show up instead of your competition when searching on those phrases&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**Rule #3: get more external links **&lt;/p&gt;
+&lt;p&gt;One of the single most important things you can do (for Google in particular) is to increase the number of links to your site from other sites (the more reputable, the better).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;encourage folks to link to your website from their Facebook, LinkedIn, and other profiles&lt;/li&gt;
+&lt;li&gt;encourage folks to Twitter, blog, or include a link to your site to their Facebook/LinkedIn/etc status updates&lt;/li&gt;
+&lt;li&gt;offer links with your content to Digg, Reddit, and &lt;a href=&#34;http://www.gigya.com/&#34;&gt;other services&lt;/a&gt; that make it easy for your visitors to link to your content and tell their friends about your site&lt;/li&gt;
+&lt;li&gt;don&amp;rsquo;t forget to make certain the links to your site use a key phrase associated with the page they link to, whenever possible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Rule #4: don&amp;rsquo;t split your traffic&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;redirect old links to the current pages (or you won&amp;rsquo;t get credit for those external links). Look in your web logs and in Google for old links.&lt;/li&gt;
+&lt;li&gt;any given page/content should have only one URL &lt;em&gt;including&lt;/em&gt; parameters whenever practical&lt;/li&gt;
+&lt;li&gt;eliminate parameters from the URL&amp;ndash;try using redirects to eliminate parameters while preserving their functionality&lt;/li&gt;
+&lt;li&gt;use robots.txt to prevent indexing of pages you don&amp;rsquo;t want indexed (i.e. error pages)&lt;/li&gt;
+&lt;li&gt;don&amp;rsquo;t have more than 3 or so key phrases associated with a given page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Rule #5: follow up&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SEO is a moving target: the search engine algorithms change, your competitions&amp;rsquo; sites change, your site changes. You have to stay vigilant or you may lose ranking on your key phrases over time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;search Google&amp;rsquo;s for &amp;ldquo;link:ggr.com&amp;rdquo; to track how many external links you have (replace &amp;ldquo;ggr.com&amp;rdquo; with your site). Record the number once per week.&lt;/li&gt;
+&lt;li&gt;search for your key phrases in the major search engines once per week. Record where you rank. Record where your top competition ranks.&lt;/li&gt;
+&lt;li&gt;analyze your competition and copy the tactics that work&amp;ndash;they may stumble onto a good SEO tactic before it is well known&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Further reading:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Search_engine_optimization&#34;&gt;SEO on Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/support/webmasters/bin/answer.py?hl=en&amp;amp;answer=35291&#34;&gt;Google&amp;rsquo;s SEO guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Create Flickr-Style Mouseover Notes On a Picture</title>
+      <link>https://ggr.com/how-to-create-flickr-style-mouseover-notes-on-a-picture.html</link>
+      <pubDate>Tue, 26 May 2009 17:03:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/how-to-create-flickr-style-mouseover-notes-on-a-picture.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/carpic2.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;While you were reading the post about &lt;a href=&#34;https://ggr.com/how-to-ship-a-used-book.html&#34;&gt;how to ship a used book&lt;/a&gt;, you may have found yourself strangely compelled to hover your mouse over the cool, image hotspot mouseover hover caption thingies on the picture of shipping supplies. Perhaps you wondered how you too could harness the power of such hotspots on your own blog. I&amp;rsquo;ll let you in on the &lt;a href=&#34;http://condor.wesleyan.edu/acooke/outlines.html&#34;&gt;secret&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

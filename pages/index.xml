@@ -1,12 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on game, game. repeat.</title><link>https://ggr.com/pages.html</link><description>Recent content in Pages on game, game. repeat.</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://ggr.com/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>about</title><link>https://ggr.com/about.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ggr.com/about.html</guid><description>&lt;p>Hello. I'm Scott Bonds, and this is a page I've put together so long lost friends can Google their way to my email address: &lt;a href="mailto:scott@ggr.com">scott@ggr.com&lt;/a>&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="http://www.heymosaic.com/">Mosaic&lt;/a>, &lt;a href="http://www.smule.com/magicpiano">Magic Piano&lt;/a>, &lt;a href="http://pogo.com/">Pogo&lt;/a>, &lt;a href="http://www.metacritic.com/games/platforms/ps2/godfather?q=godfather">The Godfather&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ggr.com/tags/iwanttoworkatea.com.html">IWantToWorkAtEA.com&lt;/a>, &lt;a href="http://www.december.com/cmc/mag/1997/nov/last.html">Copyright This&lt;/a>, &lt;a href="http://web.archive.org/web/19970707085443/http://www.ggr.com/">Gamma Game Reviews&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://www.mixbook.com/">Mixbook&lt;/a>, &lt;a href="http://smule.com/">Smule&lt;/a>, &lt;a href="http://ea.com/">Electronic Arts&lt;/a>, Bonds Consulting, &lt;a href="http://quickstart.com/">QuickStart&lt;/a>, &lt;a href="http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=137922">BridgePath&lt;/a>, Kyber Systems&lt;/li>
-&lt;li>video games, casual games, mobile games, &lt;a href="http://www.mobygames.com/developer/sheet/view/developerId,217603/">MobyGames&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://www.berkeley.edu/">UC Berkeley&lt;/a>, &lt;a href="http://www.eecs.berkeley.edu/">EECS&lt;/a>, &lt;a href="http://www.coe.berkeley.edu/">College of Engineering&lt;/a>, computer science, &lt;a href="http://rcsa.berkeley.edu/">Regents’ scholarship&lt;/a>, Associated Students of the University of California (&lt;a href="http://www.asuc.org/">ASUC&lt;/a>)&lt;/li>
-&lt;li>&lt;a href="https://www.gusd.net/glendalehs">Glendale High School&lt;/a>, &lt;a href="https://www.facebook.com/naijajets">JETS&lt;/a>, &lt;a href="https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory">JPL&lt;/a> Explorer Post 509&lt;/li>
-&lt;li>programming, &lt;a href="https://www.forbes.com/forbes/2003/0512/127.html?sh=3e7e46a7385a">home theater&lt;/a>, &lt;a href="http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">Dvorak&lt;/a>&lt;/li>
-&lt;li>San Francisco, CA&lt;/li>
-&lt;/ul>
-&lt;p>I don't use Facebook, so if you've connected to someone with my name on there, you might be connected to my dad (Ronald Scott Bonds), as he goes by the same name as me (Scott Bonds).&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on game, game. repeat.</title>
+    <link>https://ggr.com/pages.html</link>
+    <description>Recent content in Pages on game, game. repeat.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ggr.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://ggr.com/about.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/about.html</guid>
+      <description>&lt;p&gt;Hello. I&#39;m Scott Bonds, and this is a page I&#39;ve put together so long lost friends can Google their way to my email address: &lt;a href=&#34;mailto:scott@ggr.com&#34;&gt;scott@ggr.com&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.heymosaic.com/&#34;&gt;Mosaic&lt;/a&gt;, &lt;a href=&#34;http://www.smule.com/magicpiano&#34;&gt;Magic Piano&lt;/a&gt;, &lt;a href=&#34;http://pogo.com/&#34;&gt;Pogo&lt;/a&gt;, &lt;a href=&#34;http://www.metacritic.com/games/platforms/ps2/godfather?q=godfather&#34;&gt;The Godfather&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ggr.com/tags/iwanttoworkatea.com.html&#34;&gt;IWantToWorkAtEA.com&lt;/a&gt;, &lt;a href=&#34;http://www.december.com/cmc/mag/1997/nov/last.html&#34;&gt;Copyright This&lt;/a&gt;, &lt;a href=&#34;http://web.archive.org/web/19970707085443/http://www.ggr.com/&#34;&gt;Gamma Game Reviews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mixbook.com/&#34;&gt;Mixbook&lt;/a&gt;, &lt;a href=&#34;http://smule.com/&#34;&gt;Smule&lt;/a&gt;, &lt;a href=&#34;http://ea.com/&#34;&gt;Electronic Arts&lt;/a&gt;, Bonds Consulting, &lt;a href=&#34;http://quickstart.com/&#34;&gt;QuickStart&lt;/a&gt;, &lt;a href=&#34;http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=137922&#34;&gt;BridgePath&lt;/a&gt;, Kyber Systems&lt;/li&gt;
+&lt;li&gt;video games, casual games, mobile games, &lt;a href=&#34;http://www.mobygames.com/developer/sheet/view/developerId,217603/&#34;&gt;MobyGames&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.berkeley.edu/&#34;&gt;UC Berkeley&lt;/a&gt;, &lt;a href=&#34;http://www.eecs.berkeley.edu/&#34;&gt;EECS&lt;/a&gt;, &lt;a href=&#34;http://www.coe.berkeley.edu/&#34;&gt;College of Engineering&lt;/a&gt;, computer science, &lt;a href=&#34;http://rcsa.berkeley.edu/&#34;&gt;Regents’ scholarship&lt;/a&gt;, Associated Students of the University of California (&lt;a href=&#34;http://www.asuc.org/&#34;&gt;ASUC&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gusd.net/glendalehs&#34;&gt;Glendale High School&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/naijajets&#34;&gt;JETS&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory&#34;&gt;JPL&lt;/a&gt; Explorer Post 509&lt;/li&gt;
+&lt;li&gt;programming, &lt;a href=&#34;https://www.forbes.com/forbes/2003/0512/127.html?sh=3e7e46a7385a&#34;&gt;home theater&lt;/a&gt;, &lt;a href=&#34;http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard&#34;&gt;Dvorak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;San Francisco, CA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I don&#39;t use Facebook, so if you&#39;ve connected to someone with my name on there, you might be connected to my dad (Ronald Scott Bonds), as he goes by the same name as me (Scott Bonds).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

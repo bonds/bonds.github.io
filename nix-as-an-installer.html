@@ -1,17 +1,41 @@
-<!doctype html><html><head><meta charset=utf-8><link rel=stylesheet type=text/css href=/default.css><title>game, game. repeat. | Nix As An Installer</title></head><body><h1><a href=/>g</a>ame, g<a href=/about.html>a</a>me. repea<a href=/tags.html>t</a>.</h1><div id=content><h2>Nix As An Installer</h2><div id=info>Sat 06 August 2022
-<a href=https://ggr.com/tags/code.html>#Code</a></div><p>Been using Homebrew forever and its awesome. Google should
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/default.css">
+    
+    
+    <title>game, game. repeat. | Nix As An Installer</title>
+</head>
+<body><h1><a href='/'>g</a>ame, g<a href='/about.html'>a</a>me. repea<a href='/tags.html'>t</a>.</h1>
+<div id="content">
+<h2>Nix As An Installer</h2>
+<div id=info>
+Sat 06 August 2022
+<a href="https://ggr.com/tags/code.html">#Code</a>
+
+</div>
+<p>Been using Homebrew forever and its awesome. Google should
 totally <a href="https://news.ycombinator.com/item?id=9695102">give him a job</a>. Recently I thought I&rsquo;d see what the
 fuss over Nix is all about though. My needs are simple: I want
 to install and uninstall software on my Mac. It would be
 nice to have a list of apps I use that I can check into git
-if I feel like it, but that&rsquo;s just a nice-to-have.</p><p>First I tried out vanilla nix (the package manager, not the OS), then
-home-manager, then home-manager with flakes. I landed on <a href=https://nixos.org/download.html>nix</a> plus
-<a href=https://nixos.wiki/wiki/Flakes#Non-NixOS>flakes</a>, no home-manager, plus some <a href=https://gist.github.com/bonds/1cb0ae202dbe409aebb81b1f1feacbc4>wrapper scripts</a> to make it
-stupid easy to use&mldr;I don&rsquo;t need all the knobs.</p><p>Now I&rsquo;ve got <code>nin &lt;package></code> for installing software. It accepts
+if I feel like it, but that&rsquo;s just a nice-to-have.</p>
+<p>First I tried out vanilla nix (the package manager, not the OS), then
+home-manager, then home-manager with flakes. I landed on <a href="https://nixos.org/download.html">nix</a> plus
+<a href="https://nixos.wiki/wiki/Flakes#Non-NixOS">flakes</a>, no home-manager, plus some <a href="https://gist.github.com/bonds/1cb0ae202dbe409aebb81b1f1feacbc4">wrapper scripts</a> to make it
+stupid easy to use&hellip;I don&rsquo;t need all the knobs.</p>
+<p>Now I&rsquo;ve got <code>nin &lt;package&gt;</code> for installing software. It accepts
 packages in the format <code>mpv</code> or <code>bobhope/mpv</code>
 or <code>github:bobhope/mpv</code>. Or if I type <code>nin</code> alone it installs
-all the packages I&rsquo;ve got listed in ~/.config/nix/nin.conf.</p><p>Then there&rsquo;s <code>nun &lt;package></code> for removing packages. And finally
+all the packages I&rsquo;ve got listed in ~/.config/nix/nin.conf.</p>
+<p>Then there&rsquo;s <code>nun &lt;package&gt;</code> for removing packages. And finally
 <code>nup</code> to upgrade all the installed packages. Whenever I add or
 remove a package, my config gets updated to reflect that, so I can
-check my config aka my list of apps into source control if I want.</p><p>So far, so good. It&rsquo;s pretty fast and install, uninstall, and upgrades
-are all super easy.</p><p><a href=https://asciinema.org/a/kMBq2hKxWtwDqMVb68w5dPtp5><img src=https://asciinema.org/a/kMBq2hKxWtwDqMVb68w5dPtp5.svg alt=asciicast></a></p></div></body></html>
+check my config aka my list of apps into source control if I want.</p>
+<p>So far, so good. It&rsquo;s pretty fast and install, uninstall, and upgrades
+are all super easy.</p>
+<p><a href="https://asciinema.org/a/kMBq2hKxWtwDqMVb68w5dPtp5"><img src="https://asciinema.org/a/kMBq2hKxWtwDqMVb68w5dPtp5.svg" alt="asciicast"></a></p>
+
+
+        </div></body>
+</html>

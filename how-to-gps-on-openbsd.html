@@ -1,11 +1,42 @@
-<!doctype html><html><head><meta charset=utf-8><link rel=stylesheet type=text/css href=/default.css><title>game, game. repeat. | How to GPS on OpenBSD</title></head><body><h1><a href=/>g</a>ame, g<a href=/about.html>a</a>me. repea<a href=/tags.html>t</a>.</h1><div id=content><h2>How to GPS on OpenBSD</h2><div id=info>Fri 11 August 2017
-<a href=https://ggr.com/tags/code.html>#Code</a></div><p>I&rsquo;ve heard tell that the WWAN module lodged inside my laptop can give me my
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/default.css">
+    
+    
+    <title>game, game. repeat. | How to GPS on OpenBSD</title>
+</head>
+<body><h1><a href='/'>g</a>ame, g<a href='/about.html'>a</a>me. repea<a href='/tags.html'>t</a>.</h1>
+<div id="content">
+<h2>How to GPS on OpenBSD</h2>
+<div id=info>
+Fri 11 August 2017
+<a href="https://ggr.com/tags/code.html">#Code</a>
+
+</div>
+<p>I&rsquo;ve heard tell that the WWAN module lodged inside my laptop can give me my
 coordinates on planet Earth. I thought I&rsquo;d see if it was true. Fortunately, a
-number of brave souls have blazed the path, I needed only to rediscover it.</p><h3 id=funny-side-note>Funny side note</h3><p>Did you know that your super modern WWAN module uses 1980s-era modem commands to
-control it? You know, AT&mldr;OK, blah blah blah. Who knew, right?</p><h3 id=lets-do-this>Let&rsquo;s do this</h3><ol><li>Buy and install an Ericsson H5321 WWAN module in your Lenovo X200 running
+number of brave souls have blazed the path, I needed only to rediscover it.</p>
+<h3 id="funny-side-note">Funny side note</h3>
+<p>Did you know that your super modern WWAN module uses 1980s-era modem commands to
+control it? You know, AT&hellip;OK, blah blah blah. Who knew, right?</p>
+<h3 id="lets-do-this">Let&rsquo;s do this</h3>
+<ol>
+<li>Buy and install an Ericsson H5321 WWAN module in your Lenovo X200 running
 coreboot. The X200 and coreboot part isn&rsquo;t strictly necessary, but neither is
-OpenBSD nor life, yet all of the above are a good idea.</li><li># pkg_add gpsd gpsd-X11 socat jq</li><li>Download and run <a href=https://gist.github.com/bonds/dbeeea001e72da1cae084585ac1deaae>gps_on</a>.</li><li>Download and run <a href=https://gist.github.com/bonds/b6fc2e4381b555df7d2d0bf0d3805664>gps_location</a>.</li><li>Wait 10 minutes while the WWAN module ponders life and acquires a GPS lock.
-YMMV&mldr;it may take infinity minutes, depending on how your WWAN module and
+OpenBSD nor life, yet all of the above are a good idea.</li>
+<li># pkg_add gpsd gpsd-X11 socat jq</li>
+<li>Download and run <a href="https://gist.github.com/bonds/dbeeea001e72da1cae084585ac1deaae">gps_on</a>.</li>
+<li>Download and run <a href="https://gist.github.com/bonds/b6fc2e4381b555df7d2d0bf0d3805664">gps_location</a>.</li>
+<li>Wait 10 minutes while the WWAN module ponders life and acquires a GPS lock.
+YMMV&hellip;it may take infinity minutes, depending on how your WWAN module and
 the GPS satellites feel that day. But that&rsquo;s ok because the X200 is a
-<a href=https://en.wikipedia.org/wiki/Hypercomputation>hypercomputer</a>, so it will go by fast.</li><li>Bask in the glory of your location.</li><li>Donate <a href=https://www.patreon.com/esr>$1 to GPSD</a> and <a href=http://www.openbsdfoundation.org/donations.html>$1 to OpenBSD</a>. It&rsquo;s a good habit to get into
-after you bask in glory.</li></ol></div></body></html>
+<a href="https://en.wikipedia.org/wiki/Hypercomputation">hypercomputer</a>, so it will go by fast.</li>
+<li>Bask in the glory of your location.</li>
+<li>Donate <a href="https://www.patreon.com/esr">$1 to GPSD</a> and <a href="http://www.openbsdfoundation.org/donations.html">$1 to OpenBSD</a>. It&rsquo;s a good habit to get into
+after you bask in glory.</li>
+</ol>
+
+
+        </div></body>
+</html>

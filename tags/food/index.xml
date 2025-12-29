@@ -1,95 +1,252 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Food on game, game. repeat.</title><link>https://ggr.com/tags/food.html</link><description>Recent content in Food on game, game. repeat.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 21 Jun 2023 23:01:03 -0700</lastBuildDate><atom:link href="https://ggr.com/tags/food/index.xml" rel="self" type="application/rss+xml"/><item><title>Cheese Fondue</title><link>https://ggr.com/cheese-fondue.html</link><pubDate>Wed, 21 Jun 2023 23:01:03 -0700</pubDate><guid>https://ggr.com/cheese-fondue.html</guid><description>&lt;p>Makes 2 servings.&lt;/p>
-&lt;ul>
-&lt;li>100 grams Swiss cheese, shredded&lt;/li>
-&lt;li>100 grams Gruyere cheese, shredded&lt;/li>
-&lt;li>1 tsp cornstarch&lt;/li>
-&lt;li>1 garlic clove, peeled&lt;/li>
-&lt;li>0.25 cup dry white wine&lt;/li>
-&lt;li>1 tsp lemon juice&lt;/li>
-&lt;li>1 tsp cherry brandy&lt;/li>
-&lt;li>0.25 tsp dry mustard&lt;/li>
-&lt;li>tiny pinch of nutmeg&lt;/li>
-&lt;li>1 small, round loaf of sourdough bread&lt;/li>
-&lt;/ul>
-&lt;p>In a small bowl, coat the cheeses with cornstarch and set aside. Rub the inside of an induction compatible pot with the garlic, then discard (the garlic, not the pot :).&lt;/p></description></item><item><title>Bread Pudding</title><link>https://ggr.com/bread-pudding.html</link><pubDate>Sat, 30 Jul 2022 15:29:48 -0700</pubDate><guid>https://ggr.com/bread-pudding.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;h3 id="pudding">Pudding&lt;/h3>
-&lt;ul>
-&lt;li>0.66 cup golden raisins&lt;/li>
-&lt;li>5 teaspoons dark rum&lt;/li>
-&lt;li>0.75 cup granulated sugar&lt;/li>
-&lt;li>2 tablespoons light brown sugar&lt;/li>
-&lt;li>0.13 teaspoon ground cinnamon&lt;/li>
-&lt;li>14 ounces challah bread, cut into 0.75-inch cubes&lt;/li>
-&lt;li>9 large egg yolks&lt;/li>
-&lt;li>4 teaspoons vanilla extract&lt;/li>
-&lt;li>0.75 teaspoon salt&lt;/li>
-&lt;li>2.5 cups heavy cream&lt;/li>
-&lt;li>2.5 cups milk&lt;/li>
-&lt;li>2 tablespoons unsalted butter, melted&lt;/li>
-&lt;/ul>
-&lt;p>Combine raisins and rum in small bowl.
-Microwave until hot, about 20 seconds; set aside to cool, about 15 minutes.&lt;/p></description></item><item><title>Carrot Cake Ice Cream</title><link>https://ggr.com/carrot-cake-ice-cream.html</link><pubDate>Sat, 30 Jul 2022 08:51:47 -0700</pubDate><guid>https://ggr.com/carrot-cake-ice-cream.html</guid><description>&lt;p>Makes 16 servings.&lt;/p>
-&lt;h3 id="base">Base&lt;/h3>
-&lt;ul>
-&lt;li>3 cups whole milk&lt;/li>
-&lt;li>2 cups heavy cream&lt;/li>
-&lt;li>6 large egg yolks&lt;/li>
-&lt;li>1 cup granulated sugar&lt;/li>
-&lt;li>1 teaspoon pure vanilla extract&lt;/li>
-&lt;li>0.25 teaspoon ground cinnamon&lt;/li>
-&lt;li>8 ounces (1 package) room temperature cream cheese, cut into 1-inch cubes&lt;/li>
-&lt;/ul>
-&lt;p>Combine cream and milk in double boiler.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food on game, game. repeat.</title>
+    <link>https://ggr.com/tags/food.html</link>
+    <description>Recent content in Food on game, game. repeat.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jun 2023 23:01:03 -0700</lastBuildDate><atom:link href="https://ggr.com/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cheese Fondue</title>
+      <link>https://ggr.com/cheese-fondue.html</link>
+      <pubDate>Wed, 21 Jun 2023 23:01:03 -0700</pubDate>
+      
+      <guid>https://ggr.com/cheese-fondue.html</guid>
+      <description>&lt;p&gt;Makes 2 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;100 grams Swiss cheese, shredded&lt;/li&gt;
+&lt;li&gt;100 grams Gruyere cheese, shredded&lt;/li&gt;
+&lt;li&gt;1 tsp cornstarch&lt;/li&gt;
+&lt;li&gt;1 garlic clove, peeled&lt;/li&gt;
+&lt;li&gt;0.25 cup dry white wine&lt;/li&gt;
+&lt;li&gt;1 tsp lemon juice&lt;/li&gt;
+&lt;li&gt;1 tsp cherry brandy&lt;/li&gt;
+&lt;li&gt;0.25 tsp dry mustard&lt;/li&gt;
+&lt;li&gt;tiny pinch of nutmeg&lt;/li&gt;
+&lt;li&gt;1 small, round loaf of sourdough bread&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a small bowl, coat the cheeses with cornstarch and set aside. Rub the inside of an induction compatible pot with the garlic, then discard (the garlic, not the pot :).&lt;/p&gt;
+&lt;p&gt;Set the cooktop to 150 F, add the wine and lemon juice, and bring to a gentle simmer. Gradually stir the cheese into the simmering liquid, a handful at a time&amp;ndash;melting the cheese gradually encourages a smooth fondue. Once smooth, stir in cherry brandy, mustard and nutmeg. Reduce to 140 F.&lt;/p&gt;
+&lt;p&gt;Carve the bread into 1 inch cubes, removing and discarding the crust. Stab a piece of bread with a fondue fork, dip in the fondue, and enjoy!&lt;/p&gt;
+&lt;p&gt;Adapted from &lt;a href=&#34;https://www.foodnetwork.com/recipes/tyler-florence/cheese-fondue-recipe-1906678&#34;&gt;Cheese Fondue&lt;/a&gt; by Tyler Florence at The Food Network.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bread Pudding</title>
+      <link>https://ggr.com/bread-pudding.html</link>
+      <pubDate>Sat, 30 Jul 2022 15:29:48 -0700</pubDate>
+      
+      <guid>https://ggr.com/bread-pudding.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;h3 id=&#34;pudding&#34;&gt;Pudding&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;0.66 cup golden raisins&lt;/li&gt;
+&lt;li&gt;5 teaspoons dark rum&lt;/li&gt;
+&lt;li&gt;0.75 cup granulated sugar&lt;/li&gt;
+&lt;li&gt;2 tablespoons light brown sugar&lt;/li&gt;
+&lt;li&gt;0.13 teaspoon ground cinnamon&lt;/li&gt;
+&lt;li&gt;14 ounces challah bread, cut into 0.75-inch cubes&lt;/li&gt;
+&lt;li&gt;9 large egg yolks&lt;/li&gt;
+&lt;li&gt;4 teaspoons vanilla extract&lt;/li&gt;
+&lt;li&gt;0.75 teaspoon salt&lt;/li&gt;
+&lt;li&gt;2.5 cups heavy cream&lt;/li&gt;
+&lt;li&gt;2.5 cups milk&lt;/li&gt;
+&lt;li&gt;2 tablespoons unsalted butter, melted&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Combine raisins and rum in small bowl.
+Microwave until hot, about 20 seconds; set aside to cool, about 15 minutes.&lt;/p&gt;
+&lt;p&gt;Adjust oven racks to middle and lower-middle positions and heat oven to
+325 degrees. Combine 1 tablespoon granulated sugar, 1 tablespoon brown sugar, and
+cinnamon in small bowl; set aside.&lt;/p&gt;
+&lt;p&gt;Spread bread cubes in single layer on 2 rimmed
+baking sheets. Bake, tossing occasionally, until just dry, about 15 minutes,
+switching and rotating baking sheets halfway through baking. Let bread cubes
+cool for about 15 minutes; set aside 2 cups.&lt;/p&gt;
+&lt;p&gt;Whisk egg yolks, remaining granulated sugar, vanilla, and salt
+together in large bowl. Whisk in cream and milk until combined.
+Stir in raisin mixture.
+Add remaining cooled bread cubes and toss to coat.
+Transfer mixture to 13 by 9-inch
+baking dish and let stand, occasionally pressing bread cubes into custard,
+until cubes are thoroughly saturated, about 30 minutes.&lt;/p&gt;
+&lt;p&gt;Spread reserved
+bread cubes evenly over top of soaked bread mixture; gently press into custard.
+Brush melted butter over top of unsoaked bread cubes. Sprinkle brown sugar
+mixture evenly over top. Place bread pudding on baking sheet and bake on middle
+rack until custard has just set, pressing center of pudding with finger reveals
+no runny liquid, and center of pudding registers 170 degrees, 45 to 50 minutes.
+Transfer to wire rack and let cool until pudding is set and just warm, about
+45 minutes.&lt;/p&gt;
+&lt;h3 id=&#34;sauce&#34;&gt;Sauce&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;0.5 cup packed light brown sugar&lt;/li&gt;
+&lt;li&gt;7 tablespoons heavy cream&lt;/li&gt;
+&lt;li&gt;2.5 tablespoons unsalted butter&lt;/li&gt;
+&lt;li&gt;1.5 tablespoons rum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Whisk sugar and cream together in small saucepan set over medium
+heat until combined. Continue to cook, whisking frequently,
+until mixture comes to boil, about 5 minutes.
+Whisk in butter and bring mixture back to boil, about 1 minute.
+Remove from heat and whisk in rum. Let cool until just warm.
+Drizzle over bread pudding. Serve.&lt;/p&gt;
+&lt;h3 id=&#34;reheating&#34;&gt;Reheating&lt;/h3&gt;
+&lt;p&gt;Adjust toaster oven rack to middle position.
+Place a serving of
+broad pudding on a toaster-oven sized baking sheet.
+Toast on heat level &amp;lsquo;5&amp;rsquo;. Transfer to serving plate.&lt;/p&gt;
+&lt;p&gt;Microwave 2 tablespoons of sauce. Drizzle over reheated pudding.
+Serve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Carrot Cake Ice Cream</title>
+      <link>https://ggr.com/carrot-cake-ice-cream.html</link>
+      <pubDate>Sat, 30 Jul 2022 08:51:47 -0700</pubDate>
+      
+      <guid>https://ggr.com/carrot-cake-ice-cream.html</guid>
+      <description>&lt;p&gt;Makes 16 servings.&lt;/p&gt;
+&lt;h3 id=&#34;base&#34;&gt;Base&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3 cups whole milk&lt;/li&gt;
+&lt;li&gt;2 cups heavy cream&lt;/li&gt;
+&lt;li&gt;6 large egg yolks&lt;/li&gt;
+&lt;li&gt;1 cup granulated sugar&lt;/li&gt;
+&lt;li&gt;1 teaspoon pure vanilla extract&lt;/li&gt;
+&lt;li&gt;0.25 teaspoon ground cinnamon&lt;/li&gt;
+&lt;li&gt;8 ounces (1 package) room temperature cream cheese, cut into 1-inch cubes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Combine cream and milk in double boiler.
 Heat, stirring occassionally, until mixture is steaming steadily,
-about 10 minutes, 175 F.&lt;/p>
-&lt;p>While cream mixture heats,
+about 10 minutes, 175 F.&lt;/p&gt;
+&lt;p&gt;While cream mixture heats,
 in the bowl of a stand mixer with the whisk attachment,
 add the egg yolks and sugar.
 Whisk on medium speed until the mixture thickens and becomes pale yellow,
-about 5 minutes.&lt;/p></description></item><item><title>Corned Beef Hash</title><link>https://ggr.com/corned-beef-hash.html</link><pubDate>Sat, 30 Jul 2022 07:35:17 -0700</pubDate><guid>https://ggr.com/corned-beef-hash.html</guid><description>&lt;p>Makes 4 servings.&lt;/p>
-&lt;h3 id="hash-browns">Hash Browns&lt;/h3>
-&lt;ul>
-&lt;li>1 large russet potato&lt;/li>
-&lt;li>avocado oil spray&lt;/li>
-&lt;/ul>
-&lt;p>Wash potato.
-Shred potato using a &lt;a href="https://www.amazon.com/gp/product/B09MVD2GFB/">coarse shredder&lt;/a>.
+about 5 minutes.&lt;/p&gt;
+&lt;p&gt;With the mixer on low speed,
+slowly pour 2 cups heated cream mixture into the mixer.
+Return mixture to double boiler and cook, stirring constantly, until mixture thickens,
+about 7 minutes, 180 F.
+Remove from heat.
+Continue stirring constantly for 5 more minutes.
+Let cool until no longer steaming, about 10 more minutes.
+Stir in the vanilla extract and the cinnamon.&lt;/p&gt;
+&lt;p&gt;Return the custard to the stand mixer.
+Add the cream cheese and whisk on medium speed until well combined.
+It&amp;rsquo;s okay if a few small pieces of cream cheese remain.
+Cover the mixture with plastic wrap.
+Refridgerate overnight.&lt;/p&gt;
+&lt;h3 id=&#34;carrot-mixture&#34;&gt;Carrot Mixture&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1 cup brown sugar, packed&lt;/li&gt;
+&lt;li&gt;4 tablespoons (0.5 bar) unsalted butter&lt;/li&gt;
+&lt;li&gt;1.5 cups grated carrot&lt;/li&gt;
+&lt;li&gt;0.5 cup golden raisins&lt;/li&gt;
+&lt;li&gt;1 cup toasted walnuts, coarsely chopped&lt;/li&gt;
+&lt;li&gt;2 teaspoons dark rum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a medium skillet over medium-low heat,
+combine the brown sugar and butter.
+Stir continuously until the butter is melted and the sugar is dissolved.
+Stir in the carrots and raisins.
+Continue to cook, stirring frequently until the syrup thickens,
+and the carrots and raisins are coated, 10 to 15 minutes.
+Remove from the heat and cool to room temperature.
+As the mixture cools, stir occasionally to break up and distribute
+all the bits evenly.
+Stir in the rum and walnuts.
+Refridgerate overnight.&lt;/p&gt;
+&lt;h3 id=&#34;ice-cream&#34;&gt;Ice Cream&lt;/h3&gt;
+&lt;p&gt;Turn on ice cream maker and wait until its cold.
+Take custard mixture out of refrigerator and stir to get an even texture.
+Pour half of the mixture into the ice cream maker,
+returning the rest to the refrigerator.&lt;/p&gt;
+&lt;p&gt;Once the churning ice cream mixture resembles thick soft-serve ice cream,
+15-25 minutes.
+Tranfer to an ice cream container.
+Pour half the carrot mixture over the top.
+Fold it in using a spatula, being careful not to over mix.
+Freeze overnight and then serve.&lt;/p&gt;
+&lt;p&gt;Clean the ice cream maker then repeat the churning steps with the remaining
+mixture from the refrigerator.&lt;/p&gt;
+&lt;p&gt;Adapted from a recipe at &lt;a href=&#34;https://www.thespruceeats.com/carrot-cake-ice-cream-1665202&#34;&gt;The Spruce Eats&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Corned Beef Hash</title>
+      <link>https://ggr.com/corned-beef-hash.html</link>
+      <pubDate>Sat, 30 Jul 2022 07:35:17 -0700</pubDate>
+      
+      <guid>https://ggr.com/corned-beef-hash.html</guid>
+      <description>&lt;p&gt;Makes 4 servings.&lt;/p&gt;
+&lt;h3 id=&#34;hash-browns&#34;&gt;Hash Browns&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1 large russet potato&lt;/li&gt;
+&lt;li&gt;avocado oil spray&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wash potato.
+Shred potato using a &lt;a href=&#34;https://www.amazon.com/gp/product/B09MVD2GFB/&#34;&gt;coarse shredder&lt;/a&gt;.
 Place shredded potato on a clean kitchen towel and twist
 to squeeze out moisture.
 Spray a toaster-oven sized baking sheet with avocado oil.
 Spread potato across baking sheet.
 Move toaster over rack to middle position.
-Broil potato in toaster oven for 15 minutes.&lt;/p>
-&lt;h3 id="corned-beef">Corned Beef&lt;/h3>
-&lt;ul>
-&lt;li>11.5 ounces (1 can) &lt;a href="https://www.amazon.com/Palm-Corned-Beef-Juices-Label/dp/B07T6YB6T5/">Palm Gold Label&lt;/a> (&lt;strong>not&lt;/strong> Ox &amp;amp; Palm) corned beef&lt;/li>
-&lt;li>0.5 white onion&lt;/li>
-&lt;li>2 egg whites&lt;/li>
-&lt;li>avocado oil spray&lt;/li>
-&lt;li>ketchup&lt;/li>
-&lt;/ul>
-&lt;p>Dice onion.
+Broil potato in toaster oven for 15 minutes.&lt;/p&gt;
+&lt;h3 id=&#34;corned-beef&#34;&gt;Corned Beef&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;11.5 ounces (1 can) &lt;a href=&#34;https://www.amazon.com/Palm-Corned-Beef-Juices-Label/dp/B07T6YB6T5/&#34;&gt;Palm Gold Label&lt;/a&gt; (&lt;strong&gt;not&lt;/strong&gt; Ox &amp;amp; Palm) corned beef&lt;/li&gt;
+&lt;li&gt;0.5 white onion&lt;/li&gt;
+&lt;li&gt;2 egg whites&lt;/li&gt;
+&lt;li&gt;avocado oil spray&lt;/li&gt;
+&lt;li&gt;ketchup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dice onion.
 Mix onion, corned beef, and eggs in a bowl.
 Spray a toaster-oven sized baking sheet with avocado oil.
 Spread corned beef across baking sheet.
 Move toaster over rack to middle position.
 Broil corned beef in toaster oven for 15 minutes.
-Serve with hash browns and ketchup.&lt;/p></description></item><item><title>Guacamole</title><link>https://ggr.com/guacamole.html</link><pubDate>Fri, 29 Jul 2022 03:46:08 -0700</pubDate><guid>https://ggr.com/guacamole.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;ul>
-&lt;li>3 ripe avocados&lt;/li>
-&lt;li>2 tablespoons fresh lime juice&lt;/li>
-&lt;li>0.25 teaspoon salt&lt;/li>
-&lt;/ul>
-&lt;p>Add 1 avocado to a bowl and mash it with a fork.
+Serve with hash browns and ketchup.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guacamole</title>
+      <link>https://ggr.com/guacamole.html</link>
+      <pubDate>Fri, 29 Jul 2022 03:46:08 -0700</pubDate>
+      
+      <guid>https://ggr.com/guacamole.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3 ripe avocados&lt;/li&gt;
+&lt;li&gt;2 tablespoons fresh lime juice&lt;/li&gt;
+&lt;li&gt;0.25 teaspoon salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Add 1 avocado to a bowl and mash it with a fork.
 Add lime juice and salt to bowl and mix together.
 Chop remaining avocados into big chunks.
 Add them to the bowl and mix everything together.
-Serve.&lt;/p></description></item><item><title>Cap Steak</title><link>https://ggr.com/cap-steak.html</link><pubDate>Fri, 29 Jul 2022 02:54:51 -0700</pubDate><guid>https://ggr.com/cap-steak.html</guid><description>&lt;p>Makes 2 servings.&lt;/p>
-&lt;ul>
-&lt;li>1 pound (1 piece) &lt;a href="https://www.instacart.com/products/3075012-kirkland-signature-beef-ribeye-cap-steak-boneless-usda-prime-per-lb-per-lb">cap steak&lt;/a>, tied and frozen&lt;/li>
-&lt;li>1 tablespoon &lt;a href="https://www.amazon.com/McCormick-Grill-Mates-Montreal-Seasoning/dp/B0758GCNG3/">Montreal Steak Seasoning&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Sprinkle half the seasoning on the bottom of a small pan.
+Serve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cap Steak</title>
+      <link>https://ggr.com/cap-steak.html</link>
+      <pubDate>Fri, 29 Jul 2022 02:54:51 -0700</pubDate>
+      
+      <guid>https://ggr.com/cap-steak.html</guid>
+      <description>&lt;p&gt;Makes 2 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 pound (1 piece) &lt;a href=&#34;https://www.instacart.com/products/3075012-kirkland-signature-beef-ribeye-cap-steak-boneless-usda-prime-per-lb-per-lb&#34;&gt;cap steak&lt;/a&gt;, tied and frozen&lt;/li&gt;
+&lt;li&gt;1 tablespoon &lt;a href=&#34;https://www.amazon.com/McCormick-Grill-Mates-Montreal-Seasoning/dp/B0758GCNG3/&#34;&gt;Montreal Steak Seasoning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sprinkle half the seasoning on the bottom of a small pan.
 Place cap steak in pan.
 Sprinkle remaining seasoning on top.
 Move oven rack to middle position.
@@ -100,145 +257,245 @@ Flip steak.
 Cook for another 25 minutes.
 Take the steak out of the oven and let it rest for 15 minutes.
 Remove the string that&amp;rsquo;s wrapped around the steak.
-Serve.&lt;/p></description></item><item><title>Prime Rib</title><link>https://ggr.com/prime-rib.html</link><pubDate>Fri, 29 Jul 2022 01:54:37 -0700</pubDate><guid>https://ggr.com/prime-rib.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;h3 id="sauce">Sauce&lt;/h3>
-&lt;ul>
-&lt;li>250g fresh horseradish or 2 tablespoons from a new bottle of &lt;a href="https://www.amazon.com/St-Elmo-Steak-House-Horseradish/dp/B088FZJ35M/">St. Elmo&lt;/a>&lt;/li>
-&lt;li>4 tablespoons sour cream&lt;/li>
-&lt;li>1 tablespoon Worcestershire sauce&lt;/li>
-&lt;/ul>
-&lt;p>Grate horseradish into a bowl.
+Serve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prime Rib</title>
+      <link>https://ggr.com/prime-rib.html</link>
+      <pubDate>Fri, 29 Jul 2022 01:54:37 -0700</pubDate>
+      
+      <guid>https://ggr.com/prime-rib.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;h3 id=&#34;sauce&#34;&gt;Sauce&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;250g fresh horseradish or 2 tablespoons from a new bottle of &lt;a href=&#34;https://www.amazon.com/St-Elmo-Steak-House-Horseradish/dp/B088FZJ35M/&#34;&gt;St. Elmo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;4 tablespoons sour cream&lt;/li&gt;
+&lt;li&gt;1 tablespoon Worcestershire sauce&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Grate horseradish into a bowl.
 Add sour cream and Worcestershire to the bowl.
 Mix together.
-Refrigerate in an airtight container until ready to serve.&lt;/p>
-&lt;h3 id="roast">Roast&lt;/h3>
-&lt;ul>
-&lt;li>4 pounds &lt;a href="https://www.costco.com/rastelli-usda-choice-boneless-black-angus-prime-rib-roast%2C-7-lbs.product.100404305.html">rib roast&lt;/a>, bone removed, fat trimmed off, and tied&lt;/li>
-&lt;li>8 ounces (1 bar) unsalted butter&lt;/li>
-&lt;li>4 tablespoons &lt;a href="https://www.amazon.com/McCormick-Grill-Mates-Montreal-Seasoning/dp/B0758GCNG3/">Montreal Steak Seasoning&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Move oven rack to middle position.
+Refrigerate in an airtight container until ready to serve.&lt;/p&gt;
+&lt;h3 id=&#34;roast&#34;&gt;Roast&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;4 pounds &lt;a href=&#34;https://www.costco.com/rastelli-usda-choice-boneless-black-angus-prime-rib-roast%2C-7-lbs.product.100404305.html&#34;&gt;rib roast&lt;/a&gt;, bone removed, fat trimmed off, and tied&lt;/li&gt;
+&lt;li&gt;8 ounces (1 bar) unsalted butter&lt;/li&gt;
+&lt;li&gt;4 tablespoons &lt;a href=&#34;https://www.amazon.com/McCormick-Grill-Mates-Montreal-Seasoning/dp/B0758GCNG3/&#34;&gt;Montreal Steak Seasoning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Move oven rack to middle position.
 Preheat oven to 500 F.
 Rinse off rib roast and pat dry with a paper towel.
 Mix herbs with butter.
 Cover rib roast with a thick layer of the butter-herb mixture.
-Place rib roast on roasting rack in a roasting pan.&lt;/p></description></item><item><title>Eel Over Rice</title><link>https://ggr.com/eel-over-rice.html</link><pubDate>Fri, 29 Jul 2022 00:53:55 -0700</pubDate><guid>https://ggr.com/eel-over-rice.html</guid><description>&lt;p>Makes 4 servings.&lt;/p>
-&lt;ul>
-&lt;li>250g (1 package) &lt;a href="https://www.sayweee.com/en/product/Unagi-Kabayaki-Charcoal-Grilled-Eel--Frozen/13138">eel&lt;/a>, cooked, frozen, and covered in unagi sauce&lt;/li>
-&lt;li>1 cup of &lt;a href="https://www.amazon.com/Lundberg-Family-Farms-Gluten-Free-Certified/dp/B08QFK1L44/">mixed rice&lt;/a>, dry&lt;/li>
-&lt;li>water&lt;/li>
-&lt;/ul>
-&lt;p>Add rice to rice cooker.
+Place rib roast on roasting rack in a roasting pan.&lt;/p&gt;
+&lt;p&gt;Put in oven.
+Cook at 500 F for 20 minutes plus 1 minute per extra pound of rib roast.
+Turn off heat, but do not open the oven.
+Wait for 2 hours while the rib roast continues to cook in the ambient
+heat of the oven.
+Open the oven and remove the roast.
+Cut the roast into 0.5 inch thick slices.
+Serve with sauce on the side.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eel Over Rice</title>
+      <link>https://ggr.com/eel-over-rice.html</link>
+      <pubDate>Fri, 29 Jul 2022 00:53:55 -0700</pubDate>
+      
+      <guid>https://ggr.com/eel-over-rice.html</guid>
+      <description>&lt;p&gt;Makes 4 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;250g (1 package) &lt;a href=&#34;https://www.sayweee.com/en/product/Unagi-Kabayaki-Charcoal-Grilled-Eel--Frozen/13138&#34;&gt;eel&lt;/a&gt;, cooked, frozen, and covered in unagi sauce&lt;/li&gt;
+&lt;li&gt;1 cup of &lt;a href=&#34;https://www.amazon.com/Lundberg-Family-Farms-Gluten-Free-Certified/dp/B08QFK1L44/&#34;&gt;mixed rice&lt;/a&gt;, dry&lt;/li&gt;
+&lt;li&gt;water&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Add rice to rice cooker.
 Fill rice cooker with water, up to the &amp;lsquo;1&amp;rsquo; line.
 Set the rice cooker to &amp;lsquo;brown rice&amp;rsquo; and push the &amp;lsquo;start&amp;rsquo; button.
 Remove frozen eel from package and place on toaster-oven sized baking sheet.
 Squeeze as much of the unagi sauce as possible from the package, onto the eel.
 Move toaster oven rack to middle position.
 Broil eel in toaster oven for 15 minutes.
-Serve eel over rice.&lt;/p></description></item><item><title>Strawberries With Balsamic</title><link>https://ggr.com/strawberries-with-balsamic.html</link><pubDate>Thu, 28 Jul 2022 01:50:49 -0700</pubDate><guid>https://ggr.com/strawberries-with-balsamic.html</guid><description>&lt;p>Makes 8 servings.
-Eat it on its own or over a scoop of vanilla ice cream.&lt;/p>
-&lt;ul>
-&lt;li>4 cups fresh strawberries&lt;/li>
-&lt;li>4 tablespoons balsamic vinegar&lt;/li>
-&lt;li>2 tablespoons sugar&lt;/li>
-&lt;li>0.25 teaspoon freshly ground black pepper&lt;/li>
-&lt;/ul>
-&lt;p>Mix sugar, vinegar, and pepper in a large bowl.
+Serve eel over rice.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strawberries With Balsamic</title>
+      <link>https://ggr.com/strawberries-with-balsamic.html</link>
+      <pubDate>Thu, 28 Jul 2022 01:50:49 -0700</pubDate>
+      
+      <guid>https://ggr.com/strawberries-with-balsamic.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.
+Eat it on its own or over a scoop of vanilla ice cream.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4 cups fresh strawberries&lt;/li&gt;
+&lt;li&gt;4 tablespoons balsamic vinegar&lt;/li&gt;
+&lt;li&gt;2 tablespoons sugar&lt;/li&gt;
+&lt;li&gt;0.25 teaspoon freshly ground black pepper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mix sugar, vinegar, and pepper in a large bowl.
 Wash strawberries, cut off stems, and slice into thick pieces.
 Toss strawberries with vinegar mixture.
-Serve.&lt;/p>
-&lt;p>Adapted from a recipe at &lt;a href="https://www.foodnetwork.com/recipes/ina-garten/strawberries-with-balsamic-vinegar-recipe-1925327">The Food Network&lt;/a>.&lt;/p></description></item><item><title>Miso Sea Bass</title><link>https://ggr.com/miso-sea-bass.html</link><pubDate>Thu, 28 Jul 2022 00:54:16 -0700</pubDate><guid>https://ggr.com/miso-sea-bass.html</guid><description>&lt;p>Makes 6 servings.&lt;/p>
-&lt;ul>
-&lt;li>1.5 pounds &lt;a href="https://www.costco.com/kirkland-signature-wild-chilean-sea-bass%2C-4-oz---6-oz-portion%2C-1.5-lbs.product.100444151.html">sea bass&lt;/a>, skin off&lt;/li>
-&lt;li>2 tablespoons red miso&lt;/li>
-&lt;li>1 tablespoon sake&lt;/li>
-&lt;li>1 tablespoon mirin&lt;/li>
-&lt;li>2 teaspoons soy sauce&lt;/li>
-&lt;li>2 teaspoons grated ginger&lt;/li>
-&lt;li>1 tablespoon sugar&lt;/li>
-&lt;/ul>
-&lt;p>Mix all ingredients, except the fish, in a sealable glass container.
+Serve.&lt;/p&gt;
+&lt;p&gt;Adapted from a recipe at &lt;a href=&#34;https://www.foodnetwork.com/recipes/ina-garten/strawberries-with-balsamic-vinegar-recipe-1925327&#34;&gt;The Food Network&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miso Sea Bass</title>
+      <link>https://ggr.com/miso-sea-bass.html</link>
+      <pubDate>Thu, 28 Jul 2022 00:54:16 -0700</pubDate>
+      
+      <guid>https://ggr.com/miso-sea-bass.html</guid>
+      <description>&lt;p&gt;Makes 6 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.5 pounds &lt;a href=&#34;https://www.costco.com/kirkland-signature-wild-chilean-sea-bass%2C-4-oz---6-oz-portion%2C-1.5-lbs.product.100444151.html&#34;&gt;sea bass&lt;/a&gt;, skin off&lt;/li&gt;
+&lt;li&gt;2 tablespoons red miso&lt;/li&gt;
+&lt;li&gt;1 tablespoon sake&lt;/li&gt;
+&lt;li&gt;1 tablespoon mirin&lt;/li&gt;
+&lt;li&gt;2 teaspoons soy sauce&lt;/li&gt;
+&lt;li&gt;2 teaspoons grated ginger&lt;/li&gt;
+&lt;li&gt;1 tablespoon sugar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mix all ingredients, except the fish, in a sealable glass container.
 Add fish to the container and spoon marinade over the top.
-Seal container and marinate fish in refrigerator overnight.&lt;/p>
-&lt;p>Place fish on a baking sheet. Pour half the marinade over the top, discard
+Seal container and marinate fish in refrigerator overnight.&lt;/p&gt;
+&lt;p&gt;Place fish on a baking sheet. Pour half the marinade over the top, discard
 the rest.
 Move toaster oven rack to the middle position.
 Broil fish for 22 minutes in toaster oven.
-Serve.&lt;/p></description></item><item><title>Spaghetti Squash</title><link>https://ggr.com/spaghetti-squash.html</link><pubDate>Tue, 19 Jul 2022 14:12:41 -0700</pubDate><guid>https://ggr.com/spaghetti-squash.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;ul>
-&lt;li>1 spaghetti squash&lt;/li>
-&lt;li>1 large onion&lt;/li>
-&lt;li>0.25 cup butter&lt;/li>
-&lt;li>0.5 cup sour cream&lt;/li>
-&lt;li>2 cups grated Monterey Jack cheese&lt;/li>
-&lt;li>paprika&lt;/li>
-&lt;li>salt&lt;/li>
-&lt;li>pepper&lt;/li>
-&lt;/ul>
-&lt;p>Cut squash lengthwise and remove seeds.
+Serve.&lt;/p&gt;
+&lt;p&gt;Adapted from a recipe at &lt;a href=&#34;https://cooking.nytimes.com/recipes/1015737-miso-glazed-sea-bass&#34;&gt;The New York Times&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spaghetti Squash</title>
+      <link>https://ggr.com/spaghetti-squash.html</link>
+      <pubDate>Tue, 19 Jul 2022 14:12:41 -0700</pubDate>
+      
+      <guid>https://ggr.com/spaghetti-squash.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 spaghetti squash&lt;/li&gt;
+&lt;li&gt;1 large onion&lt;/li&gt;
+&lt;li&gt;0.25 cup butter&lt;/li&gt;
+&lt;li&gt;0.5 cup sour cream&lt;/li&gt;
+&lt;li&gt;2 cups grated Monterey Jack cheese&lt;/li&gt;
+&lt;li&gt;paprika&lt;/li&gt;
+&lt;li&gt;salt&lt;/li&gt;
+&lt;li&gt;pepper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cut squash lengthwise and remove seeds.
 Place cut side down in a pot with 2 inches of water.
 Cover and boil for 20 minutes.
 After cooked, remove squash from shell with fork and reserve
-spaghetti-like strands.&lt;/p>
-&lt;p>Chop onion and sauté in butter until transparent.
+spaghetti-like strands.&lt;/p&gt;
+&lt;p&gt;Chop onion and sauté in butter until transparent.
 To the reserved squash add onion, sour cream, salt, pepper
 and 1 cup of cheese.
 Place in buttered casserole and sprinkle with remaining cheese
 and paprika.
 Bake at 325 F for 30 minutes.
-Serve.&lt;/p></description></item><item><title>Sidecar</title><link>https://ggr.com/sidecar.html</link><pubDate>Tue, 19 Jul 2022 12:11:46 -0700</pubDate><guid>https://ggr.com/sidecar.html</guid><description>&lt;p>Makes 1 serving.&lt;/p>
-&lt;ul>
-&lt;li>2 shots Grand Marnier&lt;/li>
-&lt;li>1 shot lemon juice&lt;/li>
-&lt;li>1 ice cube&lt;/li>
-&lt;li>sugar&lt;/li>
-&lt;/ul>
-&lt;h3 id="sugared-glass">Sugared Glass&lt;/h3>
-&lt;p>Rub lemon along rim of cocktail glass.
-Dip rim of cocktail glass in plate of sugar.&lt;/p>
-&lt;h3 id="drink">Drink&lt;/h3>
-&lt;p>Add ice cube to Yeti Rambler.
+Serve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sidecar</title>
+      <link>https://ggr.com/sidecar.html</link>
+      <pubDate>Tue, 19 Jul 2022 12:11:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/sidecar.html</guid>
+      <description>&lt;p&gt;Makes 1 serving.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2 shots Grand Marnier&lt;/li&gt;
+&lt;li&gt;1 shot lemon juice&lt;/li&gt;
+&lt;li&gt;1 ice cube&lt;/li&gt;
+&lt;li&gt;sugar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sugared-glass&#34;&gt;Sugared Glass&lt;/h3&gt;
+&lt;p&gt;Rub lemon along rim of cocktail glass.
+Dip rim of cocktail glass in plate of sugar.&lt;/p&gt;
+&lt;h3 id=&#34;drink&#34;&gt;Drink&lt;/h3&gt;
+&lt;p&gt;Add ice cube to Yeti Rambler.
 Squeeze a lemon and pour through strainer into a shot glass to measure.
 Add lemon juice to rambler.
 Add Grand Marnier to rambler.
 Close lid.
 Shake for 30 seconds.
 Pour into sugared glass.
-Serve.&lt;/p></description></item><item><title>Bean Dip</title><link>https://ggr.com/bean-dip.html</link><pubDate>Tue, 19 Jul 2022 11:12:25 -0700</pubDate><guid>https://ggr.com/bean-dip.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;ul>
-&lt;li>16 ounces (1 can) Rosarita Traditional refried beans&lt;/li>
-&lt;li>0.5 cup Knudsen sour cream (full fat)&lt;/li>
-&lt;li>1 cup Tillamook medium cheddar cheese&lt;/li>
-&lt;li>0.5 cup Pace Picante (original, mild) salsa&lt;/li>
-&lt;li>14 ounces (1 bag) Casa Sanchez tortilla chips (thick &amp;amp; crispy)&lt;/li>
-&lt;/ul>
-&lt;p>Spread beans across the bottom of a 9&amp;quot; pie plate.
+Serve.&lt;/p&gt;
+&lt;p&gt;Adapted from &lt;a href=&#34;https://www.diffordsguide.com/cocktails/recipe/892/grand-sidecar&#34;&gt;Difford&amp;rsquo;s Guide&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bean Dip</title>
+      <link>https://ggr.com/bean-dip.html</link>
+      <pubDate>Tue, 19 Jul 2022 11:12:25 -0700</pubDate>
+      
+      <guid>https://ggr.com/bean-dip.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;16 ounces (1 can) Rosarita Traditional refried beans&lt;/li&gt;
+&lt;li&gt;0.5 cup Knudsen sour cream (full fat)&lt;/li&gt;
+&lt;li&gt;1 cup Tillamook medium cheddar cheese&lt;/li&gt;
+&lt;li&gt;0.5 cup Pace Picante (original, mild) salsa&lt;/li&gt;
+&lt;li&gt;14 ounces (1 bag) Casa Sanchez tortilla chips (thick &amp;amp; crispy)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Spread beans across the bottom of a 9&amp;quot; pie plate.
 Layer sour cream on top, then layer on salsa, then cheese.
 Cover with plastic wrap and refrigerate until ready to eat.
-Serve with tortilla chips.&lt;/p></description></item><item><title>Ham Hock Stew</title><link>https://ggr.com/ham-hock-stew.html</link><pubDate>Mon, 18 Jul 2022 19:20:46 -0700</pubDate><guid>https://ggr.com/ham-hock-stew.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;ul>
-&lt;li>1 ham hock&lt;/li>
-&lt;li>16 ounces (1 package) black eye peas&lt;/li>
-&lt;li>4 cups white rice&lt;/li>
-&lt;/ul>
-&lt;h3 id="defart-the-beans">Defart the Beans&lt;/h3>
-&lt;p>Before cooking the beans, soak overnight in water.
-Throw out water. Repeat.&lt;/p>
-&lt;h3 id="make-the-stew">Make the Stew&lt;/h3>
-&lt;p>Add ham hock to a large pot.
+Serve with tortilla chips.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ham Hock Stew</title>
+      <link>https://ggr.com/ham-hock-stew.html</link>
+      <pubDate>Mon, 18 Jul 2022 19:20:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/ham-hock-stew.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 ham hock&lt;/li&gt;
+&lt;li&gt;16 ounces (1 package) black eye peas&lt;/li&gt;
+&lt;li&gt;4 cups white rice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;defart-the-beans&#34;&gt;Defart the Beans&lt;/h3&gt;
+&lt;p&gt;Before cooking the beans, soak overnight in water.
+Throw out water. Repeat.&lt;/p&gt;
+&lt;h3 id=&#34;make-the-stew&#34;&gt;Make the Stew&lt;/h3&gt;
+&lt;p&gt;Add ham hock to a large pot.
 Add black eye peas.
 Fill pot with water until ham hock is covered.
 Simmer for 4 hours.
 Make rice.
-Serve stew over rice.&lt;/p></description></item><item><title>Deviled Eggs</title><link>https://ggr.com/deviled-eggs.html</link><pubDate>Mon, 18 Jul 2022 15:55:46 -0700</pubDate><guid>https://ggr.com/deviled-eggs.html</guid><description>&lt;p>Makes 6 servings.&lt;/p>
-&lt;ul>
-&lt;li>6 eggs&lt;/li>
-&lt;li>4 tablespoons Best Foods mayonnaise&lt;/li>
-&lt;li>2 teaspoons Grey Poupon mustard&lt;/li>
-&lt;li>2 teaspoons apple cider vinegar&lt;/li>
-&lt;li>1 teaspoon smoked paprika&lt;/li>
-&lt;/ul>
-&lt;p>Heat on high heat until water is boiling.
+Serve stew over rice.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deviled Eggs</title>
+      <link>https://ggr.com/deviled-eggs.html</link>
+      <pubDate>Mon, 18 Jul 2022 15:55:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/deviled-eggs.html</guid>
+      <description>&lt;p&gt;Makes 6 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;6 eggs&lt;/li&gt;
+&lt;li&gt;4 tablespoons Best Foods mayonnaise&lt;/li&gt;
+&lt;li&gt;2 teaspoons Grey Poupon mustard&lt;/li&gt;
+&lt;li&gt;2 teaspoons apple cider vinegar&lt;/li&gt;
+&lt;li&gt;1 teaspoon smoked paprika&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Heat on high heat until water is boiling.
 Carefully place eggs into the boiling water.
 Putting the eggs after the water the water is boiling, rather than before,
 is the key to making them easy to peel.
@@ -254,14 +511,24 @@ Add mayonnaise, mustard, and vinegar to egg yolks.
 Mix together thouroughly.
 Scoop batter into eggs.
 Sprinkle parika over the eggs.
-Serve.&lt;/p></description></item><item><title>Sourdough Bread</title><link>https://ggr.com/sourdough-bread.html</link><pubDate>Mon, 18 Jul 2022 13:31:46 -0700</pubDate><guid>https://ggr.com/sourdough-bread.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;ul>
-&lt;li>100 grams starter&lt;/li>
-&lt;li>375 grams water&lt;/li>
-&lt;li>500 grams bread flour&lt;/li>
-&lt;li>10 grams salt&lt;/li>
-&lt;/ul>
-&lt;p>Add starter to a large bowl.
+Serve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sourdough Bread</title>
+      <link>https://ggr.com/sourdough-bread.html</link>
+      <pubDate>Mon, 18 Jul 2022 13:31:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/sourdough-bread.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;100 grams starter&lt;/li&gt;
+&lt;li&gt;375 grams water&lt;/li&gt;
+&lt;li&gt;500 grams bread flour&lt;/li&gt;
+&lt;li&gt;10 grams salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Add starter to a large bowl.
 Add 350 grams water.
 Mix starter and water together using a spatula.
 Add flour.
@@ -269,130 +536,354 @@ Mix using hands.
 Scrape hands clean.
 Wait 30 minutes.
 Add 25 grams water and 10 grams salt.
-Mix using hands.&lt;/p>
-&lt;p>Wait 30 minutes.
+Mix using hands.&lt;/p&gt;
+&lt;p&gt;Wait 30 minutes.
 Rinse hands in water to get them wet.
 Fold dough 3 times.
-Repeat for 6 hours, or until dough feels fluffy.&lt;/p></description></item><item><title>Oatmeal Cookies</title><link>https://ggr.com/oatmeal-cookies.html</link><pubDate>Mon, 18 Jul 2022 08:44:46 -0700</pubDate><guid>https://ggr.com/oatmeal-cookies.html</guid><description>&lt;p>Makes about 15 cookies.&lt;/p>
-&lt;ul>
-&lt;li>3 cups old-fashioned rolled oats&lt;/li>
-&lt;li>1.5 cups bread flour&lt;/li>
-&lt;li>5 tablespoons brewers yeast&lt;/li>
-&lt;li>3 tablespoons ground flaxseed&lt;/li>
-&lt;li>0.5 teaspoon baking powder&lt;/li>
-&lt;li>0.5 teaspoon baking soda&lt;/li>
-&lt;li>0.5 teaspoon ground cinnamon&lt;/li>
-&lt;li>0.25 teaspoon salt&lt;/li>
-&lt;li>12 tablespoons organic unsalted butter&lt;/li>
-&lt;li>4 tablespoons unrefined organic virgin coconut oil&lt;/li>
-&lt;li>1.5 cups organic brown sugar&lt;/li>
-&lt;li>1 large egg + 1 large egg yolk&lt;/li>
-&lt;li>2 teaspoons vanilla extract&lt;/li>
-&lt;li>1.5 cups semisweet chocolate chips&lt;/li>
-&lt;/ul>
-&lt;h2 id="directions">Directions&lt;/h2>
-&lt;p>In a large bowl, whisk together the oats, flour, yeast, flaxseed,
-baking powder, soda, cinnamon and salt.&lt;/p></description></item><item><title>Buttermilk Pancakes</title><link>https://ggr.com/buttermilk-pancakes.html</link><pubDate>Mon, 18 Jul 2022 05:19:46 -0700</pubDate><guid>https://ggr.com/buttermilk-pancakes.html</guid><description>&lt;p>Makes 2 servings.&lt;/p>
-&lt;ul>
-&lt;li>1 cup (5 ounces) all-purpose flour&lt;/li>
-&lt;li>1 tablespoon sugar&lt;/li>
-&lt;li>0.5 teaspoon baking powder&lt;/li>
-&lt;li>0.25 teaspoon baking soda&lt;/li>
-&lt;li>0.25 teaspoon salt&lt;/li>
-&lt;li>1 cup buttermilk&lt;/li>
-&lt;li>3 tablespoons sour cream&lt;/li>
-&lt;li>1 large egg&lt;/li>
-&lt;li>3 tablespoons unsalted butter, melted and cooled&lt;/li>
-&lt;li>avocado oil spray&lt;/li>
-&lt;/ul>
-&lt;p>Whisk flour, sugar, baking powder, baking soda, and salt together in medium bowl.
+Repeat for 6 hours, or until dough feels fluffy.&lt;/p&gt;
+&lt;p&gt;Lightly flour counter.
+Dump dough on counter.
+Shape dough into a ball and flip over.
+Wait 30 minutes.
+Flour top of dough and flip.
+Flour hands.
+Stretch dough wide.
+Fold over left, right, then top.
+Place dough it towel lined bowl.
+Refrigerate for 2 days.&lt;/p&gt;
+&lt;p&gt;Remove dough from refrigerator.
+Finish rise at room temperature, up to several hours.
+Put stainless steel pots in oven.
+Heat oven to 500 F.
+Pour dough into bottom pot.
+Place pot in oven.
+Place top pot over bottom pot, forming a seal.
+Reduce heat to 450 F.
+Bake for 20 minutes.
+Remove top pot.
+Bake for 25 more minutes.
+Remove bread from oven and pot, placing it a cooling rack.
+Cool for 1 hour.
+Serve with butter.&lt;/p&gt;
+&lt;p&gt;Adapted from Basic Country Bread in &lt;a href=&#34;https://www.amazon.com/Tartine-Bread-Chad-Robertson/dp/0811870413/&#34;&gt;Tartine Bread&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oatmeal Cookies</title>
+      <link>https://ggr.com/oatmeal-cookies.html</link>
+      <pubDate>Mon, 18 Jul 2022 08:44:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/oatmeal-cookies.html</guid>
+      <description>&lt;p&gt;Makes about 15 cookies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3 cups old-fashioned rolled oats&lt;/li&gt;
+&lt;li&gt;1.5 cups bread flour&lt;/li&gt;
+&lt;li&gt;5 tablespoons brewers yeast&lt;/li&gt;
+&lt;li&gt;3 tablespoons ground flaxseed&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon baking powder&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon baking soda&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon ground cinnamon&lt;/li&gt;
+&lt;li&gt;0.25 teaspoon salt&lt;/li&gt;
+&lt;li&gt;12 tablespoons organic unsalted butter&lt;/li&gt;
+&lt;li&gt;4 tablespoons unrefined organic virgin coconut oil&lt;/li&gt;
+&lt;li&gt;1.5 cups organic brown sugar&lt;/li&gt;
+&lt;li&gt;1 large egg + 1 large egg yolk&lt;/li&gt;
+&lt;li&gt;2 teaspoons vanilla extract&lt;/li&gt;
+&lt;li&gt;1.5 cups semisweet chocolate chips&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;directions&#34;&gt;Directions&lt;/h2&gt;
+&lt;p&gt;In a large bowl, whisk together the oats, flour, yeast, flaxseed,
+baking powder, soda, cinnamon and salt.&lt;/p&gt;
+&lt;p&gt;In the bowl of your electric mixer, beat the butter and coconut
+oil on medium speed until creamy.
+Add in sugar and beat on medium speed until fluffy,
+about 5 minutes, scraping down the sides of the bowl if
+needed. Add in the egg and egg yolk, beating until combined,
+about 3 minutes. Add in the vanilla extract and beat until
+combined again. Gradually add in the dry ingredients, beating
+on low speed until just combined.
+Stir in the chocolate chips with a spatula until they are evenly dispersed.&lt;/p&gt;
+&lt;p&gt;Scoop the dough into 1.5-inch rounds (I use an ice cream scoop so they are
+fairly uniform in size) and freeze overnight. When ready, place
+on a parchment lined baking sheet and bake for 18 minutes (starting
+with a cold oven) at 350 F. Take out of the oven and allow to cool for
+15 minutes before eating, giving the cookies time to solidify.&lt;/p&gt;
+&lt;p&gt;Adapted from &lt;a href=&#34;https://www.howsweeteats.com/2015/02/lactation-cookies/&#34;&gt;How Sweat Eats&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Buttermilk Pancakes</title>
+      <link>https://ggr.com/buttermilk-pancakes.html</link>
+      <pubDate>Mon, 18 Jul 2022 05:19:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/buttermilk-pancakes.html</guid>
+      <description>&lt;p&gt;Makes 2 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 cup (5 ounces) all-purpose flour&lt;/li&gt;
+&lt;li&gt;1 tablespoon sugar&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon baking powder&lt;/li&gt;
+&lt;li&gt;0.25 teaspoon baking soda&lt;/li&gt;
+&lt;li&gt;0.25 teaspoon salt&lt;/li&gt;
+&lt;li&gt;1 cup buttermilk&lt;/li&gt;
+&lt;li&gt;3 tablespoons sour cream&lt;/li&gt;
+&lt;li&gt;1 large egg&lt;/li&gt;
+&lt;li&gt;3 tablespoons unsalted butter, melted and cooled&lt;/li&gt;
+&lt;li&gt;avocado oil spray&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Whisk flour, sugar, baking powder, baking soda, and salt together in medium bowl.
 In second medium bowl, whisk together buttermilk,
 sour cream, eggs, and melted butter.
 Make well in center of dry ingredients and pour in wet ingredients;
 gently stir until just combined (batter should remain lumpy,
 with few streaks of flour).
 Do not overmix.
-Let batter sit for 10 minutes.&lt;/p></description></item><item><title>Chicken Salad</title><link>https://ggr.com/chicken-salad.html</link><pubDate>Sun, 17 Jul 2022 18:17:46 -0700</pubDate><guid>https://ggr.com/chicken-salad.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;h3 id="pastry-boats">Pastry Boats&lt;/h3>
-&lt;ul>
-&lt;li>0.66 cup water&lt;/li>
-&lt;li>5 tablespoons butter&lt;/li>
-&lt;li>0.5 teaspoon salt&lt;/li>
-&lt;li>0.66 cup all-purpose flour&lt;/li>
-&lt;li>3 eggs&lt;/li>
-&lt;/ul>
-&lt;p>In a 2-quart pan, combine the water, butter, and salt.
+Let batter sit for 10 minutes.&lt;/p&gt;
+&lt;p&gt;Heat 8-inch stainless steel skillet.
+Spray with avocado oil.
+Add a heaping spoonful of batter into the pan.
+Cook until edges are set, first side is golden brown, and
+bubbles on surface are just beginning to break, 2 to 3 minutes.
+Using thin, wide spatula, flip pancake and continue to cook until
+second side is golden brown, 1 to 2 minutes longer.
+Repeat with remaining batter, using remaining oil as necessary.
+Serve pancakes immediately, or transfer to 200 F, preheated oven.&lt;/p&gt;
+&lt;p&gt;Adapted from BEST BUTTERMILK PANCAKES from &lt;a href=&#34;https://www.amazon.com/Cooks-Illustrated-Cookbook-Americas-Magazine/dp/1933615893/&#34;&gt;Cook&amp;rsquo;s Illustrated Cookbook&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chicken Salad</title>
+      <link>https://ggr.com/chicken-salad.html</link>
+      <pubDate>Sun, 17 Jul 2022 18:17:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/chicken-salad.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;h3 id=&#34;pastry-boats&#34;&gt;Pastry Boats&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;0.66 cup water&lt;/li&gt;
+&lt;li&gt;5 tablespoons butter&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon salt&lt;/li&gt;
+&lt;li&gt;0.66 cup all-purpose flour&lt;/li&gt;
+&lt;li&gt;3 eggs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a 2-quart pan, combine the water, butter, and salt.
 Quickly bring to a boil, stirring to melt butter.
 Add flour all at once, remove pan from heat, and beat
 ingredients with a wire whip until smooth.
 Beat in eggs, one at a time, until mixture is smooth
-and glossy.&lt;/p></description></item><item><title>Cheesecake</title><link>https://ggr.com/cheesecake.html</link><pubDate>Sun, 17 Jul 2022 09:07:46 -0700</pubDate><guid>https://ggr.com/cheesecake.html</guid><description>&lt;p>Makes 12 servings.&lt;/p>
-&lt;ul>
-&lt;li>16 ounces (2 boxes) &lt;a href="https://www.amazon.com/Markenzwieback-Zwieback-Toast-8oz-Pack/dp/B07KYVNLNM/">Zwieback crackers&lt;/a> or plain biscotti&lt;/li>
-&lt;li>1.5 cup sugar&lt;/li>
-&lt;li>1 cup unsalted butter&lt;/li>
-&lt;li>32 ounces (4 bars) Philedelphia cream cheese&lt;/li>
-&lt;li>4 tablespoons all-purpose flour&lt;/li>
-&lt;li>2 tablespoons vanilla extract&lt;/li>
-&lt;li>8 eggs&lt;/li>
-&lt;li>2 cup evaporated milk or light cream or half &amp;amp; half&lt;/li>
-&lt;/ul>
-&lt;p>Take eggs, cheese, and butter out of the fridge 20 minutes before
+and glossy.&lt;/p&gt;
+&lt;p&gt;Spoon into 4 greased 6-inch metal bowls.
+Spread evenly inside bowls.&lt;/p&gt;
+&lt;p&gt;Bake crust in a 400 F oven for 40 minutes or until puffed
+and brown.
+Turn off oven.
+Prick with a wooden pick in 4 places and leave
+in closed oven for about 10 minutes to dry, then remove
+bowls from oven and cool completely.
+Remove crust from bowls.&lt;/p&gt;
+&lt;p&gt;If you make the pastly boat a day ahead, cover loosely
+with foil and store at room temperature.  For longer storage,
+wrap completely in foil and freeze.
+Thaw completely, then recrisp pastry uncovered in a 400 F
+oven for 10 minutes.
+Recrisp even if stored at room temperature. Cool, then
+add the salad of your choice and garnish.&lt;/p&gt;
+&lt;h3 id=&#34;salad-filling&#34;&gt;Salad Filling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3 cups skinless, boneless chicken thighs, cooked and chopped&lt;/li&gt;
+&lt;li&gt;8 ounces (1 can) sliced water chestnuts, drained&lt;/li&gt;
+&lt;li&gt;0.5 cup green onion, thinly sliced&lt;/li&gt;
+&lt;li&gt;2 hard boiled eggs&lt;/li&gt;
+&lt;li&gt;1 cup sour cream&lt;/li&gt;
+&lt;li&gt;1 lime&lt;/li&gt;
+&lt;li&gt;2 teaspoons sugar&lt;/li&gt;
+&lt;li&gt;2 teaspoons curry powder&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon ground ginger&lt;/li&gt;
+&lt;li&gt;0.25 pound edible pod-peas&lt;/li&gt;
+&lt;li&gt;0.25 cup of fresh coriander or parsley&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Combine cooked chicken (in bite-size pieces), water chestnuts
+(drained and sliced), thinly
+sliced green onion, and 2 hard boiled eggs (coarsely chopped).
+In a small bowl, stir together sour cream, lime juice, sugar, curry powder, and ground ginger.
+Pour dressing over chicken mixture and mix well.
+Season to taste with salt and pepper.
+Cover and chill up to 24 hours.&lt;/p&gt;
+&lt;h3 id=&#34;dinner-is-served&#34;&gt;Dinner Is Served&lt;/h3&gt;
+&lt;p&gt;Remove tips and strings from edible-pod peas.
+Drop into a pan of rapidly boiling water and boil for 1.5 minutes.
+Drain, plunge into cold water, and drain again.
+Cover and chill if cooked ahead.&lt;/p&gt;
+&lt;p&gt;To serve, arrange pod peas in bottom and up the sides of the
+pastry boats.
+Pile chicken salad on top and garnish with fresh coriander
+(cilantro) or parsley.&lt;/p&gt;
+&lt;p&gt;Adapted from &amp;lsquo;Supper Salad Arrives in a Pastry Boat&amp;rsquo; from a magazine I don&amp;rsquo;t remember
+and Google couldn&amp;rsquo;t find.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cheesecake</title>
+      <link>https://ggr.com/cheesecake.html</link>
+      <pubDate>Sun, 17 Jul 2022 09:07:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/cheesecake.html</guid>
+      <description>&lt;p&gt;Makes 12 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;16 ounces (2 boxes) &lt;a href=&#34;https://www.amazon.com/Markenzwieback-Zwieback-Toast-8oz-Pack/dp/B07KYVNLNM/&#34;&gt;Zwieback crackers&lt;/a&gt; or plain biscotti&lt;/li&gt;
+&lt;li&gt;1.5 cup sugar&lt;/li&gt;
+&lt;li&gt;1 cup unsalted butter&lt;/li&gt;
+&lt;li&gt;32 ounces (4 bars) Philedelphia cream cheese&lt;/li&gt;
+&lt;li&gt;4 tablespoons all-purpose flour&lt;/li&gt;
+&lt;li&gt;2 tablespoons vanilla extract&lt;/li&gt;
+&lt;li&gt;8 eggs&lt;/li&gt;
+&lt;li&gt;2 cup evaporated milk or light cream or half &amp;amp; half&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Take eggs, cheese, and butter out of the fridge 20 minutes before
 starting (makes eggs froth more for a fluffier cheesecake; makes
-butter and cheese easier to work with).&lt;/p></description></item><item><title>Egg Rolls</title><link>https://ggr.com/egg-rolls.html</link><pubDate>Sun, 17 Jul 2022 08:23:46 -0700</pubDate><guid>https://ggr.com/egg-rolls.html</guid><description>&lt;p>Makes 12 servings.&lt;/p>
-&lt;h3 id="filling">Filling&lt;/h3>
-&lt;ul>
-&lt;li>0.5 pound shrimp&lt;/li>
-&lt;li>1 teaspoon dry sherry&lt;/li>
-&lt;li>0.5 teaspoon cornstarch&lt;/li>
-&lt;li>1 pound skinless, boneless chicken thighs&lt;/li>
-&lt;li>4 tablespoons avocado oil&lt;/li>
-&lt;li>2 tablespoons soy sauce&lt;/li>
-&lt;li>1 teaspoon salt&lt;/li>
-&lt;li>1 tablespoon sugar&lt;/li>
-&lt;li>1 pound (mung) bean sprouts&lt;/li>
-&lt;li>2 cups celery&lt;/li>
-&lt;li>5 stalks green onion&lt;/li>
-&lt;/ul>
-&lt;p>Mix shrimp with sherry, cornstarch and 0.5 teaspoon salt.
-Stir fry for 1 minute then set aside.&lt;/p>
-&lt;p>If chicken is used, stir fry in 1 tablespoon oil, 1 tablespoon soy sauce,
-and 1 teaspoon sugar.&lt;/p></description></item><item><title>Cranberry Sauce</title><link>https://ggr.com/cranberry-sauce.html</link><pubDate>Sun, 17 Jul 2022 02:01:46 -0700</pubDate><guid>https://ggr.com/cranberry-sauce.html</guid><description>&lt;p>Makes 12 servings.&lt;/p>
-&lt;ul>
-&lt;li>12 ounces (1 package) fresh cranberries&lt;/li>
-&lt;li>1 orange&lt;/li>
-&lt;li>1 apple&lt;/li>
-&lt;li>1 cup sugar&lt;/li>
-&lt;/ul>
-&lt;p>Add all ingredients to blender.
+butter and cheese easier to work with).&lt;/p&gt;
+&lt;p&gt;Process crackers into fine crumbs using a food processor. Mix crumbs,
+4 tablespoons sugar, and butter. Press crumb mixture against bottom and
+sides of 10&amp;quot; springform pan to form the crust.&lt;/p&gt;
+&lt;p&gt;Adjust oven rack to the middle position. Preheat oven to 325 F.&lt;/p&gt;
+&lt;p&gt;Blend cream cheese, remaining sugar, flour, and vanilla until smooth.
+Seperate eggs, storing yolks and whites in separate bowls.
+Beat egg yolks until light lemon color and frothy. Beat egg whites
+until stiff peaks but not dry. Fold egg yolks into cheese mixture.
+Blend light cream into cheese mixture. Fold egg whites into cheese
+mixture. Pour into prepared crust.&lt;/p&gt;
+&lt;p&gt;Bake for 1 hour. Stabbing middle with
+butter knife should come out clean when done.
+Cool completely at room temperature. Chill overnight.
+Serve cold.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Egg Rolls</title>
+      <link>https://ggr.com/egg-rolls.html</link>
+      <pubDate>Sun, 17 Jul 2022 08:23:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/egg-rolls.html</guid>
+      <description>&lt;p&gt;Makes 12 servings.&lt;/p&gt;
+&lt;h3 id=&#34;filling&#34;&gt;Filling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;0.5 pound shrimp&lt;/li&gt;
+&lt;li&gt;1 teaspoon dry sherry&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon cornstarch&lt;/li&gt;
+&lt;li&gt;1 pound skinless, boneless chicken thighs&lt;/li&gt;
+&lt;li&gt;4 tablespoons avocado oil&lt;/li&gt;
+&lt;li&gt;2 tablespoons soy sauce&lt;/li&gt;
+&lt;li&gt;1 teaspoon salt&lt;/li&gt;
+&lt;li&gt;1 tablespoon sugar&lt;/li&gt;
+&lt;li&gt;1 pound (mung) bean sprouts&lt;/li&gt;
+&lt;li&gt;2 cups celery&lt;/li&gt;
+&lt;li&gt;5 stalks green onion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mix shrimp with sherry, cornstarch and 0.5 teaspoon salt.
+Stir fry for 1 minute then set aside.&lt;/p&gt;
+&lt;p&gt;If chicken is used, stir fry in 1 tablespoon oil, 1 tablespoon soy sauce,
+and 1 teaspoon sugar.&lt;/p&gt;
+&lt;p&gt;Dice celery. Cut onions into 1-inch pieces.
+Stir fry everything for 1 minute.
+Sprinkle with salt, 2 teaspoons soy sauce, and 1 teaspoon sugar.
+Mix well.
+Cool mixture completely.&lt;/p&gt;
+&lt;h3 id=&#34;rolling&#34;&gt;Rolling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1 pound egg roll wrapper or lumpia wrapper&lt;/li&gt;
+&lt;li&gt;1 tablespoon flour&lt;/li&gt;
+&lt;li&gt;2 tablespoons water&lt;/li&gt;
+&lt;li&gt;avocado oil&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wrap egg roll with about 4 tablepoons of filling.
+If using egg roll wrapper, seal with water.
+If using lumpia wrapper, seal with mix flour and water in a small bowl and seal with that.&lt;/p&gt;
+&lt;p&gt;Cook or freeze immediately after rolling, otherwise the liquid
+in the roll will dissolve the wrapper.&lt;/p&gt;
+&lt;h3 id=&#34;frying&#34;&gt;Frying&lt;/h3&gt;
+&lt;p&gt;Fill deep frier with avocado oil and heat to 356 F.
+Deep fry egg rolls until golden brown.
+Serve hot or keep in 200 F oven until ready to eat.&lt;/p&gt;
+&lt;h3 id=&#34;freezing&#34;&gt;Freezing&lt;/h3&gt;
+&lt;p&gt;Place rolls on parchment paper on a baking sheet, spacing them out so they
+don&amp;rsquo;t touch. Once frozen, consolidate rolls into 1-gallon Ziploc
+freezer bags.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cranberry Sauce</title>
+      <link>https://ggr.com/cranberry-sauce.html</link>
+      <pubDate>Sun, 17 Jul 2022 02:01:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/cranberry-sauce.html</guid>
+      <description>&lt;p&gt;Makes 12 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;12 ounces (1 package) fresh cranberries&lt;/li&gt;
+&lt;li&gt;1 orange&lt;/li&gt;
+&lt;li&gt;1 apple&lt;/li&gt;
+&lt;li&gt;1 cup sugar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Add all ingredients to blender.
 Blend until smooth.
 Pour into a bowl and refrigerate until ready to eat.
-Serve.&lt;/p></description></item><item><title>Yellow Pepper Soup</title><link>https://ggr.com/yellow-pepper-soup.html</link><pubDate>Sun, 17 Jul 2022 00:20:46 -0700</pubDate><guid>https://ggr.com/yellow-pepper-soup.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;ul>
-&lt;li>1 medium onion&lt;/li>
-&lt;li>1 celery stalk&lt;/li>
-&lt;li>1 carrot&lt;/li>
-&lt;li>2 garlic cloves&lt;/li>
-&lt;li>2 tablespoons avocado oil&lt;/li>
-&lt;li>1.5 pounds yellow peppers&lt;/li>
-&lt;li>0.75 pound potatoes&lt;/li>
-&lt;li>3 cups water or chicken stock&lt;/li>
-&lt;li>1 tablespoon sea salt&lt;/li>
-&lt;li>1 small hot red pepper or 1 pinch chili pepper flakes&lt;/li>
-&lt;/ul>
-&lt;p>Chop onion, celery, carrot, and garlic.
+Serve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yellow Pepper Soup</title>
+      <link>https://ggr.com/yellow-pepper-soup.html</link>
+      <pubDate>Sun, 17 Jul 2022 00:20:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/yellow-pepper-soup.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 medium onion&lt;/li&gt;
+&lt;li&gt;1 celery stalk&lt;/li&gt;
+&lt;li&gt;1 carrot&lt;/li&gt;
+&lt;li&gt;2 garlic cloves&lt;/li&gt;
+&lt;li&gt;2 tablespoons avocado oil&lt;/li&gt;
+&lt;li&gt;1.5 pounds yellow peppers&lt;/li&gt;
+&lt;li&gt;0.75 pound potatoes&lt;/li&gt;
+&lt;li&gt;3 cups water or chicken stock&lt;/li&gt;
+&lt;li&gt;1 tablespoon sea salt&lt;/li&gt;
+&lt;li&gt;1 small hot red pepper or 1 pinch chili pepper flakes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chop onion, celery, carrot, and garlic.
 Add to 4-quart heavy-bottomed pot.
 Drizzle with oil, stir to coat over low heat for 10
-minutes or until vegetables are soft.&lt;/p></description></item><item><title>Hamburger</title><link>https://ggr.com/hamburger.html</link><pubDate>Sat, 16 Jul 2022 23:57:46 -0700</pubDate><guid>https://ggr.com/hamburger.html</guid><description>&lt;p>Makes 1 serving.&lt;/p>
-&lt;ul>
-&lt;li>1 frozen Impossible Burger patty&lt;/li>
-&lt;li>1 brioche burger bun&lt;/li>
-&lt;li>1 thick slice of Tillamook medium cheddar&lt;/li>
-&lt;li>1 slice of sweet onion&lt;/li>
-&lt;li>1 slice of heirloom tomato&lt;/li>
-&lt;li>0.5 avocado&lt;/li>
-&lt;/ul>
-&lt;p>Toast bun and set aside.
+minutes or until vegetables are soft.&lt;/p&gt;
+&lt;p&gt;Wash, remove seeds, chop peppers, and add to pot.
+Chop potatoes and add to pot.
+Add water, salt, and hot pepper.
+Simmer for 15 minutes or until potatoes are tender.&lt;/p&gt;
+&lt;p&gt;Puree the soup with an immersion mixer until smooth.
+Serve.&lt;/p&gt;
+&lt;p&gt;Adapted from &lt;a href=&#34;https://feastandfandom.net/47-fabios-yellow-pepper-soup-from-red-white-and-greens/&#34;&gt;Feast and Fandom&lt;/a&gt; who adapted it from &lt;a href=&#34;https://www.amazon.com/Red-White-Greens-Italian-Vegetables/dp/0060183667/&#34;&gt;Red, White, and Greens&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hamburger</title>
+      <link>https://ggr.com/hamburger.html</link>
+      <pubDate>Sat, 16 Jul 2022 23:57:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/hamburger.html</guid>
+      <description>&lt;p&gt;Makes 1 serving.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 frozen Impossible Burger patty&lt;/li&gt;
+&lt;li&gt;1 brioche burger bun&lt;/li&gt;
+&lt;li&gt;1 thick slice of Tillamook medium cheddar&lt;/li&gt;
+&lt;li&gt;1 slice of sweet onion&lt;/li&gt;
+&lt;li&gt;1 slice of heirloom tomato&lt;/li&gt;
+&lt;li&gt;0.5 avocado&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Toast bun and set aside.
 Cut slices of cheese, onion, and tomato and set aside.
 Slice avocado into 0.125 inch thick pieces and set aside.
 Set oven to broil at &amp;lsquo;HI&amp;rsquo; temperature.
@@ -404,89 +895,168 @@ Remove from broiler and place cheese on top of patty.
 Return to broiler for 2 minutes.
 Remove from broiler and put patty on bun.
 Layer on onion, tomato, and avocado.
-Serve.&lt;/p></description></item><item><title>Butter Chicken</title><link>https://ggr.com/butter-chicken.html</link><pubDate>Sat, 16 Jul 2022 18:01:46 -0700</pubDate><guid>https://ggr.com/butter-chicken.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;ul>
-&lt;li>14 ounces (1 can) diced tomatoes (do not drain)&lt;/li>
-&lt;li>1 cup water&lt;/li>
-&lt;li>5 garlic cloves&lt;/li>
-&lt;li>1 tablespoon minced ginger&lt;/li>
-&lt;li>1 teaspoon ground turmeric&lt;/li>
-&lt;li>1 teaspoon ground cayenne pepper&lt;/li>
-&lt;li>1 teaspoon paprika&lt;/li>
-&lt;li>2 teaspoons garam masala&lt;/li>
-&lt;li>1 teaspoon ground cumin&lt;/li>
-&lt;li>1 teaspoon salt&lt;/li>
-&lt;li>1 pound boneless, skinless chicken thighs&lt;/li>
-&lt;li>8 tablespoons (1 stick) unsalted butter&lt;/li>
-&lt;li>1 cup heavy cream or whole coconut milk&lt;/li>
-&lt;li>1 tablespoon sugar&lt;/li>
-&lt;li>0.5 cup chopped fresh cilantro&lt;/li>
-&lt;li>4 cups Basmati rice&lt;/li>
-&lt;/ul>
-&lt;p>Wash rice, add water, and start cooking in a rice cooker.&lt;/p></description></item><item><title>Kale Salad</title><link>https://ggr.com/kale-salad.html</link><pubDate>Sat, 16 Jul 2022 12:28:46 -0700</pubDate><guid>https://ggr.com/kale-salad.html</guid><description>&lt;p>Makes 4 servings.&lt;/p>
-&lt;h3 id="dressing">Dressing&lt;/h3>
-&lt;ul>
-&lt;li>0.5 cup peanut oil&lt;/li>
-&lt;li>2 tablespoons toasted sesame oil&lt;/li>
-&lt;li>3 teaspoons soy sauce&lt;/li>
-&lt;li>2 tablespoons seasoned rice wine vinegar&lt;/li>
-&lt;li>2 tablespoons honey&lt;/li>
-&lt;li>1 teaspoon freshly ground black pepper&lt;/li>
-&lt;li>0.25 teaspoon cayenne pepper&lt;/li>
-&lt;/ul>
-&lt;p>Add all ingredients to a mason jar and seal.
+Serve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Butter Chicken</title>
+      <link>https://ggr.com/butter-chicken.html</link>
+      <pubDate>Sat, 16 Jul 2022 18:01:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/butter-chicken.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;14 ounces (1 can) diced tomatoes (do not drain)&lt;/li&gt;
+&lt;li&gt;1 cup water&lt;/li&gt;
+&lt;li&gt;5 garlic cloves&lt;/li&gt;
+&lt;li&gt;1 tablespoon minced ginger&lt;/li&gt;
+&lt;li&gt;1 teaspoon ground turmeric&lt;/li&gt;
+&lt;li&gt;1 teaspoon ground cayenne pepper&lt;/li&gt;
+&lt;li&gt;1 teaspoon paprika&lt;/li&gt;
+&lt;li&gt;2 teaspoons garam masala&lt;/li&gt;
+&lt;li&gt;1 teaspoon ground cumin&lt;/li&gt;
+&lt;li&gt;1 teaspoon salt&lt;/li&gt;
+&lt;li&gt;1 pound boneless, skinless chicken thighs&lt;/li&gt;
+&lt;li&gt;8 tablespoons (1 stick) unsalted butter&lt;/li&gt;
+&lt;li&gt;1 cup heavy cream or whole coconut milk&lt;/li&gt;
+&lt;li&gt;1 tablespoon sugar&lt;/li&gt;
+&lt;li&gt;0.5 cup chopped fresh cilantro&lt;/li&gt;
+&lt;li&gt;4 cups Basmati rice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wash rice, add water, and start cooking in a rice cooker.&lt;/p&gt;
+&lt;p&gt;Mince ginger and add to Instant Pot.
+Press garlic and add to pot.
+Add tomatoes, water, tumeric, cayenne, paprika, 1 teaspoon
+garam masala, cumin, and salt.
+Mix thoroughly.
+Place chicken on top of the sauce.
+Select &amp;lsquo;Meat&amp;rsquo;, 10 minutes, and press start.
+Release the pressure.
+Remove the chicken and set aside.&lt;/p&gt;
+&lt;p&gt;Using an immersion blender in the pot, blend together all
+the ingredients into a
+smooth sauce.
+Set to simmer, stir occassionally, and cook until thick, around 20 minutes.
+Turn off the heat.
+Let the sauce cool for 5 minutes.&lt;/p&gt;
+&lt;p&gt;Cut butter into 0.5 inch cubes and add to pot.
+Add cream, sugar, 1 teaspoon of garam masala, and cilantro.
+Stir until well incorporated.
+Add the chicken back to the sauce and stir.
+Serve over Basmati rice.&lt;/p&gt;
+&lt;p&gt;Adapted from &lt;a href=&#34;https://www.newyorker.com/culture/annals-of-gastronomy/the-butter-chicken-lady-who-made-indian-cooks-love-the-instant-pot&#34;&gt;Urvashi Pitre&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kale Salad</title>
+      <link>https://ggr.com/kale-salad.html</link>
+      <pubDate>Sat, 16 Jul 2022 12:28:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/kale-salad.html</guid>
+      <description>&lt;p&gt;Makes 4 servings.&lt;/p&gt;
+&lt;h3 id=&#34;dressing&#34;&gt;Dressing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;0.5 cup peanut oil&lt;/li&gt;
+&lt;li&gt;2 tablespoons toasted sesame oil&lt;/li&gt;
+&lt;li&gt;3 teaspoons soy sauce&lt;/li&gt;
+&lt;li&gt;2 tablespoons seasoned rice wine vinegar&lt;/li&gt;
+&lt;li&gt;2 tablespoons honey&lt;/li&gt;
+&lt;li&gt;1 teaspoon freshly ground black pepper&lt;/li&gt;
+&lt;li&gt;0.25 teaspoon cayenne pepper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Add all ingredients to a mason jar and seal.
 Shake well.
-Refrigerate until ready to use.&lt;/p>
-&lt;h3 id="salad">Salad&lt;/h3>
-&lt;ul>
-&lt;li>10 ounces &lt;a href="https://www.traderjoes.com/home/products/pdp/organic-shredded-kale-065311">Trader Joes organic shredded kale&lt;/a>&lt;/li>
-&lt;li>0.25 cup fresh cilantro&lt;/li>
-&lt;li>0.25 cup fresh mint&lt;/li>
-&lt;li>2 green onions&lt;/li>
-&lt;li>2 cups cabbage&lt;/li>
-&lt;li>0.5 cup Parmigiano-Reggiano cheese&lt;/li>
-&lt;li>0.5 cup peanuts&lt;/li>
-&lt;li>1 cup baked skinless, boneless chicken thighs&lt;/li>
-&lt;/ul>
-&lt;p>Add kale to large mixing bowl.
+Refrigerate until ready to use.&lt;/p&gt;
+&lt;h3 id=&#34;salad&#34;&gt;Salad&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;10 ounces &lt;a href=&#34;https://www.traderjoes.com/home/products/pdp/organic-shredded-kale-065311&#34;&gt;Trader Joes organic shredded kale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;0.25 cup fresh cilantro&lt;/li&gt;
+&lt;li&gt;0.25 cup fresh mint&lt;/li&gt;
+&lt;li&gt;2 green onions&lt;/li&gt;
+&lt;li&gt;2 cups cabbage&lt;/li&gt;
+&lt;li&gt;0.5 cup Parmigiano-Reggiano cheese&lt;/li&gt;
+&lt;li&gt;0.5 cup peanuts&lt;/li&gt;
+&lt;li&gt;1 cup baked skinless, boneless chicken thighs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Add kale to large mixing bowl.
 Chop cilantro and mint and add to bowl.
 Finely chop onions and add to bowl.
 Slice cabbage into long pieces and add to bowl.
 Grate cheese and add to bowl.
 Finely chop peanuts in a food processor and add to bowl.
-Chop chicken and add to bowl.&lt;/p></description></item><item><title>Cucumber Salad</title><link>https://ggr.com/cucumber-salad.html</link><pubDate>Sat, 16 Jul 2022 10:11:46 -0700</pubDate><guid>https://ggr.com/cucumber-salad.html</guid><description>&lt;p>Makes 4 servings.&lt;/p>
-&lt;h3 id="less-wet-cucumbers">Less-Wet Cucumbers&lt;/h3>
-&lt;ul>
-&lt;li>4 Persian cucumbers (aka cocktail cucumbers)&lt;/li>
-&lt;li>2 tablespoons salt&lt;/li>
-&lt;/ul>
-&lt;p>Trim the cucumbers and cut into 0.5-inch thick pieces.
+Chop chicken and add to bowl.&lt;/p&gt;
+&lt;p&gt;Mix everything together evenly.
+Shake dressing well, add dressing to salad, and toss to coat.
+Let salad rest for 5 minutes then serve.&lt;/p&gt;
+&lt;p&gt;Adapted from
+&lt;a href=&#34;https://www.ashleybrookenicholas.com/kale-salad-recipe-peanut-dressing-hillstone-dupe.html&#34;&gt;Ashley Brooke Nicholas&lt;/a&gt; who adapted it from
+&lt;a href=&#34;https://2cookinmamas.com/move-over-popeye-kale-is-king/&#34;&gt;2 Cookin Mamas&lt;/a&gt; who reverse engineered
+&lt;a href=&#34;https://hillstone.com/menus/hillstone/Hillstone%20Embarcadero%20Dinner.pdf?version=v-1657939397&#34;&gt;Hillstone&lt;/a&gt;, the restaurant formerly known as Houston&amp;rsquo;s.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cucumber Salad</title>
+      <link>https://ggr.com/cucumber-salad.html</link>
+      <pubDate>Sat, 16 Jul 2022 10:11:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/cucumber-salad.html</guid>
+      <description>&lt;p&gt;Makes 4 servings.&lt;/p&gt;
+&lt;h3 id=&#34;less-wet-cucumbers&#34;&gt;Less-Wet Cucumbers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;4 Persian cucumbers (aka cocktail cucumbers)&lt;/li&gt;
+&lt;li&gt;2 tablespoons salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trim the cucumbers and cut into 0.5-inch thick pieces.
 Place in a small bowl.
 Sprinkle with salt and toss well to coat.
 Allow to sit at room temperature for 30 minutes.
-Rinse off salt mixture and pat dry.&lt;/p>
-&lt;h3 id="marinade">Marinade&lt;/h3>
-&lt;ul>
-&lt;li>2 tablespoons honey&lt;/li>
-&lt;li>3 tablespoons rice vinegar&lt;/li>
-&lt;li>2 tablespoons mirin&lt;/li>
-&lt;li>2 teaspoons avocado oil&lt;/li>
-&lt;li>2 teaspoons sesame oil&lt;/li>
-&lt;li>1.5 teaspoons chili garlic sauce&lt;/li>
-&lt;/ul>
-&lt;p>Mix all ingredients in a &lt;a href="https://www.amazon.com/OXO-Leakproof-Rectangle-Storage-Container/dp/B019F079F4/r?th=1">3.5 cup glass airtight container&lt;/a>.
+Rinse off salt mixture and pat dry.&lt;/p&gt;
+&lt;h3 id=&#34;marinade&#34;&gt;Marinade&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2 tablespoons honey&lt;/li&gt;
+&lt;li&gt;3 tablespoons rice vinegar&lt;/li&gt;
+&lt;li&gt;2 tablespoons mirin&lt;/li&gt;
+&lt;li&gt;2 teaspoons avocado oil&lt;/li&gt;
+&lt;li&gt;2 teaspoons sesame oil&lt;/li&gt;
+&lt;li&gt;1.5 teaspoons chili garlic sauce&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mix all ingredients in a &lt;a href=&#34;https://www.amazon.com/OXO-Leakproof-Rectangle-Storage-Container/dp/B019F079F4/r?th=1&#34;&gt;3.5 cup glass airtight container&lt;/a&gt;.
 Once the cucumbers are done getting &amp;rsquo;less wet&amp;rsquo;, add them to the container
 and seal it.
 Shake to coat the cucumbers.
 Refrigerate overnight.
 Shake occassionally, if convenient.
-Transfer cucumbers to a plate and serve cold.&lt;/p></description></item><item><title>Baby Back Ribs</title><link>https://ggr.com/baby-back-ribs.html</link><pubDate>Sat, 16 Jul 2022 05:01:46 -0700</pubDate><guid>https://ggr.com/baby-back-ribs.html</guid><description>&lt;p>Makes 4 servings.&lt;/p>
-&lt;ul>
-&lt;li>1 rinsed, frozen, halved, rack of &lt;a href="https://www.instacart.com/products/31943-swift-premium-pork-back-ribs-each">Swift Premium Pork Loin Backribs&lt;/a> from Costco&lt;/li>
-&lt;li>water&lt;/li>
-&lt;li>BBQ sauce&lt;/li>
-&lt;/ul>
-&lt;p>Place ribs in Instant Pot.
+Transfer cucumbers to a plate and serve cold.&lt;/p&gt;
+&lt;p&gt;A single batch of marinade may be reused to marinate several batches
+of cucumbers.&lt;/p&gt;
+&lt;p&gt;Adapted from &lt;a href=&#34;https://www.simmerandsauce.com/savory-recipes/chilled-cucumber-salad/&#34;&gt;Simmer and Sauce&lt;/a&gt;
+who reverse engineered the dish from &lt;a href=&#34;https://dintaifungusa.com/us/menu/cucumber-salad.html&#34;&gt;Din Tai Fung&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated on July 21, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;removed the 0.5 teaspoon added salt from the marinade, there&amp;rsquo;s enough salt
+on the less-wet cucumbers already&lt;/li&gt;
+&lt;li&gt;reduced cucumbers from 5 to 4 to fit my container better&lt;/li&gt;
+&lt;li&gt;increase honey and chili sauce a bit&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Baby Back Ribs</title>
+      <link>https://ggr.com/baby-back-ribs.html</link>
+      <pubDate>Sat, 16 Jul 2022 05:01:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/baby-back-ribs.html</guid>
+      <description>&lt;p&gt;Makes 4 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 rinsed, frozen, halved, rack of &lt;a href=&#34;https://www.instacart.com/products/31943-swift-premium-pork-back-ribs-each&#34;&gt;Swift Premium Pork Loin Backribs&lt;/a&gt; from Costco&lt;/li&gt;
+&lt;li&gt;water&lt;/li&gt;
+&lt;li&gt;BBQ sauce&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Place ribs in Instant Pot.
 Fill with water until ribs are covered.
 Set Instant Pot to &amp;lsquo;Meat&amp;rsquo; setting, 25 minutes, and press start.
 Release pressure, open pot, and transfer ribs to a baking sheet with a rack.
@@ -496,14 +1066,32 @@ Wait 5 minutes for broiler to warm up.
 Put baking sheet in broiler, cook for 5 minutes.
 Remove from oven.
 Slather ribs with BBQ sauce again.
-Serve.&lt;/p></description></item><item><title>Coconut Cream Pie</title><link>https://ggr.com/coconut-cream-pie.html</link><pubDate>Fri, 15 Jul 2022 09:51:56 -0700</pubDate><guid>https://ggr.com/coconut-cream-pie.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;h3 id="graham-cracker-crust">Graham Cracker Crust&lt;/h3>
-&lt;ul>
-&lt;li>10 whole graham crackers, broken into 1-inch pieces&lt;/li>
-&lt;li>6 tablespoons unsalted butter, melted and cooled&lt;/li>
-&lt;li>3 tablespoons sugar&lt;/li>
-&lt;/ul>
-&lt;p>Adjust oven rack to middle position and heat oven to 325 F.
+Serve.&lt;/p&gt;
+&lt;h3 id=&#34;bonus-soup&#34;&gt;Bonus Soup&lt;/h3&gt;
+&lt;p&gt;Before adding water to cover the ribs, add chicken stock,
+onion cut into quarters,
+carrot cut in half, garlic, celery cut it half, and any other
+vegetables you like in your soup.&lt;/p&gt;
+&lt;h3 id=&#34;bonus-ribs&#34;&gt;Bonus Ribs&lt;/h3&gt;
+&lt;p&gt;Extra uncooked racks of ribs should be cut in half, rinsed off, patted dry
+and then frozen in a gallon Ziploc freezer bag, one rack to a bag.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coconut Cream Pie</title>
+      <link>https://ggr.com/coconut-cream-pie.html</link>
+      <pubDate>Fri, 15 Jul 2022 09:51:56 -0700</pubDate>
+      
+      <guid>https://ggr.com/coconut-cream-pie.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;h3 id=&#34;graham-cracker-crust&#34;&gt;Graham Cracker Crust&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;10 whole graham crackers, broken into 1-inch pieces&lt;/li&gt;
+&lt;li&gt;6 tablespoons unsalted butter, melted and cooled&lt;/li&gt;
+&lt;li&gt;3 tablespoons sugar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adjust oven rack to middle position and heat oven to 325 F.
 Process graham cracker pieces in food processor to fine, even crumbs,
 about 30 seconds.
 Sprinkle melted butter and sugar over crumbs and pulse to incorporate,
@@ -512,17 +1100,74 @@ Sprinkle mixture into 9-inch pie plate.
 Using a large spoon, press crumbs into even layer on bottom and sides
 of pie plate.
 Bake until crust is fragrant and beginning to brown, 15 minutes.
-Transfer to wire rack.&lt;/p></description></item><item><title>Pecan Pie</title><link>https://ggr.com/pecan-pie.html</link><pubDate>Fri, 15 Jul 2022 09:21:46 -0700</pubDate><guid>https://ggr.com/pecan-pie.html</guid><description>&lt;p>Makes 8 servings.&lt;/p>
-&lt;h3 id="butter-crust">Butter Crust&lt;/h3>
-&lt;ul>
-&lt;li>1 tablespoon sour cream or 2 teaspoons apple cider vinegar&lt;/li>
-&lt;li>3 tablespoons ice water&lt;/li>
-&lt;li>1.25 cups pastry flour&lt;/li>
-&lt;li>1.5 teaspoons sugar&lt;/li>
-&lt;li>0.5 teaspoons salt&lt;/li>
-&lt;li>8 tablespoons unsalted butter, frozen, cut into 0.25 inch cubes&lt;/li>
-&lt;/ul>
-&lt;p>Mix sour cream and ice water in a bowl until combined.
+Transfer to wire rack.&lt;/p&gt;
+&lt;h3 id=&#34;coconut-filling&#34;&gt;Coconut Filling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;14 ounces (1 can) of coconut milk&lt;/li&gt;
+&lt;li&gt;1 cup whole milk&lt;/li&gt;
+&lt;li&gt;0.66 cup (4.66 ounces) sugar&lt;/li&gt;
+&lt;li&gt;0.5 cup (1.25 ounces) unsweetened shredded coconut&lt;/li&gt;
+&lt;li&gt;0.25 teaspoon salt&lt;/li&gt;
+&lt;li&gt;5 large egg yolks&lt;/li&gt;
+&lt;li&gt;0.5 cup cornstarch&lt;/li&gt;
+&lt;li&gt;2 tablespoons unsalted butter, cut into 2 pieces&lt;/li&gt;
+&lt;li&gt;1.5 teaspoons vanilla extract&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bring coconut milk, whole milk, half the sugar, shredded coconut,
+and salt to simmer in medium saucepan, stirring occassionally.
+As milk mixture begins to simmer, whisk egg yolks, cornstarch,
+and remaining sugar together in medium bowl until smooth.
+Slowly whisk 1 cup of simmering coconut milk mixture into yolk
+mixture to temper, then slowly whisk tempered yolk mixture back into
+remaining coconut milk mixture.
+Reduce heat to medium and cook, whisking vigorously, until mixture
+is thickened and a few bubble burst to surface, about 30 seconds.
+Off heat, whisk in butter and vanilla.
+Let mixture cool until just warm, stirring often, about 5 minutes.&lt;/p&gt;
+&lt;p&gt;Pour warm filling into cooled prebaked pie crust.
+Lay sheet of plastic wrap directly on surface of filling and
+refrigerate pie until filling is chilled and set, about 4 hours.&lt;/p&gt;
+&lt;h3 id=&#34;whipped-cream-topping&#34;&gt;Whipped Cream Topping&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1.5 cups heavy cream&lt;/li&gt;
+&lt;li&gt;1.5 tablespoons sugar&lt;/li&gt;
+&lt;li&gt;1 teaspoon dark rum&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon vanilla extract&lt;/li&gt;
+&lt;li&gt;2 teaspoons unflavored gelatin&lt;/li&gt;
+&lt;li&gt;2 tablespoons water&lt;/li&gt;
+&lt;li&gt;1 tablespoon unsweetened shredded coconut, toasted&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mix gelatin and water an a small bowl.
+Let sit for 5 minutes.
+Microwave for 10 seconds then stir until fully combined.&lt;/p&gt;
+&lt;p&gt;Using stand mixer fitted with whisk, whip cream, sugar, rum,
+vanilla, and gelatin mixture together on medium-low speed until
+frothy, about 1 minute. Increase speed to high and continue to whip
+until soft peaks form, 1 to 3 minutes. Spread whipped cream
+attractively oven the top of pie and sprinkle with toasted coconut.&lt;/p&gt;
+&lt;p&gt;Adapted from
+GRAHAM CRACKER CRUST and COCONUT CREAM PIE
+recipes in &lt;a href=&#34;https://www.amazon.com/Cooks-Illustrated-Cookbook-Americas-Magazine/dp/1933615893/&#34;&gt;Cook&amp;rsquo;s Illustrated Cookbook&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pecan Pie</title>
+      <link>https://ggr.com/pecan-pie.html</link>
+      <pubDate>Fri, 15 Jul 2022 09:21:46 -0700</pubDate>
+      
+      <guid>https://ggr.com/pecan-pie.html</guid>
+      <description>&lt;p&gt;Makes 8 servings.&lt;/p&gt;
+&lt;h3 id=&#34;butter-crust&#34;&gt;Butter Crust&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1 tablespoon sour cream or 2 teaspoons apple cider vinegar&lt;/li&gt;
+&lt;li&gt;3 tablespoons ice water&lt;/li&gt;
+&lt;li&gt;1.25 cups pastry flour&lt;/li&gt;
+&lt;li&gt;1.5 teaspoons sugar&lt;/li&gt;
+&lt;li&gt;0.5 teaspoons salt&lt;/li&gt;
+&lt;li&gt;8 tablespoons unsalted butter, frozen, cut into 0.25 inch cubes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mix sour cream and ice water in a bowl until combined.
 Process flour, sugar, and salt in a food processor until combined,
 about 5 seconds.
 Add butter and pulse mixture until butter is the size of larges peas,
@@ -533,49 +1178,113 @@ Repeat with remaining sour cream mixture.
 Pulse until mixture starts to bead.
 Turn dough onto a sheet of plastic wrap and flatten into a 4-inch disk.
 Wrap tightly in plastic and refrigerate for 1 hour.
-Before rolling dough out, let it sit on counter to soften slightly, about 10 minutes.&lt;/p></description></item><item><title>Arugula Salad</title><link>https://ggr.com/arugula-salad.html</link><pubDate>Thu, 14 Jul 2022 22:22:21 -0700</pubDate><guid>https://ggr.com/arugula-salad.html</guid><description>&lt;p>Makes 2 servings.&lt;/p>
-&lt;ul>
-&lt;li>5 ounces baby arugula&lt;/li>
-&lt;li>1 cup cherry tomotoes&lt;/li>
-&lt;li>1 ripe avocado&lt;/li>
-&lt;li>1 tablespoon &lt;a href="https://www.amazon.com/Terrapin-Ridge-Farms-Dressing-Ginger/dp/B00JD7MQ4E/">Terrapin Ridge Farms ginger miso dressing&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Add arugula to a large salad bowl.
+Before rolling dough out, let it sit on counter to soften slightly, about 10 minutes.&lt;/p&gt;
+&lt;p&gt;Dough may be refrigerated for up to 2 days or frozen up to a month.
+If frozen, let dough thaw completely on counter before rolling it out.&lt;/p&gt;
+&lt;p&gt;Adjust oven rack to middle position and heat oven to 375 F.
+Roll dough into 12-inch circle on lightly floured counter.
+Loosely roll dough around rolling pin and gently unroll it onto 9-inch
+pie plate. Trim then crimp dough around edge of pie using fingers.&lt;/p&gt;
+&lt;p&gt;Line with aluminum foil and fill with pie weights.
+Bake for 30 minutes to get the half-baked crust we need.
+Transfer pie plate to wire rack and remove weights and foil.&lt;/p&gt;
+&lt;h3 id=&#34;pecan-filling&#34;&gt;Pecan Filling&lt;/h3&gt;
+&lt;p&gt;While the crust is baking, prepare the filling. The filling must be added
+to the half-baked pie crust while it&amp;rsquo;s still warm.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4 tablespoons unsalted butter, cut into 1-inch pieces&lt;/li&gt;
+&lt;li&gt;0.5 cup sugar&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon salt&lt;/li&gt;
+&lt;li&gt;3 large eggs&lt;/li&gt;
+&lt;li&gt;1 cup maple syrup, grade A dark amber&lt;/li&gt;
+&lt;li&gt;1.5 cups pecans, toasted and chopped&lt;/li&gt;
+&lt;li&gt;1 half-baked, still warm pie crust&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adjust oven rack to lower-middle position and heat oven to 275 F.
+Melt butter in double boiler.
+Remove from heat and stir in sugar and salt until butter is absorbed.
+Whisk in eggs, then maple syrup until smooth.
+Return to heat and stir until mixture is shiny, hot to touch, 130 F.
+Remove from heat and stir in pecans.&lt;/p&gt;
+&lt;p&gt;Pour pecan mixture into warm, half-baked pie crust.
+Bake pie for 1 hour.
+Let pie cool on wire rack for 2 hours.
+Serve slightly warm.&lt;/p&gt;
+&lt;p&gt;Adapted from
+ALL-BUTTER SINGLE-CRUST PIE DOUGH and MAPLE PECAN PIE
+recipes in &lt;a href=&#34;https://www.amazon.com/Cooks-Illustrated-Cookbook-Americas-Magazine/dp/1933615893/&#34;&gt;Cook&amp;rsquo;s Illustrated Cookbook&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Arugula Salad</title>
+      <link>https://ggr.com/arugula-salad.html</link>
+      <pubDate>Thu, 14 Jul 2022 22:22:21 -0700</pubDate>
+      
+      <guid>https://ggr.com/arugula-salad.html</guid>
+      <description>&lt;p&gt;Makes 2 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5 ounces baby arugula&lt;/li&gt;
+&lt;li&gt;1 cup cherry tomotoes&lt;/li&gt;
+&lt;li&gt;1 ripe avocado&lt;/li&gt;
+&lt;li&gt;1 tablespoon &lt;a href=&#34;https://www.amazon.com/Terrapin-Ridge-Farms-Dressing-Ginger/dp/B00JD7MQ4E/&#34;&gt;Terrapin Ridge Farms ginger miso dressing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Add arugula to a large salad bowl.
 Remove pit from avocado and scoop a tablespoon at a time into bowl.
 Cut tomotoes in half and add to bowl.
 Drizzle dressing over salad.
 Toss the salad.
-Serve immediately.&lt;/p></description></item><item><title>Buckwheat Cereal</title><link>https://ggr.com/buckwheat-cereal.html</link><pubDate>Thu, 14 Jul 2022 22:21:32 -0700</pubDate><guid>https://ggr.com/buckwheat-cereal.html</guid><description>&lt;p>Makes 2 servings.&lt;/p>
-&lt;ul>
-&lt;li>0.25 cups roasted buckwheat aka kasha&lt;/li>
-&lt;li>1.5 cups water or milk&lt;/li>
-&lt;li>0.25 cups chia seed&lt;/li>
-&lt;li>0.25 cups flaxseed&lt;/li>
-&lt;li>0.5 cups almonds, roasted and unsalted&lt;/li>
-&lt;li>1 Fuji apple, chopped&lt;/li>
-&lt;/ul>
-&lt;p>Pour buckwheat into a large, microwave safe bowl.
+Serve immediately.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Buckwheat Cereal</title>
+      <link>https://ggr.com/buckwheat-cereal.html</link>
+      <pubDate>Thu, 14 Jul 2022 22:21:32 -0700</pubDate>
+      
+      <guid>https://ggr.com/buckwheat-cereal.html</guid>
+      <description>&lt;p&gt;Makes 2 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0.25 cups roasted buckwheat aka kasha&lt;/li&gt;
+&lt;li&gt;1.5 cups water or milk&lt;/li&gt;
+&lt;li&gt;0.25 cups chia seed&lt;/li&gt;
+&lt;li&gt;0.25 cups flaxseed&lt;/li&gt;
+&lt;li&gt;0.5 cups almonds, roasted and unsalted&lt;/li&gt;
+&lt;li&gt;1 Fuji apple, chopped&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour buckwheat into a large, microwave safe bowl.
 Add water.
 Microwave for 5 minutes.
 Remove from microwave and let buckwheat rest for 5 minutes.
 Grind flaxseed in a coffee grinder.
 Add chia seed and ground flaxseed to buckwheat and stir together.
 Sprinkle apple and almonds on top.
-Serve.&lt;/p></description></item><item><title>Chocolate Chip Ice Cream</title><link>https://ggr.com/chocolate-chip-ice-cream.html</link><pubDate>Thu, 14 Jul 2022 12:46:17 -0700</pubDate><guid>https://ggr.com/chocolate-chip-ice-cream.html</guid><description>&lt;p>Makes about 2 quarts. Substitute 4 teaspoons vanilla extract for the vanilla beans
+Serve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chocolate Chip Ice Cream</title>
+      <link>https://ggr.com/chocolate-chip-ice-cream.html</link>
+      <pubDate>Thu, 14 Jul 2022 12:46:17 -0700</pubDate>
+      
+      <guid>https://ggr.com/chocolate-chip-ice-cream.html</guid>
+      <description>&lt;p&gt;Makes about 2 quarts. Substitute 4 teaspoons vanilla extract for the vanilla beans
 by adding the vanilla extract after the mixture cools, before putting it in the
-refrigerator.&lt;/p>
-&lt;ul>
-&lt;li>2 vanilla beans&lt;/li>
-&lt;li>3.5 cups heavy cream&lt;/li>
-&lt;li>2.5 cups whole milk&lt;/li>
-&lt;li>0.66 cups sugar&lt;/li>
-&lt;li>0.66 cups light corn syrup&lt;/li>
-&lt;li>0.5 teaspoons salt&lt;/li>
-&lt;li>12 large egg yolks&lt;/li>
-&lt;li>0.33 cups &lt;a href="https://www.amazon.com/gp/product/B008RBC1JM/">semisweet chocolate&lt;/a>&lt;/li>
-&lt;li>1 teaspoon vegetable oil&lt;/li>
-&lt;/ul>
-&lt;p>Cut vanilla beans in half lengthwise.
+refrigerator.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2 vanilla beans&lt;/li&gt;
+&lt;li&gt;3.5 cups heavy cream&lt;/li&gt;
+&lt;li&gt;2.5 cups whole milk&lt;/li&gt;
+&lt;li&gt;0.66 cups sugar&lt;/li&gt;
+&lt;li&gt;0.66 cups light corn syrup&lt;/li&gt;
+&lt;li&gt;0.5 teaspoons salt&lt;/li&gt;
+&lt;li&gt;12 large egg yolks&lt;/li&gt;
+&lt;li&gt;0.33 cups &lt;a href=&#34;https://www.amazon.com/gp/product/B008RBC1JM/&#34;&gt;semisweet chocolate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;1 teaspoon vegetable oil&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cut vanilla beans in half lengthwise.
 Scrape out seeds.
 Combine vanilla beans, seeds, cream, milk, sugar, corn syrup, and salt in double boiler.
 Heat, stirring occassionally, until mixture is steaming steadily,
@@ -589,58 +1298,194 @@ Continue stirring constantly for 5 more minutes.
 Let cool until no longer steaming, about 10 more minutes.
 Remove the vanilla beans and throw them away.
 Cover the mixture with plastic wrap.
-Refrigerate overnight.&lt;/p></description></item><item><title>Chocolate Chip Cookies</title><link>https://ggr.com/chocolate-chip-cookies.html</link><pubDate>Thu, 14 Jul 2022 12:53:00 +0000</pubDate><guid>https://ggr.com/chocolate-chip-cookies.html</guid><description>&lt;p>Makes about 15 cookies.&lt;/p>
-&lt;ul>
-&lt;li>3 cups pastry flour&lt;/li>
-&lt;li>0.5 teaspoon baking soda&lt;/li>
-&lt;li>0.5 teaspoon baking powder&lt;/li>
-&lt;li>1 teaspoon salt&lt;/li>
-&lt;li>2 sticks (8 ounces or 228 grams) unsalted butter, at room temperature&lt;/li>
-&lt;li>0.5 cups granulated sugar&lt;/li>
-&lt;li>1.5 cups packed brown sugar&lt;/li>
-&lt;li>1 teaspoon vanilla&lt;/li>
-&lt;li>2 large eggs or egg whites&lt;/li>
-&lt;li>1.5 cups &lt;a href="https://www.amazon.com/gp/product/B008RBC1JM/">semisweet chocolate&lt;/a> chips&lt;/li>
-&lt;/ul>
-&lt;p>In a medium bowl combine the flour, baking soda, baking powder and salt.&lt;/p>
-&lt;p>In the bowl of an electric mixer beat the butter, sugar, until creamy,
+Refrigerate overnight.&lt;/p&gt;
+&lt;p&gt;Turn on ice cream maker and wait until its cold.
+Take mixture out of refrigerator and stir to get an even texture.
+Pour half of the mixture into the ice cream maker,
+returning the rest to the refrigerator.&lt;/p&gt;
+&lt;p&gt;While ice cream is churning, add chocolate and oil to a tiny pot.
+Melt chocolate over very low heat, stirring occassionally.
+Remove the chocolate from the heat once it&amp;rsquo;s fully melted.&lt;/p&gt;
+&lt;p&gt;Once the churning ice cream mixture resembles thick soft-serve ice cream,
+15-25 minutes, slowly dribble half the chocolate over it while it continues to churn.
+Let churn for 5 more minutes, then tranfer to an ice cream container.
+Freeze overnight and then serve.&lt;/p&gt;
+&lt;p&gt;Clean the ice cream maker then repeat the churning steps with the remaining
+mixture from the refrigerator.&lt;/p&gt;
+&lt;p&gt;Adapted from the VANILLA ICE CREAM recipe in &lt;a href=&#34;https://www.amazon.com/gp/product/B008RBC1JM/&#34;&gt;Cook&amp;rsquo;s Illustrated Cookbook&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chocolate Chip Cookies</title>
+      <link>https://ggr.com/chocolate-chip-cookies.html</link>
+      <pubDate>Thu, 14 Jul 2022 12:53:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/chocolate-chip-cookies.html</guid>
+      <description>&lt;p&gt;Makes about 15 cookies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3 cups pastry flour&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon baking soda&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon baking powder&lt;/li&gt;
+&lt;li&gt;1 teaspoon salt&lt;/li&gt;
+&lt;li&gt;2 sticks (8 ounces or 228 grams) unsalted butter, at room temperature&lt;/li&gt;
+&lt;li&gt;0.5 cups granulated sugar&lt;/li&gt;
+&lt;li&gt;1.5 cups packed brown sugar&lt;/li&gt;
+&lt;li&gt;1 teaspoon vanilla&lt;/li&gt;
+&lt;li&gt;2 large eggs or egg whites&lt;/li&gt;
+&lt;li&gt;1.5 cups &lt;a href=&#34;https://www.amazon.com/gp/product/B008RBC1JM/&#34;&gt;semisweet chocolate&lt;/a&gt; chips&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a medium bowl combine the flour, baking soda, baking powder and salt.&lt;/p&gt;
+&lt;p&gt;In the bowl of an electric mixer beat the butter, sugar, until creamy,
 about 2 minutes.
 Add the egg and vanilla, beating well to combine.
 Gradually beat in the flour mixture.
 Stir in the chocolate chips.
 Scoop 1 1/2 tablespoon-sized balls and place onto prepared baking sheets.
-Freeze for 24 hours.&lt;/p></description></item><item><title>Best Milkshake</title><link>https://ggr.com/best-milkshake.html</link><pubDate>Thu, 26 Sep 2013 10:19:00 +0000</pubDate><guid>https://ggr.com/best-milkshake.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/shake.jpg" alt="2" title="best milkshake">&lt;/p>
-&lt;p>Get the Swiss milk chocolate milk shake from &lt;a href="https://fentonscreamery.com/">Fentons&lt;/a>. Get the jumbo, what&amp;rsquo;s another thousand calories? You won&amp;rsquo;t regret it. Ok, maybe you will. But still&amp;hellip;its so, so good.&lt;/p>
-&lt;p>&lt;strong>Updated on October 21st, 2013&lt;/strong>&lt;/p>
-&lt;p>Added a picture. It required some field work.&lt;/p></description></item><item><title>Best Ribs</title><link>https://ggr.com/best-ribs.html</link><pubDate>Fri, 17 Jul 2009 09:26:00 +0000</pubDate><guid>https://ggr.com/best-ribs.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/houstons_ribs.jpg" alt="3">&lt;/p>
-&lt;p>The meat falls off the bone. They taste &lt;a href="http://www.hillstone.com/#/restaurants/houstons/">like ribs should taste&lt;/a>. And I&amp;rsquo;m &lt;a href="http://nycfoodguy.com/2008/04/01/houstons-consistently-delicious-chain-never-disappoints/">not the only one&lt;/a> who thinks so.&lt;/p></description></item><item><title>Best Chicken Maharaja</title><link>https://ggr.com/best-chicken-maharaja.html</link><pubDate>Thu, 16 Jul 2009 15:17:00 +0000</pubDate><guid>https://ggr.com/best-chicken-maharaja.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/chicken_maharaja.jpg" alt="2">&lt;/p>
-&lt;p>&lt;a href="http://www.grandindianbuffet.com/">Sneha&lt;/a> rolls buffet style, all you can eat. All &lt;em>I&lt;/em> can eat when I go is the Chicken Maharaja.&lt;/p></description></item><item><title>Best Grape Juice</title><link>https://ggr.com/best-grape-juice.html</link><pubDate>Sat, 20 Jun 2009 12:31:00 +0000</pubDate><guid>https://ggr.com/best-grape-juice.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/grape-juice.jpg" alt="2">&lt;/p>
-&lt;p>Why should wine get all the &lt;a href="http://www.sweetwatercellars.com/grape-kundegewurzt.html">good grapes&lt;/a>? I buy this stuff by the case when I&amp;rsquo;m in Sonoma and it still goes fast.&lt;/p></description></item><item><title>Best Deep Dish Pizza</title><link>https://ggr.com/best-deep-dish-pizza.html</link><pubDate>Fri, 19 Jun 2009 13:12:00 +0000</pubDate><guid>https://ggr.com/best-deep-dish-pizza.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/zacharys-pizza.jpg" alt="2">&lt;/p>
-&lt;p>Try the &lt;a href="http://www.zacharys.com/">Chicken Pizza&lt;/a> and order a large so you can take some home.&lt;/p></description></item><item><title>Best Pastrami Sandwich</title><link>https://ggr.com/best-pastrami-sandwich.html</link><pubDate>Sun, 14 Jun 2009 13:30:00 +0000</pubDate><guid>https://ggr.com/best-pastrami-sandwich.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/pastrami_sandwich.jpg" alt="2">&lt;/p>
-&lt;p>&lt;a href="http://refugesc.com/">The Refuge&lt;/a> in San Carlos, CA makes their pastrami in-house and its amazing. You&amp;rsquo;ll wonder how you ever put up with the conventional, mass-produced pastrami you get pretty much everywhere else.&lt;/p></description></item><item><title>Best Burrito</title><link>https://ggr.com/best-burrito.html</link><pubDate>Thu, 21 May 2009 15:40:00 +0000</pubDate><guid>https://ggr.com/best-burrito.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/burrito.jpg" alt="3">&lt;/p>
-&lt;p>They won&amp;rsquo;t be serving these at the &lt;a href="http://www.ritzcarlton.com/en/Properties/SanFrancisco/Dining/TheDiningRoom/Default.htm">Ritz Carlton&lt;/a> any time soon, but don&amp;rsquo;t let it&amp;rsquo;s commonplace appearance fool you. &amp;ndash;&lt;a href="http://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;time=&amp;amp;date=&amp;amp;ttype=&amp;amp;q=Chavez+Supermarket&amp;amp;sll=37.486846,-122.119904&amp;amp;sspn=0.475107,0.925598&amp;amp;ie=UTF8&amp;amp;ll=37.624021,-122.119904&amp;amp;spn=0.474234,0.925598&amp;amp;z=10&amp;amp;iwloc=D&amp;amp;om=1">Chavez Supermarket&lt;/a> makes a&amp;ndash;tasty&amp;ndash;&lt;em>Super Carnitas Burrito&lt;/em> packed with lots of pork and other burrito essentials. &amp;ndash;But if that&amp;rsquo;s not fancy enough for you, you can always ask for it &amp;lsquo;Au Jus&amp;rsquo;.&lt;/p></description></item><item><title>Best Spring Rolls Recipe</title><link>https://ggr.com/best-spring-rolls-recipe.html</link><pubDate>Wed, 18 Feb 2009 13:11:00 +0000</pubDate><guid>https://ggr.com/best-spring-rolls-recipe.html</guid><description>&lt;p>Made&amp;ndash;&lt;a href="http://www.foodnetwork.com/recipes/saras-secrets/shrimp-spring-rolls-with-peanut-dipping-sauce-recipe/index.html" title="spring rolls">spring rolls&lt;/a>&amp;ndash;this weekend and they were good. &amp;ndash;BTW, you only need about 1/4 of the dipping sauce they suggest for the amount of spring roll generated.&lt;/p></description></item><item><title>Broccoli Soup</title><link>https://ggr.com/broccoli-soup.html</link><pubDate>Fri, 23 Nov 2007 08:52:00 +0000</pubDate><guid>https://ggr.com/broccoli-soup.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/brocollisoup.jpg" alt="1">&lt;/p>
-&lt;ul>
-&lt;li>1 pound broccoli&lt;/li>
-&lt;li>0.5 cups avocado or grapeseed oil&lt;/li>
-&lt;li>0.5 cups water&lt;/li>
-&lt;li>1 teaspoon salt&lt;/li>
-&lt;/ul>
-&lt;p>Boil broccoli in water for 10 minutes.
+Freeze for 24 hours.&lt;/p&gt;
+&lt;p&gt;Line baking sheets with nonstick baking mats or parchment paper.
+Put the cookies on the sheet and into the oven, starting up the oven
+right when the cookies are put it&amp;ndash;set the temperature to 350 F.
+Bake for 20 minutes including the warm up time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Milkshake</title>
+      <link>https://ggr.com/best-milkshake.html</link>
+      <pubDate>Thu, 26 Sep 2013 10:19:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-milkshake.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/shake.jpg&#34; alt=&#34;2&#34; title=&#34;best milkshake&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Get the Swiss milk chocolate milk shake from &lt;a href=&#34;https://fentonscreamery.com/&#34;&gt;Fentons&lt;/a&gt;. Get the jumbo, what&amp;rsquo;s another thousand calories? You won&amp;rsquo;t regret it. Ok, maybe you will. But still&amp;hellip;its so, so good.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Updated on October 21st, 2013&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Added a picture. It required some field work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Ribs</title>
+      <link>https://ggr.com/best-ribs.html</link>
+      <pubDate>Fri, 17 Jul 2009 09:26:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-ribs.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/houstons_ribs.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The meat falls off the bone. They taste &lt;a href=&#34;http://www.hillstone.com/#/restaurants/houstons/&#34;&gt;like ribs should taste&lt;/a&gt;. And I&amp;rsquo;m &lt;a href=&#34;http://nycfoodguy.com/2008/04/01/houstons-consistently-delicious-chain-never-disappoints/&#34;&gt;not the only one&lt;/a&gt; who thinks so.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Chicken Maharaja</title>
+      <link>https://ggr.com/best-chicken-maharaja.html</link>
+      <pubDate>Thu, 16 Jul 2009 15:17:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-chicken-maharaja.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/chicken_maharaja.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.grandindianbuffet.com/&#34;&gt;Sneha&lt;/a&gt; rolls buffet style, all you can eat. All &lt;em&gt;I&lt;/em&gt; can eat when I go is the Chicken Maharaja.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Grape Juice</title>
+      <link>https://ggr.com/best-grape-juice.html</link>
+      <pubDate>Sat, 20 Jun 2009 12:31:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-grape-juice.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/grape-juice.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Why should wine get all the &lt;a href=&#34;http://www.sweetwatercellars.com/grape-kundegewurzt.html&#34;&gt;good grapes&lt;/a&gt;? I buy this stuff by the case when I&amp;rsquo;m in Sonoma and it still goes fast.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Deep Dish Pizza</title>
+      <link>https://ggr.com/best-deep-dish-pizza.html</link>
+      <pubDate>Fri, 19 Jun 2009 13:12:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-deep-dish-pizza.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/zacharys-pizza.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Try the &lt;a href=&#34;http://www.zacharys.com/&#34;&gt;Chicken Pizza&lt;/a&gt; and order a large so you can take some home.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Pastrami Sandwich</title>
+      <link>https://ggr.com/best-pastrami-sandwich.html</link>
+      <pubDate>Sun, 14 Jun 2009 13:30:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-pastrami-sandwich.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/pastrami_sandwich.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://refugesc.com/&#34;&gt;The Refuge&lt;/a&gt; in San Carlos, CA makes their pastrami in-house and its amazing. You&amp;rsquo;ll wonder how you ever put up with the conventional, mass-produced pastrami you get pretty much everywhere else.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Burrito</title>
+      <link>https://ggr.com/best-burrito.html</link>
+      <pubDate>Thu, 21 May 2009 15:40:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-burrito.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/burrito.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;They won&amp;rsquo;t be serving these at the &lt;a href=&#34;http://www.ritzcarlton.com/en/Properties/SanFrancisco/Dining/TheDiningRoom/Default.htm&#34;&gt;Ritz Carlton&lt;/a&gt; any time soon, but don&amp;rsquo;t let it&amp;rsquo;s commonplace appearance fool you. &amp;ndash;&lt;a href=&#34;http://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;time=&amp;amp;date=&amp;amp;ttype=&amp;amp;q=Chavez+Supermarket&amp;amp;sll=37.486846,-122.119904&amp;amp;sspn=0.475107,0.925598&amp;amp;ie=UTF8&amp;amp;ll=37.624021,-122.119904&amp;amp;spn=0.474234,0.925598&amp;amp;z=10&amp;amp;iwloc=D&amp;amp;om=1&#34;&gt;Chavez Supermarket&lt;/a&gt; makes a&amp;ndash;tasty&amp;ndash;&lt;em&gt;Super Carnitas Burrito&lt;/em&gt; packed with lots of pork and other burrito essentials. &amp;ndash;But if that&amp;rsquo;s not fancy enough for you, you can always ask for it &amp;lsquo;Au Jus&amp;rsquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Spring Rolls Recipe</title>
+      <link>https://ggr.com/best-spring-rolls-recipe.html</link>
+      <pubDate>Wed, 18 Feb 2009 13:11:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-spring-rolls-recipe.html</guid>
+      <description>&lt;p&gt;Made&amp;ndash;&lt;a href=&#34;http://www.foodnetwork.com/recipes/saras-secrets/shrimp-spring-rolls-with-peanut-dipping-sauce-recipe/index.html&#34; title=&#34;spring rolls&#34;&gt;spring rolls&lt;/a&gt;&amp;ndash;this weekend and they were good. &amp;ndash;BTW, you only need about 1/4 of the dipping sauce they suggest for the amount of spring roll generated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Broccoli Soup</title>
+      <link>https://ggr.com/broccoli-soup.html</link>
+      <pubDate>Fri, 23 Nov 2007 08:52:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/broccoli-soup.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/brocollisoup.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 pound broccoli&lt;/li&gt;
+&lt;li&gt;0.5 cups avocado or grapeseed oil&lt;/li&gt;
+&lt;li&gt;0.5 cups water&lt;/li&gt;
+&lt;li&gt;1 teaspoon salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Boil broccoli in water for 10 minutes.
 Drain water.
 Transfer broccoli to blender.
 Add oil, water, and salt.
 Blend until smooth.
 Add more salt to taste.
 Add more water if you like it thinner and more soup-like.
-Serve hot or cold.&lt;/p>
-&lt;p>Don&amp;rsquo;t like broccoli? Me neither. But hold on to your soup bowls,
-this is a way to eat it that tastes pretty good.&lt;/p></description></item><item><title>Brussels Sprouts</title><link>https://ggr.com/brussels-sprouts.html</link><pubDate>Fri, 05 Jan 2007 13:41:00 +0000</pubDate><guid>https://ggr.com/brussels-sprouts.html</guid><description>&lt;p>Makes any number of servings.&lt;/p>
-&lt;ul>
-&lt;li>Brussels sprouts&lt;/li>
-&lt;li>avocado or grapeseed oil&lt;/li>
-&lt;li>salt&lt;/li>
-&lt;/ul>
-&lt;p>Cut sprouts in half lengthwise, so that the stem is cut in half.
+Serve hot or cold.&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t like broccoli? Me neither. But hold on to your soup bowls,
+this is a way to eat it that tastes pretty good.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated on July 15, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;shortened title, removed &amp;lsquo;best&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;added ingredients list&lt;/li&gt;
+&lt;li&gt;added #recipe tag&lt;/li&gt;
+&lt;li&gt;moved recipe to top, story to bottom&lt;/li&gt;
+&lt;li&gt;edited to make easier to read&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brussels Sprouts</title>
+      <link>https://ggr.com/brussels-sprouts.html</link>
+      <pubDate>Fri, 05 Jan 2007 13:41:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/brussels-sprouts.html</guid>
+      <description>&lt;p&gt;Makes any number of servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brussels sprouts&lt;/li&gt;
+&lt;li&gt;avocado or grapeseed oil&lt;/li&gt;
+&lt;li&gt;salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cut sprouts in half lengthwise, so that the stem is cut in half.
 Pour a generous layer of oil in a pan.
 Cover pan with sprout halves, flat side down.
 Cover pan with lid.
@@ -649,70 +1494,177 @@ Cook on medium for 5 minutes or until brown.
 Line a bowl with a paper towel.
 Turn off stove and use a slotted spoon to move the sprouts into bowl.
 Sprinkle salt over the sprouts then toss them.
-Serve.&lt;/p></description></item><item><title>Mashed Potatoes</title><link>https://ggr.com/mashed-potatoes.html</link><pubDate>Fri, 05 Jan 2007 12:23:00 +0000</pubDate><guid>https://ggr.com/mashed-potatoes.html</guid><description>&lt;p>Makes about 12 servings.&lt;/p>
-&lt;ul>
-&lt;li>5 pounds golden potatoes&lt;/li>
-&lt;li>1 package Philadelphia Cream Cheese&lt;/li>
-&lt;li>1 pint sour cream&lt;/li>
-&lt;li>0.5 cups milk&lt;/li>
-&lt;li>0.5 stick unsalted butter&lt;/li>
-&lt;li>3 medium size cloves of garlic&lt;/li>
-&lt;li>2 teaspoons salt&lt;/li>
-&lt;li>1 teaspoon white pepper&lt;/li>
-&lt;li>optional: &lt;a href="https://www.amazon.com/St-Elmo-Steak-House-Horseradish/dp/B07PCRVFY8/">horseradish sauce&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Peel potatoes and add to a large pot.
+Serve.&lt;/p&gt;
+&lt;p&gt;I have never liked Brussels sprouts, in fact I was generally vegetable
+averse growing up. It turns out it wasn&amp;rsquo;t entirely the vegetables&amp;rsquo; fault.
+This easy recipe can transform Brussels sprouts from being in the dreaded
+&amp;rsquo;tastes like it&amp;rsquo;s good for you&amp;rsquo; category to the &amp;lsquo;wow, can I have some
+more&amp;rsquo; category while remaining very healthy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated on July 14, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;shortened title, removing &amp;lsquo;best&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;added #recipe tag&lt;/li&gt;
+&lt;li&gt;added ingredients list&lt;/li&gt;
+&lt;li&gt;edited to make it easier to read&lt;/li&gt;
+&lt;li&gt;moved recipe to top, story to bottom&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mashed Potatoes</title>
+      <link>https://ggr.com/mashed-potatoes.html</link>
+      <pubDate>Fri, 05 Jan 2007 12:23:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/mashed-potatoes.html</guid>
+      <description>&lt;p&gt;Makes about 12 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5 pounds golden potatoes&lt;/li&gt;
+&lt;li&gt;1 package Philadelphia Cream Cheese&lt;/li&gt;
+&lt;li&gt;1 pint sour cream&lt;/li&gt;
+&lt;li&gt;0.5 cups milk&lt;/li&gt;
+&lt;li&gt;0.5 stick unsalted butter&lt;/li&gt;
+&lt;li&gt;3 medium size cloves of garlic&lt;/li&gt;
+&lt;li&gt;2 teaspoons salt&lt;/li&gt;
+&lt;li&gt;1 teaspoon white pepper&lt;/li&gt;
+&lt;li&gt;optional: &lt;a href=&#34;https://www.amazon.com/St-Elmo-Steak-House-Horseradish/dp/B07PCRVFY8/&#34;&gt;horseradish sauce&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Peel potatoes and add to a large pot.
 Fill pot with enough water to cover potatoes.
 Boil for 40 minutes then drain water.
 Mash potatoes with a potato ricer.
 Add cream cheese, milk, sour cream, butter, salt, and pepper.
 Press garlic and add.
-Mix thoroughly and serve.&lt;/p></description></item><item><title>Best Ice Cream</title><link>https://ggr.com/best-ice-cream.html</link><pubDate>Thu, 19 Jan 2006 19:20:00 +0000</pubDate><guid>https://ggr.com/best-ice-cream.html</guid><description>&lt;p>There&amp;rsquo;s Hagen Daz, Dryers, and a whole lot of other companies making ice cream. Coldstone&amp;rsquo;s the latest craze and gelato has enjoyed a recent surge in the Berkeley, CA area. But they&amp;rsquo;re all pretenders to the Double Rainbow throne.&lt;/p>
-&lt;p>Double Rainbow makes the best ice cream I&amp;rsquo;ve had outside of homemade. Gelato&amp;rsquo;s great and all, but I&amp;rsquo;ll take a scoop of DR over any gelato I&amp;rsquo;ve ever had as well. Try the chocolate chip.&lt;/p></description></item><item><title>Barley Soup</title><link>https://ggr.com/barley-soup.html</link><pubDate>Tue, 10 Jan 2006 23:38:00 +0000</pubDate><guid>https://ggr.com/barley-soup.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/barley-soup.jpg" alt="1">&lt;/p>
-&lt;p>Makes about 8 servings.&lt;/p>
-&lt;ul>
-&lt;li>3 leg-and-thighs of chicken&lt;/li>
-&lt;li>1.5 cups pearl barley&lt;/li>
-&lt;li>2 carrots&lt;/li>
-&lt;li>2 stalks of celery&lt;/li>
-&lt;li>0.5 white onion&lt;/li>
-&lt;li>salt&lt;/li>
-&lt;li>pepper&lt;/li>
-&lt;/ul>
-&lt;p>Wash chicken.
+Mix thoroughly and serve.&lt;/p&gt;
+&lt;p&gt;Add more salt and pepper to taste.
+Add horseradish sauce mixed in or on the side for a great added flavor
+and a third type of heat besides the garlic and pepper.&lt;/p&gt;
+&lt;p&gt;Sometimes you need mashed potatoes.
+Could be a holiday, could be you have this huge bag of potatoes
+you bought and they are starting to grow sprouts.
+Whatever your reason, when the time comes try these out.
+They are about the best mashed potatoes I&amp;rsquo;ve ever tasted and
+I&amp;rsquo;ve had quiet a few dolops of potatoes in my day.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated July 14, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;shortened title, removing &amp;lsquo;best&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;moved recipe to top, story to bottom&lt;/li&gt;
+&lt;li&gt;added #recipe tag&lt;/li&gt;
+&lt;li&gt;added ingredients list&lt;/li&gt;
+&lt;li&gt;edited to make it easier to read&lt;/li&gt;
+&lt;li&gt;added horseradish sauce option&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Ice Cream</title>
+      <link>https://ggr.com/best-ice-cream.html</link>
+      <pubDate>Thu, 19 Jan 2006 19:20:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-ice-cream.html</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s Hagen Daz, Dryers, and a whole lot of other companies making ice cream. Coldstone&amp;rsquo;s the latest craze and gelato has enjoyed a recent surge in the Berkeley, CA area. But they&amp;rsquo;re all pretenders to the Double Rainbow throne.&lt;/p&gt;
+&lt;p&gt;Double Rainbow makes the best ice cream I&amp;rsquo;ve had outside of homemade. Gelato&amp;rsquo;s great and all, but I&amp;rsquo;ll take a scoop of DR over any gelato I&amp;rsquo;ve ever had as well. Try the chocolate chip.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Barley Soup</title>
+      <link>https://ggr.com/barley-soup.html</link>
+      <pubDate>Tue, 10 Jan 2006 23:38:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/barley-soup.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/barley-soup.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Makes about 8 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3 leg-and-thighs of chicken&lt;/li&gt;
+&lt;li&gt;1.5 cups pearl barley&lt;/li&gt;
+&lt;li&gt;2 carrots&lt;/li&gt;
+&lt;li&gt;2 stalks of celery&lt;/li&gt;
+&lt;li&gt;0.5 white onion&lt;/li&gt;
+&lt;li&gt;salt&lt;/li&gt;
+&lt;li&gt;pepper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wash chicken.
 Put chicken into a large pot.
 Add water to pot until chicken is covered.
 Wash barley and add to pot.
 Grate onion and add to pot.
-Add 2 teaspoons salt.&lt;/p>
-&lt;p>Simmer for 1 hour.
+Add 2 teaspoons salt.&lt;/p&gt;
+&lt;p&gt;Simmer for 1 hour.
 Cut carrots and celery into 0.25 inch thick pieces and add to soup.
 Simmer for 5 more minutes then remove from heat.
 Remove chicken and let cool under a wet paper towel.
 Remove bone and skin, cut into chunks and throw back into soup.
 Stir and enjoy!
 Salt and pepper to taste.
-Add water if you prefer a thinner soup.&lt;/p></description></item><item><title>Best Hamburger</title><link>https://ggr.com/best-hamburger.html</link><pubDate>Fri, 06 Jan 2006 23:54:00 +0000</pubDate><guid>https://ggr.com/best-hamburger.html</guid><description>&lt;p>This is old hat to California natives, but if you haven&amp;rsquo;t visited in say, the last 15 years, you may not have heard of &lt;a href="http://www.in-n-out.com/">In-N-Out&lt;/a>. It&amp;rsquo;s a family owned chain that&amp;rsquo;s known for it&amp;rsquo;s simple menu, good service, and excellent hamburgers (the fries are really good too).&lt;/p>
-&lt;p>I&amp;rsquo;ve had burgers at joints across the country, from McDonald&amp;rsquo;s to mom-and-pop burger stands and I always come back to In-N-Out. What sets In-N-Out apart from most fast food restaurants are their quality, health conscious ingredients. You can, for example, watch them make your fries as you drive up. How do they make them? They chop up the potatoes, fry them in vegetable oil, and add salt. That&amp;rsquo;s it. Like everything they make the fries are made of fresh, not frozen, ingredients. The freshness comes through in the taste and avoiding preservative is probably a lot better for you too. If you want to be on the inside, you should know about some of the stuff they do just for people that notice that kind of stuff, aka crazy detail oriented fans. First is the &lt;a href="http://www.in-n-out.com/menu/not-so-secret-menu.aspx">hidden menu&lt;/a> of items you can order, but which they do not advertise. I recommend the 4x4. Second when you order a drink, look on the bottom of the cup. They print a bible verse there. Why? Who knows. Makes their cups seem more important somehow. So, you know, recycle them or something.&lt;/p></description></item><item><title>Best Seafood Pasta</title><link>https://ggr.com/best-seafood-pasta.html</link><pubDate>Mon, 02 Jan 2006 16:32:00 +0000</pubDate><guid>https://ggr.com/best-seafood-pasta.html</guid><description>&lt;p>It&amp;rsquo;s not as good as &lt;a href="http://ggr.com/?p=9">homemade&lt;/a> but &lt;a href="http://local.google.com/local?q=michelangelo%27s&amp;amp;near=San+Francisco,+CA&amp;amp;sll=37.775000,-122.418333&amp;amp;sspn=1.128891,1.873169&amp;amp;t=&amp;amp;hl=en&amp;amp;latlng=37775000,-122418333,9239044668248113722">Michelangelo&amp;rsquo;s&lt;/a> has had the same special for 5 years: linguini with baby clams, shrimp, and mussels; and it&amp;rsquo;s really good.&lt;/p>
-&lt;p>The place has a fun atmosphere, there&amp;rsquo;s rarely a long wait, and they serve gummy bears for desert. Oh, and if there is a wait, ask them to break you off a chunk of parmesan from their 20 lb. block of cheese or grab some yourself, it&amp;rsquo;s usually near the entrance.&lt;/p></description></item><item><title>Spaghetti Sauce</title><link>https://ggr.com/spaghetti-sauce.html</link><pubDate>Sun, 01 Jan 2006 14:22:00 +0000</pubDate><guid>https://ggr.com/spaghetti-sauce.html</guid><description>&lt;p>Makes 10 servings.&lt;/p>
-&lt;ul>
-&lt;li>0.5 cups avocado or grapeseed oil&lt;/li>
-&lt;li>4 cloves garlic&lt;/li>
-&lt;li>1 large yellow onion&lt;/li>
-&lt;li>1.5 pounds lean ground beef or Impossible Burger&lt;/li>
-&lt;li>15 ounces tomato sauce&lt;/li>
-&lt;li>12 ounces tomato paste&lt;/li>
-&lt;li>1 bottle of red wine or 4 cups of Burgandy&lt;/li>
-&lt;li>1 tablespoon oregano&lt;/li>
-&lt;li>1 tablespoon thyme&lt;/li>
-&lt;li>1 tablespoon sage&lt;/li>
-&lt;li>1 tablespoon basil&lt;/li>
-&lt;li>2 bay leaves&lt;/li>
-&lt;li>2 teaspoons salt&lt;/li>
-&lt;li>1 tablespoon brown sugar&lt;/li>
-&lt;li>56 ounces (2 cans) Italian-style tomatoes in basil&lt;/li>
-&lt;/ul>
-&lt;p>Add oil to a large pot.
+Add water if you prefer a thinner soup.&lt;/p&gt;
+&lt;p&gt;I had the good fortune of growing up during a bygone era when
+an average middle class kid like me had a stay home mom who
+heaped love and good food on me and my family.
+This recipe is one of my favorite from my mom&amp;rsquo;s repertoire.
+It tastes great, it&amp;rsquo;s simple, the ingredients are inexpensive,
+it&amp;rsquo;s good for you, it&amp;rsquo;s great for colds (I &lt;strong&gt;swear&lt;/strong&gt; fresh
+chicken broth has special powers, it can be made in large quantities,
+and it stores frozen and refrigerated. In other words, it&amp;rsquo;s the
+perfect recipe for a family of 6.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated on July 14, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Moved recipe to the top, story to the bottom.&lt;/li&gt;
+&lt;li&gt;Shortened the name.&lt;/li&gt;
+&lt;li&gt;Added #recipe tag.&lt;/li&gt;
+&lt;li&gt;Edited to make it easier to read.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Hamburger</title>
+      <link>https://ggr.com/best-hamburger.html</link>
+      <pubDate>Fri, 06 Jan 2006 23:54:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-hamburger.html</guid>
+      <description>&lt;p&gt;This is old hat to California natives, but if you haven&amp;rsquo;t visited in say, the last 15 years, you may not have heard of &lt;a href=&#34;http://www.in-n-out.com/&#34;&gt;In-N-Out&lt;/a&gt;. It&amp;rsquo;s a family owned chain that&amp;rsquo;s known for it&amp;rsquo;s simple menu, good service, and excellent hamburgers (the fries are really good too).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve had burgers at joints across the country, from McDonald&amp;rsquo;s to mom-and-pop burger stands and I always come back to In-N-Out. What sets In-N-Out apart from most fast food restaurants are their quality, health conscious ingredients. You can, for example, watch them make your fries as you drive up. How do they make them? They chop up the potatoes, fry them in vegetable oil, and add salt. That&amp;rsquo;s it. Like everything they make the fries are made of fresh, not frozen, ingredients. The freshness comes through in the taste and avoiding preservative is probably a lot better for you too. If you want to be on the inside, you should know about some of the stuff they do just for people that notice that kind of stuff, aka crazy detail oriented fans. First is the &lt;a href=&#34;http://www.in-n-out.com/menu/not-so-secret-menu.aspx&#34;&gt;hidden menu&lt;/a&gt; of items you can order, but which they do not advertise. I recommend the 4x4. Second when you order a drink, look on the bottom of the cup. They print a bible verse there. Why? Who knows. Makes their cups seem more important somehow. So, you know, recycle them or something.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Seafood Pasta</title>
+      <link>https://ggr.com/best-seafood-pasta.html</link>
+      <pubDate>Mon, 02 Jan 2006 16:32:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-seafood-pasta.html</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s not as good as &lt;a href=&#34;http://ggr.com/?p=9&#34;&gt;homemade&lt;/a&gt; but &lt;a href=&#34;http://local.google.com/local?q=michelangelo%27s&amp;amp;near=San+Francisco,+CA&amp;amp;sll=37.775000,-122.418333&amp;amp;sspn=1.128891,1.873169&amp;amp;t=&amp;amp;hl=en&amp;amp;latlng=37775000,-122418333,9239044668248113722&#34;&gt;Michelangelo&amp;rsquo;s&lt;/a&gt; has had the same special for 5 years: linguini with baby clams, shrimp, and mussels; and it&amp;rsquo;s really good.&lt;/p&gt;
+&lt;p&gt;The place has a fun atmosphere, there&amp;rsquo;s rarely a long wait, and they serve gummy bears for desert. Oh, and if there is a wait, ask them to break you off a chunk of parmesan from their 20 lb. block of cheese or grab some yourself, it&amp;rsquo;s usually near the entrance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spaghetti Sauce</title>
+      <link>https://ggr.com/spaghetti-sauce.html</link>
+      <pubDate>Sun, 01 Jan 2006 14:22:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/spaghetti-sauce.html</guid>
+      <description>&lt;p&gt;Makes 10 servings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0.5 cups avocado or grapeseed oil&lt;/li&gt;
+&lt;li&gt;4 cloves garlic&lt;/li&gt;
+&lt;li&gt;1 large yellow onion&lt;/li&gt;
+&lt;li&gt;1.5 pounds lean ground beef or Impossible Burger&lt;/li&gt;
+&lt;li&gt;15 ounces tomato sauce&lt;/li&gt;
+&lt;li&gt;12 ounces tomato paste&lt;/li&gt;
+&lt;li&gt;1 bottle of red wine or 4 cups of Burgandy&lt;/li&gt;
+&lt;li&gt;1 tablespoon oregano&lt;/li&gt;
+&lt;li&gt;1 tablespoon thyme&lt;/li&gt;
+&lt;li&gt;1 tablespoon sage&lt;/li&gt;
+&lt;li&gt;1 tablespoon basil&lt;/li&gt;
+&lt;li&gt;2 bay leaves&lt;/li&gt;
+&lt;li&gt;2 teaspoons salt&lt;/li&gt;
+&lt;li&gt;1 tablespoon brown sugar&lt;/li&gt;
+&lt;li&gt;56 ounces (2 cans) Italian-style tomatoes in basil&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Add oil to a large pot.
 Set stove to medium heat.
 Press garlic and add to pot.
 Fry garlic until starting to brown, about 1 minute.
@@ -729,24 +1681,73 @@ Add the Italian-style tomatoes.
 Cook for another 30 minutes.
 Serve over noodles.
 Add parmesean cheese to taste.
-Goes great with garlic bread.&lt;/p></description></item><item><title>Best Fish and Chips</title><link>https://ggr.com/best-fish-and-chips.html</link><pubDate>Sun, 01 Jan 2006 13:52:00 +0000</pubDate><guid>https://ggr.com/best-fish-and-chips.html</guid><description>&lt;p>My girlfriend introduced me to this joint last time we were in Malibu&amp;ndash;I ordered a 3 piece fish and chips and &lt;a href="http://local.google.com/local?q=mailbu+seafood&amp;amp;btnG=Search&amp;amp;sll=37.062500,-95.677068&amp;amp;sspn=36.178967,59.941406&amp;amp;t=&amp;amp;hl=en&amp;amp;latlng=37062500,-95677068,10782990093501476751">Malibu Seafood&lt;/a> gave me the biggest chunks of fried fish I&amp;rsquo;d ever seen.&lt;/p>
-&lt;p>I&amp;rsquo;m accustom to the frozen variety and the bar food variety of fish and chips, and let me tell you this is different. They take good, fresh, gourmet quality fish and fry it up. Add some tartar sauce and you&amp;rsquo;re ready to go. Oh&amp;ndash;and order just 2 pieces, any more and you risk an oil induced heart attack. But it tastes really good. ;)&lt;/p></description></item><item><title>Best Corned Beef Hash</title><link>https://ggr.com/best-corned-beef-hash.html</link><pubDate>Thu, 29 Dec 2005 13:05:00 +0000</pubDate><guid>https://ggr.com/best-corned-beef-hash.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/corned-beef-hash.jpg" alt="2">&lt;/p>
-&lt;p>Whenever I visit my family in the LA area I try to find my way to &lt;a href="http://local.google.com/local?q=billy%27s+in+Glendale,+ca&amp;amp;btnG=Search&amp;amp;sll=37.062500,-95.677068&amp;amp;sspn=36.178967,59.941406&amp;amp;t=&amp;amp;hl=en&amp;amp;latlng=34142500,-118254167,11173725057283763444">Billy&amp;rsquo;s in Glendale&lt;/a> for an order of corned beef hashand an order of hash brown potatoes (with plenty of ketchup). Billy&amp;rsquo;s makes their own corned beef hash and it&amp;rsquo;s excellent. I have tried corned beef hash at many other restaurants trying to find something this good closer to my home in San Francisco; I&amp;rsquo;ve searched high and low, but I&amp;rsquo;ve yet to find a comparable hash.&lt;/p></description></item><item><title>Spanish Sweet Bread</title><link>https://ggr.com/spanish-sweet-bread.html</link><pubDate>Thu, 29 Dec 2005 12:53:00 +0000</pubDate><guid>https://ggr.com/spanish-sweet-bread.html</guid><description>&lt;h3 id="bread-machine-variant">Bread Machine Variant&lt;/h3>
-&lt;p>Makes 1 loaf. This method is &lt;em>way&lt;/em> easier than the original,
-which you can find right after this one.&lt;/p>
-&lt;ul>
-&lt;li>0.75 cup whole milk&lt;/li>
-&lt;li>2 eggs, beaten&lt;/li>
-&lt;li>0.5 teaspoon lemon extract&lt;/li>
-&lt;li>0.5 teaspoon vanilla extract&lt;/li>
-&lt;li>600 grams bread flour / 3.5 cups&lt;/li>
-&lt;li>0.5 cups sugar&lt;/li>
-&lt;li>0.25 teaspoon salt&lt;/li>
-&lt;li>1 stick butter&lt;/li>
-&lt;li>1 package of yeast&lt;/li>
-&lt;li>0.75 cups golden raisins&lt;/li>
-&lt;/ul>
-&lt;p>Put all the ingredients, up to and including the butter,
+Goes great with garlic bread.&lt;/p&gt;
+&lt;p&gt;For me there is no better spaghetti sauce that the stuff I grew up with.
+Period. I grew up on this stuff and maybe that&amp;rsquo;s got something to do with
+it, but when I make my friends have no problem polishing off a plateful
+and coming back for more.&lt;/p&gt;
+&lt;p&gt;My dad learned his first version of this recipe while working in an Italian
+restaurant in college. He made it a bunch of times while studying at
+Berkeley because, besides tasting great, it can be made in big batches
+and it refrigerates well (up to about 2 weeks).
+Over the last 30 years he&amp;rsquo;s tried a lot of different things before arriving
+at the recipe I present to you. I can&amp;rsquo;t tell you how much I looked forward
+to eating this when my dad made it when I was a kid. Enjoy!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated on July 14, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Moved recipe to the top, prose to the bottom.&lt;/li&gt;
+&lt;li&gt;Dropped the &amp;lsquo;best&amp;rsquo;.&lt;/li&gt;
+&lt;li&gt;Added #recipe tag.&lt;/li&gt;
+&lt;li&gt;Added ingredients list.&lt;/li&gt;
+&lt;li&gt;Edited to make it easier to read.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Fish and Chips</title>
+      <link>https://ggr.com/best-fish-and-chips.html</link>
+      <pubDate>Sun, 01 Jan 2006 13:52:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-fish-and-chips.html</guid>
+      <description>&lt;p&gt;My girlfriend introduced me to this joint last time we were in Malibu&amp;ndash;I ordered a 3 piece fish and chips and &lt;a href=&#34;http://local.google.com/local?q=mailbu+seafood&amp;amp;btnG=Search&amp;amp;sll=37.062500,-95.677068&amp;amp;sspn=36.178967,59.941406&amp;amp;t=&amp;amp;hl=en&amp;amp;latlng=37062500,-95677068,10782990093501476751&#34;&gt;Malibu Seafood&lt;/a&gt; gave me the biggest chunks of fried fish I&amp;rsquo;d ever seen.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m accustom to the frozen variety and the bar food variety of fish and chips, and let me tell you this is different. They take good, fresh, gourmet quality fish and fry it up. Add some tartar sauce and you&amp;rsquo;re ready to go. Oh&amp;ndash;and order just 2 pieces, any more and you risk an oil induced heart attack. But it tastes really good. ;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Corned Beef Hash</title>
+      <link>https://ggr.com/best-corned-beef-hash.html</link>
+      <pubDate>Thu, 29 Dec 2005 13:05:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/best-corned-beef-hash.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/corned-beef-hash.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Whenever I visit my family in the LA area I try to find my way to &lt;a href=&#34;http://local.google.com/local?q=billy%27s+in+Glendale,+ca&amp;amp;btnG=Search&amp;amp;sll=37.062500,-95.677068&amp;amp;sspn=36.178967,59.941406&amp;amp;t=&amp;amp;hl=en&amp;amp;latlng=34142500,-118254167,11173725057283763444&#34;&gt;Billy&amp;rsquo;s in Glendale&lt;/a&gt; for an order of corned beef hashand an order of hash brown potatoes (with plenty of ketchup). Billy&amp;rsquo;s makes their own corned beef hash and it&amp;rsquo;s excellent. I have tried corned beef hash at many other restaurants trying to find something this good closer to my home in San Francisco; I&amp;rsquo;ve searched high and low, but I&amp;rsquo;ve yet to find a comparable hash.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spanish Sweet Bread</title>
+      <link>https://ggr.com/spanish-sweet-bread.html</link>
+      <pubDate>Thu, 29 Dec 2005 12:53:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/spanish-sweet-bread.html</guid>
+      <description>&lt;h3 id=&#34;bread-machine-variant&#34;&gt;Bread Machine Variant&lt;/h3&gt;
+&lt;p&gt;Makes 1 loaf. This method is &lt;em&gt;way&lt;/em&gt; easier than the original,
+which you can find right after this one.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0.75 cup whole milk&lt;/li&gt;
+&lt;li&gt;2 eggs, beaten&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon lemon extract&lt;/li&gt;
+&lt;li&gt;0.5 teaspoon vanilla extract&lt;/li&gt;
+&lt;li&gt;600 grams bread flour / 3.5 cups&lt;/li&gt;
+&lt;li&gt;0.5 cups sugar&lt;/li&gt;
+&lt;li&gt;0.25 teaspoon salt&lt;/li&gt;
+&lt;li&gt;1 stick butter&lt;/li&gt;
+&lt;li&gt;1 package of yeast&lt;/li&gt;
+&lt;li&gt;0.75 cups golden raisins&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Put all the ingredients, up to and including the butter,
 into the bread maker, in the order they are listed.
 Make a small hole in the flour,
 taking care not to go so deep as to get to the liquid.
@@ -755,4 +1756,76 @@ Set the bread maker to make regular, basic bread.
 Start the break maker.
 When the bread maker beeps to allow mixins, add the raisins.
 Once the bread is done baking, remove it from the pan
-and let it cool on a rack.&lt;/p></description></item></channel></rss>
+and let it cool on a rack.&lt;/p&gt;
+&lt;h3 id=&#34;original&#34;&gt;Original&lt;/h3&gt;
+&lt;p&gt;Makes 2 loaves.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2 packages of yeast soaked in 1/2 water&lt;/li&gt;
+&lt;li&gt;0.5 cup canned milk&lt;/li&gt;
+&lt;li&gt;0.5 cup whole milk&lt;/li&gt;
+&lt;li&gt;4 eggs beaten&lt;/li&gt;
+&lt;li&gt;1 cup butter&lt;/li&gt;
+&lt;li&gt;1 teaspoon salt&lt;/li&gt;
+&lt;li&gt;1 cups sugar&lt;/li&gt;
+&lt;li&gt;6 cups flour&lt;/li&gt;
+&lt;li&gt;1 teaspoon lemon extract&lt;/li&gt;
+&lt;li&gt;1 teaspoon vanilla extract&lt;/li&gt;
+&lt;li&gt;1.5 cups raisins&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Close all windows and doors, don&amp;rsquo;t want cold air.
+Scald 1/2 cup canned cream milk and 1/2 cup of whole regular milk
+(medium heat until crust on top, about a minute, don&amp;rsquo;t let it boil).
+Melt 2 cubes of butter on low heat.
+Sift 7 cups of flour (throw through strainer if no sifter) into a separate bowl.
+Take 2 packages active dry yeast and dissolve in 1/2 cup luke warm water for
+5 minutes w/a pinch of sugar.
+In a bowl, beat 4 eggs.
+Throw in 1/4 teaspoon salt.
+Add 1 cup to 1/2 cups sugar and mix.
+Add butter and stir quickly so the egg is not cooked&amp;hellip;
+let butter cool first if necessary and mix.
+Add milk after its cool and mix.
+Add 1 teaspoon vanilla extract and 1 teaspoon lemon extract and mix.
+Add yeast and mix.
+Add half the flout and mix.
+Add fists of flour.
+Let bread rest on floured board covered with cloth and wait 3 minutes.
+Put flour everywhere, flour hands.
+Kneed dough&amp;hellip;turn and take outside and folding into middle for 8 minutes.
+Add cup of raisons and kneed until it&amp;rsquo;s even.
+Should have lost it&amp;rsquo;s stickiness, but throw flower as needed.
+Grease a bowl with butter or Crisco.
+Put the bread then flip it so it has grease all over.
+Wet a towel with warm water then ring it out.
+Cover the bowl and put in barely warmed oven
+(turn on for a minute, then turn it off before).
+Close the oven and let the thing rise for about 1 1/2 hours.
+Take dough out of oven.
+Punch the dough down.
+Split into 2 round baking pans that are well greased.
+Shape it into pans.
+Cover pans with damp towels over wax paper and put back into warm place.
+Let rise for about 1 hour.
+Take off towels and wax paper.
+Turn oven to 350 and bake for 45-55 minutes or so
+(check it so the outside is not burnt).&lt;/p&gt;
+&lt;p&gt;My great-grandmother was warm, fun, and loving.
+One of her favorite ways to show us she cared was to cook us food&amp;hellip;
+and to sneak us a cookie when mom wasn&amp;rsquo;t looking.
+My great-grandma (who we called Abuelita), grandma, mother, brother,
+and I have all made this bread and it&amp;rsquo;s really good.&lt;/p&gt;
+&lt;p&gt;Especially with a little warm butter spread on top.
+The recipe has been passed down through my family for generations
+and with each generation it&amp;rsquo;s become infused with a little more love. :)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated on July 14, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Moved the story after the recipe. I don&amp;rsquo;t like recipes blocked by a long story either.&lt;/li&gt;
+&lt;li&gt;Changed title from &amp;lsquo;Best&amp;hellip;&amp;rsquo; to the actual recipe name, SEO be damned.&lt;/li&gt;
+&lt;li&gt;Added the #recipe tag.&lt;/li&gt;
+&lt;li&gt;Added my bread machine variant.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

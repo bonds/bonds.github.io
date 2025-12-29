@@ -1,9 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security on game, game. repeat.</title><link>https://ggr.com/tags/security.html</link><description>Recent content in Security on game, game. repeat.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2015 17:19:00 +0000</lastBuildDate><atom:link href="https://ggr.com/tags/security/index.xml" rel="self" type="application/rss+xml"/><item><title>My Security House Boat</title><link>https://ggr.com/my-security-house-boat.html</link><pubDate>Sun, 20 Sep 2015 17:19:00 +0000</pubDate><guid>https://ggr.com/my-security-house-boat.html</guid><description>&lt;p>The more I learn about network security, the more trying to secure a Linux
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on game, game. repeat.</title>
+    <link>https://ggr.com/tags/security.html</link>
+    <description>Recent content in Security on game, game. repeat.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Sep 2015 17:19:00 +0000</lastBuildDate><atom:link href="https://ggr.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Security House Boat</title>
+      <link>https://ggr.com/my-security-house-boat.html</link>
+      <pubDate>Sun, 20 Sep 2015 17:19:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/my-security-house-boat.html</guid>
+      <description>&lt;p&gt;The more I learn about network security, the more trying to secure a Linux
 server feels like trying to make my house seaworthy&amp;ndash;I&amp;rsquo;d be better off buying
 something that was built for seaworthiness from the start, like a boat.
 Security, like seaworthiness, is not a feature that&amp;rsquo;s well suited to being
-added onto a structure after the fact.&lt;/p>
-&lt;p>Its not just Linux of course&amp;hellip;with hundreds of thousands of lines of private
+added onto a structure after the fact.&lt;/p&gt;
+&lt;p&gt;Its not just Linux of course&amp;hellip;with hundreds of thousands of lines of private
 code in multiple languages and hundreds more libraries bringing in millions of
 lines of open source code, plus thousands of lines of configuration for machines
 and services both real and virtual, some ours, some belonging to others (i.e.
@@ -11,8 +26,61 @@ our ISP and various 3rd party SaaS providers), I need to be patching every day
 just to keep up with the known vulnerabilities, to say nothing of the unknown
 ones. Turns out I took my house boat out to sea, it sprang a thousand leaks, and
 as soon as I patch the first thousand there will be another thousand to take
-their place.&lt;/p></description></item><item><title>The Big Unplug</title><link>https://ggr.com/the-big-unplug.html</link><pubDate>Thu, 31 Oct 2013 09:13:00 +0000</pubDate><guid>https://ggr.com/the-big-unplug.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/alien-self-destruct.jpg" alt="7">&lt;/p>
-&lt;p>I posted this on my personal Facebook account yesterday morning:&lt;/p>
-&lt;p>&lt;em>I want to see what life is like without a (personal) Facebook account for a while. Seems the teenagers are doing fine (&lt;a href="http://mashable.com/2013/08/11/teens-facebook/)">http://mashable.com/2013/08/11/teens-facebook/)&lt;/a>. I&amp;rsquo;m going to nuke my account (from orbit) this evening (it&amp;rsquo;s the only way to be sure). You can find me at &lt;a href="https://ggr.com/">https://ggr.com/&lt;/a> and &lt;a href="mailto:scott@ggr.com">scott@ggr.com&lt;/a>. See you on the other side!&lt;/em>&lt;/p>
-&lt;p>It was funny to see everyone&amp;rsquo;s responses. A couple people pointed out that most of my posts were &lt;a href="http://runkeeper.com/">Runkeeper&lt;/a> jog updates, implying that &lt;em>they&lt;/em> won&amp;rsquo;t be missing out on much as I journey into the Facebook abyss. Fair enough. :)&lt;/p></description></item><item><title>Opting Out</title><link>https://ggr.com/opting-out.html</link><pubDate>Thu, 17 Oct 2013 00:35:00 +0000</pubDate><guid>https://ggr.com/opting-out.html</guid><description>&lt;p>&lt;img src="https://ggr_com.s3.amazonaws.com/images/optout.jpg" alt="26">&lt;/p>
-&lt;p>A government with easy access to all the &lt;a href="https://en.wikipedia.org/wiki/PRISM_(surveillance_program)">public and private information&lt;/a> of its people, that collects this information &lt;a href="https://www.commondreams.org/view/2013/09/11-11">against their wishes&lt;/a>, that makes them more &lt;a href="http://www.technologyreview.com/news/519336/bruce-schneier-nsa-spying-is-making-us-less-safe/">vulnerable to harm&lt;/a> in order to maintain their access, and then &lt;a href="http://techcrunch.com/2013/08/15/lies-damned-lies-and-the-nsa/">lies&lt;/a> in order to cover up their actions is fundamentally incompatible with American democracy. The freedom to live, speak, and think in private, without &lt;a href="http://www.nbcnews.com/technology/nsa-dragnet-wider-previously-suspected-says-nyt-6C10876005">worrying&lt;/a> how a government agent might view our thoughts or try to use them against us, &lt;em>is&lt;/em> liberty. I feel obligated to &lt;a href="http://www.draxe.com/i-opt-out-what-you-must-know-about-new-airport-backscatter-scanners/">opt out&lt;/a> and find other ways to protest and inhibit these &lt;a href="http://www.economonitor.com/dolanecon/2013/08/05/the-fourth-amendment-and-the-economic-spillover-from-nsa-surveillance-to-e-commerce/">destructive&lt;/a> programs.&lt;/p></description></item></channel></rss>
+their place.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m starting to understand what OpenBSD is about.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Big Unplug</title>
+      <link>https://ggr.com/the-big-unplug.html</link>
+      <pubDate>Thu, 31 Oct 2013 09:13:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/the-big-unplug.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/alien-self-destruct.jpg&#34; alt=&#34;7&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I posted this on my personal Facebook account yesterday morning:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I want to see what life is like without a (personal) Facebook account for a while. Seems the teenagers are doing fine (&lt;a href=&#34;http://mashable.com/2013/08/11/teens-facebook/)&#34;&gt;http://mashable.com/2013/08/11/teens-facebook/)&lt;/a&gt;. I&amp;rsquo;m going to nuke my account (from orbit) this evening (it&amp;rsquo;s the only way to be sure). You can find me at &lt;a href=&#34;https://ggr.com/&#34;&gt;https://ggr.com/&lt;/a&gt; and &lt;a href=&#34;mailto:scott@ggr.com&#34;&gt;scott@ggr.com&lt;/a&gt;. See you on the other side!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It was funny to see everyone&amp;rsquo;s responses. A couple people pointed out that most of my posts were &lt;a href=&#34;http://runkeeper.com/&#34;&gt;Runkeeper&lt;/a&gt; jog updates, implying that &lt;em&gt;they&lt;/em&gt; won&amp;rsquo;t be missing out on much as I journey into the Facebook abyss. Fair enough. :)&lt;/p&gt;
+&lt;p&gt;The hardest part of deleting my account was moving the apps over to my work Facebook account. I still develop apps that integrate with Facebook, so I need to have accounts to test with even if I&amp;rsquo;m no longer spamming my friends and family with pictures from my morning jog. It turns out before you can activate developer powers on a Facebook account it must be verified via phone via text message. I&amp;rsquo;ve been meaning to give T-Mobile &lt;a href=&#34;http://www.avc.com/a_vc/2013/10/t-mobile-rocks.html&#34;&gt;another try&lt;/a&gt;, so last night I stopped by my local T-Mobile, picked up a nano-SIM with &lt;a href=&#34;http://prepaid-phones.t-mobile.com/pay-by-the-day-cell-phone-plans&#34;&gt;some credits&lt;/a&gt; for $23, borrowed Catherine&amp;rsquo;s sim unlocked phone, entered the number into Facebook&amp;rsquo;s mobile verifier, got the text, verified my account, then gave my work account admin powers on the various apps. Whew!&lt;/p&gt;
+&lt;p&gt;For those interested, here are the steps I took:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;downloaded a &lt;a href=&#34;http://readwrite.com/2013/02/01/how-to-backup-your-facebook-data-in-5-easy-steps&#34;&gt;backup&lt;/a&gt; of all my Facebook data&lt;/li&gt;
+&lt;li&gt;created a new Facebook account for work&lt;/li&gt;
+&lt;li&gt;bought a prepaid phone number and used it to verify my new account&lt;/li&gt;
+&lt;li&gt;from my old account, invited my new account to be an admin on all my Facebook apps and pages&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/help/224562897555674&#34;&gt;deleted&lt;/a&gt; my account&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Facebook let me know I have 14 days to cancel the &lt;a href=&#34;http://www.markta.co.uk/alien/chapter12.htm&#34;&gt;emergency destruct system&lt;/a&gt;. I wonder if and when they&amp;rsquo;ll actually have deleted my data and all its backups. Props to Facebook for making the process relatively easy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Opting Out</title>
+      <link>https://ggr.com/opting-out.html</link>
+      <pubDate>Thu, 17 Oct 2013 00:35:00 +0000</pubDate>
+      
+      <guid>https://ggr.com/opting-out.html</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/optout.jpg&#34; alt=&#34;26&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A government with easy access to all the &lt;a href=&#34;https://en.wikipedia.org/wiki/PRISM_(surveillance_program)&#34;&gt;public and private information&lt;/a&gt; of its people, that collects this information &lt;a href=&#34;https://www.commondreams.org/view/2013/09/11-11&#34;&gt;against their wishes&lt;/a&gt;, that makes them more &lt;a href=&#34;http://www.technologyreview.com/news/519336/bruce-schneier-nsa-spying-is-making-us-less-safe/&#34;&gt;vulnerable to harm&lt;/a&gt; in order to maintain their access, and then &lt;a href=&#34;http://techcrunch.com/2013/08/15/lies-damned-lies-and-the-nsa/&#34;&gt;lies&lt;/a&gt; in order to cover up their actions is fundamentally incompatible with American democracy. The freedom to live, speak, and think in private, without &lt;a href=&#34;http://www.nbcnews.com/technology/nsa-dragnet-wider-previously-suspected-says-nyt-6C10876005&#34;&gt;worrying&lt;/a&gt; how a government agent might view our thoughts or try to use them against us, &lt;em&gt;is&lt;/em&gt; liberty. I feel obligated to &lt;a href=&#34;http://www.draxe.com/i-opt-out-what-you-must-know-about-new-airport-backscatter-scanners/&#34;&gt;opt out&lt;/a&gt; and find other ways to protest and inhibit these &lt;a href=&#34;http://www.economonitor.com/dolanecon/2013/08/05/the-fourth-amendment-and-the-economic-spillover-from-nsa-surveillance-to-e-commerce/&#34;&gt;destructive&lt;/a&gt; programs.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve started looking for alternatives to NSA compromised services and software and I&amp;rsquo;m going to slowly swap them out. I used to assume that big, brand name proprietary software was more secure, now I wonder what &lt;a href=&#34;http://www.theforbiddenknowledge.com/hardtruth/nsa_backdoor_windows.htm&#34;&gt;backdoors&lt;/a&gt; and vulnerabilities, &lt;a href=&#34;http://www.microsoft.com/security/msrc/collaboration/mapp.aspx&#34;&gt;known to some&lt;/a&gt; who are trustworthy and some who are not, they contain. At least with open source software users have a fighting chance to find and address vulnerabilities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Switched from Google to self hosted. I don&amp;rsquo;t want my personal email caught up in the NSA dragnet or any &lt;a href=&#34;http://yro.slashdot.org/story/11/04/07/232224/Obama-Administration-Wants-Your-Old-Email&#34;&gt;other dragnet&lt;/a&gt;. I realize that if the NSA wants to &lt;a href=&#34;https://en.wikipedia.org/wiki/Pwn&#34;&gt;pwn&lt;/a&gt; me they will, but I don&amp;rsquo;t want to make it an any easier that I have to. I&amp;rsquo;m still using Google Apps at work because Google Apps is awesome and I&amp;rsquo;m less offended by the g-men snooping in that context.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Search&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Switched from Google to &lt;a href=&#34;http://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt;. They &lt;a href=&#34;http://donttrack.us/&#34;&gt;don&amp;rsquo;t store&lt;/a&gt; personal info. Their search isn&amp;rsquo;t as good as Google&amp;rsquo;s but I&amp;rsquo;ll live.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://lockitron.com/&#34;&gt;Lockitron&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cancelled my order. If you want to pick my lock you&amp;rsquo;re going to have to show up in person.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Web&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Switched from Google Chrome to Chromium to Firefox. Installed Adblock Plus, BetterPrivacy, Flashblock, and NoScript addons.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Internet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Switched to &lt;a href=&#34;http://sonic.net/&#34;&gt;Sonic&lt;/a&gt; because they are the ISP available to me that &lt;a href=&#34;https://www.eff.org/who-has-your-back-2013&#34;&gt;fights the hardest&lt;/a&gt; for their users&amp;rsquo; rights. My old provider, Comcast, not so much.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chat&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Switched from Apple Messages to Adium. Using OTR when I can.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Etc.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Donating monthly to the &lt;a href=&#34;https://supporters.eff.org/donate&#34;&gt;EFF&lt;/a&gt;. Wrote my &lt;a href=&#34;http://www.house.gov/representatives/find/&#34;&gt;congresswoman&lt;/a&gt; asking her to vote for the &lt;a href=&#34;http://www.theguardian.com/world/2013/jul/25/nsa-surveillance-amash-amendment-narrow-defeat&#34;&gt;bill restricting NSA phone-tracking&lt;/a&gt;. Signed the &lt;a href=&#34;https://petitions.whitehouse.gov/petition/pardon-edward-snowden/Dp03vGYD&#34;&gt;petition to pardon Snowden&lt;/a&gt;. Donated to the &lt;a href=&#34;https://rally.org/lavabit&#34;&gt;Lavabit defense fund&lt;/a&gt;. Installed &lt;a href=&#34;http://www.obdev.at/products/littlesnitch/index.html&#34;&gt;Little Snitch&lt;/a&gt; to reduce monitoring from my laptop, though I still need to take more time to lock thing down properly.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Todo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a Mac+OSX and iPhone user, look into &lt;a href=&#34;http://www.mozilla.org/en-US/firefox/os/&#34;&gt;open alternatives&lt;/a&gt;. I occasionally use Facebook, more and more these days for authentication across web and mobile apps, is there a way to share online without permitting a big company or a government agency the same access as my family? Try out more &lt;a href=&#34;https://prism-break.org/&#34;&gt;Prism-Break&lt;/a&gt; ideas. Ponder how to use encryption on top of cloud services so I can have my cake and eat it too. Need to buy a bumper sticker that says: &lt;a href=&#34;http://www.osnews.com/story/25469/Richard_Stallman_Was_Right_All_Along&#34;&gt;Stallman Was Right&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

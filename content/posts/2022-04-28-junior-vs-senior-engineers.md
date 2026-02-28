@@ -16,7 +16,7 @@ Junior: clever solution
 
 Senior: easy to understand solution, even if a bit ugly
 
-Junior: don’t like criticism, don’t want to look bad<br>
+Junior: don’t like criticism, don’t want to look bad
 
 Senior: want more criticism, don’t want to make a mistake that could be avoided
 

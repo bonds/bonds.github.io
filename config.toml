@@ -6,3 +6,6 @@ uglyurls = true
 [permalinks]
   posts = '/:title'
   pages = '/:title'
+[author]
+name = "Scott Bonds"  # Replace with your name
+email = "scott@ggr.com" # Replace with your email address

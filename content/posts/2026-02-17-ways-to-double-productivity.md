@@ -3,7 +3,7 @@ title: Ways to Double Productivity on an Engineering Team
 date: 2026-02-26T23:11:03-07:00
 tags: leadership
 ---
-# Yes way
+### Yes way
 
 each way is another 2x
 
@@ -15,7 +15,7 @@ versus doing none of them at all = 1x
 
 productivity = value creation, e.g. growth rate, mission progress, KPIs
 
-# Survivor bias
+### Survivor bias
 
 sounds ridiculous until you consider...
 
@@ -35,13 +35,13 @@ and Alex Honnold free soloed El Capitan
 
 and Arnold Schwarzenegger exists
 
-# Assumptions
+### Assumptions
 
 most of the team is a good culture and skill fit...
 
 the teamwork and morale lines will be especially unfixable without that
 
-# Stuff I've Done
+### Stuff I've Done
 
 1. teamwork: golf -> basketball, e.g. mobbing, scrum, The Advantage, Wooden on Leadership
 2. morale: low -> high, e.g. work is a slog vs I can't wait to get into work on Monday because I'm doing the best, most interesting, most fun, most important work of my life
@@ -49,7 +49,7 @@ the teamwork and morale lines will be especially unfixable without that
 4. DORA + devX: low -> high performance org, e.g. good automated test coverage, CI/CD automation, good docs, plenty of testing environments, budget for tools, budget for training (i.e. time and money)
 5. history: undocumented -> well documented and easy to use, e.g. ADRs, GDDs, A/B test results and analysis, everything easily searchable
 
-# Stuff I'm Trying
+### Stuff I'm Trying
 
 6. skill w/AI: none -> expert
 7. code: AI/newb unoptimized -> optimized, i.e. a junior dev or AI can make improvements to production safely in any particular area of the codebase, with limited context, without talking to someone else

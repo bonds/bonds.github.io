@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'game, game. repeat.'
 theme = "lowtech"
 uglyurls = true
+
 [permalinks]
   posts = '/:title'
   pages = '/:title'
+
+[author]
+  name = "Scott Bonds"
+  email = "scott@ggr.com"

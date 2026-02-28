@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Games on game, game. repeat.</title>
-    <link>https://ggr.com/tags/games.html</link>
-    <description>Recent content in Games on game, game. repeat.</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jan 2018 16:32:00 +0000</lastBuildDate><atom:link href="https://ggr.com/tags/games/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Angband 2017 Review</title>
-      <link>https://ggr.com/angband-2017-review.html</link>
-      <pubDate>Tue, 09 Jan 2018 16:32:00 +0000</pubDate>
-      
-      <guid>https://ggr.com/angband-2017-review.html</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://quisquous.s3.amazonaws.com/angband.png&#34; alt=&#34;Angband screenshot&#34;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Games on game, game. repeat.</title><link>https://ggr.com/tags/games.html</link><description>Recent content in Games on game, game. repeat.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2018 16:32:00 +0000</lastBuildDate><atom:link href="https://ggr.com/tags/games/index.xml" rel="self" type="application/rss+xml"/><item><title>Angband 2017 Review</title><link>https://ggr.com/angband-2017-review.html</link><pubDate>Tue, 09 Jan 2018 16:32:00 +0000</pubDate><guid>https://ggr.com/angband-2017-review.html</guid><description>&lt;p&gt;&lt;img src="https://quisquous.s3.amazonaws.com/angband.png" alt="Angband screenshot"&gt;&lt;/p&gt;
 &lt;p&gt;A couple months ago my wife got locked out of Steam while trying to remember her
 password and we had to give up on a rare chance to play some Don&amp;rsquo;t Starve
 Together, um, together. It got me thinking&amp;hellip;DRM is a pain in the butt
@@ -23,7 +8,7 @@ off how much you can spend on a game system. That&amp;rsquo;s not my aim&amp;nda
 realized that the best gameplay is not coming out of the game industry&amp;rsquo;s big
 budget blockbuster hit machines, but from indies plying their art as best they
 can.&lt;/p&gt;
-&lt;p&gt;Which brings me to &lt;a href=&#34;http://rephial.org/&#34;&gt;Angband&lt;/a&gt;, an old, and I mean old, roguelike. Turns out
+&lt;p&gt;Which brings me to &lt;a href="http://rephial.org/"&gt;Angband&lt;/a&gt;, an old, and I mean old, roguelike. Turns out
 there&amp;rsquo;s a package for an older version on OpenBSD, the latest builds ok on
 OpenBSD too, and its a lot of fun. Seeing as its under continuous-ish
 development, and seeing as its 2018, it seemed like a good time to write a
@@ -64,8 +49,8 @@ I&amp;rsquo;m told there are ways to cheat if you don&amp;rsquo;t like that sort
 heck, its FOSS so you can modify the game however you want, but there no
 bragging rights for cheaters, so there.&lt;/p&gt;
 &lt;p&gt;First I played v3.3.2 because there&amp;rsquo;s a package for it on OpenBSD 6.2. Then I
-&lt;a href=&#34;https://angband.readthedocs.io/en/latest/hacking/compiling.html&#34;&gt;compiled v4.1.2 from source&lt;/a&gt;&amp;hellip;the maintainer has filed tickets against some
-&lt;a href=&#34;https://github.com/angband/angband/issues?q=is%3Aissue+is%3Aopen+openbsd&#34;&gt;OpenBSD compiling challenges&lt;/a&gt;, but I was ok with the basic text version, and
+&lt;a href="https://angband.readthedocs.io/en/latest/hacking/compiling.html"&gt;compiled v4.1.2 from source&lt;/a&gt;&amp;hellip;the maintainer has filed tickets against some
+&lt;a href="https://github.com/angband/angband/issues?q=is%3Aissue+is%3Aopen+openbsd"&gt;OpenBSD compiling challenges&lt;/a&gt;, but I was ok with the basic text version, and
 that compiled and ran fine.&lt;/p&gt;
 &lt;p&gt;I noticed a lot of differences between the versions. In 3 I spent a fair amount
 of time grinding for money in order to buy upgraded equipment&amp;hellip;more than half
@@ -98,31 +83,6 @@ dead and have to start over after 10 hours of leveling up a level 30 high elf
 mage.&lt;/p&gt;
 &lt;p&gt;Deep breath. One turn at a time. The fastest way to play is to play slow.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Updated on March 30, 2022&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Fixed/updated links to compiling docs and bug tracker.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Passage Moved Me</title>
-      <link>https://ggr.com/passage-moved-me.html</link>
-      <pubDate>Sat, 23 May 2009 10:23:00 +0000</pubDate>
-      
-      <guid>https://ggr.com/passage-moved-me.html</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/passage.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Not knowing what to expect, I played &lt;a href=&#34;http://hcsoftware.sourceforge.net/passage/&#34;&gt;Passage&lt;/a&gt; and found myself moved (not in the U-Haul sense, the other moved)&amp;hellip;something no other video game has accomplished before or since. It doesn&amp;rsquo;t look like much, but there&amp;rsquo;s real &lt;a href=&#34;http://chrishecker.com/Can_a_Computer_Make_You_Cry%3F&#34;&gt;Art&lt;/a&gt; in there.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Braid Is a Beautiful Game</title>
-      <link>https://ggr.com/braid-is-a-beautiful-game.html</link>
-      <pubDate>Fri, 22 May 2009 00:20:00 +0000</pubDate>
-      
-      <guid>https://ggr.com/braid-is-a-beautiful-game.html</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://ggr_com.s3.amazonaws.com/images/braid.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;You had me at hello&lt;/em&gt;. &amp;ndash;Wait&amp;hellip;I mean: &lt;em&gt;you had me at the start up screen&lt;/em&gt;. &amp;ndash;&lt;a href=&#34;http://braid-game.com/&#34;&gt;Braid&lt;/a&gt; would make a great screensaver, it&amp;rsquo;s that neat to look at (and listen to). And for those who like side-scrollers, there&amp;rsquo;s a fun, innovative game in there too. The (free) demo is worth the price of admission and then some.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Fixed/updated links to compiling docs and bug tracker.&lt;/p&gt;</description></item><item><title>Passage Moved Me</title><link>https://ggr.com/passage-moved-me.html</link><pubDate>Sat, 23 May 2009 10:23:00 +0000</pubDate><guid>https://ggr.com/passage-moved-me.html</guid><description>&lt;p&gt;&lt;img src="https://ggr_com.s3.amazonaws.com/images/passage.jpg" alt="3"&gt;&lt;/p&gt;
+&lt;p&gt;Not knowing what to expect, I played &lt;a href="http://hcsoftware.sourceforge.net/passage/"&gt;Passage&lt;/a&gt; and found myself moved (not in the U-Haul sense, the other moved)&amp;hellip;something no other video game has accomplished before or since. It doesn&amp;rsquo;t look like much, but there&amp;rsquo;s real &lt;a href="http://chrishecker.com/Can_a_Computer_Make_You_Cry%3F"&gt;Art&lt;/a&gt; in there.&lt;/p&gt;</description></item><item><title>Braid Is a Beautiful Game</title><link>https://ggr.com/braid-is-a-beautiful-game.html</link><pubDate>Fri, 22 May 2009 00:20:00 +0000</pubDate><guid>https://ggr.com/braid-is-a-beautiful-game.html</guid><description>&lt;p&gt;&lt;img src="https://ggr_com.s3.amazonaws.com/images/braid.png" alt="2"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You had me at hello&lt;/em&gt;. &amp;ndash;Wait&amp;hellip;I mean: &lt;em&gt;you had me at the start up screen&lt;/em&gt;. &amp;ndash;&lt;a href="http://braid-game.com/"&gt;Braid&lt;/a&gt; would make a great screensaver, it&amp;rsquo;s that neat to look at (and listen to). And for those who like side-scrollers, there&amp;rsquo;s a fun, innovative game in there too. The (free) demo is worth the price of admission and then some.&lt;/p&gt;</description></item></channel></rss>

@@ -13,3 +13,4 @@ min_version = "0.41.0"
 [author]
   name = "Scott Bonds"
   homepage = "https://ggr.com/"
+  email = "scott@ggr.com"

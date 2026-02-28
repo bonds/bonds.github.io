@@ -8,6 +8,7 @@ uglyurls = true
   posts = '/:title'
   pages = '/:title'
 
-[author]
-  name = "Scott Bonds"
-  email = "scott@ggr.com"
+[params]
+  [author]
+    name = "Scott Bonds"
+    email = "scott@ggr.com"

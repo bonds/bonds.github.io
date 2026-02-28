@@ -1,6 +1,6 @@
 ---
 title: Ways to Double Productivity on an Engineering Team
-date: 2026-02-27T23:11:03-07:00
+date: 2026-02-26T23:11:03-07:00
 tags: leadership
 ---
 # Yes way

@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Misc on game, game. repeat.</title><link>https://ggr.com/tags/misc.html</link><description>Recent content in Misc on game, game. repeat.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Aug 2026 19:01:43 -0700</lastBuildDate><atom:link href="https://ggr.com/tags/misc/index.xml" rel="self" type="application/rss+xml"/><item><title>I Am an LLM</title><link>https://ggr.com/i-am-an-llm.html</link><pubDate>Sun, 02 Aug 2026 19:01:43 -0700</pubDate><guid>https://ggr.com/i-am-an-llm.html</guid><description>&lt;p&gt;I am an LLM&lt;!-- raw HTML omitted --&gt;
-Garbage in, garbage out&lt;!-- raw HTML omitted --&gt;
-What news I consume&lt;!-- raw HTML omitted --&gt;
-Fox or MSNBC or Al Jazeera&lt;!-- raw HTML omitted --&gt;
-What books&lt;!-- raw HTML omitted --&gt;
-The Bible&lt;!-- raw HTML omitted --&gt;
-Or the writings of the Marquis De Sade&lt;!-- raw HTML omitted --&gt;
-Or both&lt;!-- raw HTML omitted --&gt;
-Everything I take in&lt;!-- raw HTML omitted --&gt;
-Alters the weights in my brain&lt;!-- raw HTML omitted --&gt;
-MAGA or the Radical Left&lt;!-- raw HTML omitted --&gt;
-My Uber driver said this&lt;!-- raw HTML omitted --&gt;
-My mom said that&lt;!-- raw HTML omitted --&gt;
-I watched an Instagram Reel&lt;!-- raw HTML omitted --&gt;
-A friend forwarded to me&lt;!-- raw HTML omitted --&gt;
-I asked Claude a question&lt;!-- raw HTML omitted --&gt;
-I read a Wikipedia entry&lt;!-- raw HTML omitted --&gt;
-I saw an Amazon review: 4.5 stars&lt;!-- raw HTML omitted --&gt;
-Maybe that&amp;rsquo;s true&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description></item><item><title>NixOS Is Great</title><link>https://ggr.com/nixos-is-great.html</link><pubDate>Wed, 05 Jun 2024 00:22:00 -0700</pubDate><guid>https://ggr.com/nixos-is-great.html</guid><description>&lt;p&gt;Finally got around to trying out NixOS. This is the way. :)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Misc on game, game. repeat.</title><link>https://ggr.com/tags/misc.html</link><description>Recent content in Misc on game, game. repeat.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Aug 2026 19:01:43 -0700</lastBuildDate><atom:link href="https://ggr.com/tags/misc/index.xml" rel="self" type="application/rss+xml"/><item><title>I Am an LLM</title><link>https://ggr.com/i-am-an-llm.html</link><pubDate>Sun, 02 Aug 2026 19:01:43 -0700</pubDate><guid>https://ggr.com/i-am-an-llm.html</guid><description>&lt;p&gt;I am an LLM
+Garbage in, garbage out
+What news I consume
+Fox or MSNBC or Al Jazeera
+What books
+The Bible
+Or the writings of the Marquis De Sade
+Or both
+Everything I take in
+Alters the weights in my brain
+MAGA or the Radical Left
+My Uber driver said this
+My mom said that
+I watched an Instagram Reel
+A friend forwarded to me
+I asked Claude a question
+I read a Wikipedia entry
+I saw an Amazon review: 4.5 stars
+Maybe that&amp;rsquo;s true&lt;/p&gt;</description></item><item><title>NixOS Is Great</title><link>https://ggr.com/nixos-is-great.html</link><pubDate>Wed, 05 Jun 2024 00:22:00 -0700</pubDate><guid>https://ggr.com/nixos-is-great.html</guid><description>&lt;p&gt;Finally got around to trying out NixOS. This is the way. :)&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve used Chef, Ansible, shell scripts, manually cowboy sysadmin knob twiddling, CloudFormation, Terraform and other means of wrangling the computers and software I manage and code &amp;gt; manual but NixOS takes it to the next level with a declarative &amp;gt; imperative approach to configuring a Linux box.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s not all roses. I&amp;rsquo;m going to have to invest real time before I&amp;rsquo;ll have wrapped my head around the Nix language&amp;hellip;and without that I&amp;rsquo;m groping around in the dark at times. I&amp;rsquo;ve already bruised my head on Haskell, another functional language, so hopefully it&amp;rsquo;s not too bad. A lot has changed over the years and plenty of example configs and ideas and docs that were right before are outdated now, so&amp;hellip;more groping.&lt;/p&gt;
 &lt;p&gt;But being able to build my workstation image and roll back and forward is a revelation. Access to the &lt;a href="https://repology.org/repositories/graphs"&gt;hugest library&lt;/a&gt; of high quality, well maintained packages in the world of Linux/Unix, bar none, is awesome (yay I have Dwarf Fortress working!). Putting my config in source control with a real hope of being able to build a new workstation with everything ready to go, with minimal manual config for Gnome, Firefox, the apps to install, and my rotated monitors promised to save from me lots of grief going forward.&lt;/p&gt;</description></item><item><title>Mbsync Is Way Faster Than Offlineimap</title><link>https://ggr.com/mbsync-is-way-faster-than-offlineimap.html</link><pubDate>Tue, 09 Feb 2016 19:03:00 +0000</pubDate><guid>https://ggr.com/mbsync-is-way-faster-than-offlineimap.html</guid><description>&lt;p&gt;If you&amp;rsquo;re in the market for a tool that syncs your email over IMAP, I recommend

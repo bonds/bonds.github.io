@@ -1,5 +1,5 @@
 baseURL = 'https://ggr.com/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'game, game. repeat.'
 theme = "lowtech"
 uglyurls = true

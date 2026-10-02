@@ -1,5 +1,5 @@
 ---
-title: "Grok Bot 2026-10-02 Review"
+title: "Grok Bot Review"
 date: 2026-10-02T13:30:00-07:00
 tags: misc
 draft: false

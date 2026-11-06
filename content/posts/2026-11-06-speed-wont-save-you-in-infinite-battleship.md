@@ -1,5 +1,5 @@
 ---
-title: speed won't save you (in infinite battleship)
+title: Speed Won't Save you (In Infinite Battleship)
 date: 2026-11-06T13:41:00-08:00
 tags: leadership
 draft: false

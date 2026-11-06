@@ -19,4 +19,4 @@ I don't think we're on the (finite) board from Battleship. Instead we're on an i
 
 Going faster in the wrong direction won't help. Speed won't save you.
 
-More (AI powered) speed is like a startup raising too much capital. It hurts more than it helps. It's easy to stay busy trying to spend the money/time/tokens instead of solving problems that customers will pay for.
+More (AI powered) speed is like a startup raising too much capital. It hurts more than it helps. It's easy to stay busy trying to spend the deluge of money/time/tokens instead of solving problems that customers will pay for.

@@ -2,7 +2,7 @@
 title: speed won't save you (in infinite battleship)
 date: 2026-11-06T13:41:00-08:00
 tags: leadership
-draft: true
+draft: false
 ---
 
 I've been telling my team (engineering, product, and design) that we're playing a game of Battleship (TM).

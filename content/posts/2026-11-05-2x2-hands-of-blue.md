@@ -2,7 +2,7 @@
 title: 2x2 hands of blue
 date: 2026-11-05T15:35:00-08:00
 tags: leadership
-draft: true
+draft: false
 ---
 
 2 weeks ago my teams switched from 6-8 people following Scrum to pods of 2 people cowboy coding circles around the old teams. Used to be the hard part was figuring out how to prioritize and build the software we wanted, now the hard part is figuring out what is worth summoning from our Star Trek replicator...and what to do with it once we have it.

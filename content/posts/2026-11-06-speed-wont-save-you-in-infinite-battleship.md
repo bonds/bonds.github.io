@@ -5,7 +5,7 @@ tags: leadership
 draft: false
 ---
 
-I've been telling my team (engineering, product, and design) that we're playing a game of Battleship{{< trademark >}}.
+I've been telling my team (engineering, product, and design) that we're playing a game of Battleship{{< trademark >}}
 
 We can be strategic and take smart shots. Lean, well researched bets. Fail fast but learn a lot from each attempt.
 
